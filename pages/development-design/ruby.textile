@@ -40,6 +40,7 @@ h3(#webframework). Web Framework
 * "Sinatra":http://www.sinatrarb.com/
 ** "Padrino":http://www.padrinorb.com/
 * "Ramaze":http://ramaze.net/
+* "Presto":http://prestorb.github.com/
 
 h3(#gems). Gems
 * slim: "Official Website":http://slim-lang.com/ / "Github":https://github.com/stonean/slim - a template language

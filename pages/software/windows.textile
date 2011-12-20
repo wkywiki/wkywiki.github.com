@@ -60,11 +60,14 @@ h3(#design). 设计
 * "Pencil":http://pencil.evolus.vn/ - 跨平台产品原型图设计软件
 * "Balsamiq":http://www.balsamiq.com/ - 同上
 * "FreeMind":http://freemind.sourceforge.net - 免费的思维导图软件
-* "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
-* "SuperGIF":http://www.boxtopsoft.com/supergif.html - gif优化工具
 * "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 * "AndreaMosaic":http://www.andreaplanet.com/andreamosaic/ - 蒙太奇马赛克拼图制作软件
 * "GraphicsGale":http://www.humanbalance.net/gale/us/ - 强大的像素图制作软件
+
+h3(#image). 图片处理
+* "Converseen":http://converseen.sourceforge.net/ - 跨平台图片处理工具
+* "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
+* "SuperGIF":http://www.boxtopsoft.com/supergif.html - gif优化工具
 
 h3(#media). 音视频处理
 * "Audition":http://www.adobe.com/products/audition.html - Adobe公司的音频处理软件，前身是CoolEdit

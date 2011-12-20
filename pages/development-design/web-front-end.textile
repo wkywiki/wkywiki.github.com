@@ -41,6 +41,11 @@ h3. Javascript
 ** "Topup":http://gettopup.com - 图片显示插件
 ** "UItoTop":http://lab.mattvarone.com/projects/jquery/totop/ - 回到页面顶部插件
 ** "Tokeninput":http://loopj.com/jquery-tokeninput/ - 文本框即时搜索列表
+** "Accordion":http://bassistance.de/jquery-plugins/jquery-plugin-accordion/ - 折叠菜单插件
+** "Treeview":http://bassistance.de/jquery-plugins/jquery-plugin-treeview/ - 树形列表插件
+** "Validation":http://bassistance.de/jquery-plugins/jquery-plugin-validation/ - 表单验证插件
+** "Lightbox":http://leandrovieira.com/projects/jquery/lightbox/
+** "Highlight":http://johannburkard.de/blog/programming/javascript/highlight-javascript-text-higlighting-jquery-plugin.html - 高亮显示插件
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/
