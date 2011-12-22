@@ -102,6 +102,7 @@ h3(#references). References
 ** "Rails 101 - 火速學會 Ruby on Rails":http://rails-101.logdown.com/
 ** "Rails Best Practices":http://rails-bestpractices.com/
 ** "RailsCasts":http://railscasts.com - Rails视频教程站
+** "Teach Me To Code Screencasts":http://teachmetocode.com/screencasts/
 ** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
 ** "ruby-china wiki":http://ruby-china.org/wiki
 * *(#references_sinatra)Sinatra*
