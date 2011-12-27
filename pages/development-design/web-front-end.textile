@@ -46,6 +46,13 @@ h3. Javascript
 ** "Validation":http://bassistance.de/jquery-plugins/jquery-plugin-validation/ - 表单验证插件
 ** "Lightbox":http://leandrovieira.com/projects/jquery/lightbox/
 ** "Highlight":http://johannburkard.de/blog/programming/javascript/highlight-javascript-text-higlighting-jquery-plugin.html - 高亮显示插件
+** "PikaChoose":http://www.pikachoose.com/ - 轮播式图片展示
+** "artDialog":http://www.planeart.cn/demo/artDialog/ - 对话框插件
+** "Raty":http://www.wbotelhos.com/raty/ - 评分插件
+** "idTabs":http://www.sunsean.com/idTabs/ - Tab插件
+** "jPaginate":http://tympanus.net/jPaginate/ - 分页插件
+** "tooltip":http://tutorialzine.com/2010/07/colortips-jquery-tooltip-plugin/ - tooltip插件
+** "jBreadcrumb":http://comparenetworks.com/developers/jqueryplugins/jbreadcrumb.html - 面包屑插件
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/

@@ -32,11 +32,13 @@ h3. CMS
 h3. Forum System
 * "Discuz":http://www.discuz.net/
 * "phpbb":http://www.phpbb.com/
+* "Fluxbb":http://fluxbb.org/
 * "Simple Machines":http://www.simplemachines.org/
 * "bbPress":http://bbpress.org/
 * "PHPwind":http://www.phpwind.net
 * "IP.Board":http://www.invisionpower.com/products/board/
 * "Vanilla":http://vanillaforums.org/
+
 
 h3. Other
 * "Phalanger":http://www.php-compiler.net - 用PHP语言写.net web程序

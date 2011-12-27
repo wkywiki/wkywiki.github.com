@@ -46,6 +46,7 @@ h3. Packages & Utility Class
 * *Network*
 ** "lxml":http://lxml.de/ - 一款高性能Python XML库，支持XPath、XSLT，可对XML和HTML执行解析、序列化和转换等
 ** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.
+** "Logmon":https://github.com/maxcountryman/logmon - Logmon is a realtime log reader written with Flask and Juggernaut.
 
 * *Templating Engine*
 ** "Jinja2":http://www.pocoo.org/projects/jinja2/ - Jinja2 is a popular text templating engine for Python

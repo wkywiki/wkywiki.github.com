@@ -35,6 +35,7 @@ h3(#commonly-used). 常用
 * "MenuMeters":http://www.ragingmenace.com/software/menumeters - 在托盘栏显示系统硬件信息的工具
 * "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
+* "Name Changer":http://www.mrrsoftware.com/MRRSoftware/NameChanger.html - 批量命名利器
 
 h3(#entertainment). 媒体
 * "Enqueue":http://www.enqueueapp.com/
@@ -100,6 +101,7 @@ h3(#development). 开发
 * *(#useful)实用工具*
 ** "Codebox":http://www.codeboxapp.com/ - 代码管理工具，可以高亮显示，按语言分类
 ** "Dash":http://kapeli.com/dash/ - 代码管理工具
+** "JSTalk Editor":http://jstalk.org/ - 基于JS脚本的系统自动化工具
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
