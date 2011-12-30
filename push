@@ -1,0 +1,3 @@
+proxychains git add .
+proxychains git commit -m 'update'
+proxychains git push
