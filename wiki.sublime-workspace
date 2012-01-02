@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for: for in"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"if",
+				"Snippet: if … end"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"global",
+				"Preferences: User Global Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//192.168.1.6/workspace/jonaslam.github.com/push.sh",
+		"//192.168.1.6/workspace/jonaslam.github.com/.gitignore",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-notes.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/17/the-ruby-programming-language-reading-notes.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/28/ruby-on-rails-notes.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/python.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/database.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/sublime-text.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/macos.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/linux.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/references.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
+		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/ruby.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/actionscript.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/open_source_projects.textile",
+		"//192.168.1.6/workspace/yinse/app/views/admin/brands/index.html.erb",
+		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Global.sublime-settings",
+		"//192.168.1.6/workspace/yinse/app/controllers/admin/application_controller.rb",
+		"//192.168.1.6/workspace/yinse/app/controllers/admin/brands_controller.rb",
+		"//192.168.1.6/workspace/yinse/app/controllers/admin/devices_controller.rb",
+		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Base File.sublime-settings",
+		"//192.168.1.6/workspace/yinse/app/views/admin/devices/_form.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/admin/brands/_aside.html.erb",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/admin.scss",
+		"//192.168.1.6/workspace/yinse/app/views/layouts/admin.html.erb",
+		"//192.168.1.6/workspace/yinse/app/assets/javascripts/admin.js",
+		"//192.168.1.6/workspace/yinse/app/models/brand.rb",
+		"//192.168.1.6/workspace/yinse/app/models/device.rb",
+		"//192.168.1.6/workspace/yinse/tmp/cache/sass/49167ad68b07e42f89caecbe4d746b7cfb405ff2/admin.css.scssc",
+		"//192.168.1.6/workspace/yinse/app/views/admin/brands/new.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/admin/brands/edit.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/admin/devices/edit.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/admin/devices/new.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/layouts/application.html.erb",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/admin.css",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
+		"//192.168.1.6/workspace/yinse/config/routes.rb",
+		"//192.168.1.6/workspace/yinse/public/index.html",
+		"//192.168.1.6/workspace/yinse/app/controllers/application_controller.rb",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/application.css",
+		"//192.168.1.6/workspace/yinse/app/assets/javascripts/application.js",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/admin/common.scss",
+		"//192.168.1.6/workspace/yinse/app/helpers/application_helper.rb",
+		"//192.168.1.6/workspace/yinse/app/views/admin/index.html.erb",
+		"//192.168.1.6/workspace/yinse/app/controllers/admin_controller.rb",
+		"//192.168.1.6/workspace/yinse/Rakefile",
+		"//192.168.1.6/workspace/yinse/app/models/user.rb",
+		"//192.168.1.6/workspace/yinse/config/environments/development.rb",
+		"//192.168.1.6/workspace/yinse/config/mongoid.yml",
+		"//192.168.1.6/workspace/yinse/config/environment.rb",
+		"//192.168.1.6/workspace/yinse/config/application.rb",
+		"//192.168.1.6/workspace/yinse/Gemfile",
+		"//192.168.1.6/workspace/yinse/app/models/patch.rb",
+		"//192.168.1.6/workspace/yinse/config/initializers/wrap_parameters.rb",
+		"//192.168.1.6/workspace/yinse/config/initializers/session_store.rb",
+		"//192.168.1.6/workspace/yinse/config/initializers/inflections.rb",
+		"//192.168.1.6/workspace/yinse/config/initializers/devise.rb",
+		"//192.168.1.6/workspace/yinse/config/initializers/backtrace_silencers.rb",
+		"//192.168.1.6/workspace/yinse/config/environments/production.rb",
+		"//192.168.1.6/workspace/yinse/config/initializers/secret_token.rb",
+		"//192.168.1.6/workspace/yinse/config/boot.rb",
+		"//192.168.1.6/workspace/yinse/app/models/blog.rb",
+		"//192.168.1.6/workspace/yinse/config/database.yml",
+		"//192.168.1.6/workspace/yinse/Gemfile.lock",
+		"//192.168.1.6/workspace/yinse/db/migrate/20111202144901_create_brand.rb",
+		"//192.168.1.6/workspace/yinse/config.ru",
+		"//192.168.1.6/workspace/yinse/app/views/shared/_navigation.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/home/index.html.erb",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/users.css.scss",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/brands.css.scss",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/home.css.scss",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
+		"//192.168.1.6/workspace/yinse/app/helpers/users_helper.rb",
+		"//192.168.1.6/workspace/yinse/app/models/.gitkeep",
+		"//192.168.1.6/workspace/yinse/db/seeds.rb",
+		"//192.168.1.6/workspace/yinse/config/locales/en.yml",
+		"//192.168.1.6/workspace/yinse/app/controllers/home_controller.rb",
+		"//192.168.1.6/workspace/yinse/public/robots.txt",
+		"//192.168.1.6/workspace/yinse/config/initializers/mongo.rb",
+		"//192.168.1.6/workspace/wiki.junnan.org/_layouts/default.html",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/javascript.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/css.textile",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/front-end.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-11-ruby-on-rails-mongodb-redis-on-ubuntu-server.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/references.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/web_site.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/python.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/ruby.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/csharp.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/actionscript.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/android.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/php.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/objectivec.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/database.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ubuntu.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/assets/style.css",
+		"//192.168.1.6/workspace/wiki.junnan.org/index.html",
+		"//192.168.1.6/workspace/wiki.junnan.org/.gitignore",
+		"//192.168.1.6/workspace/wiki.junnan.org/assets/common.js",
+		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/css/style.css",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/macos.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/articles.html",
+		"//192.168.1.6/workspace/wiki.junnan.org/index.markdown",
+		"//192.168.1.6/workspace/wiki.junnan.org/index.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/windows.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ios.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/open_source_projects.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/wiki.sublime-workspace",
+		"/D/Program Files/Sublime Text 2/Data/Packages/Textile/Textile.tmLanguage",
+		"//192.168.1.6/workspace/wiki.junnan.org/README.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/actionscript.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-12-virtualbox-ubuntu-development-windows.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/ruby.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/web_site.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/windows.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/ubuntu.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/front-end.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/python.textile",
+		"/D/workspaces/_actionscript/games/RotateRoll2/src/scenes/MainScene.as",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/php.textile",
+		"/D/workspaces/_webs/junnan.org/www/bindiry/_layouts/default.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rvm",
+			"arel",
+			"\\(\\d{3}\\, ",
+			"\\(\\d{3}\\,",
+			"brands_path",
+			"database",
+			"field",
+			"rating",
+			"**",
+			"h3. (.+)",
+			"h3.(.+)",
+			"	});",
+			"});",
+			"\n",
+			"h2.",
+			"h2(",
+			"#{",
+			"as3isolib",
+			"programming-development",
+			"测试一下",
+			"disqus_url",
+			"disqus_url ",
+			"sudo ",
+			")",
+			"[",
+			"](",
+			"**",
+			"***",
+			"* *(.+)*",
+			"\"(.+)\":(.+)",
+			"\"(.+)\":(.+) - ",
+			"\"(.+)\":(.+)",
+			"\"(.+)\":(.+) - ",
+			"**",
+			"\"(.+)\":(.+)",
+			"\"(.+)\":(.+) - ",
+			"\"(.+)\":(.+)",
+			"\"(.+)\":(.+) - ",
+			"\"(.+)\":(.+)",
+			"\"(.+)\":(.+) - ",
+			"\"(.+)\":(http://.+) - ",
+			"\"(.+)\":(http://.+)",
+			"\"(.+)\":(http://.+) - ",
+			"\"(.+)\":(http://.+)",
+			"\"(.+)\":(http://.+) - ",
+			"h3. (.+)",
+			"\"(.+)\":(http://.+)",
+			"\"(.+)\":(http://.+) - ",
+			"\"",
+			"\":",
+			"							"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"(",
+			"***",
+			"* *$1*",
+			"h3.",
+			"h3(",
+			"development-design",
+			"test a little",
+			"",
+			"\"",
+			"\":",
+			"    *",
+			"        *",
+			"* **(.+)**",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"    *",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"$1\\n\n$1\\n\n$1\\n\n$1 \\n ---------------------",
+			"$1\\n\n$1\\n\n$1\\n\n$1\\n---------------------",
+			"[$1]($2)",
+			"[$1]($2) - ",
+			"[",
+			"]("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"end",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"rubyprogra",
+				"_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile"
+			],
+			[
+				"rubynotes",
+				"_site/2011/11/17/the-ruby-programming-language-reading-notes.html"
+			],
+			[
+				"rubyrails",
+				"_posts/2011-11-28-ruby-on-rails-notes.textile"
+			],
+			[
+				"rails",
+				"_site/2011/11/28/ruby-on-rails-notes.html"
+			],
+			[
+				"pytho",
+				"pages/development-design/python.textile"
+			],
+			[
+				"ref",
+				"pages/other/references.textile"
+			],
+			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"mac",
+				"pages/software/macos.textile"
+			],
+			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"ios",
+				"pages/software/ios.textile"
+			],
+			[
+				"linux",
+				"pages/software/linux.textile"
+			],
+			[
+				"style",
+				"assets/style.css"
+			],
+			[
+				"defau",
+				"_layouts/default.html"
+			],
+			[
+				"win",
+				"pages/software/windows.textile"
+			],
+			[
+				"rubyonrails",
+				"_posts/2011-11-28-ruby-on-rails-notes.textile"
+			],
+			[
+				"rubyonrail",
+				"_site/2011/11/28/ruby-on-rails-notes.html"
+			],
+			[
+				"sublie",
+				"pages/software/sublime-text.textile"
+			],
+			[
+				"datab",
+				"pages/development-design/database.textile"
+			],
+			[
+				"webfron",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"python",
+				"pages/development-design/python.textile"
+			],
+			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"web",
+				"pages/other/web_site.textile"
+			],
+			[
+				"linu",
+				"pages/software/linux.textile"
+			],
+			[
+				"data",
+				"pages/development-design/database.textile"
+			],
+			[
+				"open",
+				"pages/other/open_source_projects.textile"
+			],
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"edit",
+				"app/views/admin/brands/edit.html.erb"
+			],
+			[
+				"list",
+				"app/views/admin/brands/list.html.erb"
+			],
+			[
+				"_form",
+				"app/views/admin/brands/_form.html.erb"
+			],
+			[
+				"aside",
+				"app/views/admin/brands/_aside.html.erb"
+			],
+			[
+				"brands",
+				"app/controllers/admin/brands_controller.rb"
+			],
+			[
+				"devices",
+				"app/controllers/admin/devices_controller.rb"
+			],
+			[
+				"index.html",
+				"app/views/admin/brands/index.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"index",
+				"app/views/admin/brands/index.html.erb"
+			],
+			[
+				"admin.js",
+				"app/assets/javascripts/admin.js"
+			],
+			[
+				"adminsc",
+				"app/assets/stylesheets/admin.scss"
+			],
+			[
+				"admin.html",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"admin.scss",
+				"app/assets/stylesheets/admin.scss"
+			],
+			[
+				"admin.css",
+				"tmp/cache/sass/49167ad68b07e42f89caecbe4d746b7cfb405ff2/admin.css.scssc"
+			],
+			[
+				"_aside",
+				"app/views/admin/brands/_aside.html.erb"
+			],
+			[
+				"device_form",
+				"app/views/admin/devices/_form.html.erb"
+			],
+			[
+				"admin.",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"admin",
+				"app/assets/stylesheets/admin.css"
+			],
+			[
+				"admin.cs",
+				"app/assets/stylesheets/admin.css"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"admin.htm",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"cook",
+				"config/initializers/secret_token.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"pyhon",
+				"pages/programming-language/python.textile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"//192.168.1.6/workspace/yinse/yinse.sublime-project"
+			],
+			[
+				"w",
+				"//192.168.1.6/workspace/jonaslam.github.com/wiki.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}

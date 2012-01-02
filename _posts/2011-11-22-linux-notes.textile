@@ -41,7 +41,7 @@ bc. $ ps -ef | grep httpd | wc -l
 
 h2. 问题
 
-* 密钥权限问题不能使用
+* 密钥权限问题不能使用(WARNING: UNPROTECTED PRIVATE KEY FILE!)
 
 bc. chmod 755 ~/.ssh/  
 chmod 600 ~/.ssh/id_rsa ~/.ssh/id_rsa.pub   

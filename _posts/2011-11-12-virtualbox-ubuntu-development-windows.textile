@@ -32,27 +32,8 @@ bc. $ sudo passwd root
 $ logout
 # 就可以使用root登录了
 
-h4. 使用163的软件源
-
-bc. # 如果用官方的cn源更新包管理器很慢的话（一般电信是这种情况），可以用如下方法使用163提供的源
-$ cd /etc/apt
-$ cp sources.list sources.list.bak
-$ nano sources.list
-# 清空sources.list，将下面的源地址写入sources.list
-
-bc. deb http://mirrors.163.com/ubuntu/ intrepid main restricted universe multiverse
-deb http://mirrors.163.com/ubuntu/ intrepid-security main restricted universe multiverse
-deb http://mirrors.163.com/ubuntu/ intrepid-updates main restricted universe multiverse
-deb http://mirrors.163.com/ubuntu/ intrepid-proposed main restricted universe multiverse
-deb http://mirrors.163.com/ubuntu/ intrepid-backports main restricted universe multiverse
-deb-src http://mirrors.163.com/ubuntu/ intrepid main restricted universe multiverse
-deb-src http://mirrors.163.com/ubuntu/ intrepid-security main restricted universe multiverse
-deb-src http://mirrors.163.com/ubuntu/ intrepid-updates main restricted universe multiverse
-deb-src http://mirrors.163.com/ubuntu/ intrepid-proposed main restricted universe multiverse
-deb-src http://mirrors.163.com/ubuntu/ intrepid-backports main restricted universe multiverse
-
-bc. # 更新包管理器
-$ apt-get update
+bc. # 更新包管理器及系统
+$ apt-get update && apt-get upgrade
 
 h4. 中文支持
 

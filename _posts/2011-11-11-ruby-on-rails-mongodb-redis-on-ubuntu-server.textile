@@ -44,6 +44,8 @@ bc. $ gem install rubygems-update
 $ update_rubygems
 $ gem -v
 # 1.8.11
+# 加入淘宝的rubygems源
+$ gem source -a http://ruby.taobao.org/
 # 将下面语句写入~/.gemrc 禁止Gem安装本地文档
 # gem: --no-ri --no-rdoc
 
@@ -60,7 +62,7 @@ $ gem install sqlite3-ruby
 
 h3. MongoDB安装
 
-bc.. $ apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
+bc. $ apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
 $ vim /etc/apt/sources.list
 # 添加下面语句到行尾
 # deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen
@@ -68,11 +70,13 @@ $ apt-get update
 $ apt-get install mongodb-10gen
 # create data directory
 $ mkdir -p /data/db
+# 修改配置文件，更改数据库路径
+$ vim /etc/mongodb.conf
 
-# 启动服务，默认服务已启动，如果数据库目录不想建立在/data/db，可以用--dbpath参数指定目录
-$ mongod
+bc. # 重启服务
+$ service mongodb restart
 
-# test
+bc. # 测试
 $ mongo
 > db.foo.save( { a : 1 } )
 > db.foo.find()

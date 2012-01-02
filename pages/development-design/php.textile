@@ -38,6 +38,7 @@ h3. Forum System
 * "PHPwind":http://www.phpwind.net
 * "IP.Board":http://www.invisionpower.com/products/board/
 * "Vanilla":http://vanillaforums.org/
+* "esoTalk":http://esotalk.org/ - perfect balance between simplicity, power, speed, and scalability.
 
 
 h3. Other
