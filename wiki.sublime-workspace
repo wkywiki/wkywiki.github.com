@@ -18,6 +18,22 @@
 				"buffer_size": 3738,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 3477,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/style.css",
+			"settings":
+			{
+				"buffer_size": 3515,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -327,7 +343,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -349,6 +365,60 @@
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 3477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/style.css",
+					"settings":
+					{
+						"buffer_size": 3515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								929,
+								929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 936.0,
@@ -405,6 +475,14 @@
 		"selected_items":
 		[
 			[
+				"style",
+				"assets/style.css"
+			],
+			[
+				"defau",
+				"_layouts/default.html"
+			],
+			[
 				"end",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -455,14 +533,6 @@
 			[
 				"linux",
 				"pages/software/linux.textile"
-			],
-			[
-				"style",
-				"assets/style.css"
-			],
-			[
-				"defau",
-				"_layouts/default.html"
 			],
 			[
 				"win",

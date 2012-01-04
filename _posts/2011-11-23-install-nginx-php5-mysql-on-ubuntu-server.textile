@@ -19,12 +19,20 @@ bc. $ apt-get install unzip nginx mysql-server php5-fpm php5-cli php5-mysql php5
 h3. 配置nginx 
 
 bc. # nginx配置文件路径：/etc/nginx/sites-available/default
+# 修改 server段中的 index ，加入 index.php (注意空格分割)
 # 在 server 段中加入如下代码
 location ~ \.php$ {
   fastcgi_pass 127.0.0.1:9000;
   fastcgi_index index.php;
   include fastcgi_params;
 }
+
+h3. 重启服务
+
+bc. # 重启 php5-fpm
+$ /etc/init.d/php5-fpm restart
+# 重启nginx
+$ service nginx restart
 
 h3. 测试
 
