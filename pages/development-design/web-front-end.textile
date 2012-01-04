@@ -53,6 +53,7 @@ h3. Javascript
 ** "jPaginate":http://tympanus.net/jPaginate/ - 分页插件
 ** "tooltip":http://tutorialzine.com/2010/07/colortips-jquery-tooltip-plugin/ - tooltip插件
 ** "jBreadcrumb":http://comparenetworks.com/developers/jqueryplugins/jbreadcrumb.html - 面包屑插件
+** "UI Bootstrap":http://addyosmani.github.com/jquery-ui-bootstrap/
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/
