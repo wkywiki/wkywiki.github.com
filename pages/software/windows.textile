@@ -32,12 +32,7 @@ h3(#develop). 开发
 ** "Notepad++":http://notepad-plus-plus.org/ - 免费强大的代码编辑工具
 ** "Intype":http://inotai.com/intype/ - Windows下的textmate替代软件
 ** "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
-** "GVim":http://www.vim.org/
-*** 常用的Color Theme: "ps_color":http://vimcolorschemetest.googlecode.com/svn/colors/ps_color.vim / "rootwater":http://vimcolorschemetest.googlecode.com/svn/colors/rootwater.vim / "Solarized":http://ethanschoonover.com/solarized
-*** "Color Theme Test":http://code.google.com/p/vimcolorschemetest/
-*** "闲耘整理的Vim Wiki":http://wiki.hotoo.me/Vim.html
-*** "缩进提示线":http://www.vim.org/scripts/script.php?script_id=3361
-*** "VIM在线视频教程":http://vimcasts.org/
+** "Vim":http://wiki.junnan.org/software/vim.html
 ** "SciTe":http://www.scintilla.org/
 ** "EmEditor":http://www.emeditor.com/
 ** "Notepad2":http://www.flos-freeware.ch/notepad2.html - 简单轻便的最适合替代系统notepad的编辑器

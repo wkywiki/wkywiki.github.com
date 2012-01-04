@@ -1,0 +1,21 @@
+---
+layout: default
+title: Vim - Software
+---
+
+h1. Vim
+
+h3. Plugins
+* "MattchTag":http://www.vim.org/scripts/script.php?script_id=3818 - html标签高量匹配
+* "Indent Guides":http://www.vim.org/scripts/script.php?script_id=3361 - 缩进提示线
+
+h3. Color Theme
+* "Color Theme Test":http://code.google.com/p/vimcolorschemetest/
+* "Solarized":http://ethanschoonover.com/solarized
+* "rootwater":http://vimcolorschemetest.googlecode.com/svn/colors/rootwater.vim
+* "ps_color":http://vimcolorschemetest.googlecode.com/svn/colors/ps_color.vim
+
+h3. Website
+* "Vim官方网站":http://www.vim.org/
+* "VIM在线视频教程":http://vimcasts.org/
+* "闲耘整理的Vim Wiki":http://wiki.hotoo.me/Vim.html
