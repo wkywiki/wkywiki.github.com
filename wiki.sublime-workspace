@@ -12,34 +12,18 @@
 	"buffers":
 	[
 		{
-			"file": "pages/development-design/web-front-end.textile",
+			"file": "pages/software/linux.textile",
 			"settings":
 			{
-				"buffer_size": 3738,
+				"buffer_size": 2084,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_layouts/default.html",
+			"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
 			"settings":
 			{
-				"buffer_size": 3477,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/style.css",
-			"settings":
-			{
-				"buffer_size": 3515,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
-			"settings":
-			{
-				"buffer_size": 889,
+				"buffer_size": 1070,
 				"line_ending": "Unix"
 			}
 		}
@@ -104,6 +88,13 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/windows.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/vim.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
+		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/sublime-text.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/push.sh",
@@ -113,14 +104,10 @@
 		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/17/the-ruby-programming-language-reading-notes.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/28/ruby-on-rails-notes.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/python.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/database.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/sublime-text.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/macos.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/linux.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/references.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
-		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/ruby.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/actionscript.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/open_source_projects.textile",
@@ -228,10 +215,7 @@
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/web_site.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/windows.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/ubuntu.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/front-end.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/python.textile",
-		"/D/workspaces/_actionscript/games/RotateRoll2/src/scenes/MainScene.as",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/php.textile"
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/front-end.textile"
 	],
 	"find":
 	{
@@ -351,55 +335,28 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/development-design/web-front-end.textile",
+					"file": "pages/software/linux.textile",
 					"settings":
 					{
-						"buffer_size": 3738,
+						"buffer_size": 2084,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2647,
-								2647
+								317,
+								317
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 936.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 3477,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Django.tmLanguage",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -408,46 +365,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "assets/style.css",
+					"buffer": 1,
+					"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
 					"settings":
 					{
-						"buffer_size": 3515,
+						"buffer_size": 1070,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								929,
-								929
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 936.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
-					"settings":
-					{
-						"buffer_size": 889,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								684,
-								684
+								1070,
+								1070
 							]
 						],
 						"settings":
@@ -455,7 +385,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 648.0,
+						"translation.y": 792.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

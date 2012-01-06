@@ -12,6 +12,7 @@ h3. 发行版
 * "Fedora":http://fedoraproject.org
 * "Gentoo Linux":http://www.gentoo.org
 * "openSUSE":http://www.opensuse.org
+* "slackware":http://www.slackware.com/
 * "Ubuntu":http://www.ubuntu.com
 
 h3. 桌面环境

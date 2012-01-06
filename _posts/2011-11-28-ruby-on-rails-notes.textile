@@ -52,3 +52,5 @@ p((((. 修改config/application.rb，加入
 bc. config.generators do |g|
   g.orm :active_record
 end
+
+h2. 
