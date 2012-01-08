@@ -32,6 +32,7 @@ h3. Articles
 * "ZenCoding in Sublime Text 2":http://lucifr.com/139231/zencoding-in-sublime-text-2/
 * "Sublime Text 2 实用快捷键[Mac OS X]":http://lucifr.com/139235/sublime-text-2-useful-shortcuts/
 * "Sublime Text 2 使用小记":http://readful.com/post/9774110738/sublime-text-2
+* "Sublime Text 2 快速上手":http://hhuai.github.com/blog/2012/01/08/sublime-text-intro/
 
 h3. Config
 

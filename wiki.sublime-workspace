@@ -12,18 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "pages/software/linux.textile",
+			"file": "pages/software/windows.textile",
 			"settings":
 			{
-				"buffer_size": 2084,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
-			"settings":
-			{
-				"buffer_size": 1070,
+				"buffer_size": 4467,
 				"line_ending": "Unix"
 			}
 		}
@@ -89,6 +81,7 @@
 	"file_history":
 	[
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/windows.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/vim.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
@@ -100,7 +93,6 @@
 		"//192.168.1.6/workspace/jonaslam.github.com/push.sh",
 		"//192.168.1.6/workspace/jonaslam.github.com/.gitignore",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-notes.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/17/the-ruby-programming-language-reading-notes.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/28/ruby-on-rails-notes.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/python.textile",
@@ -335,23 +327,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/software/linux.textile",
+					"file": "pages/software/windows.textile",
 					"settings":
 					{
-						"buffer_size": 2084,
+						"buffer_size": 4467,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								317,
-								317
+								3737,
+								3737
 							]
 						],
 						"settings":
@@ -359,33 +351,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
-					"settings":
-					{
-						"buffer_size": 1070,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1070,
-								1070
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 792.0,
+						"translation.y": 1591.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

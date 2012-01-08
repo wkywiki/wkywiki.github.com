@@ -79,6 +79,8 @@ h3(#productivity). 效率
 
 h3(#entertainment). 娱乐
 * "Foobar2000":http://www.foobar2000.org - 免费简洁实用的音乐播放软件
+** "Columns UI":http://www.foobar2000.org/components/view/foo_ui_columns - 界面布局定制组件
+** "Monkey's Audio Decoder":http://www.foobar2000.org/components/view/foo_input_monkey - APE无损格式解码组件
 * "射手影音(SPlayer)":http://www.splayer.org/ - 支持大部分视频格式的播放器
 
 h3(#system). 系统
