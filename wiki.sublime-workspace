@@ -12,10 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "pages/software/windows.textile",
+			"file": "pages/development-design/ruby.textile",
 			"settings":
 			{
-				"buffer_size": 4467,
+				"buffer_size": 7511,
 				"line_ending": "Unix"
 			}
 		}
@@ -332,18 +332,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "pages/software/windows.textile",
+					"file": "pages/development-design/ruby.textile",
 					"settings":
 					{
-						"buffer_size": 4467,
+						"buffer_size": 7511,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3737,
-								3737
+								1467,
+								1467
 							]
 						],
 						"settings":
@@ -351,7 +351,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1591.0,
+						"translation.y": 1630.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -405,6 +405,10 @@
 		"selected_items":
 		[
 			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
 				"style",
 				"assets/style.css"
 			],
@@ -447,10 +451,6 @@
 			[
 				"mac",
 				"pages/software/macos.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
 			],
 			[
 				"php",

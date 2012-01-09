@@ -83,6 +83,8 @@ h3(#gems). Gems
 * hirb: "Official Website":http://tagaholic.me/hirb/ / "Github":https://github.com/cldwalker/hirb - 格式化数据
 * richrc: "Github":https://github.com/miaout17/richrc / "Article":http://blog.miaout17.net/2011/02/13/richrc-rails3-customization-hirb-wirble/ - 在rails3中不用修改Gamfile，实现irb格式化和高亮语法
 * rake_ui: "Github":https://github.com/rbrant/rake_ui - 图形化Rake任务
+* Server
+** puma: "Github":https://github.com/evanphx/puma -  a simple, fast, and highly concurrent HTTP 1.1 server for Ruby web applications.
 
 h3(#references). References
 * *(#references_ruby)Ruby*
