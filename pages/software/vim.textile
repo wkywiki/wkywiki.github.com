@@ -15,7 +15,8 @@ h3. Color Theme
 * "rootwater":http://vimcolorschemetest.googlecode.com/svn/colors/rootwater.vim
 * "ps_color":http://vimcolorschemetest.googlecode.com/svn/colors/ps_color.vim
 
-h3. Website
+h3. Other
 * "Vim官方网站":http://www.vim.org/
-* "VIM在线视频教程":http://vimcasts.org/
+* "Vim在线视频教程":http://vimcasts.org/
 * "闲耘整理的Vim Wiki":http://wiki.hotoo.me/Vim.html
+* "Vim图表":http://michael.peopleofhonoronly.com/vim/
