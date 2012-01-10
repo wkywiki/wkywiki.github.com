@@ -10,7 +10,7 @@ h3. IDE & Editor
 * "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
 * "Aptana":http://aptana.com
 * "NetBeans":http://netbeans.org/
-* "VIM":http://www.vim.org/
+* "VIM":/pages/software/vim.html
 * "Emacs":http://www.gnu.org/software/emacs/
 * "Sublime Text 2":/pages/software/sublime-text.html - 强大的代码编辑器，堪比MacOS下的textmate
 
@@ -63,6 +63,9 @@ h3. Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
 * "APNS Python Wrapper":http://code.google.com/p/apns-python-wrapper/ - Python wrapper for Apple Push Notification Service. 
 * "Pocoo":http://www.pocoo.org - The Pocoo Team consists of people from the Python community that are working under one umbrella on various Python libraries and applications.
+
+h3. Open Souces Web Apps
+* "Tornado Gists":https://github.com/peterbe/tornado_gists
 
 h3. Ebooks
 * *Python*

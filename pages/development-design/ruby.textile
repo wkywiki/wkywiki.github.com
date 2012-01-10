@@ -116,6 +116,9 @@ h3(#references). References
 h3(#webapps). Web Apps
 * "OctoPress":http://octopress.org/ - A blogging framework for hackers.
 * "Gollum":https://github.com/github/gollum - a simple wiki system built on top of Git that powers GitHub Wikis.
+* "Ruby-China":https://github.com/huacnlee/ruby-china - Ruby China Group
+* "Rails-Bestpractices":https://github.com/railsbp/rails-bestpractices.com
+* "Rubyist":https://github.com/hooopo/rubyist/ - Rubyist是一个多人协作的群体Blog
 
 h3(#articles). Articles
 * "如何在Mac下快速部署 Nginx + Passenger + Rails":http://lvguoning.com/blog/2011/11/27/mac-nginx-passenger-rails/
