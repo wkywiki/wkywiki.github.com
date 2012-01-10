@@ -17,6 +17,7 @@ h3. Color Theme
 
 h3. Other
 * "Vim官方网站":http://www.vim.org/
+* "MacVim":https://github.com/b4winckler/macvim/downloads
 * "Vim在线视频教程":http://vimcasts.org/
 * "闲耘整理的Vim Wiki":http://wiki.hotoo.me/Vim.html
 * "Vim图表":http://michael.peopleofhonoronly.com/vim/
