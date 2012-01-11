@@ -19,7 +19,15 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 6962,
+				"buffer_size": 6999,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/style.css",
+			"settings":
+			{
+				"buffer_size": 3474,
 				"line_ending": "Unix"
 			}
 		}
@@ -108,15 +116,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 6962,
+						"buffer_size": 6999,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5090,
-								5090
+								452,
+								452
 							]
 						],
 						"settings":
@@ -124,7 +132,34 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2805.0,
+						"translation.y": 530.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/style.css",
+					"settings":
+					{
+						"buffer_size": 3474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -227,7 +262,7 @@
 		[
 			[
 				"",
-				"/Users/bindiry/workspaces/wiki/wiki.sublime-project"
+				"/Users/bindiry/workspaces/gtpatches/templates/gtpatches.sublime-project"
 			]
 		],
 		"width": 380.0

@@ -62,6 +62,7 @@ h3(#design). 设计
 * "GraphicsGale":http://www.humanbalance.net/gale/us/ - 强大的像素图制作软件
 
 h3(#image). 图片处理
+* "FastStone Photo Resizer":http://www.faststone.org/FSResizerDetail.htm - 图片批量缩放、加水印、重命名一应俱全
 * "Converseen":http://converseen.sourceforge.net/ - 跨平台图片处理工具
 * "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
 * "SuperGIF":http://www.boxtopsoft.com/supergif.html - gif优化工具
