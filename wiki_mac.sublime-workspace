@@ -30,6 +30,14 @@
 				"buffer_size": 3474,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "pages/software/windows.textile",
+			"settings":
+			{
+				"buffer_size": 4561,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -123,8 +131,8 @@
 						"selection":
 						[
 							[
-								452,
-								452
+								2764,
+								2787
 							]
 						],
 						"settings":
@@ -132,7 +140,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 530.0,
+						"translation.y": 1641.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -160,6 +168,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/software/windows.textile",
+					"settings":
+					{
+						"buffer_size": 4561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2867,
+								2867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1280.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

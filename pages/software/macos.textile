@@ -122,6 +122,7 @@ h3(#design). 设计
 * "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 * "Layers":http://layersapp.com/index.html - 截图工具，支持将截取的图片分层保存
 * "XScope":http://iconfactory.com/software/xscope - 测量、排版工具
+* "PDFpenPro":http://smilesoftware.com/PDFpenPro/ - PDF编辑软件
 
 h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
