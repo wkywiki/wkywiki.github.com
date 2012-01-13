@@ -66,6 +66,7 @@ h3(#network). 网络
 * "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
 * "TeamViewer":http://www.teamviewer.com - 远程控制工具
 * "Reeder":http://reederapp.com/ - RSS阅读器
+* "breakwall":http://code.google.com/p/breakwall/
 
 h3(#development). 开发
 
@@ -122,6 +123,7 @@ h3(#design). 设计
 * "OmniGraffle":http://www.omnigroup.com/products/omnigraffle/ - 经典的思维导图制作软件
 * "Skitch":http://skitch.com/ - 实用免费的图片编辑器
 * "ImageBot":http://ftnew.com/ - 批量图片处理工具
+* "EasyBatchPhoto":http://yellowmug.com/easybatchphoto/ - 更简洁实用的批量图片处理
 * "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 * "Layers":http://layersapp.com/index.html - 截图工具，支持将截取的图片分层保存
 * "XScope":http://iconfactory.com/software/xscope - 测量、排版工具
@@ -147,6 +149,7 @@ h3(#system). 系统工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
 * "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具
+* "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 功能同上，收费软件
 * "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
 * "AppCleaner":http://www.freemacsoft.net/AppCleaner/ - 应用卸载清理工具
 * "Shiftit":http://code.google.com/p/shiftit/ - 通过快捷键管理窗口布局的小工具
