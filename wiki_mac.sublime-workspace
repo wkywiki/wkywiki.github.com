@@ -19,7 +19,7 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 6999,
+				"buffer_size": 7059,
 				"line_ending": "Unix"
 			}
 		},
@@ -36,6 +36,14 @@
 			"settings":
 			{
 				"buffer_size": 4561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/actionscript.textile",
+			"settings":
+			{
+				"buffer_size": 4637,
 				"line_ending": "Unix"
 			}
 		}
@@ -116,7 +124,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -124,15 +132,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 6999,
+						"buffer_size": 7059,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2764,
-								2787
+								4677,
+								4677
 							]
 						],
 						"settings":
@@ -140,7 +148,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1641.0,
+						"translation.y": 2665.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -197,6 +205,32 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/development-design/actionscript.textile",
+					"settings":
+					{
+						"buffer_size": 4637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1451,
+								1451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1993.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -242,6 +276,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
 			[
 				"mac",
 				"pages/software/macos.textile"
