@@ -25,6 +25,7 @@ h3. Contents
 h1. Mac OS X
 
 h3(#commonly-used). 常用
+* "QQ输入法":http://shurufa.qq.com/mac/
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 * "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
@@ -119,9 +120,9 @@ h3(#design). 设计
 * "OmniGraffle":http://www.omnigroup.com/products/omnigraffle/ - 经典的思维导图制作软件
 * "Skitch":http://skitch.com/ - 实用免费的图片编辑器
 * "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
-* "Pochade":http://fuelcollective.com/pochade - 拾色器
 * "Layers":http://layersapp.com/index.html - 截图工具，支持将截取的图片分层保存
 * "XScope":http://iconfactory.com/software/xscope - 测量、排版工具
+* "PDFpenPro":http://smilesoftware.com/PDFpenPro/ - PDF编辑软件
 
 h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大

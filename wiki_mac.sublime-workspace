@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ht",
+				"html"
+			],
+			[
+				"body",
+				"body"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/software/macos.textile",
+			"settings":
+			{
+				"buffer_size": 6999,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/style.css",
+			"settings":
+			{
+				"buffer_size": 3474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/software/windows.textile",
+			"settings":
+			{
+				"buffer_size": 4561,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bindiry/workspaces/yinse/app/assets/stylesheets/front.scss",
+		"/Users/bindiry/workspaces/yinse/app/views/layouts/admin.html.erb",
+		"/Volumes/programs/workspace/_python/gtpatches/templates/base.html",
+		"/Users/bindiry/workspaces/wiki/pages/software/linux.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
+		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-notes.textile",
+		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
+		"/Users/bindiry/workspaces/wiki/.gitignore",
+		"/Users/bindiry/workspaces/ruby/yinse/.gitignore",
+		"/Users/bindiry/Desktop/aaa.html",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"+l",
+			"l",
+			"ctrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"command"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/software/macos.textile",
+					"settings":
+					{
+						"buffer_size": 6999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2764,
+								2787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1641.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/style.css",
+					"settings":
+					{
+						"buffer_size": 3474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/software/windows.textile",
+					"settings":
+					{
+						"buffer_size": 4561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2867,
+								2867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1280.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mac",
+				"pages/software/macos.textile"
+			],
+			[
+				"fron",
+				"app/assets/stylesheets/front.scss"
+			],
+			[
+				"front.scss",
+				"app/assets/stylesheets/front.scss"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"admin",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"admin.htl",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"linu",
+				"pages/software/linux.textile"
+			],
+			[
+				"ruby",
+				"_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile"
+			],
+			[
+				"ruby-",
+				"_posts/2011-11-28-ruby-on-rails-notes.textile"
+			],
+			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
+				"maco",
+				"pages/software/macos.textile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/bindiry/workspaces/gtpatches/templates/gtpatches.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
