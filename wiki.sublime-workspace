@@ -11,14 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 7730,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -327,35 +319,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 7730,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7437,
-								7437
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2376.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -404,6 +369,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"subli",
+				"pages/software/sublime-text.textile"
+			],
 			[
 				"ruby",
 				"pages/development-design/ruby.textile"
@@ -639,6 +608,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 445.0,
+	"side_bar_width": 226.0,
 	"status_bar_visible": true
 }

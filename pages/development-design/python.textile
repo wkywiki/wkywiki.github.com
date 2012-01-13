@@ -74,6 +74,7 @@ h3. Ebooks
 ** "《深入python3 - dive into python3》":http://woodpecker.org.cn/diveintopython3/table-of-contents.html
 ** "《The Python Tutorial》":http://docs.python.org/tutorial/index.html
 ** "《Learn Python The Hard Way - 笨办法学Python》中文版":http://readthedocs.org/docs/learn-python-the-hard-way-zh_cn-translation/en/latest/index.html
+** "用Python做科学计算":http://hyry.dip.jp/pydoc/index.html
 * *Django*
 ** "《The Django Book》":http://djangobook.py3k.cn/2.0/
 ** "Django 1.3 Docs":http://junnan.org/ebooks/django_docs_1.3/
