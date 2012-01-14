@@ -45,6 +45,7 @@ h3(#webframework). Web Framework
 
 h3(#gems). Gems
 * "Rubygems淘宝镜像":http://ruby.taobao.org/
+* "Rubygems gzruby.org镜像":http://gems.gzruby.org/
 * slim: "Official Website":http://slim-lang.com/ / "Github":https://github.com/stonean/slim - a template language
 * haml: "official Website":http://haml-lang.com / "Github":http://github.com/nex3/haml - 同上
 * mongoid: "Official Website":http://mongoid.org / "Github":https://github.com/mongoid/mongoid - MongoDB的Object-Document-Mapper (ODM)工具

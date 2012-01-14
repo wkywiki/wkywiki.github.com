@@ -56,6 +56,9 @@ h3(#network). 网络
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
 * "Proxychains Formula":https://github.com/lxneng/homebrew/commit/25da1bef5a9631315e078a5124c91ec785ff5efe - 可以使终端命令用上代理，可以用Homebrew安装(brew install proxychains)，感谢 "lxneng":http://lxneng.com 
 * "SSH Tunnel Manager":http://itunes.apple.com/us/app/ssh-tunnel-manager/id424470626?l=fr&mt=12 - Shimo无法创建SSH连接时要先安装这个
+* "iSSH":http://macserve.org.uk/projects/issh/ - 将ssh转换为sock使用
+* "iSSH-improved":http://code.google.com/p/issh-improved/ - iSSH的第三方发进版本
+* "Secret Socks":http://nihilex.com/secret-socks - 功能和iSSH类似
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 * "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
 * "Cyberduck":http://lightcss.com/mac-software-collect/ - 免费的FTP客户端软件

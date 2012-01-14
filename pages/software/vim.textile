@@ -8,6 +8,7 @@ h1. Vim
 h3. Plugins
 * "MattchTag":http://www.vim.org/scripts/script.php?script_id=3818 - html标签高量匹配
 * "Indent Guides":http://www.vim.org/scripts/script.php?script_id=3361 - 缩进提示线
+* "Powerline":https://github.com/Lokaltog/vim-powerline - 强大实用美观的状态条
 
 h3. Color Theme
 * "Color Theme Test":http://code.google.com/p/vimcolorschemetest/

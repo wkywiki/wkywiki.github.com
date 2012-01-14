@@ -23,6 +23,7 @@ h3. CSS
 ** "CSS Lint":http://csslint.net/ - 检测与评估CSS代码
 ** "CSS Compressor":http://www.cssdrive.com/index.php/main/csscompressor/ - 压缩CSS代码
 ** "ProCSSor":http://procssor.com/ - 优化CSS代码，使其轻量且易读
+** "SpriterMapper":http://yostudios.github.com/Spritemapper/ - 基于python的一款多图片合并切片生成css工具
 
 
 h3. Javascript
