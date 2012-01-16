@@ -19,31 +19,39 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 7059,
+				"buffer_size": 7600,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/style.css",
+			"file": "pages/other/kindle.textile",
 			"settings":
 			{
-				"buffer_size": 3474,
+				"buffer_size": 657,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pages/software/windows.textile",
+			"file": "pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 4561,
+				"buffer_size": 3827,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pages/development-design/actionscript.textile",
+			"file": "pages/development-design/ruby.textile",
 			"settings":
 			{
-				"buffer_size": 4637,
+				"buffer_size": 7780,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/software/vim.textile",
+			"settings":
+			{
+				"buffer_size": 823,
 				"line_ending": "Unix"
 			}
 		}
@@ -72,18 +80,20 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bindiry/workspaces/wiki/assets/style.css",
+		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
 		"/Users/bindiry/workspaces/yinse/app/assets/stylesheets/front.scss",
 		"/Users/bindiry/workspaces/yinse/app/views/layouts/admin.html.erb",
 		"/Volumes/programs/workspace/_python/gtpatches/templates/base.html",
 		"/Users/bindiry/workspaces/wiki/pages/software/linux.textile",
-		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
 		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-notes.textile",
 		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 		"/Users/bindiry/workspaces/wiki/.gitignore",
 		"/Users/bindiry/workspaces/ruby/yinse/.gitignore",
 		"/Users/bindiry/Desktop/aaa.html",
 		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
 		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
 	],
@@ -103,6 +113,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"更简洁实用的批量图片处理",
+			"easy",
+			"command",
+			"find_under_expand",
+			"+d",
 			"+l",
 			"l",
 			"ctrl"
@@ -124,7 +139,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -132,15 +147,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 7059,
+						"buffer_size": 7600,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4677,
-								4677
+								2080,
+								2080
 							]
 						],
 						"settings":
@@ -148,31 +163,30 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2665.0,
+						"translation.y": 1345.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "assets/style.css",
+					"file": "pages/other/kindle.textile",
 					"settings":
 					{
-						"buffer_size": 3474,
+						"buffer_size": 657,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								274,
-								274
+								625,
+								625
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -182,44 +196,46 @@
 				},
 				{
 					"buffer": 2,
-					"file": "pages/software/windows.textile",
+					"file": "pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 4561,
+						"buffer_size": 3827,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2867,
-								2867
+								900,
+								900
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
+							"syntax": "Packages/Textile/Textile.tmLanguage",
+							"word_wrap": false,
+							"wrap_width": 80
 						},
 						"translation.x": 0.0,
-						"translation.y": 1280.0,
+						"translation.y": 84.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "pages/development-design/actionscript.textile",
+					"file": "pages/development-design/ruby.textile",
 					"settings":
 					{
-						"buffer_size": 4637,
+						"buffer_size": 7780,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1451,
-								1451
+								1426,
+								1426
 							]
 						],
 						"settings":
@@ -227,7 +243,33 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1993.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/software/vim.textile",
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -277,6 +319,18 @@
 		"selected_items":
 		[
 			[
+				"vim",
+				"pages/software/vim.textile"
+			],
+			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
+				"end",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
 				"action",
 				"pages/development-design/actionscript.textile"
 			],
@@ -309,10 +363,6 @@
 				"pages/software/linux.textile"
 			],
 			[
-				"ruby",
-				"_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile"
-			],
-			[
 				"ruby-",
 				"_posts/2011-11-28-ruby-on-rails-notes.textile"
 			],
@@ -334,15 +384,15 @@
 		[
 			[
 				"",
-				"/Users/bindiry/workspaces/gtpatches/templates/gtpatches.sublime-project"
+				"/Users/bindiry/workspaces/yinse/yinse_mac.sublime-project"
 			]
 		],
 		"width": 380.0
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 262.0,
 	"status_bar_visible": true
 }
