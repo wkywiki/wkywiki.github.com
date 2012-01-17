@@ -42,6 +42,7 @@ h3(#webframework). Web Framework
 ** "Padrino":http://www.padrinorb.com/
 * "Ramaze":http://ramaze.net/
 * "Presto":http://prestorb.github.com/
+* "Vesper":http://vesperapps.com/
 
 h3(#gems). Gems
 * "Rubygems淘宝镜像":http://ruby.taobao.org/

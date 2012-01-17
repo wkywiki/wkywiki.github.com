@@ -87,3 +87,4 @@ h3. Design Material
 * "GlypFish":http://www.glyphish.com
 * "Icons4Coffee":http://www.icons4coffee.com
 * "RaphaelJS Free Icons":http://raphaeljs.com/icons/
+* "UIcons":http://uicons.co/
