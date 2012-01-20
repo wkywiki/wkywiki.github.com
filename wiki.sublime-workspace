@@ -17,9 +17,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -118,14 +115,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 0.0
@@ -167,6 +156,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"mac",
+				"pages/software/macos.textile"
+			],
 			[
 				"admin.js",
 				"app/assets/javascripts/admin.js"
