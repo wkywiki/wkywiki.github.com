@@ -133,6 +133,7 @@ h3(#design). 设计
 * "GuideGuide":http://www.guideguide.me/ - 一款photoshop的加强版辅助线插件
 * "Skim":http://skim-app.sourceforge.net/ - PDF编辑软件
 * "PDFpenPro":http://smilesoftware.com/PDFpenPro/ - 同上
+* "xScope":http://xscopeapp.com/ - 设计工具，度量距离和角度标尺，精确垂直和水平辅助线等等
 
 h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
