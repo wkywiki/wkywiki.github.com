@@ -30,6 +30,7 @@ h3(#website). Web Site
 
 h3(#tools). Tools
 * "RVM":http://beginrescueend.com/ - Ruby版本管理器
+** "JewelryBox":http://unfiniti.com/software/mac/jewelrybox - RVM官方GUI工具
 * "Pow":http://pow.cx/ - 37signals开发的网页服务器
 * "RubyInstaller":http://rubyinstaller.org - The easy way to install Ruby on Windows
 * "RailsInstaller":http://railsinstaller.org/ - windows下的一键安装包

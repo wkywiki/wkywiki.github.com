@@ -157,6 +157,10 @@
 		"selected_items":
 		[
 			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
 				"mac",
 				"pages/software/macos.textile"
 			],
@@ -275,10 +279,6 @@
 			[
 				"linu",
 				"pages/software/linux.textile"
-			],
-			[
-				"ruby",
-				"_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile"
 			],
 			[
 				"ruby-",
