@@ -5,6 +5,21 @@ title: Windows - Software
 
 h1. Windows
 
+<div id="charpter">
+h3. Contents
+* "实用工具":#misc
+* "网络":#network
+* "开发":#develop
+** "编辑器/IDE":#editor
+** "版本管理工具":#version
+* "设计":#design
+* "音视频处理":#media
+* "效率":#productivity
+* "娱乐":entertainment
+* "系统":#system
+* "其他":#other
+</div>
+
 h3(#misc). 实用工具
 * "QQ五笔":http://wubi.qq.com/ - 从极点中文转过来后一直使用到现在
 * "7zip":http://www.7-zip.org/ - 开源免费的压缩软件
@@ -30,7 +45,7 @@ h3(#network). 网络
 * "Proxifier":http://www.proxifier.com - 让不支持代理服务器的程序使用代理
 
 h3(#develop). 开发
-* *编辑器*
+* *(#editor)编辑器*
 ** "Notepad++":http://notepad-plus-plus.org/ - 免费强大的代码编辑工具
 ** "Intype":http://inotai.com/intype/ - Windows下的textmate替代软件
 ** "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
@@ -41,12 +56,12 @@ h3(#develop). 开发
 *** "Notepad2-Mod":http://code.google.com/p/notepad2-mod/ - 官方版本的分支，加强了代码支持
 *** 通过 "映像劫持":http://www.portablesoft.org/notepad2-replacement/ 实现Notepad2替换记事本
 
-* *版本控制*
+* *(#version)版本控制*
 ** "TortoiseGit":http://code.google.com/p/tortoisegit/ - 实用的Git客户端
 *** "msysgit":http://code.google.com/p/msysgit/ - 安装TortoiseGit前，需要安装这个Git for Windows
 ** "TortoiseSVN":http://tortoisesvn.net/ - 实用的Subversion客户端
 
-* *数据库*
+* *(#database)数据库*
 ** "SQLiteSpy":http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index - 小巧实用的SQLite管理工具
 ** "SQLite Administrator":http://sqliteadmin.orbmu2k.de/ - 功能强大的SQLite管理软件
 
@@ -60,8 +75,6 @@ h3(#design). 设计
 * "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 * "AndreaMosaic":http://www.andreaplanet.com/andreamosaic/ - 蒙太奇马赛克拼图制作软件
 * "GraphicsGale":http://www.humanbalance.net/gale/us/ - 强大的像素图制作软件
-
-h3(#image). 图片处理
 * "FastStone Photo Resizer":http://www.faststone.org/FSResizerDetail.htm - 图片批量缩放、加水印、重命名一应俱全
 * "Converseen":http://converseen.sourceforge.net/ - 跨平台图片处理工具
 * "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
@@ -88,6 +101,7 @@ h3(#system). 系统
 * "Console":http://sourceforge.net/projects/console/ - 命令行替换工具，支持多标签，字体设置等
 * "XueTr":http://www.xuetr.com/ - 内核级系统维护工具
 * "PowerTool":http://code.google.com/p/powertool-google/ - 内核级系统维护工具
+* "SREng":http://www.kztechs.com/sreng/ - 同上，能在win7 64位下正常运行
 * "FolderMonitor":http://www.nodesoft.com/foldermonitor - 文件夹监控工具
 * "Listary":http://www.listary.com/ - Windows 文件浏览增强工具，为Windows 资源管理器增加智能命令、最近文档以及收藏功能
 
