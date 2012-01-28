@@ -19,7 +19,7 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 7711,
+				"buffer_size": 7763,
 				"line_ending": "Unix"
 			}
 		},
@@ -147,7 +147,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -155,15 +155,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 7711,
+						"buffer_size": 7763,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5774,
-								5774
+								7407,
+								7407
 							]
 						],
 						"settings":
@@ -171,7 +171,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2892.0,
+						"translation.y": 3821.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -225,7 +225,7 @@
 							"wrap_width": 80
 						},
 						"translation.x": 0.0,
-						"translation.y": 1794.0,
+						"translation.y": 1751.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -353,6 +353,10 @@
 		"selected_items":
 		[
 			[
+				"mac",
+				"pages/software/macos.textile"
+			],
+			[
 				"front",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -363,10 +367,6 @@
 			[
 				"data",
 				"pages/development-design/database.textile"
-			],
-			[
-				"mac",
-				"pages/software/macos.textile"
 			],
 			[
 				"vim",
@@ -426,7 +426,7 @@
 		[
 			[
 				"",
-				"/Users/bindiry/workspaces/gtpatches/templates/gtpatches.sublime-project"
+				"/Users/bindiry/workspaces/yinse/yinse_mac.sublime-project"
 			]
 		],
 		"width": 380.0
