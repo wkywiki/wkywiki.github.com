@@ -17,6 +17,17 @@
 			]
 		]
 	},
+	"buffers":
+	[
+		{
+			"file": "pages/software/windows.textile",
+			"settings":
+			{
+				"buffer_size": 4903,
+				"line_ending": "Windows"
+			}
+		}
+	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -45,6 +56,8 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/wiki/pages/software/macos.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/windows.textile",
 		"//192.168.1.6/workspace/yinse/app/assets/javascripts/admin.js",
 		"//192.168.1.6/workspace/yinse/app/views/admin/patches/_list.html.erb",
 		"//192.168.1.6/workspace/yinse/app/views/layouts/admin.html.erb",
@@ -115,6 +128,41 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/software/windows.textile",
+					"settings":
+					{
+						"buffer_size": 4903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								921,
+								921
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 0.0
@@ -156,6 +204,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"win",
+				"pages/software/windows.textile"
+			],
+			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
+				"maco",
+				"pages/software/macos.textile"
+			],
+			[
+				"windows",
+				"pages/software/windows.textile"
+			],
 			[
 				"ruby",
 				"pages/development-design/ruby.textile"
@@ -283,14 +347,6 @@
 			[
 				"ruby-",
 				"_posts/2011-11-28-ruby-on-rails-notes.textile"
-			],
-			[
-				"window",
-				"pages/software/windows.textile"
-			],
-			[
-				"maco",
-				"pages/software/macos.textile"
 			]
 		],
 		"width": 0.0
@@ -302,7 +358,7 @@
 		[
 			[
 				"",
-				"//192.168.1.6/workspace/jonaslam.github.com/wiki.sublime-project"
+				"//192.168.1.6/workspace/yinse/yinse.sublime-project"
 			]
 		],
 		"width": 380.0

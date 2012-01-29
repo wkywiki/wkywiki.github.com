@@ -31,7 +31,7 @@ h3(#misc). 实用工具
 * "FolderMenu":http://foldermenu.sourceforge.net/ - 在我的电脑、打开/保存对话框命令提示符中实现文件夹的快速切换
 
 h3(#network). 网络
-* "Google Chrome":http://www.google.com/chrome
+* "Google Chrome":https://www.google.com/chrome/eula.html?system=true&standalone=1
 * "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
 * "QQ旋风":http://xf.qq.com/ - 免费简洁的下载工具
 * "Privoxy":http://www.privoxy.org/ - 带过滤功能的代理服务器软件
