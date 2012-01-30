@@ -38,30 +38,6 @@
 				"buffer_size": 3856,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 7814,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/software/vim.textile",
-			"settings":
-			{
-				"buffer_size": 823,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/database.textile",
-			"settings":
-			{
-				"buffer_size": 1338,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -88,6 +64,9 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/bindiry/workspaces/wiki/assets/style.css",
 		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
@@ -147,7 +126,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -226,84 +205,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1751.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 7814,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1428,
-								1428
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 626.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "pages/software/vim.textile",
-					"settings":
-					{
-						"buffer_size": 823,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								295,
-								295
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "pages/development-design/database.textile",
-					"settings":
-					{
-						"buffer_size": 1338,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1065,
-								1065
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 162.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
