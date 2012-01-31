@@ -13,6 +13,28 @@ h3. Utility Tools
 * "F-Script":http://www.fscript.org/
 * "AppleDoc":http://gentlebytes.com/appledoc/ - API文档生成器
 
+h2. iOS相关
+
+h3. UI设计相关网站
+* "iOS Inspires Me":http://iosinspires.me/
+* 手机 UI 相关
+** "Pttrns":http://pttrns.com/
+** "Patterns of Design":http://www.patternsofdesign.co.uk/
+** "Mobile UI Patterns":http://mobile-patterns.com/
+* iPhone UI 相关
+** "TapFancy":http://tapfancy.com/
+** "TappGala":http://www.tappgala.com/
+** "Well-Placed Pixels":http://wellplacedpixels.com/
+** "LovelyUI":http://www.lovelyui.com/
+** "Building iPhone Apps":http://buildingiphoneapps.posterous.com/
+* iPad UI 相关
+** "Landing Pad":http://landingpad.org/
+** "Stylish iPad Apps":http://stylishipadapps.tumblr.com/
+** "Stylapps":http://itunes.apple.com/us/app/stylapps/id444930066
+* iOS网站相关
+** "AppSites":http://www.appsites.com/
+
+
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
