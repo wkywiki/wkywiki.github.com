@@ -8,6 +8,7 @@ h1. PHP
 h3. Frameworks
 * "CakePHP":http://cakephp.org/
 * "Yii":http://www.yiiframework.com/
+** "中文站":http://www.yiichina.org/
 * "CodeIgniter":http://codeigniter.com/
 * "Zend":http://framework.zend.com/
 * "ThinkPHP":http://thinkphp.cn/
@@ -17,6 +18,7 @@ h3. Frameworks
 * "MicroMVC":http://micromvc.com/
 * "Laravel":http://laravel.com/ - A Clean And Classy PHP Framework
 * "Slim":http://www.slimframework.com/ - a PHP 5 Micro Framework
+* "Symfony":http://symfony.com/ - High Performance PHP Framework for Web Development
 
 h3. Template Engine
 * "Twig":http://twig.sensiolabs.org/
