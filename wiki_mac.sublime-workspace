@@ -62,6 +62,14 @@
 				"buffer_size": 7887,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "pages/development-design/dotnet.textile",
+			"settings":
+			{
+				"buffer_size": 857,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -88,6 +96,8 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/development-design/csharp.textile",
+		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
@@ -150,7 +160,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -310,6 +320,32 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pages/development-design/dotnet.textile",
+					"settings":
+					{
+						"buffer_size": 857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -320,7 +356,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"layout":
 	{
@@ -355,6 +391,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"cshar",
+				"pages/development-design/csharp.textile"
+			],
 			[
 				"macos",
 				"pages/software/macos.textile"
@@ -449,7 +489,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 262.0,
 	"status_bar_visible": true
 }
