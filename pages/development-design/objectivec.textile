@@ -34,6 +34,11 @@ h3. UI设计相关网站
 * iOS网站相关
 ** "AppSites":http://www.appsites.com/
 
+h2. Other
+
+h3. Downloads
+* "iMZDL":http://imzdl.com/ - 苹果官方相关软件下载
+
 
 
 <br /><br /><br /><br /><br /><br />

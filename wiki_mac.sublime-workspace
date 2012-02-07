@@ -19,7 +19,7 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 7763,
+				"buffer_size": 7912,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,7 +35,31 @@
 			"file": "pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 3856,
+				"buffer_size": 3955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/software/ios.textile",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/objectivec.textile",
+			"settings":
+			{
+				"buffer_size": 1356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/ruby.textile",
+			"settings":
+			{
+				"buffer_size": 7887,
 				"line_ending": "Unix"
 			}
 		}
@@ -126,7 +150,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -134,15 +158,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 7763,
+						"buffer_size": 7912,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7407,
-								7407
+								4745,
+								4745
 							]
 						],
 						"settings":
@@ -150,7 +174,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 3821.0,
+						"translation.y": 2418.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -186,15 +210,15 @@
 					"file": "pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 3856,
+						"buffer_size": 3955,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3610,
-								3610
+								0,
+								0
 							]
 						],
 						"settings":
@@ -205,6 +229,84 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1751.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/software/ios.textile",
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/development-design/objectivec.textile",
+					"settings":
+					{
+						"buffer_size": 1356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								912,
+								912
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 501.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pages/development-design/ruby.textile",
+					"settings":
+					{
+						"buffer_size": 7887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5360,
+								5360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1812.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -254,16 +356,28 @@
 		"selected_items":
 		[
 			[
+				"macos",
+				"pages/software/macos.textile"
+			],
+			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"io",
+				"pages/software/ios.textile"
+			],
+			[
 				"mac",
 				"pages/software/macos.textile"
 			],
 			[
 				"front",
 				"pages/development-design/web-front-end.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
 			],
 			[
 				"data",
