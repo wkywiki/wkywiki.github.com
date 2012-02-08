@@ -88,6 +88,11 @@ h3(#gems). Gems
 * rake_ui: "Github":https://github.com/rbrant/rake_ui - 图形化Rake任务
 * Server
 ** puma: "Github":https://github.com/evanphx/puma -  a simple, fast, and highly concurrent HTTP 1.1 server for Ruby web applications.
+** powder: "Github":https://github.com/rodreegez/powder - Makes Pow even easier.
+* Exception Notifier
+** exception_notification_rails3: "Github":https://github.com/railsware/exception_notification
+** airbrake: "Official Website":http://airbrake.io / "Github":https://github.com/airbrake/airbrake
+** errbit: "Github":https://github.com/errbit/errbit
 
 h3(#references). References
 * *(#references_ruby)Ruby*
