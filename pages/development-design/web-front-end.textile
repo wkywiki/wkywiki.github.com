@@ -37,6 +37,9 @@ h3. Javascript
 ** "APEJS":http://lmatteis.github.com/apejs/ - A tiny JavaScript web framework targeted for Google App Engine
 ** "SproutCore":http://www.sproutcore.com/ - iCloud 和 MobileMe 的JS Framework
 
+* *Library*
+** "tinycon":https://github.com/tommoor/tinycon - 通过chrome的favicon来动态显示数字信息，比如未读消息
+
 * *JQuery <span class="misc">("website":http://jquery.com)</span>*
 ** "tablesorter":http://tablesorter.com - 表格排序插件
 ** "Waypoints":http://imakewebthings.github.com/jquery-waypoints/ - 触发页面滚动事件的小插件，很实用
@@ -58,6 +61,15 @@ h3. Javascript
 ** "UI Bootstrap":http://addyosmani.github.com/jquery-ui-bootstrap/
 ** "turn.js":http://www.turnjs.com - 翻页特效
 ** "three.js":https://github.com/mrdoob/three.js/ - 粒子特效
+
+* *Node.js*
+** "官网":http://nodejs.org/
+** "源码(Github)":https://github.com/joyent/node
+** "CNode - 中文社区":http://club.cnodejs.org/
+** "NAE":http://cnodejs.net/ - NodeJS应用开发与运行平台
+** 开发工具
+*** "Sublime Text - Nodejs":https://github.com/tanepiper/SublimeText-Nodejs
+
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/
