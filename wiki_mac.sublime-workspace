@@ -19,55 +19,7 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 7912,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/other/kindle.textile",
-			"settings":
-			{
-				"buffer_size": 657,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/web-front-end.textile",
-			"settings":
-			{
-				"buffer_size": 3955,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/software/ios.textile",
-			"settings":
-			{
-				"buffer_size": 295,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/objectivec.textile",
-			"settings":
-			{
-				"buffer_size": 1356,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 7887,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/dotnet.textile",
-			"settings":
-			{
-				"buffer_size": 857,
+				"buffer_size": 7973,
 				"line_ending": "Unix"
 			}
 		}
@@ -96,11 +48,16 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/other/kindle.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/ios.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/dotnet.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/csharp.textile",
 		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/bindiry/workspaces/wiki/assets/style.css",
 		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
@@ -160,7 +117,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -168,15 +125,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 7912,
+						"buffer_size": 7973,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4745,
-								4745
+								3041,
+								3041
 							]
 						],
 						"settings":
@@ -184,165 +141,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2418.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pages/other/kindle.textile",
-					"settings":
-					{
-						"buffer_size": 657,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								625,
-								625
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pages/development-design/web-front-end.textile",
-					"settings":
-					{
-						"buffer_size": 3955,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage",
-							"word_wrap": false,
-							"wrap_width": 80
-						},
-						"translation.x": 0.0,
-						"translation.y": 1751.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pages/software/ios.textile",
-					"settings":
-					{
-						"buffer_size": 295,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "pages/development-design/objectivec.textile",
-					"settings":
-					{
-						"buffer_size": 1356,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								912,
-								912
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 501.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 7887,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5360,
-								5360
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1812.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "pages/development-design/dotnet.textile",
-					"settings":
-					{
-						"buffer_size": 857,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1324.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
