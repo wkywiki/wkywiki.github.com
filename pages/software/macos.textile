@@ -107,6 +107,7 @@ h3(#development). 开发
 *** "MacHg":http://jasonfharris.com/machg/
 
 * *(#useful)实用工具*
+** "OSX GCC Installer":https://github.com/kennethreitz/osx-gcc-installer - 不用为了安装GCC而安装Xcode
 ** "Codebox":http://www.codeboxapp.com/ - 代码管理工具，可以高亮显示，按语言分类
 ** "Dash":http://kapeli.com/dash/ - 代码管理工具
 ** "JSTalk Editor":http://jstalk.org/ - 基于JS脚本的系统自动化工具
