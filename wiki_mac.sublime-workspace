@@ -19,7 +19,7 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 7973,
+				"buffer_size": 8048,
 				"line_ending": "Unix"
 			}
 		}
@@ -125,15 +125,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 7973,
+						"buffer_size": 8048,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3041,
-								3041
+								1843,
+								1843
 							]
 						],
 						"settings":
