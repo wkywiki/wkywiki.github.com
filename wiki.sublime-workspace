@@ -17,25 +17,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 7968,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pages/development-design/web-front-end.textile",
-			"settings":
-			{
-				"buffer_size": 3997,
-				"line_ending": "Windows"
-			}
-		}
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -136,67 +117,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 7968,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5584,
-								5584
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 156.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pages/development-design/web-front-end.textile",
-					"settings":
-					{
-						"buffer_size": 3997,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								204,
-								204
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 0.0
@@ -238,6 +158,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ob",
+				"pages/development-design/objectivec.textile"
+			],
 			[
 				"end",
 				"pages/development-design/web-front-end.textile"
