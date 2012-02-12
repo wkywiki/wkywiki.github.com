@@ -22,6 +22,14 @@
 				"buffer_size": 8048,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "pages/other/references.textile",
+			"settings":
+			{
+				"buffer_size": 868,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -117,7 +125,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -132,8 +140,8 @@
 						"selection":
 						[
 							[
-								1843,
-								1843
+								1908,
+								1908
 							]
 						],
 						"settings":
@@ -142,6 +150,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/other/references.textile",
+					"settings":
+					{
+						"buffer_size": 868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -190,6 +224,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"referen",
+				"pages/other/references.textile"
+			],
 			[
 				"cshar",
 				"pages/development-design/csharp.textile"

@@ -13,6 +13,9 @@ h3. Development
 * "GotGitHub":http://www.worldhello.net/gotgithub/index.html
 * "开源世界旅行手册":http://i.linuxtoy.org/docs/guide/
 
+h3. Other
+* "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/
+
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
