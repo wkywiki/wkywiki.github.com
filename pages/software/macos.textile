@@ -167,3 +167,4 @@ h3(#system). 系统工具
 * "cdto":https://code.google.com/p/cdto/ - 可以在Finder右上角加个Terminal图标，方便在当前路径打开控制台
 * "Day-O":http://www.shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
 * "CharlesSoft":http://www.charlessoft.com/ - 提取安装包中的文件
+* "ControlPlane":http://www.controlplaneapp.com/ - 根据不同环境使用不同配置（比如：更改默认浏览器，关闭WIFI使用有线等）

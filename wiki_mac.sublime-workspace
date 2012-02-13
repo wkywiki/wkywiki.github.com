@@ -19,7 +19,7 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 8048,
+				"buffer_size": 8136,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,7 +27,7 @@
 			"file": "pages/other/references.textile",
 			"settings":
 			{
-				"buffer_size": 868,
+				"buffer_size": 869,
 				"line_ending": "Unix"
 			}
 		}
@@ -125,7 +125,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -133,15 +133,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 8048,
+						"buffer_size": 8136,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1908,
-								1908
+								6982,
+								6982
 							]
 						],
 						"settings":
@@ -149,7 +149,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1324.0,
+						"translation.y": 3827.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -159,15 +159,15 @@
 					"file": "pages/other/references.textile",
 					"settings":
 					{
-						"buffer_size": 868,
+						"buffer_size": 869,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								608,
-								608
+								609,
+								609
 							]
 						],
 						"settings":
