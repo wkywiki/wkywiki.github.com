@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Site
+title: WebSite
 ---
 
 h1. {{ page.title }}
@@ -51,6 +51,7 @@ h3. 网络应用
 * "友言":http://uyan.cc/ - 国内版的Disqus
 * "评论啦":http://pinglun.la/
 * "tinyletter":http://tinyletter.com - 提供简洁实用的邮件列表服务
+* "mailchimp":http://mailchimp.com - 同上
 * "UserVoice":http://uservoice.com/ - 提供访客反馈信息托管
 * "ReadTheDocs":http://readthedocs.org - 文档托管平台
 

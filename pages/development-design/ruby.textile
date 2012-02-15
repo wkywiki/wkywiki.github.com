@@ -118,6 +118,7 @@ h3(#references). References
 ** "Teach Me To Code Screencasts":http://teachmetocode.com/screencasts/
 ** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
 ** "ruby-china wiki":http://ruby-china.org/wiki
+** "Big Fat Rails":http://www.bigfatrails.com
 * *(#references_sinatra)Sinatra*
 ** "Bloc":http://www.trybloc.com/
 ** "Darren Jones 的系列教程":http://rubysource.com/author/djones/
