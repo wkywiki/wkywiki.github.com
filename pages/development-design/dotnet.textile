@@ -6,6 +6,7 @@ h1. .NET
 
 h3. Software
 * "Visual Studio":http://www.microsoft.com/visualstudio
+** "Visual Studio Achievernents":http://channel9.msdn.com/achievements/visualstudio - 成就&徽章系统插件
 * "SharpDevelop":http://www.sharpdevelop.net/OpenSource/SD/Default.aspx - 一款开源免费的轻量级IDE
 * ".NET Reflector":http://www.reflector.net/ - 反编译工具，已开始收费
 * "ILSpy":http://wiki.sharpdevelop.net/ilspy.ashx - 用来替代reflector的反编译工具

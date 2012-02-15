@@ -44,6 +44,7 @@ h3(#webframework). Web Framework
 * "Ramaze":http://ramaze.net/
 * "Presto":http://prestorb.github.com/
 * "Vesper":http://vesperapps.com/
+* "Cramp":http://cramp.in - a fully asynchronous real-time web application framework in Ruby
 
 h3(#gems). Gems
 * "Rubygems淘宝镜像":http://ruby.taobao.org/

@@ -110,3 +110,4 @@ h3(#other). 其他
 * "KidLogger":http://kidlogger.net/ - 用户行为监控软件，可以记录网页访问、键盘输入、运行程序等
 * "MarkdownPad":http://markdownpad.com/index.html - 免费的Markdown编辑器
 * "Synergy":http://synergy-foss.org/ - 实现一套鼠标控制局域网内的多台电脑，跨平台软件
+* "ResEdit":http://www.resedit.net - 程序资源编辑器

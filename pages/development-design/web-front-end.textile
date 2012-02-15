@@ -10,6 +10,7 @@ h3. CSS
 * *Framework*
 ** "BootStrap":http://twitter.github.com/bootstrap/ - Twitter推出的前端开发工具包
 ** "Ninja":http://ninjaui.com - 前端用户界面工具包
+** "Alice":http://aliceui.com - 支付宝前端样式解决方案
 
 * *Preprocessor*
 ** "DtCSS":http://code.google.com/p/dtcss/ - CSS预处理器
