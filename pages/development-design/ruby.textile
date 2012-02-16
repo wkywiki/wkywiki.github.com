@@ -131,6 +131,9 @@ h3(#webapps). Web Apps
 * "Rails-Bestpractices":https://github.com/railsbp/rails-bestpractices.com
 * "Rubyist":https://github.com/hooopo/rubyist/ - Rubyist是一个多人协作的群体Blog
 
+h3(#host). Web Host
+* "Engine Yard":http://www.engineyard.com
+
 h3(#articles). Articles
 * "如何在Mac下快速部署 Nginx + Passenger + Rails":http://lvguoning.com/blog/2011/11/27/mac-nginx-passenger-rails/
 * "十個 Ruby Web Developer 應該熟悉的工具":http://blog.xdite.net/posts/2011/10/09/10-ruby-developer-must-have-tools/
