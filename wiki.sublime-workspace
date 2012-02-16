@@ -159,6 +159,10 @@
 		"selected_items":
 		[
 			[
+				"linux",
+				"pages/software/linux.textile"
+			],
+			[
 				"ob",
 				"pages/development-design/objectivec.textile"
 			],

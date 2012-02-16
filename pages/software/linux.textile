@@ -43,6 +43,7 @@ h3(#entertainment). 娱乐
 * "DeaDBeeF":http://deadbeef.sourceforge.net/ - Ultimate Music Player For GNU/Linux
 
 h3(#develop). 开发
+* "git-cola":http://git-cola.github.com/ - 图形化git客户端，支持pull和push
 * "giggle":http://live.gnome.org/giggle - 一款不错的Git客户端
 * "bluefish":http://bluefish.openoffice.nl - 强大的代码编辑器
 * "Geany":http://www.geany.org/ - 同样强大的代码编辑器
