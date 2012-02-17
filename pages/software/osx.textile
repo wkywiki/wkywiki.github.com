@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mac OS X - Software
+title: OS X - Software
 ---
 
 <div id="charpter">
@@ -55,6 +55,7 @@ h3(#network). 网络
 * "Google Chrome":http://www.google.com/chrome
 * "autossh":http://www.harding.motd.ca/autossh/ - 可用homebrew安装，支持开始运行及断线重连
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
+* "GoAgentX":https://github.com/ohdarling/GoAgentX - goagent的图形化版
 * "Proxychains Formula":https://github.com/lxneng/homebrew/commit/25da1bef5a9631315e078a5124c91ec785ff5efe - 可以使终端命令用上代理，可以用Homebrew安装(brew install proxychains)，感谢 "lxneng":http://lxneng.com 
 * "SSH Tunnel Manager":http://itunes.apple.com/us/app/ssh-tunnel-manager/id424470626?l=fr&mt=12 - Shimo无法创建SSH连接时要先安装这个
 * "iSSH":http://macserve.org.uk/projects/issh/ - 将ssh转换为sock使用
