@@ -108,6 +108,7 @@ h3(#references). References
 ** "如何从0开始学Ruby on Rails - 漫步":http://readful.com/post/12322300571/0-ruby-on-rails
 ** "Ruby on Rails Guides":http://guides.rubyonrails.org/ / "繁体版":http://guides.ruby.tw/rails3/getting_started.html
 ** "Ruby on Rails 實戰聖經":http://ihower.tw/rails3/
+** "Essentail Rails Design Pattern - xdite":http://erp-book.heroku.com/
 ** "Ruby on Rails新手进阶知识繁体版":http://ruby-taiwan.org/wiki/essential-ruby-rails-knowledge
 ** "Rails Documentation":http://api.rubyonrails.org/ - 官方API文档
 ** "Rails使用笔记":http://apidock.com/rails
@@ -130,6 +131,7 @@ h3(#webapps). Web Apps
 * "Ruby-China":https://github.com/huacnlee/ruby-china - Ruby China Group
 * "Rails-Bestpractices":https://github.com/railsbp/rails-bestpractices.com
 * "Rubyist":https://github.com/hooopo/rubyist/ - Rubyist是一个多人协作的群体Blog
+* "Blogcast":http://techoctave.com/blogcast/ - a better way to blog
 
 h3(#host). Web Host
 * "Engine Yard":http://www.engineyard.com
