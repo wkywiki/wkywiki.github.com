@@ -50,7 +50,7 @@ li { padding: 5px 0; }
 #sidebar ul { list-style: none; padding-left: 0; margin-top: 2px; }
 #sidebar ul li { font: 13px; font-weight: bold; }
 #sidebar ul li ul { padding-top: 5px; padding-bottom: 5px; list-style: circle; padding-left: 35px; }
-#sidebar ul li ul li { font-weight: normal; }
+#sidebar ul li ul li { font-weight: normal; padding: 2px 0; }
 #sidebar a { color: #ccc; }
 #sidebar a:hover { color: #fff; }
 
