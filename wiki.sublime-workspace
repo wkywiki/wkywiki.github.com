@@ -17,33 +17,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 3469,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/Program Files (x86)/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 631,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/php.textile",
-			"settings":
-			{
-				"buffer_size": 1707,
-				"line_ending": "Windows"
-			}
-		}
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -72,6 +45,15 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/wiki/pages/software/linux.textile",
+		"//192.168.1.6/workspace/wiki/assets/style.css",
+		"//192.168.1.6/workspace/wiki/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/wiki/pages/development-design/ruby.textile",
+		"//192.168.1.6/workspace/wiki/pages/development-design/objectivec.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/vim.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/ios.textile",
+		"/D/Program Files (x86)/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"//192.168.1.6/workspace/wiki/pages/development-design/php.textile",
 		"//192.168.1.6/workspace/wiki/pages/software/macos.textile",
 		"//192.168.1.6/workspace/wiki/pages/software/windows.textile",
 		"//192.168.1.6/workspace/yinse/app/assets/javascripts/admin.js",
@@ -124,13 +106,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"china",
+			"railscasts",
 			"/static/img/device_imgs",
 			"+l",
 			"l",
 			"ctrl"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -144,95 +128,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 2,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 3469,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2800,
-								2800
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Django/Django.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 720.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/D/Program Files (x86)/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 631,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								213,
-								213
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pages/development-design/php.textile",
-					"settings":
-					{
-						"buffer_size": 1707,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1527,
-								1527
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 504.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 0.0
@@ -275,24 +170,36 @@
 		"selected_items":
 		[
 			[
-				"php",
-				"pages/development-design/php.textile"
-			],
-			[
-				"linux",
-				"pages/software/linux.textile"
-			],
-			[
-				"ob",
-				"pages/development-design/objectivec.textile"
+				"ruby",
+				"pages/development-design/ruby.textile"
 			],
 			[
 				"end",
 				"pages/development-design/web-front-end.textile"
 			],
 			[
-				"ruby",
-				"pages/development-design/ruby.textile"
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"ios",
+				"pages/software/ios.textile"
+			],
+			[
+				"vim",
+				"pages/software/vim.textile"
+			],
+			[
+				"linux",
+				"pages/software/linux.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"ob",
+				"pages/development-design/objectivec.textile"
 			],
 			[
 				"mac",

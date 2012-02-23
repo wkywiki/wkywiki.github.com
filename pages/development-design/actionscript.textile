@@ -51,6 +51,7 @@ h3(#engine). Engine
 * *(#game)Game*
 ** "as3isolib":http://code.google.com/p/as3isolib/
 ** "Ash":https://github.com/richardlord/Ash - an entity framework for Actionscript games
+** "Ard2d":http://code.google.com/p/animation-render-engine/ - 位图动画渲染引擎
 ** "Flixel":http://http://www.flixel.org/
 *** "Flixel Power Tools":http://www.photonstorm.com/flixel-power-tools
 ** "FlashPunk":http://flashpunk.net/
