@@ -17,6 +17,33 @@
 			]
 		]
 	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 3469,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Program Files (x86)/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 631,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/php.textile",
+			"settings":
+			{
+				"buffer_size": 1707,
+				"line_ending": "Windows"
+			}
+		}
+	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -117,6 +144,95 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 3469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2800,
+								2800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Django/Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Program Files (x86)/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/development-design/php.textile",
+					"settings":
+					{
+						"buffer_size": 1707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1527,
+								1527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 0.0
@@ -159,6 +275,10 @@
 		"selected_items":
 		[
 			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
 				"linux",
 				"pages/software/linux.textile"
 			],
@@ -177,10 +297,6 @@
 			[
 				"mac",
 				"pages/software/macos.textile"
-			],
-			[
-				"php",
-				"pages/development-design/php.textile"
 			],
 			[
 				"win",

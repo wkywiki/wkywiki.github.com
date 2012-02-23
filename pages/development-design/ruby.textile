@@ -27,6 +27,7 @@ h3(#website). Web Site
 * "ChinaonRails":http://chinaonrails.com/ - Focus on Ruby on Rails, Web2.0, Business, Technic and beyond
 * "The Ruby Toolbox":https://www.ruby-toolbox.com/ - 实用RubyGems排名
 * "RailsTips":http://railstips.org
+* "Rubular":http://rubular.com/ - ruby正则在线测试工具
 
 h3(#tools). Tools
 * "RVM":http://beginrescueend.com/ - Ruby版本管理器
@@ -85,6 +86,7 @@ h3(#gems). Gems
 * awesome_print: "Github":https://github.com/michaeldv/awesome_print - 格式化输出ruby对象
 * wirble: "Github":https://github.com/blackwinter/wirble - 增强irb，加入历史，语法高亮等功能
 * hirb: "Official Website":http://tagaholic.me/hirb/ / "Github":https://github.com/cldwalker/hirb - 格式化数据
+* irbtools: "Official Website":http://rbjl.net/40-irbtools-release-the-power-of-irb / "Github":https://github.com/janlelis/irbtools - Release the power of irb!
 * richrc: "Github":https://github.com/miaout17/richrc / "Article":http://blog.miaout17.net/2011/02/13/richrc-rails3-customization-hirb-wirble/ - 在rails3中不用修改Gamfile，实现irb格式化和高亮语法
 * rake_ui: "Github":https://github.com/rbrant/rake_ui - 图形化Rake任务
 * Server
@@ -117,6 +119,7 @@ h3(#references). References
 ** "Rails 101 - 火速學會 Ruby on Rails":http://rails-101.logdown.com/
 ** "Rails Best Practices":http://rails-bestpractices.com/
 ** "RailsCasts":http://railscasts.com - Rails视频教程站
+** "RailsCasts-China":http://railscasts-china.com - Rails中国视频教程站
 ** "Teach Me To Code Screencasts":http://teachmetocode.com/screencasts/
 ** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
 ** "ruby-china wiki":http://ruby-china.org/wiki
