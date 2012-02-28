@@ -56,3 +56,6 @@ h3(#server). 服务器
 h3(#other). 其他
 * "virtualbox":http://download.virtualbox.org/virtualbox - 虚拟机
 * nautilus-open-terminal: 在右键菜单中加入在当前路径打开终端菜单项，使用apt-get安装即可
+
+h3(#website). 相关网站
+* "commandlinefu":http://www.commandlinefu.com - linux命令大全

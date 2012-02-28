@@ -39,6 +39,13 @@ bc. $ whereis nginx
 
 bc. $ ps -ef | grep httpd | wc -l
 
+*  文件和目录批量操作
+
+bc.. # 文件设置权限
+find . -type f -exec chmod 644 {} \;
+# 目录设置权限
+find . -type d -exec chmod 755 {}\;
+
 h2. 问题
 
 * 密钥权限问题不能使用(WARNING: UNPROTECTED PRIVATE KEY FILE!)

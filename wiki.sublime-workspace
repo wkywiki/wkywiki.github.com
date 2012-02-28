@@ -45,6 +45,15 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/wiki/pages/software/linux.textile",
+		"//192.168.1.6/workspace/wiki/assets/style.css",
+		"//192.168.1.6/workspace/wiki/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/wiki/pages/development-design/ruby.textile",
+		"//192.168.1.6/workspace/wiki/pages/development-design/objectivec.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/vim.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/ios.textile",
+		"/D/Program Files (x86)/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"//192.168.1.6/workspace/wiki/pages/development-design/php.textile",
 		"//192.168.1.6/workspace/wiki/pages/software/macos.textile",
 		"//192.168.1.6/workspace/wiki/pages/software/windows.textile",
 		"//192.168.1.6/workspace/yinse/app/assets/javascripts/admin.js",
@@ -97,13 +106,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"china",
+			"railscasts",
 			"/static/img/device_imgs",
 			"+l",
 			"l",
 			"ctrl"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -159,28 +170,48 @@
 		"selected_items":
 		[
 			[
-				"linux",
-				"pages/software/linux.textile"
+				"osx",
+				"pages/software/osx.textile"
 			],
 			[
-				"ob",
-				"pages/development-design/objectivec.textile"
-			],
-			[
-				"end",
-				"pages/development-design/web-front-end.textile"
+				"a",
+				"pages/development-design/actionscript.textile"
 			],
 			[
 				"ruby",
 				"pages/development-design/ruby.textile"
 			],
 			[
-				"mac",
-				"pages/software/macos.textile"
+				"end",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"ios",
+				"pages/software/ios.textile"
+			],
+			[
+				"vim",
+				"pages/software/vim.textile"
+			],
+			[
+				"linux",
+				"pages/software/linux.textile"
 			],
 			[
 				"php",
 				"pages/development-design/php.textile"
+			],
+			[
+				"ob",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"mac",
+				"pages/software/macos.textile"
 			],
 			[
 				"win",
