@@ -170,6 +170,14 @@
 		"selected_items":
 		[
 			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"a",
+				"pages/development-design/actionscript.textile"
+			],
+			[
 				"ruby",
 				"pages/development-design/ruby.textile"
 			],
