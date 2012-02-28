@@ -158,7 +158,8 @@ h3(#system). 系统工具
 * "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
-* "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具
+* "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
+* "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具 - 不支持lion
 * "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 功能同上，收费软件
 * "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
 * "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
