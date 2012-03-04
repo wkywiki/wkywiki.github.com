@@ -24,11 +24,27 @@
 		"selected_items":
 		[
 			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
 				"pack",
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 528.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -45,6 +61,7 @@
 	},
 	"file_history":
 	[
+		"//192.168.0.6/workspace/wiki/pages/development-design/python.textile",
 		"//192.168.1.6/workspace/wiki/pages/software/linux.textile",
 		"//192.168.1.6/workspace/wiki/assets/style.css",
 		"//192.168.1.6/workspace/wiki/pages/development-design/web-front-end.textile",
