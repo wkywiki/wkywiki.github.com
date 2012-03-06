@@ -123,6 +123,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"by",
+			"github",
+			"junnan",
+			"Open Sour",
 			"china",
 			"railscasts",
 			"/static/img/device_imgs",
@@ -187,16 +191,16 @@
 		"selected_items":
 		[
 			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
 				"osx",
 				"pages/software/osx.textile"
 			],
 			[
 				"a",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
 			],
 			[
 				"end",
