@@ -18,6 +18,12 @@ h2. Utility Class
 * "Core Plot":http://code.google.com/p/core-plot/ - 图表库
 * "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 
+h2. Framewok
+* *Network*
+** "RestKit":http://restkit.org/ ("Github":https://github.com/RestKit/RestKit) - RESTful 工具包 RestKit for iOS and OS X
+* *Game*
+** "Cocos2D":http://www.cocos2d-iphone.org/
+
 h2. UI设计相关网站
 * "iOS Inspires Me":http://iosinspires.me/
 * 手机 UI 相关
