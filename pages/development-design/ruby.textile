@@ -57,6 +57,7 @@ h3(#gems). Gems
 * thinreports: "Official Website":http://www.thinreports.org/ - 报表工具，中文支持良好。
 * devise: "Official Website":http://blog.plataformatec.com.br/tag/devise/ / "Github":https://github.com/plataformatec/devise - 快速构建注册、登录、找回密码等功能
 * omniauth: "Github":https://github.com/intridea/omniauth - 实现第三方平台登录
+* awesome_nested_set: "Github":https://github.com/collectiveidea/awesome_nested_set - 实现多级分类
 * will_paginate: "Github":https://github.com/mislav/will_paginate/wiki - 实现分页
 * kaminari: "Github":https://github.com/amatsuda/kaminari - 同上
 * paperclip: "Github":https://github.com/thoughtbot/paperclip - 实现上传
