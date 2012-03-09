@@ -94,6 +94,7 @@ h3(#framework). Framework
 * "SomaMVC":http://code.google.com/p/somamvc/
 * "robotlegs":http://www.robotlegs.org/ - MVC框架
 * "Starling":http://www.starling-framework.org/ - The GPU powered 2D Flash API
+** "Foxhole":https://github.com/joshtynjala/foxhole-starling - 基于Starling的UI框架
 
 h3(#software). Software
 * *(#design)Design*

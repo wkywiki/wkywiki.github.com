@@ -37,7 +37,7 @@ h3. Web Content Management System(CMS)
 ** "Project Babel 2":https://github.com/livid/v2ex - 托管在google app engine上的社区系统
 
 * *WIKI*
-** "MoinMoinWiki":http://moinmo.in/
+** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统
 
 h3. Packages & Utility Class
 * *CMS*
