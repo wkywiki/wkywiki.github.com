@@ -14,6 +14,7 @@ h3. Website
 
 h3. Themes
 * "Soda":https://github.com/buymeasoda/soda-theme/
+* "Magnificent Theme":https://github.com/kuroir/Sublime-Magnificent-Theme
 
 h3. Color Schemes
 * "Tomorrow":https://github.com/ChrisKempson/Tomorrow-Theme
