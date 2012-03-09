@@ -16,42 +16,26 @@
 	"buffers":
 	[
 		{
-			"file": "pages/other/references.textile",
+			"file": "/Users/bindiry/workspaces/_examples/liarliar/liarliar",
 			"settings":
 			{
-				"buffer_size": 937,
+				"buffer_size": 5469,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pages/development-design/objectivec.textile",
+			"file": "/Users/bindiry/workspaces/_examples/liarliar/goodmorning",
 			"settings":
 			{
-				"buffer_size": 1606,
+				"buffer_size": 282,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pages/software/osx.textile",
+			"file": "/Users/bindiry/workspaces/_examples/liarliar/good.txt",
 			"settings":
 			{
-				"buffer_size": 8198,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 3471,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 8637,
+				"buffer_size": 2,
 				"line_ending": "Unix"
 			}
 		}
@@ -80,15 +64,21 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/_examples/liarliar/test",
+		"/Users/bindiry/workspaces/_examples/liarliar/helloworld",
+		"/Users/bindiry/workspaces/_examples/liarliar/test.html",
+		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
+		"/Users/bindiry/Downloads/应聘列表.txt",
 		"/Users/bindiry/workspaces/wiki/pages/software/macos.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/kindle.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/ios.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/dotnet.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/csharp.textile",
-		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
@@ -150,80 +140,56 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/other/references.textile",
+					"file": "/Users/bindiry/workspaces/_examples/liarliar/liarliar",
 					"settings":
 					{
-						"buffer_size": 937,
+						"buffer_size": 5469,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								737,
+								737
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 691.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pages/development-design/objectivec.textile",
+					"file": "/Users/bindiry/workspaces/_examples/liarliar/goodmorning",
 					"settings":
 					{
-						"buffer_size": 1606,
+						"buffer_size": 282,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1277,
-								1277
+								134,
+								134
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 523.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pages/software/osx.textile",
-					"settings":
-					{
-						"buffer_size": 8198,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27,
-								27
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -232,54 +198,27 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "_layouts/default.html",
+					"buffer": 2,
+					"file": "/Users/bindiry/workspaces/_examples/liarliar/good.txt",
 					"settings":
 					{
-						"buffer_size": 3471,
+						"buffer_size": 2,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2129,
-								2129
+								2,
+								2
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 976.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 8637,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6803,
-								6803
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2487.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -328,6 +267,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"osx",
+				"pages/software/osx.textile"
+			],
 			[
 				"ruby",
 				"pages/development-design/ruby.textile"
@@ -430,7 +373,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 262.0,
 	"status_bar_visible": true
 }
