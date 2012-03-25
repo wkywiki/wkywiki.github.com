@@ -106,6 +106,7 @@ h3(#system). 系统
 * "SREng":http://www.kztechs.com/sreng/ - 同上，能在win7 64位下正常运行
 * "FolderMonitor":http://www.nodesoft.com/foldermonitor - 文件夹监控工具
 * "Listary":http://www.listary.com/ - Windows 文件浏览增强工具，为Windows 资源管理器增加智能命令、最近文档以及收藏功能
+* "MacType":http://getmactype.com/ - 实现 OSX 渲染效果的软件
 
 h3(#other). 其他
 * "KidLogger":http://kidlogger.net/ - 用户行为监控软件，可以记录网页访问、键盘输入、运行程序等

@@ -40,6 +40,7 @@ h3. Javascript
 
 * *Library*
 ** "tinycon":https://github.com/tommoor/tinycon - 通过chrome的favicon来动态显示数字信息，比如未读消息
+** "Smoke":http://ssssnakes.com/smoke/ - 小巧实用的javascript通知库
 
 * *JQuery <span class="misc">("website":http://jquery.com)</span>*
 ** "tablesorter":http://tablesorter.com - 表格排序插件
@@ -71,7 +72,6 @@ h3. Javascript
 ** 开发工具
 *** "Sublime Text - Nodejs":https://github.com/tanepiper/SublimeText-Nodejs
 
-
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/
 ** "Jquery Mobile":http://jquerymobile.com/ - 基于HTML5的Jquery前端移动设备开发框架
@@ -87,6 +87,7 @@ h3. HTML
 ** "KindEditor":http://www.kindsoft.net/ - 国产开源在线HTML编辑器
 ** "CKEditor":http://ckeditor.com/ - 国外开源在线HTML编辑器
 ** "UEditor":http://ueditor.baidu.com/
+** "ShowDown":https://github.com/coreyti/showdown 支持markdown的JS编辑器
 
 * *Text-to-HTML Conversion Tools*
 ** "Markdown":http://daringfireball.net/projects/markdown/

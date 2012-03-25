@@ -95,6 +95,7 @@ h3(#framework). Framework
 * "robotlegs":http://www.robotlegs.org/ - MVC框架
 * "Starling":http://www.starling-framework.org/ - The GPU powered 2D Flash API
 ** "Foxhole":https://github.com/joshtynjala/foxhole-starling - 基于Starling的UI框架
+* "MVCExpress":http://mvcexpress.org/ - 快速简单的MVC基础框架
 
 h3(#software). Software
 * *(#design)Design*
@@ -114,6 +115,9 @@ h3(#software). Software
 *** "Pngcrush":http://pmt.sourceforge.net/pngcrush/ - PNG去掉Alpha通道工具
 *** "SWFWire Decompiler":http://www.swfwire.com/ - An open source library written in ActionScript 3 for reading and writing swfs.
 *** "SWFWire Debugger":http://www.swfwire.com/ - An open source AIR application for INTENSE ActionScript 3 debugging.
+*** "The Miner":http://www.sociodox.com/theminer/ - Profiler工具，可以结合FlashDevelop实现自定义Profiler
+*** "PhysicsEditor":http://www.physicseditor.de/ - Box2D多边形自动缓制工具
+*** "Flash Tracer":http://code.google.com/p/flash-tracer/ - Flash调试工具，支持各种浏览器及IDE
 
 h3(#ebooks). Ebooks
 * "优化Flash平台性能（官方PDF中文版）":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
