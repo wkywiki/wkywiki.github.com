@@ -108,7 +108,7 @@ h3(#references). References
 ** "RubyDoc":http://rubydoc.info/
 ** "Ruby Monk":http://rubymonk.com/ - An Interactive Platform That Helps You Learn Ruby
 ** "24个技巧视频":http://chinaonrails.com/topic/view/5319.html
-** "Github编程风格":https://github.com/styleguide/ruby
+** "Github编程风格英文版":https://github.com/styleguide/ruby / "中文版":https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhTW.md
 * *(#references_rails)Rails*
 ** "如何从零开始学会 Ruby on Rails - 李华顺":http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails
 ** "如何从0开始学Ruby on Rails - 漫步":http://readful.com/post/12322300571/0-ruby-on-rails
