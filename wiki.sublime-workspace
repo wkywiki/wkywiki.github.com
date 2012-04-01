@@ -61,6 +61,7 @@
 	},
 	"file_history":
 	[
+		"//192.168.0.6/workspace/wiki/pages/development-design/actionscript.textile",
 		"//192.168.0.6/workspace/wiki/pages/development-design/python.textile",
 		"//192.168.1.6/workspace/wiki/pages/software/linux.textile",
 		"//192.168.1.6/workspace/wiki/assets/style.css",
@@ -191,6 +192,10 @@
 		"selected_items":
 		[
 			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
 				"acio",
 				"pages/development-design/actionscript.textile"
 			],
@@ -209,10 +214,6 @@
 			[
 				"end",
 				"pages/development-design/web-front-end.textile"
-			],
-			[
-				"obj",
-				"pages/development-design/objectivec.textile"
 			],
 			[
 				"ios",

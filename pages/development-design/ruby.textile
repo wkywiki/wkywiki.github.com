@@ -139,6 +139,8 @@ h3(#webapps). Web Apps
 * "Rails-Bestpractices":https://github.com/railsbp/rails-bestpractices.com
 * "Rubyist":https://github.com/hooopo/rubyist/ - Rubyist是一个多人协作的群体Blog
 * "Blogcast":http://techoctave.com/blogcast/ - a better way to blog
+* "Jekyll Bootstrap":http://jekyllbootstrap.com/
+* "Ruhoh":http://ruhoh.com/
 
 h3(#host). Web Host
 * "Engine Yard":http://www.engineyard.com
