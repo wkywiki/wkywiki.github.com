@@ -43,6 +43,7 @@ h3. Javascript
 ** "Smoke":http://ssssnakes.com/smoke/ - 小巧实用的javascript通知库
 
 * *JQuery <span class="misc">("website":http://jquery.com)</span>*
+** "Chosen":http://harvesthq.github.com/chosen/ - 下拉框多选插件
 ** "tablesorter":http://tablesorter.com - 表格排序插件
 ** "Waypoints":http://imakewebthings.github.com/jquery-waypoints/ - 触发页面滚动事件的小插件，很实用
 ** "Topup":http://gettopup.com - 图片显示插件
