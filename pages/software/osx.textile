@@ -53,6 +53,7 @@ h3(#entertainment). 媒体
 * "Cog":http://cogx.org/ - 音乐播放器
 * "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
 * "Perian":http://perian.org/ - 可以让quicktime支持更多格式
+* "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
 
 h3(#network). 网络
 * "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具

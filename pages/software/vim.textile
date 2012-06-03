@@ -32,3 +32,4 @@ h3. Other
 * "闲耘整理的Vim Wiki":http://wiki.hotoo.me/Vim.html
 * "Vim图表":http://michael.peopleofhonoronly.com/vim/
 * "Vim图表2":http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png
+* "Vim-Adventures":http://vim-adventures.com/ - 一款在线Vim游戏

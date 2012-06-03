@@ -43,7 +43,7 @@
 			"file": "pages/development-design/ruby.textile",
 			"settings":
 			{
-				"buffer_size": 9215,
+				"buffer_size": 9302,
 				"line_ending": "Unix"
 			}
 		},
@@ -169,7 +169,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -255,22 +255,22 @@
 					"file": "pages/development-design/ruby.textile",
 					"settings":
 					{
-						"buffer_size": 9215,
+						"buffer_size": 9302,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6873,
-								6873
+								6960,
+								6960
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": 294.0,
 						"translation.y": 2551.0,
 						"zoom_level": 1.0
 					},
@@ -373,6 +373,10 @@
 		"selected_items":
 		[
 			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
 				"win",
 				"pages/software/windows.textile"
 			],
@@ -399,10 +403,6 @@
 			[
 				"action",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
 			],
 			[
 				"open",

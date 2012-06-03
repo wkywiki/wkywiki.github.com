@@ -106,3 +106,4 @@ h3. Design Material
 * "Icons4Coffee":http://www.icons4coffee.com
 * "RaphaelJS Free Icons":http://raphaeljs.com/icons/
 * "UIcons":http://uicons.co/
+* "Emoji Cheat Sheet":http://www.emoji-cheat-sheet.com/ - 一套很全的表情

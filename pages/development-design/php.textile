@@ -42,9 +42,19 @@ h3. Forum System
 * "Vanilla":http://vanillaforums.org/
 * "esoTalk":http://esotalk.org/ - perfect balance between simplicity, power, speed, and scalability.
 
+h3. Database
+* "PHPMyAdmin":http://www.phpmyadmin.net/ - 用户众多的MySQL管理工具
+* "Adminer":http://www.adminer.org/ - 单文件，小巧实用的数据库管理工具，支持MySQL、PostgreSQL、SQLite、MSSQL、Oracle
+* "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin
+
 h3. Other
 * "Phalanger":http://www.php-compiler.net - 用PHP语言写.net web程序
 * "PHP-Parser":https://github.com/nikic/PHP-Parser - PHP解析器，可以将 PHP 源代码转换为用 PHP 数据结构描述的语法树。
 
 h3. Documents
 * "General Style and Syntax":http://codeigniter.com/user_guide/general/styleguide.html
+
+h3. Software
+* "PHPNow":http://phpnow.org/ - 绿色免费的 Apache + PHP + MySQL 环境套件包
+* "APMServ":http://apmserv.s135.com/ - 一键快速搭建Apache＋PHP＋MySQL＋Nginx＋Memcached＋ASP平台
+* "WNPM":http://code.google.com/p/wnpm/ - 一款基于Windows下的Nginx + PHP + MySQL + Zend绿色套件
