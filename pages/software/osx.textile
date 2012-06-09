@@ -41,7 +41,8 @@ h3(#commonly-used). 常用
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
 * "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
-* "Name Changer":http://www.mrrsoftware.com/MRRSoftware/NameChanger.html - 批量命名利器
+* "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 批量命名利器
+* "Name Changer":http://www.mrrsoftware.com/MRRSoftware/NameChanger.html - 同上
 
 h3(#entertainment). 媒体
 * "Enqueue":http://www.enqueueapp.com/
@@ -53,6 +54,8 @@ h3(#entertainment). 媒体
 * "Cog":http://cogx.org/ - 音乐播放器
 * "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
 * "Perian":http://perian.org/ - 可以让quicktime支持更多格式
+* "ScreenFlow":http://itunes.apple.com/us/app/screenflow/id422025166?mt=12 - 强大的屏幕录像工具
+* "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 * "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
 
 h3(#network). 网络
@@ -154,6 +157,7 @@ h3(#design). 设计
 h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
+* "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
 * "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
 
