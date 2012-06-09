@@ -43,6 +43,7 @@ h3(#commonly-used). 常用
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 批量命名利器
 * "Name Changer":http://www.mrrsoftware.com/MRRSoftware/NameChanger.html - 同上
+* "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
 
 h3(#entertainment). 媒体
 * "Enqueue":http://www.enqueueapp.com/

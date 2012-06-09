@@ -65,6 +65,7 @@ h3. Javascript
 ** "UI Bootstrap":http://addyosmani.github.com/jquery-ui-bootstrap/
 ** "turn.js":http://www.turnjs.com - 翻页特效
 ** "three.js":https://github.com/mrdoob/three.js/ - 粒子特效
+** "Jauery-BBQ":https://github.com/cowboy/jquery-bbq - 一款可以记录前进后退按钮的插件
 
 * *Node.js*
 ** "官网":http://nodejs.org/
