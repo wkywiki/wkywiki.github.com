@@ -49,6 +49,8 @@ h3. Packages & Utility Class
 ** "lxml":http://lxml.de/ - 一款高性能Python XML库，支持XPath、XSLT，可对XML和HTML执行解析、序列化和转换等
 ** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.
 ** "Logmon":https://github.com/maxcountryman/logmon - Logmon is a realtime log reader written with Flask and Juggernaut.
+** "Gevent":http://www.gevent.org/ - 非常好的用来写 Socket Server 的框架
+** "Twisted":http://twistedmatrix.com/trac/ - 同上
 
 * *Templating Engine*
 ** "Jinja2":http://www.pocoo.org/projects/jinja2/ - Jinja2 is a popular text templating engine for Python
@@ -56,15 +58,20 @@ h3. Packages & Utility Class
 * *ORM*
 ** "autumn":https://github.com/luckythetourist/autumn - a Python ORM
 
+* *Database*
+** "UltraMySQL":https://github.com/esnme/ultramysql - 用C/C++写成，号称超越 Python MySQL 的驱动
+
 * *Other*
 ** "odict":http://dev.pocoo.org/hg/sandbox/raw-file/tip/odict.py - 可以保证元素顺序的Dict
 ** "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
 ** "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
+** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
 
 h3. Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
 * "APNS Python Wrapper":http://code.google.com/p/apns-python-wrapper/ - Python wrapper for Apple Push Notification Service. 
 * "Pocoo":http://www.pocoo.org - The Pocoo Team consists of people from the Python community that are working under one umbrella on various Python libraries and applications.
+* "pyres":https://github.com/binarydud/pyres - 用 Python 实现的 Resque 克隆(后台任务处理)
 
 h3. Open Souces Web Apps
 * "Tornado Gists":https://github.com/peterbe/tornado_gists

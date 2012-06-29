@@ -29,6 +29,7 @@ h3(#misc). 实用工具
 * "Everything":http://www.voidtools.com/ - 本地文件快速搜索工具
 * "AutoHotKey":http://www.autohotkey.com/ - 开源免费非常实用的热键自动化小工具
 * "FolderMenu":http://foldermenu.sourceforge.net/ - 在我的电脑、打开/保存对话框命令提示符中实现文件夹的快速切换
+* "Toucan":http://portableapps.com/apps/utilities/toucan - 一款同步工具
 
 h3(#network). 网络
 * "Google Chrome":https://www.google.com/chrome/eula.html?system=true&standalone=1
@@ -86,6 +87,7 @@ h3(#media). 音视频处理
 * "Audition":http://www.adobe.com/products/audition.html - Adobe公司的音频处理软件，前身是CoolEdit
 * "NUENDO":http://www.nuendo.com - 德国STEINBERG公司开发的音乐制作软件
 * "Debut Video Capture Software":http://www.nchsoftware.com/capture/index.html - 摄像头和桌面视频录制
+* "Quintessential Media Player":http://www.quinnware.com/index.php - 一款音乐播放器，同时也是一款强大的 MP3 信息更发工具
 
 h3(#productivity). 效率
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件

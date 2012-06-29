@@ -42,6 +42,8 @@ h3. Javascript
 * *Library*
 ** "tinycon":https://github.com/tommoor/tinycon - 通过chrome的favicon来动态显示数字信息，比如未读消息
 ** "Smoke":http://ssssnakes.com/smoke/ - 小巧实用的javascript通知库
+** "DataTables":http://datatables.net/ - 优雅的前端表格库
+** "Jscex":http://jscex.info/ - monadic扩展
 
 * *JQuery <span class="misc">("website":http://jquery.com)</span>*
 ** "Chosen":http://harvesthq.github.com/chosen/ - 下拉框多选插件

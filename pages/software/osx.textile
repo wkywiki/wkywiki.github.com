@@ -84,6 +84,7 @@ h3(#network). 网络
 * "breakwall":http://code.google.com/p/breakwall/
 * "Notify":http://vibealicious.com/apps/notify/ - 邮件提醒，支持多帐号
 * "Little Snitch":http://www.obdev.at/products/littlesnitch/index.html - 控制应用程序访问网络
+* "Rubbernetr":http://rubbernetapp.com/ - 实时查看网络占用情况
 
 h3(#development). 开发
 

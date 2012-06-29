@@ -78,7 +78,7 @@ h3. Open Source Projects
 ** "Tiny Wings":https://github.com/haqu/tiny-wings
 
 h3. API
-* "Google Reader API":http://code.google.com/p/r2-release/wiki/GoogleReaderApi#google_reader_api_
+* "Google Reader API":http://code.google.com/p/r2-release/wiki/GoogleReaderApi
 
 h3. References
 
