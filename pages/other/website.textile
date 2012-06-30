@@ -20,7 +20,7 @@ h3. 开发
 ** "Sourceforge":http://sourceforge.net/ - 支持CVS、SVN
 ** "Gitorious":http://gitorious.org - Offers a project hosting solution and an open source graphical interface for git repositories.
 ** "CodePlex":http://www.codeplex.com/ - 微软的开源项目托管网站，支持Git
-** "bitbucket":https://bitbucket.org/ - 支持CVS/SVN/Git/Hg
+** "bitbucket":https://bitbucket.org/ - 支持Git/Hg
 ** "Project Kenai":http://kenai.com/ - 支持Hg/Git
 ** "unfuddle":http://unfuddle.com/ - 支持SVN/Git
 
