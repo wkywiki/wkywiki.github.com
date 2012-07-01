@@ -6,9 +6,9 @@ title: OS X - Software
 <div id="charpter">
 h3. Contents
 * "常用":#commonly-used
-* "媒体相关":#entertainment
-* "网络相关":#network
-* "开发相关":#development
+* "媒体":#entertainment
+* "网络":#network
+* "开发":#development
 ** "编辑器/IDE":#editor
 ** "版本管理工具":#version
 *** "SVN":#svn
@@ -41,23 +41,27 @@ h3(#commonly-used). 常用
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
 * "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
-* "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 批量命名利器
-* "Name Changer":http://www.mrrsoftware.com/MRRSoftware/NameChanger.html - 同上
+* "Renamer":http://renamer.com/ - 批量命名利器
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
 
 h3(#entertainment). 媒体
-* "Enqueue":http://www.enqueueapp.com/
-* "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器
-* "Sonora":http://getsonora.com - 音乐播放器
-* "MplayerX":http://mplayerx.org/ - 强大的视频播放器
-* "StreamToMe":http://projectswithlove.com/streamtome/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
-* "Simplier":http://simplier.com/ - 轻量级音乐播放器
-* "Cog":http://cogx.org/ - 音乐播放器
-* "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
-* "Perian":http://perian.org/ - 可以让quicktime支持更多格式
-* "ScreenFlow":http://itunes.apple.com/us/app/screenflow/id422025166?mt=12 - 强大的屏幕录像工具
-* "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
-* "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
+* *图片相关*
+** "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
+** "EasyBatchPhoto":http://www.yellowmug.com/easybatchphoto/ - 批量图片处理工具
+* *音频相关*
+** "Enqueue":http://www.enqueueapp.com/
+** "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器
+** "Sonora":http://getsonora.com - 音乐播放器
+** "Simplier":http://simplier.com/ - 轻量级音乐播放器
+** "Cog":http://cogx.org/ - 音乐播放器
+* *视频相关*
+** "MplayerX":http://mplayerx.org/ - 强大的视频播放器
+** "StreamToMe":http://projectswithlove.com/streamtome/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
+** "Perian":http://perian.org/ - 可以让quicktime支持更多格式
+** "ScreenFlow":http://itunes.apple.com/us/app/screenflow/id422025166?mt=12 - 强大的屏幕录像工具
+* *其他*
+** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
+** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
 
 h3(#network). 网络
 * "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具
@@ -178,10 +182,10 @@ h3(#system). 系统工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
 * "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
-* "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具 - 不支持lion
-* "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 功能同上，收费软件
 * "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
 * "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
+* "AppZapper":http://appzapper.com/ - 同上
+* "Go2Shell":http://itunes.apple.com/us/app/go2shell/id445770608 - 在当前选定文件夹的位置打开终端
 * "Shiftit":http://code.google.com/p/shiftit/ - 通过快捷键管理窗口布局的小工具
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
 * "Gas Mask":http://code.google.com/p/gmask/ - 方便实用的hosts文件管理工具
