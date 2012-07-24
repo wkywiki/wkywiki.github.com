@@ -30,6 +30,12 @@ h3. Framewok
 
 h3. WebSite
 * "Code4App":http://code4app.com/ - 移动平台代码库
+* "Apple Sample Code":http://developer.apple.com/iphone/library/navigation/SampleCode.html - 官方示例代码库
+* "Cocoa-China代码例子区":http://www.cocoachina.com/bbs/thread.php?fid=19
+* "Github-Objective-C":https://github.com/search?language=Objective-C
+* "CocoaObjects":http://cocoaobjects.com/
+* "CocoaControls":http://www.cocoacontrols.com/ - 自定义UI控件库
+* "泰然教程":http://article.ityran.com/tutorials
 
 h3. UI设计相关网站
 * "iOS Inspires Me":http://iosinspires.me/
@@ -95,10 +101,6 @@ h3. Other
 
 
 
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

@@ -16,6 +16,9 @@ h3. Software
 h3. Utility Class
 * "Html Agility Pack":http://htmlagilitypack.codeplex.com/ - HTML解析工具，支持xpath和xslt
 
+h3. Libraries
+* "FluorineFx":http://www.fluorinefx.com/ - 一款针对AMF0/AMF3的支持库，用于和AS3进行数据通讯
+
 h3. CMS
 * "Orchard":http://www.orchardproject.net/
 * "Umbraco":http://umbraco.com/

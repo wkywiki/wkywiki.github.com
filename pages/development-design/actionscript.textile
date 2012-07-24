@@ -42,6 +42,9 @@ h3(#utility_class). Utility Class
 * *(#component)Component*
 ** "Minimalcomps":http://www.minimalcomps.com
 
+* *(#network)Network*
+** "Actionscript-oauth2":http://charlesbihis.github.com/actionscript-oauth2/ - 一款针对OAuth2认证服务的支持库
+
 * *(#other)Other*
 ** "CollisionDetectionKit":http://code.google.com/p/collisiondetectionkit/
 ** "Casalib":http://casalib.org/
@@ -54,7 +57,7 @@ h3(#engine). Engine
 * *(#game)Game*
 ** "as3isolib":http://code.google.com/p/as3isolib/
 ** "Ash":https://github.com/richardlord/Ash - an entity framework for Actionscript games
-** "Ard2d":http://code.google.com/p/animation-render-engine/ - 位图动画渲染引擎
+** "Ard2d":http://code.google.com/p/animation-render-engine/ - 国产支持Stage3D的位图动画渲染引擎
 ** "AXEL":http://axgl.org/ - 一款支持GPU加速的2D游戏库
 ** "Flixel":http://http://www.flixel.org/
 *** "Flixel Power Tools":http://www.photonstorm.com/flixel-power-tools
@@ -66,6 +69,7 @@ h3(#engine). Engine
 ** "Pixelblitz":http://code.google.com/p/pixelblitz/
 ** "PushButton":http://pushbuttonengine.com
 *** "Platform Starter Kit":http://hanclinto.com/site/
+** "Pixas":http://code.google.com/p/pixas/ - 一款等距像素引擎
 ** "QuickB2":http://code.google.com/p/quickb2/ - A 2d physics-based game engine for Flash.
 ** "TheoWorlds":http://www.theoworlds.com/theobuilder.php
 
