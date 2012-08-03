@@ -10,6 +10,7 @@ h3. Other
 ** "Protocol Buffers Development Tools":http://code.google.com/p/protobuf-dt/ - 基于eclipse的ProtocolBuffers开发工具，需要Eclipse3.7及Xtext2.0
 * "MessagePack":http://msgpack.org - 官方宣称比ProtocolBuffers快4倍，比Json快10倍的序列化包
 * "FastDFS":http://code.google.com/p/fastdfs/ - 一款高性能分布式文件系统
+* "Gerrit":http://code.google.com/p/gerrit/ - 基于Web的项目Code Review系统
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

@@ -30,6 +30,8 @@ h3. CMS
 * "Joomla":http://www.joomla.org/
 * "dedeCMS(织梦)":http://www.dedecms.com
 * "GetSimple":http://get-simple.info/
+* "ECShop":http://www.ecshop.com/ - 开源中文网店系统
+* "Shopilex":http://www.shopilex.com/ - 同上
 
 h3. Forum System
 * "Discuz":http://www.discuz.net/

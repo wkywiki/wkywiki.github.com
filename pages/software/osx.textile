@@ -54,9 +54,11 @@ h3(#entertainment). 媒体
 ** "Cog":http://cogx.org/ - 音乐播放器
 * *视频相关*
 ** "MplayerX":http://mplayerx.org/ - 强大的视频播放器
-** "StreamToMe":http://projectswithlove.com/streamtome/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
+** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
+** "StreamToMe":http://projectswithlove.com/streamtome/ - 同上
 ** "Perian":http://perian.org/ - 可以让quicktime支持更多格式
 ** "ScreenFlow":http://itunes.apple.com/us/app/screenflow/id422025166?mt=12 - 强大的屏幕录像工具
+** "ScreenFlick":http://www.araelium.com/screenflick/ - 同上
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
@@ -178,6 +180,7 @@ h3(#system). 系统工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
 * "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
+* "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 同上
 * "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
 * "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
