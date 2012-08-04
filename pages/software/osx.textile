@@ -46,6 +46,7 @@ h3(#entertainment). 媒体
 * *图片相关*
 ** "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
 ** "EasyBatchPhoto":http://www.yellowmug.com/easybatchphoto/ - 批量图片处理工具
+** "ImageOptim":http://imageoptim.com/ - png优化工具
 * *音频相关*
 ** "Enqueue":http://www.enqueueapp.com/
 ** "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器

@@ -82,6 +82,7 @@ h3(#design). 设计
 * "Converseen":http://converseen.sourceforge.net/ - 跨平台图片处理工具
 * "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
 * "SuperGIF":http://www.boxtopsoft.com/supergif.html - gif优化工具
+* "PNGGauntlet":http://pnggauntlet.com/ - PNG优化工具
 
 h3(#media). 音视频处理
 * "Audition":http://www.adobe.com/products/audition.html - Adobe公司的音频处理软件，前身是CoolEdit
