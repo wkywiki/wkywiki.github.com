@@ -104,6 +104,9 @@ h3(#engine). Engine
 ** "Flint":http://flintparticles.org
 ** "Stardust-Particle":http://code.google.com/p/stardust-particle-engine/
 
+* *(#other)Other*
+** "RaveAI":http://www.aliensatemybaby.com/raveai/ - 一款通用AI引擎
+
 h3(#framework). Framework
 * "SomaMVC":http://code.google.com/p/somamvc/
 * "robotlegs":http://www.robotlegs.org/ - MVC框架
