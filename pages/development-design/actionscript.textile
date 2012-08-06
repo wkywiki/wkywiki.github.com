@@ -47,6 +47,7 @@ h3(#utility_class). Utility Class
 
 * *(#other)Other*
 ** "CollisionDetectionKit":http://code.google.com/p/collisiondetectionkit/
+** "Collision-AS3":http://martinkallman.github.com/collision-as3/ - 一款支持Quadtree和Spatial Hash Grid的碰撞检测库
 ** "Casalib":http://casalib.org/
 ** "doomsdayconsole(强大的控制台辅助工具)":http://code.google.com/p/doomsdayconsole/
 ** "TransformTool":http://www.senocular.com/flash/tutorials/transformtool/
