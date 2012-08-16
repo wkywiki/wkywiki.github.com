@@ -30,6 +30,7 @@ h3(#misc). 实用工具
 * "AutoHotKey":http://www.autohotkey.com/ - 开源免费非常实用的热键自动化小工具
 * "FolderMenu":http://foldermenu.sourceforge.net/ - 在我的电脑、打开/保存对话框命令提示符中实现文件夹的快速切换
 * "Toucan":http://portableapps.com/apps/utilities/toucan - 一款同步工具
+* "executor":http://www.executor.dk/ - 一款实用的启动工具，类似Mac下的Alfred
 
 h3(#network). 网络
 * "Google Chrome":https://www.google.com/chrome/eula.html?system=true&standalone=1
@@ -110,6 +111,7 @@ h3(#system). 系统
 * "FolderMonitor":http://www.nodesoft.com/foldermonitor - 文件夹监控工具
 * "Listary":http://www.listary.com/ - Windows 文件浏览增强工具，为Windows 资源管理器增加智能命令、最近文档以及收藏功能
 * "MacType":http://getmactype.com/ - 实现 OSX 渲染效果的软件
+* "ConEmu":http://code.google.com/p/conemu-maximus5/ - 很强的终端模拟器
 
 h3(#other). 其他
 * "KidLogger":http://kidlogger.net/ - 用户行为监控软件，可以记录网页访问、键盘输入、运行程序等
