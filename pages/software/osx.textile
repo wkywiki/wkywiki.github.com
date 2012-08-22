@@ -132,6 +132,8 @@ h3(#development). 开发
 ** "Dash":http://kapeli.com/dash/ - 代码管理工具
 ** "JSTalk Editor":http://jstalk.org/ - 基于JS脚本的系统自动化工具
 ** "Reggy":http://reggyapp.com/ - 正则表达式测试工具
+** "Charles":http://www.charlessoft.com/ - 一款软件提取工具，无需安装即可修改安装包的内容
+** "DeltaWalker Oro Edition":http://www.deltopia.com/ - 一款强大的文件/文件夹对比工具
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境

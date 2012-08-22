@@ -106,6 +106,10 @@
 		"selected_items":
 		[
 			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
 				"wind",
 				"pages/software/windows.textile"
 			],
@@ -155,7 +159,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 215.0,
 	"status_bar_visible": true
 }

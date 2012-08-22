@@ -87,6 +87,9 @@ h3. Javascript
 *** "jQuery版本支持列表":http://lib.sinaapp.com/?path=jquery/
 ** "CDNJS":http://www.cdnjs.com/ - 同样采用CDN技术，提供几乎全部JS库的引用支持
 
+* *Other*
+** "EpicEditor":http://epiceditor.com/ - 一款很棒的Markdown在线编辑器
+
 h3. HTML
 
 * *Web Text Editor*

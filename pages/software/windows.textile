@@ -84,6 +84,7 @@ h3(#design). 设计
 * "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
 * "SuperGIF":http://www.boxtopsoft.com/supergif.html - gif优化工具
 * "PNGGauntlet":http://pnggauntlet.com/ - PNG优化工具
+* "PNGQuant":http://pngquant.org/ - 将24/32-bit的PNG图片转为8-bit而不破坏透明度的小工具
 
 h3(#media). 音视频处理
 * "Audition":http://www.adobe.com/products/audition.html - Adobe公司的音频处理软件，前身是CoolEdit

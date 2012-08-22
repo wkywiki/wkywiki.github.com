@@ -1,0 +1,12 @@
+---
+layout: default
+title: Chrome - Software
+---
+
+h1. Chrome
+
+h3(#plugins). Plugins
+** "JsonView":https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
+
+h3(#scripts). Scripts
+** "Straight Google":https://userscripts.org/scripts/show/121261 - 一款去Google跳转链接的工具
