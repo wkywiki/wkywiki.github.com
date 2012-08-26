@@ -15,7 +15,7 @@ h3. Contents
 * "设计":#design
 * "音视频处理":#media
 * "效率":#productivity
-* "娱乐":entertainment
+* "娱乐":#entertainment
 * "系统":#system
 * "其他":#other
 </div>

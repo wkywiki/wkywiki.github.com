@@ -19,7 +19,7 @@
 			"file": "pages/software/osx.textile",
 			"settings":
 			{
-				"buffer_size": 9015,
+				"buffer_size": 9390,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,24 +27,8 @@
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
 			"settings":
 			{
-				"buffer_size": 4103,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/other/website.textile",
-			"settings":
-			{
-				"buffer_size": 2342,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "\n",
-			"settings":
-			{
-				"buffer_size": 1,
-				"line_ending": "Unix"
+				"buffer_size": 4341,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -72,7 +56,14 @@
 	},
 	"file_history":
 	[
+		"/Users/Bindiry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bindiry/workspaces/wiki/pages/software/sublime-text.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/website.textile",
+		"/Users/Bindiry/Downloads/114087.user.js",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
@@ -80,21 +71,16 @@
 		"/Users/Bindiry/workspaces/wiki/pages/development-design/database.textile",
 		"/Users/Bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/Bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
-		"/Users/bindiry/workspaces/wiki/pages/other/website.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-		"/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
-		"/Users/bindiry/workspaces/wiki/pages/software/sublime-text.textile",
 		"/Users/bindiry/workspaces/_examples/liarliar/good.txt",
 		"/Users/bindiry/workspaces/_examples/liarliar/liarliar",
 		"/Users/bindiry/workspaces/_examples/liarliar/goodmorning",
 		"/Users/bindiry/workspaces/_examples/liarliar/test",
 		"/Users/bindiry/workspaces/_examples/liarliar/helloworld",
 		"/Users/bindiry/workspaces/_examples/liarliar/test.html",
-		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
 		"/Users/bindiry/Downloads/应聘列表.txt",
 		"/Users/bindiry/workspaces/wiki/pages/software/macos.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/kindle.textile",
@@ -161,7 +147,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -169,15 +155,15 @@
 					"file": "pages/software/osx.textile",
 					"settings":
 					{
-						"buffer_size": 9015,
+						"buffer_size": 9390,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2580,
-								2580
+								0,
+								0
 							]
 						],
 						"settings":
@@ -185,7 +171,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 887.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -195,72 +181,20 @@
 					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
 					"settings":
 					{
-						"buffer_size": 4103,
+						"buffer_size": 4341,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3624,
-								3624
+								3595,
+								3595
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1779.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/bindiry/workspaces/wiki/pages/other/website.textile",
-					"settings":
-					{
-						"buffer_size": 2342,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								847,
-								847
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"settings":
-					{
-						"buffer_size": 1,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1,
-								1
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -312,6 +246,26 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"subli",
+				"pages/software/sublime-text.textile"
+			],
+			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"pre",
+				"pages/other/references.textile"
+			],
+			[
+				"open",
+				"pages/other/open_source_projects.textile"
+			],
 			[
 				"osx",
 				"pages/software/osx.textile"
@@ -365,10 +319,6 @@
 				"pages/development-design/database.textile"
 			],
 			[
-				"php",
-				"pages/development-design/php.textile"
-			],
-			[
 				"ruby",
 				"pages/development-design/ruby.textile"
 			],
@@ -379,10 +329,6 @@
 			[
 				"front",
 				"pages/development-design/web-front-end.textile"
-			],
-			[
-				"open",
-				"pages/other/open_source_projects.textile"
 			],
 			[
 				"act",
@@ -441,10 +387,6 @@
 				"_posts/2011-11-28-ruby-on-rails-notes.textile"
 			],
 			[
-				"window",
-				"pages/software/windows.textile"
-			],
-			[
 				"maco",
 				"pages/software/macos.textile"
 			]
@@ -466,7 +408,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 262.0,
 	"status_bar_visible": true
 }
