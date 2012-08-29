@@ -41,6 +41,7 @@ h3(#utility_class). Utility Class
 
 * *(#component)Component*
 ** "Minimalcomps":http://www.minimalcomps.com
+** "Libraui":http://code.google.com/p/libraui/ - 一款简易的flash UI组件
 
 * *(#network)Network*
 ** "Actionscript-oauth2":http://charlesbihis.github.com/actionscript-oauth2/ - 一款针对OAuth2认证服务的支持库
