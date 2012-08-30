@@ -55,6 +55,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ghostcat",
 			"GPU",
 			"sphinx",
 			"minui",
@@ -115,6 +116,14 @@
 		"selected_items":
 		[
 			[
+				"frend",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"acti",
+				"pages/development-design/actionscript.textile"
+			],
+			[
 				"osx",
 				"pages/software/osx.textile"
 			],
@@ -145,10 +154,6 @@
 			[
 				"windw",
 				"pages/software/windows.textile"
-			],
-			[
-				"frend",
-				"pages/development-design/web-front-end.textile"
 			],
 			[
 				"open",
