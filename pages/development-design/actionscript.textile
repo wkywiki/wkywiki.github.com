@@ -119,6 +119,7 @@ h3(#software). Software
 * *(#design)Design*
 ** "MarkMan":http://www.getmarkman.com/ - 马克鳗
 ** "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
+** "Skeleton":https://github.com/akdcl/skeleton - 一款骨骼动画工具
 
 * *(#development)Development*
 ** *(#ide)IDE*

@@ -116,6 +116,14 @@
 		"selected_items":
 		[
 			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
+			[
 				"frend",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -126,10 +134,6 @@
 			[
 				"osx",
 				"pages/software/osx.textile"
-			],
-			[
-				"action",
-				"pages/development-design/actionscript.textile"
 			],
 			[
 				"python",
