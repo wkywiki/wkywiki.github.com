@@ -12,6 +12,7 @@ h3. Utility Tools
 * "ConciseKit":https://github.com/petejkim/ConciseKit - 用Macros简化ObjectiveC开发
 * "CocosBuilder":http://cocosbuilder.com/ - Cocos场景编辑器
 * "Injection for Xcode":http://injectionforxcode.com/ - 可以让Xcode调试时直接修发看结果，不用Build
+* "PonyDebugger":https://github.com/square/PonyDebugger - 使用 Google Chrome Developer Tools 设试 iOS app
 
 h3. Utility Class
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X
@@ -102,6 +103,5 @@ h3. Other
 
 
 
-<br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

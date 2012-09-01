@@ -76,6 +76,7 @@ h3. Other
 h3. Open Souces Web Apps
 * "Tornado Gists":https://github.com/peterbe/tornado_gists
 * "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序
+* "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
 
 h3. Ebooks
 * *Python*
