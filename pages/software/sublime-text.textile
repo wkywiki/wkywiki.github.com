@@ -29,6 +29,7 @@ h3. Packages
 * "Sublime Package Control":http://wbond.net/sublime_packages/package_control - Sublime Text包管理器
 * "Packages by Will Bond":http://wbond.net/sublime_packages/
 * "Haml-Sass":https://github.com/n00ge/sublime-text-haml-sass - haml和sass支持
+* "CSS格式化":https://gist.github.com/2863474
 
 h3. Articles
 * "Sublime Text 2 Tips and Tricks":http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
@@ -37,6 +38,7 @@ h3. Articles
 * "Sublime Text 2 实用快捷键[Mac OS X]":http://lucifr.com/139235/sublime-text-2-useful-shortcuts/
 * "Sublime Text 2 使用小记":http://readful.com/post/9774110738/sublime-text-2
 * "Sublime Text 2 快速上手":http://hhuai.github.com/blog/2012/01/08/sublime-text-intro/
+＊ "Sublime Text 2 设置文件详解":http://www.feelcss.com/sublime-text-2-settings.html
 
 h3. Config
 
