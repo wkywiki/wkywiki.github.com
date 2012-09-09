@@ -16,7 +16,8 @@ h3. Development
 * "Google Style Guide":https://code.google.com/p/google-styleguide/
 
 h3. Other
-* "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/ 
+* "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/
+* "程序员能力矩阵":http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
