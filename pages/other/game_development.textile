@@ -1,0 +1,27 @@
+---
+layout: default
+title: Game Development
+---
+
+h1. {{ page.title }}
+
+h3. Music & SFX
+* "FreeSound":http://www.freesound.org/
+* "CuePop":http://www.cuepop.com/
+* "Royalty Free Music":http://www.danosongs.com/
+* "Royalty Free Music II":http://incompetech.com/music/royalty-free/
+* "as3sfxr":http://www.superflashbros.net/as3sfxr/
+* "soundsnap":http://www.soundsnap.com
+* "MagnaTune":https://magnatune.com/
+* "SoundRangers":http://www.soundrangers.com/
+* "フリー音楽素材":http://shw.in/sozai/
+* "Soundbible":http://soundbible.com/
+* "NewGrounds Audio":http://www.newgrounds.com/audio/
+* "Flash Kit Sounds Loops":http://www.flashkit.com/loops/
+
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
