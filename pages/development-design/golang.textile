@@ -1,0 +1,15 @@
+---
+layout: default
+title: GoLang
+---
+
+h1. Go Lang
+
+h3. Website
+* "Official Website":http://golang.org/
+
+h3. Libraries
+* "Libraries Written in Go":http://go-lang.cat-v.org/pure-go-libs
+
+h3. Framework
+* "GoWeb":http://code.google.com/p/goweb/ - Lightweight RESTful web framework for Go

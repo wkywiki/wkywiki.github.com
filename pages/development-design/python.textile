@@ -41,9 +41,6 @@ h3. Web Content Management System(CMS)
 ** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统
 
 h3. Packages & Utility Class
-* *CMS*
-** "APScheduler":http://packages.python.org/APScheduler/ - APScheduler is a light but powerful in-process task scheduler that lets you schedule functions (or any other python callables) to be executed at times of your choosing.
-
 * *Network*
 ** "lxml":http://lxml.de/ - 一款高性能Python XML库，支持XPath、XSLT，可对XML和HTML执行解析、序列化和转换等
 ** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.
@@ -65,6 +62,7 @@ h3. Packages & Utility Class
 ** "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
 ** "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
 ** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
+** "APScheduler":http://packages.python.org/APScheduler/ - APScheduler is a light but powerful in-process task scheduler that lets you schedule functions (or any other python callables) to be executed at times of your choosing.
 
 h3. Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
@@ -76,6 +74,8 @@ h3. Other
 h3. Open Souces Web Apps
 * "Tornado Gists":https://github.com/peterbe/tornado_gists
 * "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序
+* "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
+* "Feincms":http://www.feincms.org/ - 开源CMS系统
 
 h3. Ebooks
 * *Python*

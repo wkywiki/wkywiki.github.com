@@ -16,19 +16,11 @@
 	"buffers":
 	[
 		{
-			"file": "pages/software/osx.textile",
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
 			"settings":
 			{
-				"buffer_size": 9390,
+				"buffer_size": 284,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-			"settings":
-			{
-				"buffer_size": 4341,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -56,8 +48,14 @@
 	},
 	"file_history":
 	[
-		"/Users/Bindiry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
+		"/Users/bindiry/workspaces/wiki/index.html",
+		"/Users/Bindiry/workspaces/wiki/pages/software/osx.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/sublime-text.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+		"/Users/Bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Bindiry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
@@ -66,14 +64,11 @@
 		"/Users/Bindiry/Downloads/114087.user.js",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
-		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
 		"/Users/Bindiry/workspaces/wiki/pages/development-design/database.textile",
 		"/Users/Bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/Bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/workspaces/_examples/liarliar/good.txt",
 		"/Users/bindiry/workspaces/_examples/liarliar/liarliar",
@@ -119,6 +114,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"+k",
+			"* \"Eclipse\":http://www.eclipse.org/ + \"pydev\":http://pydev.org/\n* \"Aptana\":http://aptana.com\n* \"VIM\":/pages/software/vim.html\n* \"Emacs\":http://www.gnu.org/software/emacs/\n* \"Sublime Text ",
 			"rubbernet",
 			"code4app",
 			"更简洁实用的批量图片处理",
@@ -147,49 +144,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/software/osx.textile",
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
 					"settings":
 					{
-						"buffer_size": 9390,
+						"buffer_size": 284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 887.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-					"settings":
-					{
-						"buffer_size": 4341,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3595,
-								3595
+								284,
+								284
 							]
 						],
 						"settings":
@@ -247,6 +218,18 @@
 		"selected_items":
 		[
 			[
+				"python",
+				"pages/development-design/python.textile"
+			],
+			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
 				"subli",
 				"pages/software/sublime-text.textile"
 			],
@@ -265,10 +248,6 @@
 			[
 				"open",
 				"pages/other/open_source_projects.textile"
-			],
-			[
-				"osx",
-				"pages/software/osx.textile"
 			],
 			[
 				"web",
@@ -297,14 +276,6 @@
 			[
 				"action",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"python",
-				"pages/development-design/python.textile"
-			],
-			[
-				"obj",
-				"pages/development-design/objectivec.textile"
 			],
 			[
 				"frene",
@@ -408,7 +379,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 262.0,
 	"status_bar_visible": true
 }
