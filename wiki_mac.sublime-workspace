@@ -22,6 +22,46 @@
 				"buffer_size": 284,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+			"settings":
+			{
+				"buffer_size": 4462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
+			"settings":
+			{
+				"buffer_size": 6680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+			"settings":
+			{
+				"buffer_size": 4478,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+			"settings":
+			{
+				"buffer_size": 9845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/other/game_development.textile",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -48,6 +88,9 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
+		"/Volumes/120G/downloads/lightroom41_sn.txt",
 		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
 		"/Users/bindiry/workspaces/wiki/index.html",
 		"/Users/Bindiry/workspaces/wiki/pages/software/osx.textile",
@@ -58,7 +101,6 @@
 		"/Users/Bindiry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
-		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/website.textile",
 		"/Users/Bindiry/Downloads/114087.user.js",
@@ -68,7 +110,6 @@
 		"/Users/Bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/Bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
-		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/workspaces/_examples/liarliar/good.txt",
 		"/Users/bindiry/workspaces/_examples/liarliar/liarliar",
@@ -114,6 +155,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"fenincms",
 			"+k",
 			"* \"Eclipse\":http://www.eclipse.org/ + \"pydev\":http://pydev.org/\n* \"Aptana\":http://aptana.com\n* \"VIM\":/pages/software/vim.html\n* \"Emacs\":http://www.gnu.org/software/emacs/\n* \"Sublime Text ",
 			"rubbernet",
@@ -144,7 +186,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -161,6 +203,136 @@
 							[
 								284,
 								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+					"settings":
+					{
+						"buffer_size": 4462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3753,
+								3753
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1617.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
+					"settings":
+					{
+						"buffer_size": 6680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 166.0,
+						"translation.y": 1560.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+					"settings":
+					{
+						"buffer_size": 4478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								576,
+								576
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2051.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+					"settings":
+					{
+						"buffer_size": 9845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1179,
+								1179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 441.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/bindiry/workspaces/wiki/pages/other/game_development.textile",
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								703,
+								703
 							]
 						],
 						"settings":
@@ -218,16 +390,32 @@
 		"selected_items":
 		[
 			[
-				"python",
-				"pages/development-design/python.textile"
+				"game",
+				"pages/other/game_development.textile"
+			],
+			[
+				"osx",
+				"pages/software/osx.textile"
 			],
 			[
 				"obj",
 				"pages/development-design/objectivec.textile"
 			],
 			[
-				"osx",
-				"pages/software/osx.textile"
+				"pytho",
+				"pages/development-design/python.textile"
+			],
+			[
+				"fer",
+				"pages/other/references.textile"
+			],
+			[
+				"at",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"python",
+				"pages/development-design/python.textile"
 			],
 			[
 				"subli",
@@ -292,10 +480,6 @@
 			[
 				"ruby",
 				"pages/development-design/ruby.textile"
-			],
-			[
-				"pytho",
-				"pages/development-design/python.textile"
 			],
 			[
 				"front",

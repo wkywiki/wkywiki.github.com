@@ -40,6 +40,7 @@ h3(#commonly-used). 常用
 * "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
 * "Renamer":http://renamer.com/ - 批量命名利器
+* "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
 
 h3(#entertainment). 媒体
