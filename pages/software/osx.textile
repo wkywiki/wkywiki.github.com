@@ -179,6 +179,7 @@ h3(#productivity). 效率
 h3(#system). 系统工具
 * "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
 * "PathFinder":http://cocoatech.com/ - 同上
+* "XtraFinder":http://www.trankynam.com/xtrafinder/ - 同上，免费的TotalFinder替代软件
 * "HyperDock":http://hyperdock.bahoom.com/ - 让Dock程序显示预览窗口
 * "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
 * "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具
