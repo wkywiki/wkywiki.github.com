@@ -168,6 +168,7 @@ h3(#design). 设计
 ** "Pochade":http://www.fuelcollective.com/pochade - 轻巧实用的取色软件
 ** "Skim":http://skim-app.sourceforge.net/ - PDF编辑软件
 ** "PDFpenPro":http://smilesoftware.com/PDFpenPro/ - 同上
+** "AnteType":http://antetype.com/ - UI设计软件
 
 h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大

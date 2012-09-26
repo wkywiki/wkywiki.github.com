@@ -116,12 +116,16 @@
 		"selected_items":
 		[
 			[
-				"obj",
-				"pages/development-design/objectivec.textile"
+				"osx",
+				"pages/software/osx.textile"
 			],
 			[
 				"act",
 				"pages/development-design/actionscript.textile"
+			],
+			[
+				"obj",
+				"pages/development-design/objectivec.textile"
 			],
 			[
 				"action",
@@ -138,10 +142,6 @@
 			[
 				"acti",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"osx",
-				"pages/software/osx.textile"
 			],
 			[
 				"python",
