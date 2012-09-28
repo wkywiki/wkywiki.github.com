@@ -56,6 +56,7 @@ h3. Other
 
 h3. Documents
 * "General Style and Syntax":http://codeigniter.com/user_guide/general/styleguide.html
+* "PHP之道":http://wulijun.github.com/php-the-right-way/
 
 h3. Software
 * "PHPNow":http://phpnow.org/ - 绿色免费的 Apache + PHP + MySQL 环境套件包
