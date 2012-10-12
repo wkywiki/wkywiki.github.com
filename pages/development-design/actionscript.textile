@@ -29,6 +29,7 @@ h1. ActionScript
 h3(#utility_class). Utility Class
 * *(#tweener)Tweener*
 ** "Tweening Platform":http://blog.greensock.com
+** "tween24":http://code.google.com/p/tween24/ - 一位日本人写的tween库
 ** "Tweener":http://code.google.com/p/tweener/
 
 * *(#audio)Audio*
