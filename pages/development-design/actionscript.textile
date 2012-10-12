@@ -40,7 +40,10 @@ h3(#utility_class). Utility Class
 ** "graffiti":http://www.nocircleno.com/graffiti/
 
 * *(#component)Component*
-** "Minimalcomps":http://www.minimalcomps.com
+** "Minimalcomps":http://www.minimalcomps.com - 小巧的纯AS组件库
+*** "Skinnable Minimal Components":https://github.com/dgrigg/SkinnableMinimalComponents/ - 第三方让MinimalComps支持皮肤的实现
+** "AS3-Bloom":https://github.com/impaler/As3-Bloom - 轻量级用户界面
+** "Razor Components":https://github.com/razorberry/razor - 一套支持皮肤的纯AS组件库
 ** "Libraui":http://code.google.com/p/libraui/ - 一款简易的flash UI组件
 
 * *(#network)Network*
@@ -54,6 +57,7 @@ h3(#utility_class). Utility Class
 ** "TransformTool":http://www.senocular.com/flash/tutorials/transformtool/
 ** "XMLSerializer":http://www.libspark.org/wiki/clockmaker/XMLSerializer - 可以将xml和as3 object互相转换
 ** "FastStats":https://github.com/esDotDev/FastStats - 支持Flash Native DisplayList, ND2D 和 Starling 的 Benchmark 数据显示工具
+** "AS3-Signals":https://github.com/robertpenner/as3-signals - 代替AS3原生事件的新实现库
 
 h3(#engine). Engine
 * *(#game)Game*

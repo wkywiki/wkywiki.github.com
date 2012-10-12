@@ -13,3 +13,6 @@ h3. Libraries
 
 h3. Framework
 * "GoWeb":http://code.google.com/p/goweb/ - Lightweight RESTful web framework for Go
+
+h3. References
+* "Introducing Go by Example":http://mmcgrana.github.com/2012/10/introducing-go-by-example.html

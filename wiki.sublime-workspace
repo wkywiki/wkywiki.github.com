@@ -41,7 +41,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -55,6 +55,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Signals",
 			"ghostcat",
 			"GPU",
 			"sphinx",
@@ -116,6 +117,14 @@
 		"selected_items":
 		[
 			[
+				"ac",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
 				"osx",
 				"pages/software/osx.textile"
 			],
@@ -130,10 +139,6 @@
 			[
 				"action",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"php",
-				"pages/development-design/php.textile"
 			],
 			[
 				"frend",
