@@ -59,6 +59,7 @@ h3(#utility_class). Utility Class
 ** "XMLSerializer":http://www.libspark.org/wiki/clockmaker/XMLSerializer - 可以将xml和as3 object互相转换
 ** "FastStats":https://github.com/esDotDev/FastStats - 支持Flash Native DisplayList, ND2D 和 Starling 的 Benchmark 数据显示工具
 ** "AS3-Signals":https://github.com/robertpenner/as3-signals - 代替AS3原生事件的新实现库
+** "Lua-Alchemy":http://code.google.com/p/lua-alchemy/ - Port of the Lua programming language for ActionScript using Alchemy
 
 h3(#engine). Engine
 * *(#game)Game*

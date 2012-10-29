@@ -117,6 +117,22 @@
 		"selected_items":
 		[
 			[
+				"py",
+				"pages/development-design/python.textile"
+			],
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
+				"go",
+				"pages/development-design/golang.textile"
+			],
+			[
 				"ac",
 				"pages/development-design/actionscript.textile"
 			],
@@ -135,10 +151,6 @@
 			[
 				"obj",
 				"pages/development-design/objectivec.textile"
-			],
-			[
-				"action",
-				"pages/development-design/actionscript.textile"
 			],
 			[
 				"frend",
@@ -183,14 +195,6 @@
 			[
 				"objc",
 				"pages/development-design/objectivec.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
-			],
-			[
-				"py",
-				"pages/development-design/python.textile"
 			]
 		],
 		"width": 0.0
