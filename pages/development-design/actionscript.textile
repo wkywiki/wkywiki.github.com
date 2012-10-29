@@ -39,6 +39,7 @@ h3(#utility_class). Utility Class
 * *(#graphic)Graphic*
 ** "as3-bitmap-mosaic-class":http://juliankussman.com/blog/2008/10/01/as3-bitmap-mosaic-class
 ** "graffiti":http://www.nocircleno.com/graffiti/
+** "Volumetrics":https://github.com/yonatan/volumetrics - 一款实时光照效果库
 
 * *(#component)Component*
 ** "Minimalcomps":http://www.minimalcomps.com - 小巧的纯AS组件库
