@@ -86,6 +86,8 @@ h3(#engine). Engine
 *** "Starling-imagebatch":https://github.com/elsassph/starling-imagebatch - An optimized Image batch class for Starling.
 *** "Starling中文站":http://www.starlinglib.com/
 *** "Skeleton":https://github.com/akdcl/skeleton - 支持Starling的骨骼动画和帖图整合实现("博文":http://blog.sina.com.cn/s/blog_570dfe6a01013wua.html)
+**** "SkeletonAnimationFrameWork":https://github.com/DragonBones/SkeletonAnimationFramework / "Demo":http://akdcl.sinaapp.com/example.html / "Wiki":https://github.com/DragonBones/SkeletonAnimationFramework/wiki
+**** "SkeletonDesignPanel":https://github.com/DragonBones/SkeletonDesignPanel / "Demo":http://dragonbones.github.com/demo.html
 *** "Stats":http://forum.starling-framework.org/topic/starling-port-of-mrdoobs-stats-class - 支持Starling的统计工具
 ** "TheoWorlds":http://www.theoworlds.com/theobuilder.php
 
