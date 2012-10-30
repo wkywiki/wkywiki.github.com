@@ -32,6 +32,7 @@
 	},
 	"file_history":
 	[
+		"/F/git/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-notes.textile",
 		"/F/git/jonaslam.github.com/pages/software/windows.textile",
 		"/F/git/jonaslam.github.com/pages/software/osx.textile",
 		"/F/git/jonaslam.github.com/pages/software/chrome.textile",
@@ -58,6 +59,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"volumetrics",
+			"lua",
 			"Signals",
 			"ghostcat",
 			"GPU",
@@ -128,12 +131,16 @@
 		"selected_items":
 		[
 			[
-				"py",
-				"pages/development-design/python.textile"
+				"lua",
+				"_posts/2011-11-17-the-ruby-programming-language-notes.textile"
 			],
 			[
 				"action",
 				"pages/development-design/actionscript.textile"
+			],
+			[
+				"py",
+				"pages/development-design/python.textile"
 			],
 			[
 				"ruby",
