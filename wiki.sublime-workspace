@@ -120,12 +120,12 @@
 		"selected_items":
 		[
 			[
-				"lua",
-				"_posts/2011-11-17-the-ruby-programming-language-notes.textile"
-			],
-			[
 				"action",
 				"pages/development-design/actionscript.textile"
+			],
+			[
+				"lua",
+				"_posts/2011-11-17-the-ruby-programming-language-notes.textile"
 			],
 			[
 				"py",

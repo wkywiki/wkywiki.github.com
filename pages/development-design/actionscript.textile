@@ -124,6 +124,9 @@ h3(#framework). Framework
 * "MVCExpress":http://mvcexpress.org/ - 快速简单的MVC基础框架
 * "Cuke4AS3":https://github.com/flashquartermaster/Cuke4AS3 - 行为驱动开发(Behavior-driven development)框架
 * "GPUImage":https://github.com/inspirit/GPUImage - 一款GPU处理图像的框架
+* **UI框架**
+** "Morn":https://github.com/yungzhu/morn - 一款小巧简洁的游戏UI框架，带编辑器
+** "FlexLite":https://github.com/flexlite/framework - 一款轻量级的游戏UI框架
 
 h3(#software). Software
 * *(#design)Design*
