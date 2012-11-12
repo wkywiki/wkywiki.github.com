@@ -46,6 +46,7 @@ h3(#network). 网络
 * "ClipGrab":http://clipgrab.de/en - 视频下载工具，支持代理
 * "Proxifier":http://www.proxifier.com - 让不支持代理服务器的程序使用代理
 * "chnroutes":http://code.google.com/p/chnroutes/wiki/Usage - 路由表
+* "ForceBindIP":http://www.r1ch.net/stuff/forcebindip/ - 可以让指定程序使用指定网络
 
 h3(#develop). 开发
 * *(#editor)编辑器*
