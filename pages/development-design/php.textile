@@ -5,6 +5,9 @@ title: PHP
 
 h1. PHP
 
+h3. Utility Class
+* "PHP Error":http://phperror.net/ - 错误报告工具
+
 h3. Frameworks
 * "CakePHP":http://cakephp.org/
 * "Yii":http://www.yiiframework.com/

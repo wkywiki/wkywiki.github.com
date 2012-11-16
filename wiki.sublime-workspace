@@ -121,6 +121,10 @@
 		"selected_items":
 		[
 			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
 				"go",
 				"pages/development-design/golang.textile"
 			],

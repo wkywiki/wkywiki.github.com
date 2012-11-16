@@ -47,6 +47,7 @@ h3(#utility_class). Utility Class
 ** "AS3-Bloom":https://github.com/impaler/As3-Bloom - 轻量级用户界面
 ** "Razor Components":https://github.com/razorberry/razor - 一套支持皮肤的纯AS组件库
 ** "Libraui":http://code.google.com/p/libraui/ - 一款简易的flash UI组件
+** "Span.as":http://crosspop.github.com/spin.as/ - 一个旋转loading样式组件
 
 * *(#network)Network*
 ** "Actionscript-oauth2":http://charlesbihis.github.com/actionscript-oauth2/ - 一款针对OAuth2认证服务的支持库
@@ -61,6 +62,7 @@ h3(#utility_class). Utility Class
 ** "FastStats":https://github.com/esDotDev/FastStats - 支持Flash Native DisplayList, ND2D 和 Starling 的 Benchmark 数据显示工具
 ** "AS3-Signals":https://github.com/robertpenner/as3-signals - 代替AS3原生事件的新实现库
 ** "Lua-Alchemy":http://code.google.com/p/lua-alchemy/ - Port of the Lua programming language for ActionScript using Alchemy
+** "fzip":https://github.com/claus/fzip - 读取，修改，创建标准zip文件
 
 h3(#engine). Engine
 * *(#game)Game*

@@ -13,6 +13,7 @@ h3. Utility Tools
 * "CocosBuilder":http://cocosbuilder.com/ - Cocos场景编辑器
 * "Injection for Xcode":http://injectionforxcode.com/ - 可以让Xcode调试时直接修发看结果，不用Build
 * "PonyDebugger":https://github.com/square/PonyDebugger - 使用 Google Chrome Developer Tools 设试 iOS app
+* "CocoaPods":https://github.com/CocoaPods/CocoaPods - 库依赖关系管理器
 
 h3. Utility Class
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X

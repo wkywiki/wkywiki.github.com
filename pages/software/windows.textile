@@ -69,6 +69,7 @@ h3(#develop). 开发
 * *(#database)数据库*
 ** "SQLiteSpy":http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index - 小巧实用的SQLite管理工具
 ** "SQLite Administrator":http://sqliteadmin.orbmu2k.de/ - 功能强大的SQLite管理软件
+** "Navicat Premium":http://www.navicat.com - 强大的数据库管理软件
 
 h3(#design). 设计
 * "GIMP":http://www.gimp.org - 强大免费跨平台的2D图像处理软件
