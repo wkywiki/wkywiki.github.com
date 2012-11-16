@@ -16,3 +16,4 @@ h3. Framework
 
 h3. References
 * "Introducing Go by Example":http://mmcgrana.github.com/2012/10/introducing-go-by-example.html
+* "Go语言半小时速成":http://www.aqee.net/go/a-tour-of-go
