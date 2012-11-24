@@ -23,6 +23,9 @@ h3. Tools
 * "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
 * "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
 
+h3. Server
+* "Pomelo":http://pomelo.netease.com/ - 快速、扩展性好、分布式游戏后端开发框架，网易出品
+
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

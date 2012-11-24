@@ -9,6 +9,7 @@ h3. CSS
 
 * *Framework*
 ** "BootStrap":http://twitter.github.com/bootstrap/ - Twitter推出的前端开发工具包
+** "NEJ":http://nej.netease.com/ - 简洁，美观，真正的跨平台web前端开发框架，网易出品
 ** "Foundation":http://foundation.zurb.com/ - 前端框架新秀
 ** "Ninja":http://ninjaui.com - 前端用户界面工具包
 ** "Alice":http://aliceui.com - 支付宝前端样式解决方案
@@ -114,6 +115,7 @@ h3. HTML
 *** "在线转换工具":http://daringfireball.net/projects/markdown/dingus
 ** "Textile":http://redcloth.org/textile
 *** "在线转换工具":http://www.textism.com/tools/textile/
+** "Emmet":http://emmet.io - zen coding的进化项目
 
 * *References*
 ** "HTML5手册":http://www.w3school.com.cn/html5/index.asp
