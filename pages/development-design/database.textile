@@ -31,6 +31,12 @@ h3. NoSQL Database
 ** "Couchbase":http://www.couchbase.org/ 一款被Draw Something游戏使用的NoSQL数据库
 ** "Cassandra":http://cassandra.apache.org/
 
+h3. Tools
+* "adminer":http://www.adminer.org/ - 基于 PHP 的强大的单文件数据库管理工具，支持 MySQL, PostgreSQL, SQLite, MS SQL 和 Oracle
+* "phpmyadmin":http://www.phpmyadmin.net/ - 基于 PHP 的老牌 MySQL 管理工具
+* "Sequel Pro":http://www.sequelpro.com/ - Mac 平台下的 MySQL 管理应用
+* "dbv":http://dbv.vizuina.com/ - MySQL 的版本控制工具
+
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
