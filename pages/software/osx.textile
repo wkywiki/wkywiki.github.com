@@ -9,7 +9,6 @@ h3. Contents
 * "媒体":#entertainment
 * "网络":#network
 * "开发":#development
-** "编辑器/IDE":#editor
 ** "版本管理工具":#version
 *** "SVN":#svn
 *** "Git":#git
@@ -98,24 +97,7 @@ h3(#network). 网络
 
 h3(#development). 开发
 
-* *(#editor)编辑器/IDE*
-** "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
-** "MacVim":http://code.google.com/p/macvim/
-** "AppCode":http://www.jetbrains.com/objc/ - an Objective-C IDE That Makes a Defference
-** "TextMate":http://macromates.com/ - 代码编辑工具
-** "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
-** "Coda":http://www.panic.com/coda/ - 支持FTP/SFTP等连接方式的代码编辑工具
-*** "Tabster":http://code.google.com/p/tabsterforcoda/ - 能够使Coda支持多行缩进的插件
-** "BBEdit":http://www.barebones.com/products/bbedit/ - BBEdit is the leading professional HTML and text editor for the Macintosh. 
-** "Chocolat":http://chocolatapp.com/ - 功能类似textmate的编辑器
-** "TextWrangler":http://www.barebones.com/products/textwrangler/ - TextWrangler is the “little brother” to BBEdit
-** "Vico":http://www.vicoapp.com/ - 类似于VIM的可视化代码编辑工具
-** "xmplify":http://xmplifyapp.com/ - XML编辑器
-** "Espresso":http://macrabbit.com/espresso/ 前段web集成开发环境
-** "0xED":http://www.suavetech.com/0xed/0xed.html - 16进制编辑器
-** "SweetScape 010 Editor":http://www.sweetscape.com/ - 同上
-** "Mou":http://mouapp.com/ - markdown编辑器
-** "CssEdit":http://macrabbit.com/cssedit/ - 完美的CSS编辑器
+* "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#osx
 
 * *(#version)版本管理*
 ** "SourceTree":http://www.sourcetreeapp.com/ - 同时支持Git、SVN、Mercurial的客户端

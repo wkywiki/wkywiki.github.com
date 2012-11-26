@@ -50,15 +50,7 @@ h3(#network). 网络
 
 h3(#develop). 开发
 * *(#editor)编辑器*
-** "Notepad++":http://notepad-plus-plus.org/ - 免费强大的代码编辑工具
-** "Intype":http://inotai.com/intype/ - Windows下的textmate替代软件
-** "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
-** "Vim":http://wiki.junnan.org/software/vim.html
-** "SciTe":http://www.scintilla.org/
-** "EmEditor":http://www.emeditor.com/
-** "Notepad2":http://www.flos-freeware.ch/notepad2.html - 简单轻便的最适合替代系统notepad的编辑器
-*** "Notepad2-Mod":http://code.google.com/p/notepad2-mod/ - 官方版本的分支，加强了代码支持
-*** 通过 "映像劫持":http://www.portablesoft.org/notepad2-replacement/ 实现Notepad2替换记事本
+
 
 * *(#version)版本控制*
 ** "TortoiseGit":http://code.google.com/p/tortoisegit/ - 实用的Git客户端
