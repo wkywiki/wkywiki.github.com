@@ -56,6 +56,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"16",
 			"flexlite",
 			"volumetrics",
 			"lua",
@@ -121,23 +122,51 @@
 		"selected_items":
 		[
 			[
-				"window",
-				"pages/software/windows.textile"
-			],
-			[
 				"go",
 				"pages/development-design/golang.textile"
-			],
-			[
-				"a",
-				"pages/development-design/actionscript.textile"
 			],
 			[
 				"win",
 				"pages/software/windows.textile"
 			],
 			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
 				"action",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"fr",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"fre",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"game",
+				"pages/other/game_development.textile"
+			],
+			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
+				"a",
 				"pages/development-design/actionscript.textile"
 			],
 			[
@@ -157,20 +186,8 @@
 				"pages/development-design/actionscript.textile"
 			],
 			[
-				"php",
-				"pages/development-design/php.textile"
-			],
-			[
-				"osx",
-				"pages/software/osx.textile"
-			],
-			[
 				"act",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"obj",
-				"pages/development-design/objectivec.textile"
 			],
 			[
 				"frend",
@@ -187,10 +204,6 @@
 			[
 				"subli",
 				"pages/software/sublime-text.textile"
-			],
-			[
-				"front",
-				"pages/development-design/web-front-end.textile"
 			],
 			[
 				"wind",
