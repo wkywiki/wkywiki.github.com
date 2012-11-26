@@ -10,7 +10,6 @@ h3. Contents
 * "实用工具":#misc
 * "网络":#network
 * "开发":#develop
-** "编辑器/IDE":#editor
 ** "版本管理工具":#version
 * "设计":#design
 * "音视频处理":#media
@@ -49,8 +48,7 @@ h3(#network). 网络
 * "ForceBindIP":http://www.r1ch.net/stuff/forcebindip/ - 可以让指定程序使用指定网络
 
 h3(#develop). 开发
-* *(#editor)编辑器*
-
+* "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#windows
 
 * *(#version)版本控制*
 ** "TortoiseGit":http://code.google.com/p/tortoisegit/ - 实用的Git客户端
