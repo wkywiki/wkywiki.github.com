@@ -29,6 +29,8 @@
 	},
 	"file_history":
 	[
+		"/F/git/jonaslam.github.com/pages/development-design/ruby.textile",
+		"/F/git/jonaslam.github.com/pages/development-design/web-front-end.textile",
 		"/F/git/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-notes.textile",
 		"/F/git/jonaslam.github.com/pages/software/windows.textile",
 		"/F/git/jonaslam.github.com/pages/software/osx.textile",
@@ -122,12 +124,16 @@
 		"selected_items":
 		[
 			[
-				"go",
-				"pages/development-design/golang.textile"
+				"linux",
+				"pages/software/linux.textile"
 			],
 			[
 				"win",
 				"pages/software/windows.textile"
+			],
+			[
+				"go",
+				"pages/development-design/golang.textile"
 			],
 			[
 				"obj",
