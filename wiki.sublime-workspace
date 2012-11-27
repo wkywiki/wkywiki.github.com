@@ -124,6 +124,14 @@
 		"selected_items":
 		[
 			[
+				"python",
+				"pages/development-design/python.textile"
+			],
+			[
+				"objc",
+				"pages/development-design/objectivec.textile"
+			],
+			[
 				"linux",
 				"pages/software/linux.textile"
 			],
@@ -204,10 +212,6 @@
 				"pages/development-design/actionscript.textile"
 			],
 			[
-				"python",
-				"pages/development-design/python.textile"
-			],
-			[
 				"subli",
 				"pages/software/sublime-text.textile"
 			],
@@ -226,10 +230,6 @@
 			[
 				"dot",
 				"pages/development-design/dotnet.textile"
-			],
-			[
-				"objc",
-				"pages/development-design/objectivec.textile"
 			]
 		],
 		"width": 0.0
