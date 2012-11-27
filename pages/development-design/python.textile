@@ -63,6 +63,7 @@ h3. Packages & Utility Class
 ** "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
 ** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
 ** "APScheduler":http://packages.python.org/APScheduler/ - APScheduler is a light but powerful in-process task scheduler that lets you schedule functions (or any other python callables) to be executed at times of your choosing.
+** "Arrow":https://github.com/crsmithdev/arrow - 时间和日期的处理库
 
 h3. Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
