@@ -82,6 +82,7 @@ h3(#engine). Engine
 ** "PushButton":http://pushbuttonengine.com
 *** "Platform Starter Kit":http://hanclinto.com/site/
 ** "Pixas":http://code.google.com/p/pixas/ - 一款等距像素引擎
+** "Pixelizer":https://github.com/johanp/Pixelizer - 一款基于实体和组件的游戏引擎
 ** "QuickB2":http://code.google.com/p/quickb2/ - A 2d physics-based game engine for Flash.
 ** "Starling":http://www.starling-framework.org/ - The GPU powered 2D Flash API
 *** "Feathers":http://feathersui.com/ - 基于Starling的开源可换肤UI框架

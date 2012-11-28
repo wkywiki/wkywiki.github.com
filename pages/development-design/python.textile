@@ -79,6 +79,7 @@ h3. Web Apps
 * "Feincms":http://www.feincms.org/ - 开源CMS系统
 * "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
 * "Mezzanine":http://mezzanine.jupo.org/ - 基于Django的CMS
+* "42qu.cc":https://bitbucket.org/zuroc/42qu-notepad - 42qu.cc 源码，开源记事本程序
 
 h3. Ebooks
 * *Python*

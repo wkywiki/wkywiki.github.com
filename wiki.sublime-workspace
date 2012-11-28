@@ -124,6 +124,14 @@
 		"selected_items":
 		[
 			[
+				"fre",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
+			[
 				"python",
 				"pages/development-design/python.textile"
 			],
@@ -148,10 +156,6 @@
 				"pages/development-design/objectivec.textile"
 			],
 			[
-				"action",
-				"pages/development-design/actionscript.textile"
-			],
-			[
 				"php",
 				"pages/development-design/php.textile"
 			],
@@ -162,10 +166,6 @@
 			[
 				"osx",
 				"pages/software/osx.textile"
-			],
-			[
-				"fre",
-				"pages/development-design/web-front-end.textile"
 			],
 			[
 				"game",
