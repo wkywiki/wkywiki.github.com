@@ -78,6 +78,22 @@
 				"buffer_size": 5851,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
+			"settings":
+			{
+				"buffer_size": 1663,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MNPP/conf/nginx/sites-available/default",
+			"settings":
+			{
+				"buffer_size": 980,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -203,7 +219,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -413,6 +429,60 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
+					"settings":
+					{
+						"buffer_size": 1663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1514,
+								1514
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 233.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Applications/MNPP/conf/nginx/sites-available/default",
+					"settings":
+					{
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -458,6 +528,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"data",
+				"pages/development-design/database.textile"
+			],
 			[
 				"osx",
 				"pages/software/osx.textile"
@@ -553,10 +627,6 @@
 			[
 				"vim",
 				"pages/software/vim.textile"
-			],
-			[
-				"data",
-				"pages/development-design/database.textile"
 			],
 			[
 				"ruby",
