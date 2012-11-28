@@ -142,6 +142,7 @@ h3(#webapps). Web Apps
 * "Blogcast":http://techoctave.com/blogcast/ - a better way to blog
 * "Jekyll Bootstrap":http://jekyllbootstrap.com/
 * "Ruhoh":http://ruhoh.com/
+* "Rabel":https://github.com/daqing/rabel - 仿v2ex的开源社区应用
 
 h3(#host). Web Host
 * "Engine Yard":http://www.engineyard.com

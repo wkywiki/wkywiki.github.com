@@ -124,6 +124,14 @@
 		"selected_items":
 		[
 			[
+				"py",
+				"pages/development-design/python.textile"
+			],
+			[
+				"ac",
+				"pages/development-design/actionscript.textile"
+			],
+			[
 				"fre",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -188,16 +196,8 @@
 				"_posts/2011-11-17-the-ruby-programming-language-notes.textile"
 			],
 			[
-				"py",
-				"pages/development-design/python.textile"
-			],
-			[
 				"ruby",
 				"pages/development-design/ruby.textile"
-			],
-			[
-				"ac",
-				"pages/development-design/actionscript.textile"
 			],
 			[
 				"act",
