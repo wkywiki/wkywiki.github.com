@@ -124,6 +124,10 @@
 		"selected_items":
 		[
 			[
+				"pyho",
+				"pages/development-design/python.textile"
+			],
+			[
 				"ruby",
 				"pages/development-design/ruby.textile"
 			],
@@ -239,6 +243,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/F/git/jonaslam.github.com/wiki.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
