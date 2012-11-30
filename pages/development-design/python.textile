@@ -14,18 +14,22 @@ h3. IDE & Editor
 * "Sublime Text 2":/pages/software/editor_ide.html#sublime_text - 强大的代码编辑器，堪比MacOS下的textmate
 
 h3. Web Framework
+* "bobo":http://bobo.digicool.com/
+* "Bottle":http://bottlepy.org - 单文件小巧web framework
 * "CheerPy":http://www.cherrypy.org/
+* "circuits":https://bitbucket.org/prologic/circuits/
 * "Django":http://www.djangoproject.com/
 ** "dajaxice":http://www.dajaxproject.com/ - easy to use ajax library for django
 ** "imagekit":https://github.com/jdriscoll/django-imagekit/ - Automated image processing for Django models
-* "Tornado":http://www.tornadoweb.org/
-** "中文手册":http://www.tornadoweb.cn/
 * "Flask":http://www.pocoo.org/projects/flask/ - a micro web framework
-* "Pylons":http://pylonshq.com/
 * "Tenjin":http://www.kuwata-lab.com/tenjin/
+* "Tornado":http://www.tornadoweb.org/
+* "Pylons":http://pylonshq.com/
+* "pysi":https://bitbucket.org/imbolc/pysi
 * "TurboGears":http://turbogears.org/
 * "Web.py":http://webpy.org/
-* "Bottle":http://bottlepy.org - 单文件小巧web framework
+* "Web2py":http://web2py.com/
+* "wheezy.web":https://bitbucket.org/akorn/wheezy.web
 
 h3. Web Content Management System(CMS)
 * *CMS*

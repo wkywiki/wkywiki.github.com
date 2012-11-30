@@ -143,8 +143,9 @@ h3(#software). Software
 ** *(#ide)IDE*
 *** "FlashDevelop":http://www.flashdevelop.org
 *** "Flash Builder":http://www.adobe.com/cn/products/flashbuilder/
-*** "SourceMate(强大的Flash Builder辅助工具)":http://www.elementriver.com/sourcemate3
+*** "SourceMate(强大的Flash Builder辅助插件)":http://www.elementriver.com/sourcemate3
 *** "FDT":http://www.fdt.powerflasher.com/
+*** "CodeDrive":http://www.codedrive.com/ - 基于 Visual Studio 2010 的AS3开发插件
 
 ** *(#useful_tools)Useful Tools*
 *** "DeMonsterDebugger":http://demonsterdebugger.com/ - Monster Debugger is an open source debugger for Adobe Flash, Flex and AIR.
