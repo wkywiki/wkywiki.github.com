@@ -124,6 +124,10 @@
 		"selected_items":
 		[
 			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
 				"py",
 				"pages/development-design/python.textile"
 			],
@@ -194,10 +198,6 @@
 			[
 				"lua",
 				"_posts/2011-11-17-the-ruby-programming-language-notes.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
 			],
 			[
 				"act",
