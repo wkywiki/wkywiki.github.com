@@ -36,6 +36,7 @@ h3. Tools
 * "phpmyadmin":http://www.phpmyadmin.net/ - 基于 PHP 的老牌 MySQL 管理工具
 * "Sequel Pro":http://www.sequelpro.com/ - Mac 平台下的 MySQL 管理应用
 * "dbv":http://dbv.vizuina.com/ - MySQL 的版本控制工具
+* "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

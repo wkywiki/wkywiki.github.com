@@ -12,8 +12,13 @@ h3. VPS
 * "prgmr":http://prgmr.com
 * "Ramhost":http://www.ramhost.us/?page=vps/linux-openvz-atlanta-east
 * "ServInt":http://www.servint.net/
+* "budgetvm":http://www.budgetvm.com/
+* "buyvm":http://buyvm.net/
+* "后路哥的VPS":http://houluge.com/taiwan-vps
 
 h3. Hosting Control System
+* "vpsmate":http://www.vpsmate.org/ - 一款国人开发的高质量vps在线管理系统
+* "LuManager":http://www.zijidelu.org/forum.php
 * "Virtualmin":http://www.virtualmin.com - 开源虚拟主机管理系统
 * "WHMCS":http://www.whmcs.com/
 
