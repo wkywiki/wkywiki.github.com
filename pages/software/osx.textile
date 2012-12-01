@@ -145,6 +145,7 @@ h3(#development). 开发
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
+** "MNPP":http://getmnpp.org/ - Mac + Nginx + Percona + PHP or Python
 ** "Querious":http://www.araelium.com/querious/ - MySQL管理工具
 ** "Sequel Pro":http://www.sequelpro.com/ - 同上，免费
 ** "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB

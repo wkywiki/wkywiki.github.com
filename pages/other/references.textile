@@ -14,6 +14,7 @@ h3. Development
 * "GotGitHub":http://www.worldhello.net/gotgithub/index.html
 * "开源世界旅行手册":http://i.linuxtoy.org/docs/guide/
 * "Google Style Guide":https://code.google.com/p/google-styleguide/
+* "JSON风格手册中文版":http://ssv.sebug.net/JSONStyleGuide
 
 h3. Other
 * "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/

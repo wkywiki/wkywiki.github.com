@@ -6,7 +6,11 @@ title: Chrome - Software
 h1. Chrome
 
 h3(#plugins). Plugins
-** "JsonView":https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
+* "JsonView":https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
 
 h3(#scripts). Scripts
-** "Straight Google":https://userscripts.org/scripts/show/121261 - 一款去Google跳转链接的工具
+* "Straight Google":https://userscripts.org/scripts/show/121261 - 一款去Google跳转链接的工具
+* "Google Real Link":http://userscripts.org/scripts/show/125473 - 同上
+
+h3(#docs). Documents
+* "开发工具调试技巧":http://ued.taobao.com/blog/2012/06/03/debug-with-chrome-dev-tool/
