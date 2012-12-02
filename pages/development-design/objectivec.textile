@@ -97,16 +97,16 @@ h3. References
 
 * "XCode快捷键图示":/uploads/xcode.jpg
 * Learn to Create Successful Apps
-** "Video 01":http://appdesignvault.s3.amazonaws.com/foody-tutorial/001.mp4
-** "Video 02":http://appdesignvault.s3.amazonaws.com/foody-tutorial/002.mp4
-** "Video 03":http://appdesignvault.s3.amazonaws.com/foody-tutorial/003.mp4
-** "Video 04":http://appdesignvault.s3.amazonaws.com/foody-tutorial/004.mp4
-** "Video 05":http://appdesignvault.s3.amazonaws.com/foody-tutorial/005.mp4
-** "Video 06":http://appdesignvault.s3.amazonaws.com/foody-tutorial/006.mp4
-** "Video 07":http://appdesignvault.s3.amazonaws.com/foody-tutorial/007.mp4
-** "Video 08":http://appdesignvault.s3.amazonaws.com/foody-tutorial/008.mp4
-** "Video 09":http://appdesignvault.s3.amazonaws.com/foody-tutorial/009.mp4
-** "Video 10":http://appdesignvault.s3.amazonaws.com/foody-tutorial/010.mp4
+** "01":http://appdesignvault.s3.amazonaws.com/foody-tutorial/001.mp4
+** "02":http://appdesignvault.s3.amazonaws.com/foody-tutorial/002.mp4
+** "03":http://appdesignvault.s3.amazonaws.com/foody-tutorial/003.mp4
+** "04":http://appdesignvault.s3.amazonaws.com/foody-tutorial/004.mp4
+** "05":http://appdesignvault.s3.amazonaws.com/foody-tutorial/005.mp4
+** "06":http://appdesignvault.s3.amazonaws.com/foody-tutorial/006.mp4
+** "07":http://appdesignvault.s3.amazonaws.com/foody-tutorial/007.mp4
+** "08":http://appdesignvault.s3.amazonaws.com/foody-tutorial/008.mp4
+** "09":http://appdesignvault.s3.amazonaws.com/foody-tutorial/009.mp4
+** "10":http://appdesignvault.s3.amazonaws.com/foody-tutorial/010.mp4
 ** "XCode Sample Project":http://www.appdesignvault.com/downloads/FoodySampleProject.zip
 
 h3. Other

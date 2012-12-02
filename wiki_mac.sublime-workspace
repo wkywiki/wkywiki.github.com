@@ -22,6 +22,46 @@
 				"buffer_size": 446,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+			"settings":
+			{
+				"buffer_size": 2208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
+			"settings":
+			{
+				"buffer_size": 1729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/other/server.textile",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+			"settings":
+			{
+				"buffer_size": 5288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+			"settings":
+			{
+				"buffer_size": 4784,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -118,6 +158,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"br",
 			"uml4as",
 			"MNPP",
 			"sip",
@@ -152,7 +193,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -177,6 +218,136 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+					"settings":
+					{
+						"buffer_size": 2208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1591,
+								1591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 771.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
+					"settings":
+					{
+						"buffer_size": 1729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1580,
+								1580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 454.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/bindiry/workspaces/wiki/pages/other/server.textile",
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 116.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+					"settings":
+					{
+						"buffer_size": 5288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4468,
+								4468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2430.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+					"settings":
+					{
+						"buffer_size": 4784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4601,
+								4601
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 947.0,
+						"translation.y": 1855.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -226,6 +397,26 @@
 		"selected_items":
 		[
 			[
+				"py",
+				"pages/development-design/python.textile"
+			],
+			[
+				"ob",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"ser",
+				"pages/other/server.textile"
+			],
+			[
+				"data",
+				"pages/development-design/database.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
 				"chro",
 				"pages/software/chrome.textile"
 			],
@@ -248,10 +439,6 @@
 			[
 				"python",
 				"pages/development-design/python.textile"
-			],
-			[
-				"data",
-				"pages/development-design/database.textile"
 			],
 			[
 				"fro",
@@ -290,10 +477,6 @@
 				"pages/software/sublime-text.textile"
 			],
 			[
-				"php",
-				"pages/development-design/php.textile"
-			],
-			[
 				"pre",
 				"pages/other/references.textile"
 			],
@@ -316,10 +499,6 @@
 			[
 				"",
 				"pages/development-design/web-front-end.textile"
-			],
-			[
-				"py",
-				"pages/development-design/python.textile"
 			],
 			[
 				"pyth",
