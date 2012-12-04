@@ -60,6 +60,8 @@ h3. Packages & Utility Class
 ** "autumn":https://github.com/luckythetourist/autumn - a Python ORM
 ** "SQLAlchemy":http://www.sqlalchemy.org/
 ** "Storm":https://storm.canonical.com/
+** "SQLObject":http://www.sqlobject.org/
+** "peewee":https://github.com/coleifer/peewee
 
 * *Database*
 ** "UltraMySQL":https://github.com/esnme/ultramysql - 用C/C++写成，号称超越 Python MySQL 的驱动
