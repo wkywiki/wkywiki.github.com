@@ -94,6 +94,7 @@ h3(#network). 网络
 ** "Notify":http://vibealicious.com/apps/notify/ - 邮件提醒，支持多帐号
 ** "Little Snitch":http://www.obdev.at/products/littlesnitch/index.html - 控制应用程序访问网络
 ** "Rubbernetr":http://rubbernetapp.com/ - 实时查看网络占用情况
+** "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 
 h3(#development). 开发
 
@@ -126,6 +127,7 @@ h3(#development). 开发
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
+** "MNPP":http://getmnpp.org/ - Mac + Nginx + Percona + PHP or Python
 ** "Querious":http://www.araelium.com/querious/ - MySQL管理工具
 ** "Sequel Pro":http://www.sequelpro.com/ - 同上，免费
 ** "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB

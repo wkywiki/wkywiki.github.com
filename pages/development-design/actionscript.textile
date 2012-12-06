@@ -146,6 +146,7 @@ h3(#software). Software
 *** "SourceMate(强大的Flash Builder辅助插件)":http://www.elementriver.com/sourcemate3
 *** "FDT":http://www.fdt.powerflasher.com/
 *** "CodeDrive":http://www.codedrive.com/ - 基于 Visual Studio 2010 的AS3开发插件
+*** "UML4AS":http://www.uml4as.com/ - 可以将设计好的UML转换成AS代码
 
 ** *(#useful_tools)Useful Tools*
 *** "DeMonsterDebugger":http://demonsterdebugger.com/ - Monster Debugger is an open source debugger for Adobe Flash, Flex and AIR.

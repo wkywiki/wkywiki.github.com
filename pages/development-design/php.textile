@@ -47,11 +47,6 @@ h3. Forum System
 * "Vanilla":http://vanillaforums.org/
 * "esoTalk":http://esotalk.org/ - perfect balance between simplicity, power, speed, and scalability.
 
-h3. Database
-* "PHPMyAdmin":http://www.phpmyadmin.net/ - 用户众多的MySQL管理工具
-* "Adminer":http://www.adminer.org/ - 单文件，小巧实用的数据库管理工具，支持MySQL、PostgreSQL、SQLite、MSSQL、Oracle
-* "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin
-
 h3. Other
 * "Phalanger":http://www.php-compiler.net - 用PHP语言写.net web程序
 * "PHP-Parser":https://github.com/nikic/PHP-Parser - PHP解析器，可以将 PHP 源代码转换为用 PHP 数据结构描述的语法树。
