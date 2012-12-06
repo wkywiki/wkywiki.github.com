@@ -87,6 +87,8 @@ h3. Javascript
 ** "NAE":http://cnodejs.net/ - NodeJS应用开发与运行平台
 ** 开发工具
 *** "Sublime Text - Nodejs":https://github.com/tanepiper/SublimeText-Nodejs
+** *相关实现*
+*** "node-readability":https://github.com/arrix/node-readability - 像evernote的那个chrome插件那样，自动分析页面里的正文抓取
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/

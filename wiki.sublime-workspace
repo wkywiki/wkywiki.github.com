@@ -124,6 +124,10 @@
 		"selected_items":
 		[
 			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
 				"pyho",
 				"pages/development-design/python.textile"
 			],
@@ -186,10 +190,6 @@
 			[
 				"game",
 				"pages/other/game_development.textile"
-			],
-			[
-				"front",
-				"pages/development-design/web-front-end.textile"
 			],
 			[
 				"window",
