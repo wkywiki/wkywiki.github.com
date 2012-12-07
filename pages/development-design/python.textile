@@ -26,6 +26,7 @@ h3. Web Framework
 * "Tenjin":http://www.kuwata-lab.com/tenjin/
 * "Tornado":http://www.tornadoweb.org/
 ** "Tornado中文手册":http://www.tornadoweb.cn/
+** "Github上一些不错的Tornado资源":https://github.com/facebook/tornado/wiki/Links
 * "Pylons":http://pylonshq.com/
 * "pysi":https://bitbucket.org/imbolc/pysi
 * "TurboGears":http://turbogears.org/
