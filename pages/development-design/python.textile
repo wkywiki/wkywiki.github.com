@@ -32,9 +32,11 @@ h3. Web Framework
 * "Web2py":http://web2py.com/
 * "wheezy.web":https://bitbucket.org/akorn/wheezy.web
 
-h3. Web Content Management System(CMS)
+h3. Web Apps
 * *CMS*
 ** "Plone":http://plone.org/
+** "Feincms":http://www.feincms.org/ - 开源CMS系统
+** "Mezzanine":http://mezzanine.jupo.org/ - 基于Django的CMS
 
 * *BBS*
 ** "DjangoBB":https://bitbucket.org/slav0nic/djangobb
@@ -42,6 +44,15 @@ h3. Web Content Management System(CMS)
 ** "Project Babel 2":https://github.com/livid/v2ex - 托管在google app engine上的社区系统
 ** "june":https://github.com/lepture/june - 简约的论坛程序
 ** "lusernews":https://github.com/dengzhp/lusernews - 为似于Hacknews的社交新闻系统
+
+* *Blog*
+** "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序
+** "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
+
+* *Other*
+** "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
+** "42qu.cc":https://bitbucket.org/zuroc/42qu-notepad - 42qu.cc 源码，开源记事本程序
+** "Tornado Gists":https://github.com/peterbe/tornado_gists
 
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统
@@ -81,15 +92,6 @@ h3. Other
 * "Pocoo":http://www.pocoo.org - The Pocoo Team consists of people from the Python community that are working under one umbrella on various Python libraries and applications.
 * "pyres":https://github.com/binarydud/pyres - 用 Python 实现的 Resque 克隆(后台任务处理)
 * "Sphinx":http://sphinx.pocoo.org/ - API文档生成
-
-h3. Web Apps
-* "Tornado Gists":https://github.com/peterbe/tornado_gists
-* "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序
-* "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
-* "Feincms":http://www.feincms.org/ - 开源CMS系统
-* "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
-* "Mezzanine":http://mezzanine.jupo.org/ - 基于Django的CMS
-* "42qu.cc":https://bitbucket.org/zuroc/42qu-notepad - 42qu.cc 源码，开源记事本程序
 
 h3. Ebooks
 * *Python*
