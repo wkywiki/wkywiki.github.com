@@ -6,6 +6,7 @@ title: Python
 h1. Python
 
 h3. IDE & Editor
+* "PyCharm":http://www.jetbrains.com/pycharm/ - 来自JetBrains的强大的IDE
 * "Python Tools for Visual Studio":http://pytools.codeplex.com/
 * "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
 * "Aptana":http://aptana.com
@@ -53,6 +54,7 @@ h3. Web Apps
 ** "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
 ** "42qu.cc":https://bitbucket.org/zuroc/42qu-notepad - 42qu.cc 源码，开源记事本程序
 ** "Tornado Gists":https://github.com/peterbe/tornado_gists
+** "PoweredSites":https://bitbucket.org/felinx/poweredsites
 
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统

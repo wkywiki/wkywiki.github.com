@@ -124,6 +124,10 @@
 		"selected_items":
 		[
 			[
+				"pyth",
+				"pages/development-design/python.textile"
+			],
+			[
 				"fron",
 				"pages/development-design/web-front-end.textile"
 			],
