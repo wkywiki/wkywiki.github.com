@@ -59,7 +59,7 @@
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 			"settings":
 			{
-				"buffer_size": 4784,
+				"buffer_size": 4955,
 				"line_ending": "Unix"
 			}
 		}
@@ -331,23 +331,23 @@
 					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 					"settings":
 					{
-						"buffer_size": 4784,
+						"buffer_size": 4955,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4601,
-								4601
+								2523,
+								2523
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
-						"translation.x": 947.0,
-						"translation.y": 1855.0,
+						"translation.x": 0.0,
+						"translation.y": 1155.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

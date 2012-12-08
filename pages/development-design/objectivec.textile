@@ -92,6 +92,8 @@ h3. API
 h3. References
 
 * *iOS*
+** "iOS 入门开发指南(官方中文版)":http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html
+** "iOS 入门开发指南(果迷网翻译版)":http://www.guomii.com/posts/20250
 ** "iOS Dev Weekly":http://iosdevweekly.com/
 ** "iOS Design Weekly":http://iosdesign.co/
 
