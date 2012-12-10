@@ -49,6 +49,7 @@ h3(#entertainment). 媒体
 ** "ImageOptim":http://imageoptim.com/ - png优化工具
 ** "HDRtist Pro":http://itunes.apple.com/cn/app/hdrtist-pro/id436335293?mt=12 - 一款HDR图像合成软件，可以将三张同时拍摄不同曝光的照片合成一张HDR图像
 ** "Voila":http://www.globaldelight.com/voila - 一款强大的截图软件
+** "SwordSoft Screenink":https://itunes.apple.com/us/app/swordsoft-screenink/id556304449?ls=1&mt=12 - 同上
 ** "Flare":http://flareapp.com/ - 好用的照片后期处理软件
 * *音频相关*
 ** "Enqueue":http://www.enqueueapp.com/
@@ -66,6 +67,7 @@ h3(#entertainment). 媒体
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
+** "FontExplorer X Pro":http://www.fontexplorerx.com/pro/ - 字体管理工具
 
 h3(#network). 网络
 * *下载上传*

@@ -15,54 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
-			"settings":
-			{
-				"buffer_size": 446,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
-			"settings":
-			{
-				"buffer_size": 2208,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
-			"settings":
-			{
-				"buffer_size": 1729,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/other/server.textile",
-			"settings":
-			{
-				"buffer_size": 1297,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-			"settings":
-			{
-				"buffer_size": 5288,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
-			"settings":
-			{
-				"buffer_size": 4955,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -88,16 +40,19 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/server.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/chrome.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/index.html",
 		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/game_development.textile",
 		"/Applications/MNPP/conf/nginx/sites-available/default",
 		"/Volumes/120G/downloads/lightroom41_sn.txt",
@@ -106,7 +61,6 @@
 		"/Users/bindiry/workspaces/wiki/pages/software/sublime-text.textile",
 		"/Users/Bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/Bindiry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/website.textile",
 		"/Users/Bindiry/Downloads/114087.user.js",
@@ -193,165 +147,8 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
-					"settings":
-					{
-						"buffer_size": 446,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
-					"settings":
-					{
-						"buffer_size": 2208,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1591,
-								1591
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 771.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
-					"settings":
-					{
-						"buffer_size": 1729,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1580,
-								1580
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 454.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/bindiry/workspaces/wiki/pages/other/server.textile",
-					"settings":
-					{
-						"buffer_size": 1297,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								194,
-								194
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 116.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-					"settings":
-					{
-						"buffer_size": 5288,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4468,
-								4468
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2430.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
-					"settings":
-					{
-						"buffer_size": 4955,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2523,
-								2523
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1155.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

@@ -96,7 +96,7 @@ h3. Other
 * "pyres":https://github.com/binarydud/pyres - 用 Python 实现的 Resque 克隆(后台任务处理)
 * "Sphinx":http://sphinx.pocoo.org/ - API文档生成
 
-h3. Ebooks
+h3. References
 * *Python*
 ** "《简明 Python 教程 - a byte of python》":http://junnan.org/ebooks/a_byte_of_python/
 ** "《深入python - dive into python》":http://junnan.org/ebooks/dive_into_python/html/toc/
