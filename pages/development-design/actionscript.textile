@@ -21,7 +21,7 @@ h3. Contents
 ** "Design":#design
 ** "Development":#development
 ** "Useful Tools":#useful_tools
-* "Ebooks":#ebooks
+* "References":#rferences
 * "Website":#website
 </div>
 
@@ -190,7 +190,7 @@ h3(#software). Software
 *** "Flash Tracer":http://code.google.com/p/flash-tracer/ - Flash调试工具，支持各种浏览器及IDE
 *** "Swift-Tool":http://code.google.com/p/swift-tool/ - Swfit可以帮助你把图片、字体、声音、二进制数据等资源打包成一个swf文件
 
-h3(#ebooks). Ebooks
+h3(#references). References
 * "优化Flash平台性能（官方PDF中文版）":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
 * "ActionScript3参考手册":http://help.adobe.com/zh_CN/FlashPlatform/reference/actionscript/3/
 * "Flex SDK 编码和最佳实践 (Flex SDK coding conventions and best practices）":http://opensource.adobe.com/wiki/display/flexsdk/Coding+Conventions

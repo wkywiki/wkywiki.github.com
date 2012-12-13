@@ -15,38 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
-			"settings":
-			{
-				"buffer_size": 9395,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
-			"settings":
-			{
-				"buffer_size": 2209,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
-			"settings":
-			{
-				"buffer_size": 5335,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-			"settings":
-			{
-				"buffer_size": 4852,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -72,15 +40,18 @@
 	},
 	"file_history":
 	[
-		"/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-		"/Users/bindiry/workspaces/wiki/pages/other/server.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/dotnet.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/linux.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/ios.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/server.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/chrome.textile",
-		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/index.html",
 		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
@@ -110,15 +81,12 @@
 		"/Users/bindiry/Downloads/应聘列表.txt",
 		"/Users/bindiry/workspaces/wiki/pages/software/macos.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/kindle.textile",
-		"/Users/bindiry/workspaces/wiki/pages/software/ios.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/dotnet.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/csharp.textile",
 		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/bindiry/workspaces/wiki/assets/style.css",
 		"/Users/bindiry/workspaces/yinse/app/assets/stylesheets/front.scss",
 		"/Users/bindiry/workspaces/yinse/app/views/layouts/admin.html.erb",
 		"/Volumes/programs/workspace/_python/gtpatches/templates/base.html",
-		"/Users/bindiry/workspaces/wiki/pages/software/linux.textile",
 		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-notes.textile",
 		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 		"/Users/bindiry/workspaces/wiki/.gitignore",
@@ -179,113 +147,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
-					"settings":
-					{
-						"buffer_size": 9395,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1727,
-								1727
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 23.0,
-						"translation.y": 1097.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
-					"settings":
-					{
-						"buffer_size": 2209,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1818,
-								1818
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 942.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
-					"settings":
-					{
-						"buffer_size": 5335,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4597,
-								4597
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2392.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-					"settings":
-					{
-						"buffer_size": 4852,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4254,
-								4264
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2217.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -330,6 +193,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"actio",
+				"pages/development-design/actionscript.textile"
+			],
 			[
 				"obj",
 				"pages/development-design/objectivec.textile"
