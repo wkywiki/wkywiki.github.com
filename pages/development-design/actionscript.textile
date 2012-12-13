@@ -16,6 +16,7 @@ h3. Contents
 ** "3D":#3d
 ** "Particle":#particle
 * "Framework":#framework
+* "AIR Native Extensions":#ane
 * "Software":#software
 ** "Design":#design
 ** "Development":#development
@@ -132,6 +133,36 @@ h3(#framework). Framework
 * **UI框架**
 ** "Morn":https://github.com/yungzhu/morn - 一款小巧简洁的游戏UI框架，带编辑器
 ** "FlexLite":https://github.com/flexlite/framework - 一款轻量级的游戏UI框架
+
+h3(#ane). AIR Native Extensions
+* "PhotosAlbum ANE":https://github.com/katopz/ane-photosalbum
+  ANE for save image as JPEG or PNG to iOS CameraRoll
+* "DeviceFileUtil ANE":https://github.com/katopz/ane-device-file-util
+  ANE for open file with registered application on iOS
+* "DeviceInfoUtil ANE":https://github.com/katopz/ane-device-info-util
+  ANE for get some information from iOS device
+* "Distriqt Native Extensions Update":http://labs.distriqt.com/native-extensions
+  ANE package update v1.12! Includes updates to the Gyroscope extension to report raw roll, pitch and yaw values.
+* "Native Twitter ANE":https://code.google.com/p/nativetwitter-ane/
+  Adobe AIR ANE for iOS devices that allows developers to use the native Twitter framework added in iOS 5.0.
+* "Appirater ANE":https://code.google.com/p/appirater-ane/
+  Appirater is used to display “Please rate this app” dialogs.
+* "Game Kit ANE":http://airextensions.net/shop/extensions/game-kit-by-vitapoly/
+  The iOS GameKit native extension allows your game to setup real time matches for up to 4 players, send and receive custom data between players, and enable voice chat during gameplay.
+* "Device Identification":http://www.as3gamegears.com/air-native-extension/device-identification/
+  Native Extension that provides access to device identification data. It is possible to read the IMEI code, IMEI SV code, Device Serial Number, MODEL and IMSI code.
+* "Contact Editor - AddressBook Native Extension":https://github.com/julianxhokaxhiu/ContactEditor
+  Native Extension for iOS and Android enabling AddressBook access
+* "iCloudANE":http://www.as3gamegears.com/air-native-extension/icloudane/
+  iCloudANE is a native extension that enables the use of iCloud storage service.
+* "Native Extension iOS Microphone Recorder":http://www.youtube.com/watch?v=4r8pqYf_fds&hd=1
+  iOS native extension to the capture and voice recording in iOS
+* "ANE StoreKit":http://www.as3gamegears.com/air-native-extension/ane-storekit/
+  Native extension that allows the use of in-app purchase capabilities. Even though StoreKit is a framework originally developed for iOS, the extension allows the use of its features on Android as well.
+* "Chartboost ANE":https://github.com/freshplanet/ANE-Chartboost
+  Air Native Extension for Chartboost (iOS + Android)
+* "ANE TestFlight":http://www.as3gamegears.com/air-native-extension/ane-testflight/
+  TestFlight is a service that makes the testing process of an application a much easier task.
 
 h3(#software). Software
 * *(#design)Design*
