@@ -89,6 +89,8 @@ h3. Javascript
 *** "Sublime Text - Nodejs":https://github.com/tanepiper/SublimeText-Nodejs
 ** *相关实现*
 *** "node-readability":https://github.com/arrix/node-readability - 像evernote的那个chrome插件那样，自动分析页面里的正文抓取
+*** "stylus":https://github.com/LearnBoost/stylus - Expressive, robust, feature-rich CSS language built for nodejs
+*** "roots":https://github.com/jenius/roots - a toolkit for rapid advanced front-end development 
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/
