@@ -40,6 +40,7 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
@@ -54,7 +55,6 @@
 		"/Users/bindiry/workspaces/wiki/pages/software/chrome.textile",
 		"/Users/bindiry/workspaces/wiki/index.html",
 		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/game_development.textile",
 		"/Applications/MNPP/conf/nginx/sites-available/default",
@@ -194,6 +194,14 @@
 		"selected_items":
 		[
 			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
 				"actio",
 				"pages/development-design/actionscript.textile"
 			],
@@ -208,10 +216,6 @@
 			[
 				"php",
 				"pages/development-design/php.textile"
-			],
-			[
-				"osx",
-				"pages/software/osx.textile"
 			],
 			[
 				"py",
@@ -240,10 +244,6 @@
 			[
 				"fr",
 				"pages/other/references.textile"
-			],
-			[
-				"front",
-				"pages/development-design/web-front-end.textile"
 			],
 			[
 				"python",

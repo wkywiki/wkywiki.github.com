@@ -67,7 +67,6 @@ h3(#entertainment). 媒体
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
-** "FontExplorer X Pro":http://www.fontexplorerx.com/pro/ - 字体管理工具
 
 h3(#network). 网络
 * *下载上传*
@@ -158,6 +157,8 @@ h3(#design). 设计
 ** "Skim":http://skim-app.sourceforge.net/ - PDF编辑软件
 ** "PDFpenPro":http://smilesoftware.com/PDFpenPro/ - 同上
 ** "AnteType":http://antetype.com/ - UI设计软件
+** "FontExplorer X Pro":http://www.fontexplorerx.com/pro/ - 字体管理工具
+** "Extensis Suitcase Fusion":http://www.extensis.com/suitcase-fusion-4/ - 字体管理工具
 
 h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大

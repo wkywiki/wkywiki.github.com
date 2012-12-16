@@ -125,6 +125,7 @@ h3. HTML
 
 h3. Development Tools
 * "Viewport resizer":http://lab.maltewassermann.com/viewport-resizer/ - 实用的前端开发辅助工具，可以让当前网页以各种不同的分辨率展示
+* "Hammer for Mac":http://hammerformac.com/ - 前端开发工具
 
 h3. Design Material
 * "站酷-ZCool":http://www.zcool.com.cn
