@@ -124,6 +124,10 @@
 		"selected_items":
 		[
 			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
 				"pytho",
 				"pages/development-design/python.textile"
 			],
@@ -133,10 +137,6 @@
 			],
 			[
 				"fron",
-				"pages/development-design/web-front-end.textile"
-			],
-			[
-				"front",
 				"pages/development-design/web-front-end.textile"
 			],
 			[
