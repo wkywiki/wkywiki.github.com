@@ -43,6 +43,7 @@ h3(#commonly-used). 个人装机必备
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "Dash":http://kapeli.com/dash/ - 代码文档管理工具
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
+* "iSnap":https://itunes.apple.com/us/app/isnap/id420332190?mt=12 - 像Win7一样，贴近屏幕边缘调整窗口大小
 
 h3(#entertainment). 媒体
 * *图片相关*
