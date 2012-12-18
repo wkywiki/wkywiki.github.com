@@ -46,6 +46,7 @@ h3. Web Apps
 ** "Project Babel 2":https://github.com/livid/v2ex - 托管在google app engine上的社区系统
 ** "june":https://github.com/lepture/june - 简约的论坛程序
 ** "lusernews":https://github.com/dengzhp/lusernews - 为似于Hacknews的社交新闻系统
+** "post_bar":https://github.com/Rabbit52/post_bar - 使用 web.py 实现的仿 v2ex 社区网站
 
 * *Blog*
 ** "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序

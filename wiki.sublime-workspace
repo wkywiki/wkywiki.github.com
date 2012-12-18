@@ -124,6 +124,18 @@
 		"selected_items":
 		[
 			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"python",
+				"pages/development-design/python.textile"
+			],
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
+			[
 				"front",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -160,14 +172,6 @@
 				"pages/development-design/web-front-end.textile"
 			],
 			[
-				"action",
-				"pages/development-design/actionscript.textile"
-			],
-			[
-				"python",
-				"pages/development-design/python.textile"
-			],
-			[
 				"objc",
 				"pages/development-design/objectivec.textile"
 			],
@@ -194,10 +198,6 @@
 			[
 				"fr",
 				"pages/development-design/web-front-end.textile"
-			],
-			[
-				"osx",
-				"pages/software/osx.textile"
 			],
 			[
 				"game",

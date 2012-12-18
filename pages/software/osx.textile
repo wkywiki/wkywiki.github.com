@@ -5,7 +5,7 @@ title: OS X - Software
 
 <div id="charpter">
 h3. Contents
-* "常用":#commonly-used
+* "个人装机必备":#commonly-used
 * "媒体":#entertainment
 * "网络":#network
 * "开发":#development
@@ -26,21 +26,23 @@ h3. Contents
 
 h1. Mac OS X
 
-h3(#commonly-used). 常用
+h3(#commonly-used). 个人装机必备
 * "QQ输入法":http://shurufa.qq.com/mac/
-* "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
-* "BetterZip":http://macitbetter.com/ - 功能强大的压缩软件
-* "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
-* "有道翻译":http://cidian.youdao.com/mac/
-* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
-* "Homebrew":http://mxcl.github.com/homebrew/ - 同上
-* "Fink":http://www.finkproject.org/ - 同上
-* "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
-* "Changes":http://connectedflow.com/ - 文件、目录对比工具
+* "Homebrew":http://mxcl.github.com/homebrew/ - 软件包管理工具
 * "Renamer":http://renamer.com/ - 批量命名利器
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
-* "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
+* "有道翻译":http://cidian.youdao.com/mac/
+* "Dropbox":http://www.dropbox.com - 文件同步工具
+* "XtraFinder":http://www.trankynam.com/xtrafinder/ - 文件管理器，免费的TotalFinder替代软件
+* "oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh - zsh的安装配置文件， "安装方法":http://www.yangzhiping.com/tech/zsh-oh-my-zsh.html
+** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
+* "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
+* "AppZapper":http://appzapper.com/ - 应用清理卸载工具
+* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
+* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
+* "Dash":http://kapeli.com/dash/ - 代码文档管理工具
+* "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
 
 h3(#entertainment). 媒体
 * *图片相关*
@@ -67,6 +69,7 @@ h3(#entertainment). 媒体
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
+* "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 
 h3(#network). 网络
 * *下载上传*
@@ -78,7 +81,6 @@ h3(#network). 网络
 * *代理相关*
 ** "SimpleSSHProxy":http://ivsays.appspot.com/2011/05/16/get-SimpleSSHProxy.html - 简洁实用的ssh代理软件
 ** "autossh":http://www.harding.motd.ca/autossh/ - 可用homebrew安装，支持开始运行及断线重连
-** "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
 ** "GoAgentX":https://github.com/ohdarling/GoAgentX - goagent的图形化版
 ** "Proxychains Formula":https://github.com/lxneng/homebrew/commit/25da1bef5a9631315e078a5124c91ec785ff5efe - 可以使终端命令用上代理，可以用Homebrew安装(brew install proxychains)，感谢 "lxneng":http://lxneng.com 
 ** "SSH Tunnel Manager":http://itunes.apple.com/us/app/ssh-tunnel-manager/id424470626?l=fr&mt=12 - Shimo无法创建SSH连接时要先安装这个
@@ -120,7 +122,6 @@ h3(#development). 开发
 * *(#useful)实用工具*
 ** "OSX GCC Installer":https://github.com/kennethreitz/osx-gcc-installer - 不用为了安装GCC而安装Xcode
 ** "Codebox":http://www.codeboxapp.com/ - 代码管理工具，可以高亮显示，按语言分类
-** "Dash":http://kapeli.com/dash/ - 代码管理工具
 ** "JSTalk Editor":http://jstalk.org/ - 基于JS脚本的系统自动化工具
 ** "Reggy":http://reggyapp.com/ - 正则表达式测试工具
 ** "Charles":http://www.charlessoft.com/ - 一款软件提取工具，无需安装即可修改安装包的内容
@@ -162,8 +163,6 @@ h3(#design). 设计
 ** "Extensis Suitcase Fusion":http://www.extensis.com/suitcase-fusion-4/ - 字体管理工具
 
 h3(#productivity). 效率
-* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
-* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
 * "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
@@ -171,22 +170,17 @@ h3(#productivity). 效率
 h3(#system). 系统工具
 * "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
 * "PathFinder":http://cocoatech.com/ - 同上
-* "XtraFinder":http://www.trankynam.com/xtrafinder/ - 同上，免费的TotalFinder替代软件
 * "HyperDock":http://hyperdock.bahoom.com/ - 让Dock程序显示预览窗口
 * "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
 * "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具
 * "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
-* "oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh - zsh的安装配置文件， "安装方法":http://www.yangzhiping.com/tech/zsh-oh-my-zsh.html
-** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
 * "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
-* "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
 * "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 同上
 * "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
 * "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
-* "AppZapper":http://appzapper.com/ - 同上
 * "Go2Shell":http://itunes.apple.com/us/app/go2shell/id445770608 - 在当前选定文件夹的位置打开终端
 * "Cdto":https://code.google.com/p/cdto/ - 可以在Finder右上角加个Terminal图标，方便在当前路径打开控制台
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
@@ -194,3 +188,10 @@ h3(#system). 系统工具
 * "Day-O":http://www.shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
 * "CharlesSoft":http://www.charlessoft.com/ - 提取安装包中的文件
 * "ControlPlane":http://www.controlplaneapp.com/ - 根据不同环境使用不同配置（比如：更改默认浏览器，关闭WIFI使用有线等）
+* "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
+* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
+* "Fink":http://www.finkproject.org/ - 同上
+* "BetterZip":http://macitbetter.com/ - 功能强大的压缩软件
+* "Changes":http://connectedflow.com/ - 文件、目录对比工具
+* "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
+* "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
