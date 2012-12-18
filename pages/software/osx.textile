@@ -60,6 +60,7 @@ h3(#entertainment). 媒体
 ** "Sonora":http://getsonora.com - 音乐播放器
 ** "Simplier":http://simplier.com/ - 轻量级音乐播放器
 ** "Cog":http://cogx.org/ - 音乐播放器
+** "DynamicLyrics":http://martianz.cn/dynamiclyrics/ - 可以在桌面显示歌词的软件
 * *视频相关*
 ** "MplayerX":http://mplayerx.org/ - 强大的视频播放器
 ** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
