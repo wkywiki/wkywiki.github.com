@@ -29,6 +29,7 @@ h1. Mac OS X
 h3(#commonly-used). 常用
 * "QQ输入法":http://shurufa.qq.com/mac/
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
+* "Cinch":http://www.irradiatedsoftware.com/ - 一款窗口管理软件，可以实现像 Win7 那样拖动到屏幕边缘分屏功能
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 * "BetterZip":http://macitbetter.com/ - 功能强大的压缩软件
 * "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
