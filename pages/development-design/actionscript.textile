@@ -88,6 +88,7 @@ h3(#engine). Engine
 ** "Starling":http://www.starling-framework.org/ - The GPU powered 2D Flash API
 *** "Feathers":http://feathersui.com/ - 基于Starling的开源可换肤UI框架
 *** "Starling-imagebatch":https://github.com/elsassph/starling-imagebatch - An optimized Image batch class for Starling.
+*** "AcheGesture":https://github.com/flashache/ache-gesture - 基于 Starling 的一套手识识别库
 *** "Starling中文站":http://www.starlinglib.com/
 *** "Skeleton":https://github.com/akdcl/skeleton - 支持Starling的骨骼动画和帖图整合实现("博文":http://blog.sina.com.cn/s/blog_570dfe6a01013wua.html)
 **** "SkeletonAnimationFrameWork":https://github.com/DragonBones/SkeletonAnimationFramework / "Demo":http://akdcl.sinaapp.com/example.html / "Wiki":https://github.com/DragonBones/SkeletonAnimationFramework/wiki

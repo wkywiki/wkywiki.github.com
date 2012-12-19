@@ -21,7 +21,7 @@ h3. Frameworks
 * "MicroMVC":http://micromvc.com/
 * "Laravel":http://laravel.com/ - A Clean And Classy PHP Framework
 * "Slim":http://www.slimframework.com/ - a PHP 5 Micro Framework
-* "Symfony":http://symfony.com/ - High Performance PHP Framework for Web Development
+* "Symfony":http://symfony.com/ - 一款不错的框架，性能出众，像Django一样带通用后台管理功能
 
 h3. Template Engine
 * "Twig":http://twig.sensiolabs.org/
