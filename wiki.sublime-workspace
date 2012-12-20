@@ -58,6 +58,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"starling",
 			"isnap",
 			"16",
 			"flexlite",
@@ -125,12 +126,24 @@
 		"selected_items":
 		[
 			[
-				"osx",
-				"pages/software/osx.textile"
+				"game",
+				"pages/other/game_development.textile"
 			],
 			[
 				"python",
 				"pages/development-design/python.textile"
+			],
+			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"actio",
+				"pages/development-design/actionscript.textile"
 			],
 			[
 				"action",
@@ -193,16 +206,8 @@
 				"pages/development-design/objectivec.textile"
 			],
 			[
-				"php",
-				"pages/development-design/php.textile"
-			],
-			[
 				"fr",
 				"pages/development-design/web-front-end.textile"
-			],
-			[
-				"game",
-				"pages/other/game_development.textile"
 			],
 			[
 				"window",
