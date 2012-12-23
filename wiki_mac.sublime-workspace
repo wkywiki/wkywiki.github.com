@@ -15,6 +15,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
+			"settings":
+			{
+				"buffer_size": 6643,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -153,8 +161,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
+					"settings":
+					{
+						"buffer_size": 6643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -199,6 +234,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"fron",
+				"pages/development-design/web-front-end.textile"
+			],
 			[
 				"front",
 				"pages/development-design/web-front-end.textile"
@@ -358,10 +397,6 @@
 			[
 				"mac",
 				"pages/software/macos.textile"
-			],
-			[
-				"fron",
-				"app/assets/stylesheets/front.scss"
 			],
 			[
 				"front.scss",

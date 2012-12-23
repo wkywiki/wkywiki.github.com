@@ -9,11 +9,11 @@ h3. CSS
 
 * *Framework*
 ** "BootStrap":http://twitter.github.com/bootstrap/ - Twitter推出的前端开发工具包
-** "NEJ":http://nej.netease.com/ - 简洁，美观，真正的跨平台web前端开发框架，网易出品
 ** "Foundation":http://foundation.zurb.com/ - 前端框架新秀
 ** "Ninja":http://ninjaui.com - 前端用户界面工具包
 ** "Alice":http://aliceui.com - 支付宝前端样式解决方案
 ** "Simple Grid":http://thisisdallas.github.com/Simple-Grid/ - 轻量级的响应式 CSS 网格系统
+** "NEC":http://nec.netease.com/ - 网易推出的CSS框架
 
 * *Preprocessor*
 ** "DtCSS":http://code.google.com/p/dtcss/ - CSS预处理器
@@ -41,6 +41,7 @@ h3. Javascript
 ** "Kissy":http://kissyui.com/ - 由淘宝前端团队发布的一款开源JS类库
 ** "APEJS":http://lmatteis.github.com/apejs/ - A tiny JavaScript web framework targeted for Google App Engine
 ** "SproutCore":http://www.sproutcore.com/ - iCloud 和 MobileMe 的JS Framework
+** "NEJ":http://nej.netease.com/ - 简洁，美观，真正的跨平台web前端开发框架，网易出品
 
 * *Library*
 ** "tinycon":https://github.com/tommoor/tinycon - 通过chrome的favicon来动态显示数字信息，比如未读消息
