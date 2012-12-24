@@ -22,6 +22,14 @@
 				"buffer_size": 6643,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+			"settings":
+			{
+				"buffer_size": 2292,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -161,7 +169,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -176,8 +184,8 @@
 						"selection":
 						[
 							[
-								427,
-								427
+								293,
+								293
 							]
 						],
 						"settings":
@@ -186,6 +194,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+					"settings":
+					{
+						"buffer_size": 2292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1885,
+								1885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 789.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -235,6 +269,10 @@
 		"selected_items":
 		[
 			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
 				"fron",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -265,10 +303,6 @@
 			[
 				"pyth",
 				"pages/development-design/python.textile"
-			],
-			[
-				"php",
-				"pages/development-design/php.textile"
 			],
 			[
 				"py",

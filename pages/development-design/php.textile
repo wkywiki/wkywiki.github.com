@@ -51,6 +51,7 @@ h3. Other
 * "Phalanger":http://www.php-compiler.net - 用PHP语言写.net web程序
 * "PHP-Parser":https://github.com/nikic/PHP-Parser - PHP解析器，可以将 PHP 源代码转换为用 PHP 数据结构描述的语法树。
 * "禅道":http://www.zentao.net/ - 一款国产的开源项目管理工具
+* "phpVirtualBox":http://code.google.com/p/phpvirtualbox/ - 用php实现的VirtualBox前端，可以在web端控制远端VirtualBox
 
 h3. References
 * "General Style and Syntax":http://codeigniter.com/user_guide/general/styleguide.html
