@@ -58,6 +58,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"codekit",
 			"starling",
 			"isnap",
 			"16",
@@ -126,16 +127,24 @@
 		"selected_items":
 		[
 			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"editor",
+				"pages/software/editor_ide.textile"
+			],
+			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
 				"game",
 				"pages/other/game_development.textile"
 			],
 			[
 				"python",
 				"pages/development-design/python.textile"
-			],
-			[
-				"osx",
-				"pages/software/osx.textile"
 			],
 			[
 				"php",
@@ -148,10 +157,6 @@
 			[
 				"action",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"front",
-				"pages/development-design/web-front-end.textile"
 			],
 			[
 				"pytho",

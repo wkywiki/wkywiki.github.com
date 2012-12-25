@@ -81,6 +81,8 @@ h3. Packages & Utility Class
 
 * *Database*
 ** "UltraMySQL":https://github.com/esnme/ultramysql - 用C/C++写成，号称超越 Python MySQL 的驱动
+** "MySQLdb":http://sourceforge.net/projects/mysql-python/
+** "redis-py":http://github.com/andymccurdy/redis-py
 
 * *Other*
 ** "odict":http://dev.pocoo.org/hg/sandbox/raw-file/tip/odict.py - 可以保证元素顺序的Dict
@@ -89,6 +91,8 @@ h3. Packages & Utility Class
 ** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
 ** "APScheduler":http://packages.python.org/APScheduler/ - APScheduler is a light but powerful in-process task scheduler that lets you schedule functions (or any other python callables) to be executed at times of your choosing.
 ** "Arrow":https://github.com/crsmithdev/arrow - 时间和日期的处理库
+** "simplejson":http://pypi.python.org/pypi/simplejson
+** "imaging(PIL)":http://www.pythonware.com/products/pil/
 
 h3. Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台

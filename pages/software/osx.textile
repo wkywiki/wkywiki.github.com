@@ -71,7 +71,8 @@ h3(#entertainment). 媒体
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
-* "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
+** "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
+** "Twins Mini":http://www.rockysandstudio.com/apps/twinsmini - 查找系统中重复的文件及照片
 
 h3(#network). 网络
 * *下载上传*
@@ -128,6 +129,9 @@ h3(#development). 开发
 ** "Reggy":http://reggyapp.com/ - 正则表达式测试工具
 ** "Charles":http://www.charlessoft.com/ - 一款软件提取工具，无需安装即可修改安装包的内容
 ** "DeltaWalker Oro Edition":http://www.deltopia.com/ - 一款强大的文件/文件夹对比工具
+** "Echo":http://echoapp.net/ - 一款Http调试工具
+* "Hammer for Mac":http://hammerformac.com/ - 前端开发工具
+* "CodeKit for Mac":http://incident57.com/codekit/ - 同上
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
@@ -152,6 +156,7 @@ h3(#design). 设计
 ** "ImageBot":http://ftnew.com/ - 批量图片处理工具
 ** "EasyBatchPhoto":http://yellowmug.com/easybatchphoto/ - 更简洁实用的批量图片处理
 ** "Layers":http://layersapp.com/index.html - 截图工具，支持将截取的图片分层保存
+** "Snagit":http://www.techsmith.com/snagit.html - 截图标注工具
 ** "GuideGuide":http://www.guideguide.me/ - 一款photoshop的加强版辅助线插件
 ** "xScope":http://xscopeapp.com/ - 设计工具，度量距离和角度标尺，精确垂直和水平辅助线等等
 * *(#design-other)其他*
@@ -163,6 +168,7 @@ h3(#design). 设计
 ** "AnteType":http://antetype.com/ - UI设计软件
 ** "FontExplorer X Pro":http://www.fontexplorerx.com/pro/ - 字体管理工具
 ** "Extensis Suitcase Fusion":http://www.extensis.com/suitcase-fusion-4/ - 字体管理工具
+
 
 h3(#productivity). 效率
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
@@ -197,3 +203,5 @@ h3(#system). 系统工具
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
+* "Bartender":http://www.macbartender.com/ - 菜单栏管理工具
+* "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
