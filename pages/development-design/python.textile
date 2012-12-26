@@ -123,3 +123,4 @@ h3(#references). References
 * *Django*
 ** "《The Django Book》":http://djangobook.py3k.cn/2.0/
 ** "Django 1.3 Docs":http://junnan.org/ebooks/django_docs_1.3/
+** "Storm Tutorial 中文版":https://storm_orm_tutorial_cn.readthedocs.org/en/latest/

@@ -5,6 +5,9 @@
 		[
 		]
 	},
+	"buffers":
+	[
+	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -29,6 +32,8 @@
 	},
 	"file_history":
 	[
+		"/F/git/jonaslam.github.com/pages/development-design/python.textile",
+		"/F/git/jonaslam.github.com/pages/development-design/php.textile",
 		"/F/git/jonaslam.github.com/pages/development-design/ruby.textile",
 		"/F/git/jonaslam.github.com/pages/development-design/web-front-end.textile",
 		"/F/git/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-notes.textile",
@@ -36,7 +41,6 @@
 		"/F/git/jonaslam.github.com/pages/software/osx.textile",
 		"/F/git/jonaslam.github.com/pages/software/chrome.textile",
 		"/F/git/jonaslam.github.com/pages/software/sublime-text.textile",
-		"/F/git/jonaslam.github.com/pages/development-design/python.textile",
 		"/F/git/jonaslam.github.com/pages/other/website.textile",
 		"/F/git/jonaslam.github.com/pages/development-design/actionscript.textile",
 		"/D/apps/Sublime Text 2.0/Data/Packages/User/Preferences.sublime-settings",
@@ -86,6 +90,14 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 0.0
@@ -127,6 +139,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"pyto",
+				"pages/development-design/python.textile"
+			],
 			[
 				"osx",
 				"pages/software/osx.textile"
