@@ -15,7 +15,7 @@ h3. Contents
 * "References":#references
 </div>
 
-h3(ide_editor). IDE & Editor
+h3(#ide_editor). IDE & Editor
 * "PyCharm":http://www.jetbrains.com/pycharm/ - 来自JetBrains的强大的IDE
 * "Python Tools for Visual Studio":http://pytools.codeplex.com/
 * "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
@@ -24,7 +24,7 @@ h3(ide_editor). IDE & Editor
 * "Emacs":http://www.gnu.org/software/emacs/
 * "Sublime Text 2":/pages/software/editor_ide.html#sublime_text - 强大的代码编辑器，堪比MacOS下的textmate
 
-h3(web_framework). Web Framework
+h3(#web_framework). Web Framework
 * "bobo":http://bobo.digicool.com/
 * "Bottle":http://bottlepy.org - 单文件小巧web framework
 * "CheerPy":http://www.cherrypy.org/
@@ -44,7 +44,7 @@ h3(web_framework). Web Framework
 * "Web2py":http://web2py.com/
 * "wheezy.web":https://bitbucket.org/akorn/wheezy.web
 
-h3(web_apps). Web Apps
+h3(#web_apps). Web Apps
 * *CMS*
 ** "Plone":http://plone.org/
 ** "Feincms":http://www.feincms.org/ - 开源CMS系统
@@ -71,7 +71,7 @@ h3(web_apps). Web Apps
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统
 
-h3(packages). Packages & Utility Class
+h3(#packages). Packages & Utility Class
 * *Network*
 ** "lxml":http://lxml.de/ - 一款高性能Python XML库，支持XPath、XSLT，可对XML和HTML执行解析、序列化和转换等
 ** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.
@@ -104,7 +104,7 @@ h3(packages). Packages & Utility Class
 ** "simplejson":http://pypi.python.org/pypi/simplejson
 ** "imaging(PIL)":http://www.pythonware.com/products/pil/
 
-h3(other). Other
+h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
 * "APNS Python Wrapper":http://code.google.com/p/apns-python-wrapper/ - Python wrapper for Apple Push Notification Service. 
 * "Pocoo":http://www.pocoo.org - The Pocoo Team consists of people from the Python community that are working under one umbrella on various Python libraries and applications.
@@ -112,7 +112,7 @@ h3(other). Other
 * "Sphinx":http://sphinx.pocoo.org/ - API文档生成
 * "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
-h3(references). References
+h3(#references). References
 * *Python*
 ** "《简明 Python 教程 - a byte of python》":http://junnan.org/ebooks/a_byte_of_python/
 ** "《深入python - dive into python》":http://junnan.org/ebooks/dive_into_python/html/toc/
