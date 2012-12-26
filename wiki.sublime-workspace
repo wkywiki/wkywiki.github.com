@@ -58,6 +58,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"simplejson",
 			"codekit",
 			"starling",
 			"isnap",
@@ -127,6 +128,10 @@
 		"selected_items":
 		[
 			[
+				"pytho",
+				"pages/development-design/python.textile"
+			],
+			[
 				"front",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -157,10 +162,6 @@
 			[
 				"action",
 				"pages/development-design/actionscript.textile"
-			],
-			[
-				"pytho",
-				"pages/development-design/python.textile"
 			],
 			[
 				"pyth",

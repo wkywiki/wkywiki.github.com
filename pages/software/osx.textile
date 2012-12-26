@@ -159,6 +159,7 @@ h3(#design). 设计
 ** "Snagit":http://www.techsmith.com/snagit.html - 截图标注工具
 ** "GuideGuide":http://www.guideguide.me/ - 一款photoshop的加强版辅助线插件
 ** "xScope":http://xscopeapp.com/ - 设计工具，度量距离和角度标尺，精确垂直和水平辅助线等等
+** "Rulers":https://itunes.apple.com/us/app/id415310758?mt=12 - 屏幕测量工具
 * *(#design-other)其他*
 ** "Sip":https://itunes.apple.com/us/app/sip/id507257563?mt=12 - 小巧实用的屏幕取色工具
 ** "Color Picker Pro":http://fructivity.com/ - 免费实用的取色工具
