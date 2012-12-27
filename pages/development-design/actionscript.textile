@@ -170,6 +170,7 @@ h3(#software). Software
 ** "MarkMan":http://www.getmarkman.com/ - 马克鳗
 ** "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 ** "Skeleton":https://github.com/akdcl/skeleton - 一款骨骼动画工具
+** "Spriter":http://abeltoy.com/projects/spriterAS3/index.html - 一款跨平台的骨骼动画编辑器，支持Flixel、Starling等
 
 * *(#development)Development*
 ** *(#ide)IDE*

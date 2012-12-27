@@ -19,7 +19,7 @@
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 6643,
+				"buffer_size": 6534,
 				"line_ending": "Windows"
 			}
 		},
@@ -28,6 +28,14 @@
 			"settings":
 			{
 				"buffer_size": 2292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
+			"settings":
+			{
+				"buffer_size": 10960,
 				"line_ending": "Unix"
 			}
 		}
@@ -169,7 +177,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -177,15 +185,15 @@
 					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 6643,
+						"buffer_size": 6534,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								293,
-								293
+								0,
+								0
 							]
 						],
 						"settings":
@@ -220,6 +228,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 789.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
+					"settings":
+					{
+						"buffer_size": 10960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9051,
+								9051
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4483.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -268,6 +304,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
 			[
 				"php",
 				"pages/development-design/php.textile"
@@ -323,10 +363,6 @@
 			[
 				"chro",
 				"pages/software/chrome.textile"
-			],
-			[
-				"action",
-				"pages/development-design/actionscript.textile"
 			],
 			[
 				"fr",
