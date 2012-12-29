@@ -59,17 +59,24 @@
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 			"settings":
 			{
-				"buffer_size": 6108,
+				"buffer_size": 6320,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "include sites-enabled/*.conf;",
+			"contents": "",
 			"settings":
 			{
-				"buffer_size": 29,
-				"line_ending": "Unix",
-				"name": "include sites-enabled/*.conf;"
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
+			"settings":
+			{
+				"buffer_size": 590,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -97,6 +104,7 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/assets/style.css",
 		"/Users/bindiry/workspaces/wiki/assets/modernizr.custom.js",
@@ -135,7 +143,6 @@
 		"/Users/Bindiry/workspaces/wiki/pages/software/vim.textile",
 		"/Users/Bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/workspaces/_examples/liarliar/good.txt",
 		"/Users/bindiry/workspaces/_examples/liarliar/liarliar",
 		"/Users/bindiry/workspaces/_examples/liarliar/goodmorning",
@@ -175,6 +182,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"monk",
 			"br",
 			"uml4as",
 			"MNPP",
@@ -350,15 +358,15 @@
 					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 					"settings":
 					{
-						"buffer_size": 6108,
+						"buffer_size": 6320,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								228,
-								238
+								2346,
+								2311
 							]
 						],
 						"settings":
@@ -366,7 +374,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1116.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -375,21 +383,47 @@
 					"buffer": 6,
 					"settings":
 					{
-						"buffer_size": 29,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								29,
+								0,
 								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "include sites-enabled/*.conf;",
+							"auto_name": "",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -441,6 +475,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"python",
+				"pages/development-design/python.textile"
+			],
+			[
+				"go",
+				"pages/development-design/golang.textile"
+			],
+			[
+				"pytho",
+				"pages/development-design/python.textile"
+			],
+			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
 			[
 				"py",
 				"pages/development-design/python.textile"
@@ -514,10 +564,6 @@
 				"pages/other/references.textile"
 			],
 			[
-				"python",
-				"pages/development-design/python.textile"
-			],
-			[
 				"fro",
 				"pages/development-design/web-front-end.textile"
 			],
@@ -532,10 +578,6 @@
 			[
 				"game",
 				"pages/other/game_development.textile"
-			],
-			[
-				"pytho",
-				"pages/development-design/python.textile"
 			],
 			[
 				"fer",
@@ -576,10 +618,6 @@
 			[
 				"vim",
 				"pages/software/vim.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
 			],
 			[
 				"act",
