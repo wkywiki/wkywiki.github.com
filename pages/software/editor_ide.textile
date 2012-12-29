@@ -8,6 +8,7 @@ h3. Contents
 * "Sublime Text":#sublime_text
 * "Vim":#vim
 * "Eclipse":#eclipse
+* "JetBrains's IDE":#jetbrains
 * "OS X Platform":#osx
 * "Windows Platform":#windows
 * "Code Fonts":#fonts
@@ -89,6 +90,14 @@ h3. Plugins
 * "Subclipse":http://subclipse.tigris.org - SVN插件
 * "Flex Formatter":http://sourceforge.net/projects/flexformatter/ - 代码格式化插件
 * "SourceMate":http://www.elementriver.com/sourcemate - 编码增强工具
+
+h1(#jetbrains). JetBrains
+
+h3. Color Schemes
+* "Solarized":http://ethanschoonover.com/solarized
+
+h3. References
+* "大猫的前端开发指南":https://github.com/damao/Intellij-IDEA-F2E
 
 h1(#osx). OSX相关
 * "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
