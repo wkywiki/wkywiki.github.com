@@ -38,6 +38,39 @@
 				"buffer_size": 10960,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
+			"settings":
+			{
+				"buffer_size": 870,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
+			"settings":
+			{
+				"buffer_size": 5892,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+			"settings":
+			{
+				"buffer_size": 6108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "include sites-enabled/*.conf;",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix",
+				"name": "include sites-enabled/*.conf;"
+			}
 		}
 	],
 	"build_system": "",
@@ -177,7 +210,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -244,8 +277,8 @@
 						"selection":
 						[
 							[
-								9051,
-								9051
+								6431,
+								6431
 							]
 						],
 						"settings":
@@ -255,7 +288,111 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4483.0,
+						"translation.y": 4998.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
+					"settings":
+					{
+						"buffer_size": 5892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3757,
+								3757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2250.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+					"settings":
+					{
+						"buffer_size": 6108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "include sites-enabled/*.conf;",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -305,6 +442,18 @@
 		"selected_items":
 		[
 			[
+				"py",
+				"pages/development-design/python.textile"
+			],
+			[
+				"ide",
+				"pages/software/editor_ide.textile"
+			],
+			[
+				"open",
+				"pages/other/open_source_projects.textile"
+			],
+			[
 				"action",
 				"pages/development-design/actionscript.textile"
 			],
@@ -342,10 +491,6 @@
 			],
 			[
 				"pyth",
-				"pages/development-design/python.textile"
-			],
-			[
-				"py",
 				"pages/development-design/python.textile"
 			],
 			[
@@ -407,10 +552,6 @@
 			[
 				"pre",
 				"pages/other/references.textile"
-			],
-			[
-				"open",
-				"pages/other/open_source_projects.textile"
 			],
 			[
 				"web",

@@ -120,6 +120,8 @@ h3(#references). References
 ** "《The Python Tutorial》":http://docs.python.org/tutorial/index.html
 ** "《Learn Python The Hard Way - 笨办法学Python》中文版":http://readthedocs.org/docs/learn-python-the-hard-way-zh_cn-translation/en/latest/index.html / "bitbucket":https://bitbucket.org/gastlygem/lpthw/wiki/Home
 ** "用Python做科学计算":http://hyry.dip.jp/pydoc/index.html
+** "Learn Python":http://www.learnpython.org/
+** "Python for beginners":http://www.pythonforbeginners.com/
 * *Django*
 ** "《The Django Book》":http://djangobook.py3k.cn/2.0/
 ** "Django 1.3 Docs":http://junnan.org/ebooks/django_docs_1.3/
