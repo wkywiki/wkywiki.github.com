@@ -128,3 +128,24 @@ h3(#references). References
 ** "《The Django Book》":http://djangobook.py3k.cn/2.0/
 ** "Django 1.3 Docs":http://junnan.org/ebooks/django_docs_1.3/
 ** "Storm Tutorial 中文版":https://storm_orm_tutorial_cn.readthedocs.org/en/latest/
+
+h3(#books). Books
+* Think Python
+* Invent Your Own Computer Games with Python
+* Snake Wrangling for Kids
+* Learn Python the Hard Way, 2nd Edition
+* Natural Language Processing with Python
+* Building Skills in Python
+* Dive into Python
+* Text Processing in Python
+* The Standard Python Library
+* The Definitive Guide to Pylons
+* Making Games with Python & Pygame
+* Python Module of the Week
+* A Byte of Python
+* Think Complexity
+* Programming Computer Vision with Python
+* Python for you and me 0.2
+* Problem Solving with Algorithms and Data Structures using Python
+* The Art and Craft of Programming Python Edition
+* Python Programming
