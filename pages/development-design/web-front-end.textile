@@ -31,6 +31,10 @@ h3. CSS
 ** "SpriterMapper":http://yostudios.github.com/Spritemapper/ - 基于python的一款多图片合并切片生成css工具
 ** "Yabo":https://github.com/damao/Yabo - 大猫写的前端压缩工具
 
+* *Other*
+** "Elusive Icons":http://aristath.github.com/elusive-iconfont/ - 适量字体图标
+** "Font awsome":http://fortawesome.github.com/Font-Awesome/
+
 
 h3. Javascript
 
