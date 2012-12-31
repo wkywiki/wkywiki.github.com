@@ -19,7 +19,7 @@
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 6534,
+				"buffer_size": 6679,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,7 +59,7 @@
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 			"settings":
 			{
-				"buffer_size": 6320,
+				"buffer_size": 6957,
 				"line_ending": "Unix"
 			}
 		},
@@ -76,6 +76,22 @@
 			"settings":
 			{
 				"buffer_size": 590,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/other/references.textile",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+			"settings":
+			{
+				"buffer_size": 10315,
 				"line_ending": "Unix"
 			}
 		}
@@ -104,6 +120,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Bindiry/workspaces/_objectivec/learn_cocos2d/.gitignore",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/assets/style.css",
@@ -182,6 +199,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"app",
 			"monk",
 			"br",
 			"uml4as",
@@ -218,7 +236,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -226,15 +244,15 @@
 					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 6534,
+						"buffer_size": 6679,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1313,
+								1312
 							]
 						],
 						"settings":
@@ -242,7 +260,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 155.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -358,15 +376,15 @@
 					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 					"settings":
 					{
-						"buffer_size": 6320,
+						"buffer_size": 6957,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2346,
-								2311
+								6956,
+								6956
 							]
 						],
 						"settings":
@@ -374,7 +392,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1116.0,
+						"translation.y": 3327.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -430,6 +448,58 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/bindiry/workspaces/wiki/pages/other/references.textile",
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+					"settings":
+					{
+						"buffer_size": 10315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 587.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -476,6 +546,22 @@
 		"selected_items":
 		[
 			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"py",
+				"pages/development-design/python.textile"
+			],
+			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"fr",
+				"pages/other/references.textile"
+			],
+			[
 				"python",
 				"pages/development-design/python.textile"
 			],
@@ -490,10 +576,6 @@
 			[
 				"ruby",
 				"pages/development-design/ruby.textile"
-			],
-			[
-				"py",
-				"pages/development-design/python.textile"
 			],
 			[
 				"ide",
@@ -516,19 +598,11 @@
 				"pages/development-design/web-front-end.textile"
 			],
 			[
-				"front",
-				"pages/development-design/web-front-end.textile"
-			],
-			[
 				"ox",
 				"pages/software/osx.textile"
 			],
 			[
 				"os",
-				"pages/software/osx.textile"
-			],
-			[
-				"osx",
 				"pages/software/osx.textile"
 			],
 			[
@@ -558,10 +632,6 @@
 			[
 				"chro",
 				"pages/software/chrome.textile"
-			],
-			[
-				"fr",
-				"pages/other/references.textile"
 			],
 			[
 				"fro",
