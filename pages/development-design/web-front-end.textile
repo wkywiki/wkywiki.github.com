@@ -21,6 +21,7 @@ h3. CSS
 ** "Animate.css":http://daneden.me/animate/ - 整合了一些简单动画效果的css，支持自定制
 ** "Sass":http://sass-lang.com - 基于ruby的CSS简化解释语言
 ** "Compass":http://compass-style.org/ - 基于Sass的框架，提供了更强大的功能，如：CSS3支持、浏览器差异修复、Reset等
+** "Stylus":http://learnboost.github.com/stylus/ - 基于node.js的CSS简化解释语言
 
 * *Tools*
 ** "StyleBot":http://stylebot.me/ - Chrome下的可视化CSS编辑器，功能强大
@@ -98,9 +99,11 @@ h3. Javascript
 *** "node-readability":https://github.com/arrix/node-readability - 像evernote的那个chrome插件那样，自动分析页面里的正文抓取
 *** "stylus":https://github.com/LearnBoost/stylus - Expressive, robust, feature-rich CSS language built for nodejs
 *** "roots":https://github.com/jenius/roots - a toolkit for rapid advanced front-end development
+*** "js2coffee":https://github.com/rstacruz/js2coffee
 
 ** *Web Apps*
 *** "Noderce":https://github.com/willerce/noderce - 开源Blog程序
+*** "hexo":https://github.com/tommy351/hexo - 不错的Octopress替换博客程序，生成速度很快，也引入了很多Octopress的插件
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/

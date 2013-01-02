@@ -33,6 +33,8 @@ h3(#web_framework). Web Framework
 ** "dajaxice":http://www.dajaxproject.com/ - easy to use ajax library for django
 ** "imagekit":https://github.com/jdriscoll/django-imagekit/ - Automated image processing for Django models
 * "Flask":http://www.pocoo.org/projects/flask/ - a micro web framework
+** "开源中国Flash教程":http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world
+** "Flash Base":https://github.com/notedit/flask-base - Flash虚拟环境搭建
 * "Tenjin":http://www.kuwata-lab.com/tenjin/
 * "Tornado":http://www.tornadoweb.org/
 ** "Tornado中文手册":http://www.tornadoweb.cn/
@@ -49,6 +51,7 @@ h3(#web_apps). Web Apps
 ** "Plone":http://plone.org/
 ** "Feincms":http://www.feincms.org/ - 开源CMS系统
 ** "Mezzanine":http://mezzanine.jupo.org/ - 基于Django的CMS
+** "zcms":https://github.com/everydo/zcms - 支持Markdown的无数据库极简CMS
 
 * *BBS*
 ** "DjangoBB":https://bitbucket.org/slav0nic/djangobb
@@ -58,6 +61,7 @@ h3(#web_apps). Web Apps
 ** "lusernews":https://github.com/dengzhp/lusernews - 为似于Hacknews的社交新闻系统
 ** "post_bar":https://github.com/Rabbit52/post_bar - 使用 web.py 实现的仿 v2ex 社区网站
 ** "PBB":https://github.com/whtsky/PBB
+** "F2E.im":https://github.com/PaulGuo/F2E.im - F2E前端社区
 
 * *Blog*
 ** "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序
@@ -80,6 +84,8 @@ h3(#packages). Packages & Utility Class
 ** "Logmon":https://github.com/maxcountryman/logmon - Logmon is a realtime log reader written with Flask and Juggernaut.
 ** "Gevent":http://www.gevent.org/ - 非常好的用来写 Socket Server 的框架
 ** "Twisted":http://twistedmatrix.com/trac/ - 同上
+** "msgpack":http://msgpack.org/ - 一个据说速度很快的序列化库
+** "zerorpc":https://github.com/dotcloud/zerorpc-python - dotcloud 基于 msgpack 和 zeromq 的 rpc
 
 * *Templating Engine*
 ** "Jinja2":http://www.pocoo.org/projects/jinja2/ - Jinja2 is a popular text templating engine for Python
@@ -114,6 +120,11 @@ h3(#other). Other
 * "Sphinx":http://sphinx.pocoo.org/ - API文档生成
 * "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
+h3(#website). Website
+* "Python Weekly":http://www.pythonweekly.com/
+* "Pycoder's Weekly":http://pycoders.com/
+* "V2EX Pythtn":http://www.v2ex.com/go/python
+
 h3(#references). References
 * *Python*
 ** "《简明 Python 教程 - a byte of python》":http://junnan.org/ebooks/a_byte_of_python/
@@ -124,6 +135,8 @@ h3(#references). References
 ** "用Python做科学计算":http://hyry.dip.jp/pydoc/index.html
 ** "Learn Python":http://www.learnpython.org/
 ** "Python for beginners":http://www.pythonforbeginners.com/
+** "Python编码风格指南":http://code.google.com/p/zhong-wiki/wiki/PEP8
+** "张沈鹏的编码规范":http://zuroc.42qu.com/10922446
 * *Django*
 ** "《The Django Book》":http://djangobook.py3k.cn/2.0/
 ** "Django 1.3 Docs":http://junnan.org/ebooks/django_docs_1.3/

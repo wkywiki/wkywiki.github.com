@@ -185,6 +185,7 @@ h3(#system). 系统工具
 * "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
 * "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具
 * "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
+** "iTerm2 Color Themes":https://github.com/baskerville/iTerm-2-Color-Themes
 * "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件

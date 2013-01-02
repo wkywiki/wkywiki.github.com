@@ -16,82 +16,26 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
-			"settings":
-			{
-				"buffer_size": 6679,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
-			"settings":
-			{
-				"buffer_size": 2292,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
-			"settings":
-			{
-				"buffer_size": 10960,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
-			"settings":
-			{
-				"buffer_size": 870,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
-			"settings":
-			{
-				"buffer_size": 5892,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 			"settings":
 			{
-				"buffer_size": 6957,
+				"buffer_size": 7648,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "",
+			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
-			"settings":
-			{
-				"buffer_size": 590,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/bindiry/workspaces/wiki/pages/other/references.textile",
-			"settings":
-			{
-				"buffer_size": 1139,
-				"line_ending": "Unix"
+				"buffer_size": 6974,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 			"settings":
 			{
-				"buffer_size": 10315,
+				"buffer_size": 10447,
 				"line_ending": "Unix"
 			}
 		}
@@ -120,28 +64,28 @@
 	},
 	"file_history":
 	[
+		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/Bindiry/workspaces/_objectivec/learn_cocos2d/.gitignore",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
-		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 		"/Users/bindiry/workspaces/wiki/assets/style.css",
 		"/Users/bindiry/workspaces/wiki/assets/modernizr.custom.js",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 		"/Users/bindiry/workspaces/wiki/assets/ui.totop.css",
 		"/Users/bindiry/workspaces/wiki/assets/common.js",
 		"/Users/bindiry/workspaces/wiki/assets/jquery.ui.totop.js",
 		"/Users/bindiry/workspaces/wiki/assets/imgs/ui.totop.png",
-		"/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
-		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
-		"/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/dotnet.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
 		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/linux.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/ios.textile",
-		"/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
 		"/Users/bindiry/workspaces/wiki/pages/other/server.textile",
 		"/Users/bindiry/workspaces/wiki/pages/software/chrome.textile",
 		"/Users/bindiry/workspaces/wiki/index.html",
@@ -199,6 +143,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"msgpack",
+			"it",
+			"思维",
 			"app",
 			"monk",
 			"br",
@@ -236,23 +183,23 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
 					"settings":
 					{
-						"buffer_size": 6679,
+						"buffer_size": 7648,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1313,
-								1312
+								3711,
+								3711
 							]
 						],
 						"settings":
@@ -260,25 +207,25 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 155.0,
+						"translation.y": 1780.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 2292,
+						"buffer_size": 6974,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1885,
-								1885
+								5069,
+								5069
 							]
 						],
 						"settings":
@@ -286,209 +233,25 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 789.0,
+						"translation.y": 2350.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
-					"settings":
-					{
-						"buffer_size": 10960,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6431,
-								6431
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4998.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
-					"settings":
-					{
-						"buffer_size": 870,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								571,
-								571
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
-					"settings":
-					{
-						"buffer_size": 5892,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3757,
-								3757
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2250.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
-					"settings":
-					{
-						"buffer_size": 6957,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6956,
-								6956
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 3327.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/golang.textile",
-					"settings":
-					{
-						"buffer_size": 590,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								366,
-								366
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/bindiry/workspaces/wiki/pages/other/references.textile",
-					"settings":
-					{
-						"buffer_size": 1139,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
 					"file": "/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
 					"settings":
 					{
-						"buffer_size": 10315,
+						"buffer_size": 10447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								592,
-								592
+								8579,
+								8579
 							]
 						],
 						"settings":
@@ -496,7 +259,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 587.0,
+						"translation.y": 4701.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -546,16 +309,28 @@
 		"selected_items":
 		[
 			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
 				"osx",
 				"pages/software/osx.textile"
 			],
 			[
-				"py",
+				"font",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"pytho",
 				"pages/development-design/python.textile"
 			],
 			[
-				"front",
+				"fro",
 				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"py",
+				"pages/development-design/python.textile"
 			],
 			[
 				"fr",
@@ -568,10 +343,6 @@
 			[
 				"go",
 				"pages/development-design/golang.textile"
-			],
-			[
-				"pytho",
-				"pages/development-design/python.textile"
 			],
 			[
 				"ruby",
@@ -632,10 +403,6 @@
 			[
 				"chro",
 				"pages/software/chrome.textile"
-			],
-			[
-				"fro",
-				"pages/development-design/web-front-end.textile"
 			],
 			[
 				"ac",
@@ -764,6 +531,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 262.0,
+	"side_bar_width": 212.0,
 	"status_bar_visible": true
 }
