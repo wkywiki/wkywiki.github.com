@@ -24,6 +24,10 @@ h3. Tools
 * "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
 * "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
 
+h3. Cross-Platform Mobile Game Development
+* "Gideros Mobile":http://www.giderosmobile.com/ - 小巧，小手快速，使用lua编写代码的手机游戏开发平台
+* "Moai":http://getmoai.com/ - 面向专业游戏开发者的开源手机游戏开发平台
+
 h3. Server
 * "Pomelo":http://pomelo.netease.com/ - 快速、扩展性好、分布式游戏后端开发框架，网易出品
 

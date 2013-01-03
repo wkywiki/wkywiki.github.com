@@ -47,6 +47,7 @@ h3(#commonly-used). 个人装机必备
 * "Sparrow":http://www.sparrowmailapp.com/ - 邮箱客户端，支持Gmail的Push提醒
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 ** "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
+* "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
 
 h3(#entertainment). 媒体
 * *图片相关*

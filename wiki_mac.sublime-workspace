@@ -27,7 +27,7 @@
 			"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 6974,
+				"buffer_size": 7266,
 				"line_ending": "Windows"
 			}
 		},
@@ -36,6 +36,14 @@
 			"settings":
 			{
 				"buffer_size": 10447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
+			"settings":
+			{
+				"buffer_size": 5892,
 				"line_ending": "Unix"
 			}
 		}
@@ -183,7 +191,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -217,15 +225,15 @@
 					"file": "/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 6974,
+						"buffer_size": 7266,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5069,
-								5069
+								6832,
+								6832
 							]
 						],
 						"settings":
@@ -233,7 +241,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2350.0,
+						"translation.y": 3473.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -260,6 +268,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 4701.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/bindiry/workspaces/wiki/pages/software/editor_ide.textile",
+					"settings":
+					{
+						"buffer_size": 5892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1841.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -308,6 +342,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"edit",
+				"pages/software/editor_ide.textile"
+			],
 			[
 				"front",
 				"pages/development-design/web-front-end.textile"
