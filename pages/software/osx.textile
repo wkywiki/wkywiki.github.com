@@ -54,6 +54,7 @@ h3(#entertainment). 媒体
 ** "Voila":http://www.globaldelight.com/voila - 一款强大的截图软件
 ** "SwordSoft Screenink":https://itunes.apple.com/us/app/swordsoft-screenink/id556304449?ls=1&mt=12 - 同上
 ** "Flare":http://flareapp.com/ - 好用的照片后期处理软件
+** "Image Smith":http://www.koingosw.com/products/imagesmith.php - 图片批量处理工具
 * *音频相关*
 ** "Enqueue":http://www.enqueueapp.com/
 ** "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器
@@ -61,6 +62,7 @@ h3(#entertainment). 媒体
 ** "Simplier":http://simplier.com/ - 轻量级音乐播放器
 ** "Cog":http://cogx.org/ - 音乐播放器
 ** "DynamicLyrics":http://martianz.cn/dynamiclyrics/ - 可以在桌面显示歌词的软件
+** "X Lossless Decoder":http://tmkk.undo.jp/xld/index_e.html - 无损音频转码工具
 * *视频相关*
 ** "MplayerX":http://mplayerx.org/ - 强大的视频播放器
 ** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
@@ -94,6 +96,8 @@ h3(#network). 网络
 ** "Proxifier":http://www.proxifier.com/mac_download.htm - 同上
 ** "breakwall":http://code.google.com/p/breakwall/
 * *其他*
+** "Postbox":http://www.postbox-inc.com/ - 一款不错的邮件客户端
+** "Sparrow":http://www.sparrowmailapp.com/ - 同上
 ** "Charles":http://www.charlesproxy.com/ - 类似于Windows下fiddler的http调试工具
 ** "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
 ** "TeamViewer":http://www.teamviewer.com - 远程控制工具
