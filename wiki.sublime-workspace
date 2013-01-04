@@ -5,9 +5,6 @@
 		[
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -90,14 +87,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 0.0
@@ -140,7 +129,11 @@
 		"selected_items":
 		[
 			[
-				"pyto",
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"python",
 				"pages/development-design/python.textile"
 			],
 			[
@@ -148,12 +141,16 @@
 				"pages/software/osx.textile"
 			],
 			[
-				"pytho",
+				"tpyhon",
 				"pages/development-design/python.textile"
 			],
 			[
-				"front",
-				"pages/development-design/web-front-end.textile"
+				"pyto",
+				"pages/development-design/python.textile"
+			],
+			[
+				"pytho",
+				"pages/development-design/python.textile"
 			],
 			[
 				"editor",
@@ -162,10 +159,6 @@
 			[
 				"game",
 				"pages/other/game_development.textile"
-			],
-			[
-				"python",
-				"pages/development-design/python.textile"
 			],
 			[
 				"php",
