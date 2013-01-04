@@ -35,6 +35,7 @@ h3. CMS
 * "GetSimple":http://get-simple.info/
 * "ECShop":http://www.ecshop.com/ - 开源中文网店系统
 * "Shopilex":http://www.shopilex.com/ - 同上
+* "MiniCMS":https://github.com/bg5sbk/MiniCMS/ - 达达的一款小巧CMS，支持MarkDown，数据以文件存储
 
 h3. Forum System
 * "Discuz":http://www.discuz.net/

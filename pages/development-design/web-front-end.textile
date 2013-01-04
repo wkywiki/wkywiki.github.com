@@ -43,6 +43,7 @@ h3. Javascript
 ** "Node.js":http://nodejs.org/ - 基于Javascript的Web服务端解决方案
 ** "Backbone.js":http://documentcloud.github.com/backbone/ - 一个前端MVC框架
 ** "SeaJS":http://seajs.com/ - SeaJS 是一个遵循CommonJS规范的模块加载框架，可用来轻松加载任意JavaScript模块
+** "Arale":http://aralejs.org/ - 支付宝基于 SeaJS 的前端解决方案
 ** "Kissy":http://kissyui.com/ - 由淘宝前端团队发布的一款开源JS类库
 ** "APEJS":http://lmatteis.github.com/apejs/ - A tiny JavaScript web framework targeted for Google App Engine
 ** "SproutCore":http://www.sproutcore.com/ - iCloud 和 MobileMe 的JS Framework

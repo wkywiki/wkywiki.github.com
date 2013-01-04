@@ -15,14 +15,16 @@ h3. Utility Tools
 * "PonyDebugger":https://github.com/square/PonyDebugger - 使用 Google Chrome Developer Tools 设试 iOS app
 * "CocoaPods":https://github.com/CocoaPods/CocoaPods - 库依赖关系管理器
 
-h3. Utility Class
+h3. Library
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X
+* "RegexKit Framework":http://regexkit.sourceforge.net/ - 正则表达式库
 * *iOS*
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
 * "QuickDialog":https://github.com/escoz/QuickDialog - 简单易用的TableViews类
 * "Core Plot":http://code.google.com/p/core-plot/ - 图表库
 * "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 * "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
+* "iOS Boilerplate":http://iosboilerplate.com/ - A base template for iOS apps
 
 h3. Framewok
 * *Network*
