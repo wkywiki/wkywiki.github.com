@@ -7,6 +7,8 @@ h1. Chrome
 
 h3(#plugins). Plugins
 * "JsonView":https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
+* "Edit This Cookie":https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg/related
+  直接编辑当前网站的cookie
 
 h3(#scripts). Scripts
 * "Straight Google":https://userscripts.org/scripts/show/121261 - 一款去Google跳转链接的工具
