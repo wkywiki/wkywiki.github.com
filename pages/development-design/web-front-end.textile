@@ -22,6 +22,7 @@ h3. CSS
 ** "Sass":http://sass-lang.com - 基于ruby的CSS简化解释语言
 ** "Compass":http://compass-style.org/ - 基于Sass的框架，提供了更强大的功能，如：CSS3支持、浏览器差异修复、Reset等
 ** "Stylus":http://learnboost.github.com/stylus/ - 基于node.js的CSS简化解释语言
+** "Less":http://lesscss.org/ - 同样基于node.js的CSS简化解释语言，但没有Stylus简化
 
 * *Tools*
 ** "StyleBot":http://stylebot.me/ - Chrome下的可视化CSS编辑器，功能强大
