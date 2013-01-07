@@ -83,6 +83,7 @@ h3. Javascript
 ** "Jauery-BBQ":https://github.com/cowboy/jquery-bbq - 一款可以记录前进后退按钮的插件
 ** "jScrollPane":http://www.kelvinluck.com/assets/jquery/jScrollPane/jScrollPane.html - 滚动条自定义插件
 ** "mCustomScrollbar":http://manos.malihu.gr/jquery-custom-content-scroller/ - 同上
+** "liffect":http://ademilter.com/lab/liffect/ - 图片列表的缓动动画
 ** **实现瀑布流的插件们**
 *** "waterfall":https://github.com/dio-el-claire/jquery.waterfall
 *** "Masonry":http://masonry.desandro.com/index.html
