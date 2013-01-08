@@ -48,6 +48,10 @@ h3(#commonly-used). 个人装机必备
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 ** "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 * "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
+* "Free":https://itunes.apple.com/cn/app/free/id486226904?mt=12 - 一款支持Markdown专注与写作的软件
+* "Byword":https://itunes.apple.com/cn/app/byword/id420212497?mt=12 - 同上
+* "iA Writer":https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12 - 同上
+* "Mou":http://mouapp.com/ - 同上
 
 h3(#entertainment). 媒体
 * *图片相关*

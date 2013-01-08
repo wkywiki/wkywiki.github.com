@@ -114,6 +114,7 @@ h3(#packages). Packages & Utility Class
 ** "Arrow":https://github.com/crsmithdev/arrow - 时间和日期的处理库
 ** "simplejson":http://pypi.python.org/pypi/simplejson
 ** "imaging(PIL)":http://www.pythonware.com/products/pil/
+** "feedparser":http://code.google.com/p/feedparser/ - Parse Atom and RSS feeds in Python
 
 h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
