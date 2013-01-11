@@ -41,6 +41,7 @@ h3. Packages
 * "Packages by Will Bond":http://wbond.net/sublime_packages/
 * "Haml-Sass":https://github.com/n00ge/sublime-text-haml-sass - haml和sass支持
 * "CSS格式化":https://gist.github.com/2863474
+* "Sublime CodeIntel":https://github.com/Kronuz/SublimeCodeIntel - 智能代码提示
 
 h3. Articles
 * "Sublime Text 2 Tips and Tricks":http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/

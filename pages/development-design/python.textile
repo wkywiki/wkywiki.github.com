@@ -13,6 +13,7 @@ h3. Contents
 * "Packages & Utility Class":#packages
 * "Other":#other
 * "References":#references
+* "Books":#books
 </div>
 
 h3(#ide_editor). IDE & Editor
@@ -105,16 +106,22 @@ h3(#packages). Packages & Utility Class
 ** "MySQLdb":http://sourceforge.net/projects/mysql-python/
 ** "redis-py":http://github.com/andymccurdy/redis-py
 
+* *Web Development Useful Library*
+** "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
+** "feedparser":http://code.google.com/p/feedparser/ - Parse Atom and RSS feeds in Python
+
+* *System*
+** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
+
 * *Other*
 ** "odict":http://dev.pocoo.org/hg/sandbox/raw-file/tip/odict.py - 可以保证元素顺序的Dict
-** "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
 ** "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
-** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
 ** "APScheduler":http://packages.python.org/APScheduler/ - APScheduler is a light but powerful in-process task scheduler that lets you schedule functions (or any other python callables) to be executed at times of your choosing.
 ** "Arrow":https://github.com/crsmithdev/arrow - 时间和日期的处理库
 ** "simplejson":http://pypi.python.org/pypi/simplejson
 ** "imaging(PIL)":http://www.pythonware.com/products/pil/
-** "feedparser":http://code.google.com/p/feedparser/ - Parse Atom and RSS feeds in Python
+** "virtualenv":http://pypi.python.org/pypi/virtualenv - python虚拟环境
+** "autopep8":https://github.com/hhatto/autopep8 - 按PEP8的风格，自动排版代码
 
 h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
