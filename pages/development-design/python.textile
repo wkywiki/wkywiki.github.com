@@ -109,6 +109,7 @@ h3(#packages). Packages & Utility Class
 * *Web Development Useful Library*
 ** "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
 ** "feedparser":http://code.google.com/p/feedparser/ - Parse Atom and RSS feeds in Python
+** "Pectin":https://github.com/tioover/Pectin - A python web application thin glue layer
 
 * *System*
 ** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
@@ -135,6 +136,8 @@ h3(#website). Website
 * "Python Weekly":http://www.pythonweekly.com/
 * "Pycoder's Weekly":http://pycoders.com/
 * "V2EX Pythtn":http://www.v2ex.com/go/python
+* "Codecademy":http://www.codecademy.com - 交互式python学习站
+* "Python For Beginners":http://www.pythonforbeginners.com/
 
 h3(#references). References
 * *Python*
