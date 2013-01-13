@@ -78,6 +78,7 @@ h3(#entertainment). 媒体
 ** "Perian":http://perian.org/ - 可以让quicktime支持更多格式
 ** "ScreenFlow":http://itunes.apple.com/us/app/screenflow/id422025166?mt=12 - 强大的屏幕录像工具
 ** "ScreenFlick":http://www.araelium.com/screenflick/ - 同上
+** "MP4Tools":http://www.emmgunn.com/mp4tools/mp4toolshome.html - MP4视频转换/分割/合并工具
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
