@@ -46,6 +46,7 @@ h3(#network). 网络
 * "Proxifier":http://www.proxifier.com - 让不支持代理服务器的程序使用代理
 * "chnroutes":http://code.google.com/p/chnroutes/wiki/Usage / "github":https://github.com/jimmyxu/chnroutes - 路由表
 * "ForceBindIP":http://www.r1ch.net/stuff/forcebindip/ - 可以让指定程序使用指定网络
+* "wireshark":http://www.wireshark.org/ - 强大的抓包软件
 
 h3(#develop). 开发
 * "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#windows

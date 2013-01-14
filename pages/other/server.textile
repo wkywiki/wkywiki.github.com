@@ -9,6 +9,7 @@ h3. VPS
 * "Linode":http://www.linode.com/
 * "Chicago VPS":https://www.chicagovps.net/
 * "Homezz":http://homezz.com
+* "Hostigation":https://hostigation.com/
 * "prgmr":http://prgmr.com
 * "Ramhost":http://www.ramhost.us/?page=vps/linux-openvz-atlanta-east
 * "ServInt":http://www.servint.net/

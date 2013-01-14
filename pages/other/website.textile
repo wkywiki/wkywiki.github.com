@@ -48,6 +48,7 @@ h3. 设计
 ** "Dasplankton":http://www.dasplankton.de/ContrastA/
 * *Tools*
 ** "JpegMini":http://www.jpegmini.com - 在线压缩jpg图片，效果不错
+** "Text to ASCII Art Generator (TAAG)":http://patorjk.com/software/taag/
 
 h3. 网络应用
 * "Disqus":http://disqus.com/ - 提供支持社交媒体的评论功能托管
