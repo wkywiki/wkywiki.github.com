@@ -108,6 +108,8 @@ h3(#packages). Packages & Utility Class
 
 * *Web Development Useful Library*
 ** "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
+** "FormEncode":http://www.formencode.org - 同上
+** "tforms":https://github.com/lepture/tforms - 同上
 ** "feedparser":http://code.google.com/p/feedparser/ - Parse Atom and RSS feeds in Python
 ** "Pectin":https://github.com/tioover/Pectin - A python web application thin glue layer
 
