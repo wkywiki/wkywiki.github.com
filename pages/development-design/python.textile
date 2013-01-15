@@ -35,6 +35,8 @@ h3(#web_framework). Web Framework
 ** "imagekit":https://github.com/jdriscoll/django-imagekit/ - Automated image processing for Django models
 * "Flask":http://www.pocoo.org/projects/flask/ - a micro web framework
 ** "Flask中文文档":http://dormousehole.readthedocs.org/en/latest/ / "github":https://github.com/dormouse/Flask_Docs_ZhCn
+** "Flask中文文档 - yinian1992":http://docs.torriacg.org/docs/flask/
+** "Flask-SQLalchemy中文文档 - yinian1992":http://docs.torriacg.org/docs/flask-sqlalchemy/
 ** "开源中国Flask教程":http://www.oschina.net/translate/the-flask-mega-tutorial-part-i-hello-world
 ** "Flask Base":https://github.com/notedit/flask-base - Flask虚拟环境搭建
 * "Tenjin":http://www.kuwata-lab.com/tenjin/
@@ -95,6 +97,7 @@ h3(#packages). Packages & Utility Class
 
 * *Templating Engine*
 ** "Jinja2":http://www.pocoo.org/projects/jinja2/ - Jinja2 is a popular text templating engine for Python
+*** "jinja2中文手册":http://docs.torriacg.org/docs/jinja2/index.html
 
 * *ORM*
 ** "autumn":https://github.com/luckythetourist/autumn - a Python ORM
@@ -153,6 +156,7 @@ h3(#references). References
 ** "Python for beginners":http://www.pythonforbeginners.com/
 ** "Python编码风格指南":http://code.google.com/p/zhong-wiki/wiki/PEP8
 ** "张沈鹏的编码规范":http://zuroc.42qu.com/10922446
+** "yinian1992的翻译项目":https://github.com/yinian1992
 * *Django*
 ** "《The Django Book》":http://djangobook.py3k.cn/2.0/
 ** "Django 1.3 Docs":http://junnan.org/ebooks/django_docs_1.3/
