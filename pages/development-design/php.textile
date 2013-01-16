@@ -54,6 +54,9 @@ h3. Other
 * "禅道":http://www.zentao.net/ - 一款国产的开源项目管理工具
 * "phpVirtualBox":http://code.google.com/p/phpvirtualbox/ - 用php实现的VirtualBox前端，可以在web端控制远端VirtualBox
 
+h3. Tools
+* "phptemplate":https://github.com/lutaf/phptemplate - 小巧的php模版生成器
+
 h3. References
 * "General Style and Syntax":http://codeigniter.com/user_guide/general/styleguide.html
 * "PHP之道":http://wulijun.github.com/php-the-right-way/
