@@ -144,6 +144,13 @@ h3. HTML
 h3. Development Tools
 * "Viewport resizer":http://lab.maltewassermann.com/viewport-resizer/ - 实用的前端开发辅助工具，可以让当前网页以各种不同的分辨率展示
 
+h3. Analyze Performance
+* "阿里测":http://alibench.com/
+* "GTMetrix":http://gtmetrix.com/
+* "Loadimpact":http://loadimpact.com/
+* "Google PageSpeed":https://developers.google.com/speed/pagespeed/insights
+* "Yahoo YSlow":http://developer.yahoo.com/yslow/
+
 h3. Web Site
 * "W3C Tech":http://w3ctech.com/
 * "F2E":http://f2e.im/ - 前端技术社区
@@ -162,6 +169,10 @@ h3. Design Material
 * "UIcons":http://uicons.co/
 * "Emoji Cheat Sheet":http://www.emoji-cheat-sheet.com/ - 一套很全的表情
 * "2500 Flag Icon":https://www.gosquared.com/resources/flag-icons - 2000多个国家旗帜图标
+
+h3. Image Placeholders
+* "Holder.js":http://imsky.github.com/holder/
+* "placekitten":http://placekitten.com/
 
 h3. Github Pages Themes
 * "modernist":https://github.com/orderedlist/modernist/

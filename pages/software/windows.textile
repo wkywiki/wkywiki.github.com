@@ -81,6 +81,8 @@ h3(#design). 设计
 
 h3(#media). 音视频处理
 * "Camtasia Studio":http://www.techsmith.com/camtasia.html - 强大的视频录制软件
+* "Bandicam":http://www.bandicam.com/ - 小巧实用的屏幕录制软件
+* "Fraps":http://www.fraps.com/ - 为游戏而生的屏幕录制软件
 * "Audition":http://www.adobe.com/products/audition.html - Adobe公司的音频处理软件，前身是CoolEdit
 * "NUENDO":http://www.nuendo.com - 德国STEINBERG公司开发的音乐制作软件
 * "Debut Video Capture Software":http://www.nchsoftware.com/capture/index.html - 摄像头和桌面视频录制

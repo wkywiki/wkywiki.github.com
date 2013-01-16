@@ -16,6 +16,7 @@ h3. VPS
 * "budgetvm":http://www.budgetvm.com/
 * "buyvm":http://buyvm.net/
 * "后路哥的VPS":http://houluge.com/taiwan-vps
+* "DigitalOcean":https://www.digitalocean.com/ - SSD硬盘云主机
 
 h3. Hosting Control System
 * "vpsmate":http://www.vpsmate.org/ - 一款国人开发的高质量vps在线管理系统
@@ -23,9 +24,6 @@ h3. Hosting Control System
 * "Virtualmin":http://www.virtualmin.com - 开源虚拟主机管理系统
 * "WHMCS":http://www.whmcs.com/
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />

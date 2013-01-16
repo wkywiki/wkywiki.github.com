@@ -93,6 +93,7 @@ h3. Plugins
 * "Subclipse":http://subclipse.tigris.org - SVN插件
 * "Flex Formatter":http://sourceforge.net/projects/flexformatter/ - 代码格式化插件
 * "SourceMate":http://www.elementriver.com/sourcemate - 编码增强工具
+* "Eclipse Color Theme":https://github.com/eclipse-color-theme/eclipse-color-theme - 配色插件
 
 h1(#jetbrains). JetBrains
 

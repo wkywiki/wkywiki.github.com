@@ -64,6 +64,7 @@ h3(#utility_class). Utility Class
 ** "AS3-Signals":https://github.com/robertpenner/as3-signals - 代替AS3原生事件的新实现库
 ** "Lua-Alchemy":http://code.google.com/p/lua-alchemy/ - Port of the Lua programming language for ActionScript using Alchemy
 ** "fzip":https://github.com/claus/fzip - 读取，修改，创建标准zip文件
+** "SwfExplorer":http://code.google.com/p/swfexplorer/ - 分析SWF中的元件链接名
 
 h3(#engine). Engine
 * *(#game)Game*
@@ -90,9 +91,6 @@ h3(#engine). Engine
 *** "Starling-imagebatch":https://github.com/elsassph/starling-imagebatch - An optimized Image batch class for Starling.
 *** "AcheGesture":https://github.com/flashache/ache-gesture - 基于 Starling 的一套手识识别库
 *** "Starling中文站":http://www.starlinglib.com/
-*** "Skeleton":https://github.com/akdcl/skeleton - 支持Starling的骨骼动画和帖图整合实现("博文":http://blog.sina.com.cn/s/blog_570dfe6a01013wua.html)
-**** "SkeletonAnimationFrameWork":https://github.com/DragonBones/SkeletonAnimationFramework / "Demo":http://akdcl.sinaapp.com/example.html / "Wiki":https://github.com/DragonBones/SkeletonAnimationFramework/wiki
-**** "SkeletonDesignPanel":https://github.com/DragonBones/SkeletonDesignPanel / "Demo":http://dragonbones.github.com/demo.html
 *** "Stats":http://forum.starling-framework.org/topic/starling-port-of-mrdoobs-stats-class - 支持Starling的统计工具
 ** "TheoWorlds":http://www.theoworlds.com/theobuilder.php
 
@@ -170,7 +168,11 @@ h3(#software). Software
 ** "MarkMan":http://www.getmarkman.com/ - 马克鳗
 ** "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 ** "Skeleton":https://github.com/akdcl/skeleton - 一款骨骼动画工具
+*** "Skeleton":https://github.com/akdcl/skeleton - 支持Starling的骨骼动画和帖图整合实现("博文":http://blog.sina.com.cn/s/blog_570dfe6a01013wua.html)
+*** "SkeletonAnimationFrameWork":https://github.com/DragonBones/SkeletonAnimationFramework / "Demo":http://akdcl.sinaapp.com/example.html / "Wiki":https://github.com/DragonBones/SkeletonAnimationFramework/wiki
+*** "SkeletonDesignPanel":https://github.com/DragonBones/SkeletonDesignPanel / "Demo":http://dragonbones.github.com/demo.html
 ** "Spriter":http://abeltoy.com/projects/spriterAS3/index.html - 一款跨平台的骨骼动画编辑器，支持Flixel、Starling等
+** "Flump":http://threerings.github.com/flump/ - 可以将fla文件导出为 Starling, Sparrow和 Flambe 等框架可用的位图序列+XML(JSON)的工具
 
 * *(#development)Development*
 ** *(#ide)IDE*

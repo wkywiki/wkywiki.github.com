@@ -31,6 +31,7 @@ h3. Framewok
 ** "RestKit":http://restkit.org/ ("Github":https://github.com/RestKit/RestKit) - RESTful 工具包 RestKit for iOS and OS X
 * *Game*
 ** "Cocos2D":http://www.cocos2d-iphone.org/
+** "Sparrow":http://gamua.com/sparrow/ - The Open Source Game Engine for iOS
 
 h3. WebSite
 * "Code4App":http://code4app.com/ - 移动平台代码库

@@ -16,6 +16,7 @@ h3. Framework
 
 h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
+* "gor":https://github.com/wendal/gor - Golang编写的静态博客引擎
 
 h3. References
 * "Introducing Go by Example":http://mmcgrana.github.com/2012/10/introducing-go-by-example.html
