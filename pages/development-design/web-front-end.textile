@@ -36,6 +36,7 @@ h3. CSS
 * *Other*
 ** "Elusive Icons":http://aristath.github.com/elusive-iconfont/ - 适量字体图标
 ** "Font awsome":http://fortawesome.github.com/Font-Awesome/
+** "entypo":http://www.entypo.com/
 
 h3. Javascript
 
@@ -48,6 +49,8 @@ h3. Javascript
 ** "APEJS":http://lmatteis.github.com/apejs/ - A tiny JavaScript web framework targeted for Google App Engine
 ** "SproutCore":http://www.sproutcore.com/ - iCloud 和 MobileMe 的JS Framework
 ** "NEJ":http://nej.netease.com/ - 简洁，美观，真正的跨平台web前端开发框架，网易出品
+** "Ember.js":http://emberjs.com/ - 一款空前高效的前端框架
+*** "Ember.js中文站":http://emberjs.torriacg.org/
 
 * *Library*
 ** "tinycon":https://github.com/tommoor/tinycon - 通过chrome的favicon来动态显示数字信息，比如未读消息
