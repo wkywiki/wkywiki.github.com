@@ -56,13 +56,14 @@ h3(#commonly-used). 个人装机必备
 h3(#entertainment). 媒体
 * *图片相关*
 ** "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
-** "EasyBatchPhoto":http://www.yellowmug.com/easybatchphoto/ - 批量图片处理工具
+** "PhotoBulk":https://itunes.apple.com/us/app/photobulk-watermark-resize/id537211143?mt=12 - 一款支持水印，调整大小，调整品质的图片处理软件
 ** "ImageOptim":http://imageoptim.com/ - png优化工具
 ** "HDRtist Pro":http://itunes.apple.com/cn/app/hdrtist-pro/id436335293?mt=12 - 一款HDR图像合成软件，可以将三张同时拍摄不同曝光的照片合成一张HDR图像
 ** "Voila":http://www.globaldelight.com/voila - 一款强大的截图软件
 ** "SwordSoft Screenink":https://itunes.apple.com/us/app/swordsoft-screenink/id556304449?ls=1&mt=12 - 同上
 ** "Flare":http://flareapp.com/ - 好用的照片后期处理软件
 ** "Image Smith":http://www.koingosw.com/products/imagesmith.php - 图片批量处理工具
+** "sips":https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/sips.1.html - Mac下的命令行图片处理工具
 * *音频相关*
 ** "Enqueue":http://www.enqueueapp.com/
 ** "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器
@@ -81,6 +82,7 @@ h3(#entertainment). 媒体
 ** "ScreenFlick":http://www.araelium.com/screenflick/ - 同上
 ** "Screenium":http://www.syniumsoftware.com/screenium/ - 同上
 ** "MP4Tools":http://www.emmgunn.com/mp4tools/mp4toolshome.html - MP4视频转换/分割/合并工具
+** "vidconvert":http://www.reggieashworth.com/vidconvert - 一款视频转换软件，支持多种视频格式
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
