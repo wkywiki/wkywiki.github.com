@@ -21,7 +21,7 @@ h3. Contents
 ** "Design":#design
 ** "Development":#development
 ** "Useful Tools":#useful_tools
-* "References":#rferences
+* "References":#references
 * "Website":#website
 </div>
 
