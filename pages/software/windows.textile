@@ -79,6 +79,7 @@ h3(#design). 设计
 * "PNGGauntlet":http://pnggauntlet.com/ - PNG优化工具
 * "PNGQuant":http://pngquant.org/ - 将24/32-bit的PNG图片转为8-bit而不破坏透明度的小工具
 * "Bitmap Font Generator":http://www.angelcode.com/products/bmfont/ - 一款位图字体制作工具
+* "Collagelt Pro":http://www.collageitfree.com/ - 一款这用的图片拼接软件，有 OSX 和 iOS 平台版本
 
 h3(#media). 音视频处理
 * "Camtasia Studio":http://www.techsmith.com/camtasia.html - 强大的视频录制软件

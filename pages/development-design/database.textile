@@ -28,6 +28,7 @@ h3. NoSQL Database
 *** "Redis命令参考简体中文版":http://redis.readthedocs.org/en/2.4/index.html
 *** "Redis监控管理web工具":https://github.com/steelThread/redmon
 *** "Redsmin":https://redsmin.com/ - Redis图形化管理工具
+*** "Twemproxy":https://github.com/twitter/twemproxy - 通过引入一个代理层，可以将其后端的多台 Redis 或 Memcached 实例进行统一管理与分配
 ** "MemcacheDB":http://memcachedb.org/
 ** "Couchbase":http://www.couchbase.org/ 一款被Draw Something游戏使用的NoSQL数据库
 ** "Cassandra":http://cassandra.apache.org/

@@ -36,6 +36,7 @@ h3. CSS
 * *Other*
 ** "Elusive Icons":http://aristath.github.com/elusive-iconfont/ - 适量字体图标
 ** "Font awsome":http://fortawesome.github.com/Font-Awesome/
+** "font屌":http://lextang.com/fontdiao/ - font awsome 的中文分支，由lextang发布，扩展了一些新的图标
 ** "entypo":http://www.entypo.com/
 
 h3. Javascript
