@@ -158,6 +158,9 @@ h3(#development). 开发
 * *(#game)游戏相关*
 ** "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 
+* *App运营相关*
+** "App Viz":http://www.ideaswarm.com/AppViz2.html - App销售追踪统计软件
+
 h3(#design). 设计
 * *(#design-web)网页*
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具

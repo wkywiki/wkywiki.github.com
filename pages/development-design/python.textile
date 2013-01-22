@@ -73,6 +73,8 @@ h3(#web_apps). Web Apps
 ** "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
 ** "catsup":https://github.com/whtsky/catsup - A lightweight blog
 ** "logpress-tornado":https://github.com/dengmin/logpress-tornado - 使用tornado,jinja2,peewee开发的基于markdown写作的博客 
+** "hyde":http://ringce.com/hyde - 一款静态博客系统，支持django模版标签和版本控制
+** "Felix Felicis":http://lab.lepture.com/liquidluck/ - 又一款静态博客系统
 
 * *Other*
 ** "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
