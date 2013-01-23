@@ -73,6 +73,8 @@ h3(#web_apps). Web Apps
 ** "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
 ** "catsup":https://github.com/whtsky/catsup - A lightweight blog
 ** "logpress-tornado":https://github.com/dengmin/logpress-tornado - 使用tornado,jinja2,peewee开发的基于markdown写作的博客 
+** "hyde":http://ringce.com/hyde - 一款静态博客系统，支持django模版标签和版本控制
+** "Felix Felicis":http://lab.lepture.com/liquidluck/ - 又一款静态博客系统
 
 * *Other*
 ** "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
@@ -86,6 +88,7 @@ h3(#web_apps). Web Apps
 ** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统
 
 h3(#packages). Packages & Utility Class
+* "Github上大于500 followers的库":https://github.com/search?q=followers%3A%3E500&p=1&ref=searchbar&type=Repositories&l=Python
 * *Network*
 ** "lxml":http://lxml.de/ - 一款高性能Python XML库，支持XPath、XSLT，可对XML和HTML执行解析、序列化和转换等
 ** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.

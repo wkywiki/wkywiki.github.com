@@ -58,3 +58,4 @@ h3(#other). 其他
 
 h3(#website). 相关网站
 * "commandlinefu":http://www.commandlinefu.com - linux命令大全
+* "ubuntusoft":http://www.ubuntusoft.com/ - Ubuntu资讯站

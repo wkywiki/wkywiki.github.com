@@ -24,6 +24,9 @@ h3. Hosting Control System
 * "Virtualmin":http://www.virtualmin.com - 开源虚拟主机管理系统
 * "WHMCS":http://www.whmcs.com/
 
+h3. Data Traffic
+* "deployd":http://deployd.com - a toolkit for building realtime APIs
+
 h3. Other
 * "Cobbler":http://cobbler.github.com/ - 一款linux自动化安装工具
 

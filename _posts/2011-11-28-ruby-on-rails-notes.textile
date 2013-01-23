@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruby on Rails 学习手记
+title: Ruby on Rails 手记
 ---
 
 h1. {{ page.title }}
