@@ -166,6 +166,7 @@ h3. Web Site
 * "JavaScript Weekly":http://javascriptweekly.com
 * "HTML5 Weekly":http://html5weekly.com
 * "Responsive Web Design Weekly":http://responsivedesignweekly.com
+* "前端可视化工具集合":http://selection.datavisualization.ch/
 
 h3. Design Material
 * "站酷-ZCool":http://www.zcool.com.cn
