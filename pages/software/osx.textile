@@ -88,6 +88,7 @@ h3(#entertainment). 媒体
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
 ** "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 ** "Twins Mini":http://www.rockysandstudio.com/apps/twinsmini - 查找系统中重复的文件及照片
+** "texts":http://www.texts.io/  - 将markdown文件转换为pdf、epub等格式
 
 h3(#network). 网络
 * *下载上传*
@@ -165,6 +166,7 @@ h3(#design). 设计
 * *(#design-web)网页*
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具
 * *(#design-img)图形*
+** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件 
 ** "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
 ** "ImageOptim":http://imageoptim.pornel.net/ - 无损图片压缩工具
 ** "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
