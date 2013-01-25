@@ -63,6 +63,9 @@ h3. Javascript
 ** "sparky":http://prag.ma/code/sparky/ / "github":https://github.com/shawnbot/sparky - 用来制作走势图的JS库
 ** "Moment.js":http://momentjs.com/ - 一款小巧的时间库
 
+* *Tools*
+** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具
+
 * *JQuery <span class="misc">("website":http://jquery.com)</span>*
 ** "Chosen":http://harvesthq.github.com/chosen/ - 下拉框多选插件
 ** "tablesorter":http://tablesorter.com - 表格排序插件
