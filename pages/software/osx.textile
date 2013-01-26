@@ -26,7 +26,7 @@ h3. Contents
 
 h1. Mac OS X
 
-h3(#commonly-used). 个人装机必备
+h3(#commonly-used). 装机必备
 * "QQ输入法":http://shurufa.qq.com/mac/
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 * "Homebrew":http://mxcl.github.com/homebrew/ - 软件包管理工具
@@ -199,6 +199,7 @@ h3(#productivity). 效率
 * "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
 
 h3(#system). 系统工具
+* "TabLauncher":http://tablauncher.com/ - 标签化Dock
 * "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
 * "PathFinder":http://cocoatech.com/ - 同上
 * "HyperDock":http://hyperdock.bahoom.com/ - 让Dock程序显示预览窗口
