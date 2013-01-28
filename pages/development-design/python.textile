@@ -16,7 +16,7 @@ h3. Contents
 * "Books":#books
 </div>
 
-h3(#ide_editor). IDE & Editor
+h3(#ide_editor). Tools
 * "PyCharm":http://www.jetbrains.com/pycharm/ - 来自JetBrains的强大的IDE
 * "Python Tools for Visual Studio":http://pytools.codeplex.com/
 * "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
@@ -24,6 +24,7 @@ h3(#ide_editor). IDE & Editor
 * "VIM":/pages/software/vim.html
 * "Emacs":http://www.gnu.org/software/emacs/
 * "Sublime Text 2":/pages/software/editor_ide.html#sublime_text - 强大的代码编辑器，堪比MacOS下的textmate
+* "bpython":http://bpython-interpreter.org - 界面很友好功能很强大的python shell
 
 h3(#web_framework). Web Framework
 * "bobo":http://bobo.digicool.com/
@@ -134,6 +135,7 @@ h3(#packages). Packages & Utility Class
 ** "imaging(PIL)":http://www.pythonware.com/products/pil/
 ** "virtualenv":http://pypi.python.org/pypi/virtualenv - python虚拟环境
 ** "autopep8":https://github.com/hhatto/autopep8 - 按PEP8的风格，自动排版代码
+** "Python Dialog":http://pythondialog.sourceforge.net/ - 一款对话框库
 
 h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
