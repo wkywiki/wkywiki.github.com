@@ -22,6 +22,7 @@ h3. Contents
 ** "其他":#design-other
 * "效率":#productivity
 * "系统相关":#system
+* "其他":#other
 </div>
 
 h1. Mac OS X
@@ -48,10 +49,7 @@ h3(#commonly-used). 装机必备
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 ** "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 * "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
-* "Free":https://itunes.apple.com/cn/app/free/id486226904?mt=12 - 一款支持Markdown专注与写作的软件
-* "Byword":https://itunes.apple.com/cn/app/byword/id420212497?mt=12 - 同上
-* "iA Writer":https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12 - 同上
-* "Mou":http://mouapp.com/ - 同上
+* "Mou":http://mouapp.com/ - Markdown编辑器
 
 h3(#entertainment). 媒体
 * *图片相关*
@@ -199,6 +197,7 @@ h3(#productivity). 效率
 * "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
 
 h3(#system). 系统工具
+* "TotalTerminal":http://totalterminal.binaryage.com/ - 增强版的Terminal
 * "TabLauncher":http://tablauncher.com/ - 标签化Dock
 * "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
 * "PathFinder":http://cocoatech.com/ - 同上
@@ -230,3 +229,8 @@ h3(#system). 系统工具
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Bartender":http://www.macbartender.com/ - 菜单栏管理工具
 * "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
+
+h3(#other). 其他
+* "Free":https://itunes.apple.com/cn/app/free/id486226904?mt=12 - 一款支持Markdown专注与写作的软件
+* "Byword":https://itunes.apple.com/cn/app/byword/id420212497?mt=12 - 同上
+* "iA Writer":https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12 - 同上

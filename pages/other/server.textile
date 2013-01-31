@@ -27,8 +27,19 @@ h3. Hosting Control System
 h3. Data Traffic
 * "deployd":http://deployd.com - a toolkit for building realtime APIs
 
-h3. Other
-* "Cobbler":http://cobbler.github.com/ - 一款linux自动化安装工具
+h3. Deploy Tools
+* "Puppets":https://puppetlabs.com/
+* "Cobbler":http://cobbler.github.com/
+* "chef":http://www.opscode.com/chef/
+* "Ansible":http://ansible.cc/
+** "presentation":https://speakerdeck.com/u/mpdehaan/p/ansible
+** "github":https://github.com/ansible/ansible/
+** "docs":http://ansible.cc/docs/
+** "playbooks":https://github.com/ansible/ansible-resources
+** "resful UI on Flask":https://github.com/ansible/ansible-commander
+** "for Cobbler, EC2, Nova":https://github.com/ansible/ansible-plugins
+** "vagrant plugin":https://github.com/dsander/vagrant-ansible
+** "SaltStack":http://saltstack.org/
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />

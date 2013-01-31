@@ -190,6 +190,7 @@ h3(#software). Software
 *** "PhysicsEditor":http://www.physicseditor.de/ - Box2D多边形自动缓制工具
 *** "Flash Tracer":http://code.google.com/p/flash-tracer/ - Flash调试工具，支持各种浏览器及IDE
 *** "Swift-Tool":http://code.google.com/p/swift-tool/ - Swfit可以帮助你把图片、字体、声音、二进制数据等资源打包成一个swf文件
+*** "SWiX Free":http://www.swixkit.com/ - Easy to use XML-based editor for SWF debugging and updating
 
 h3(#references). References
 * "优化Flash平台性能（官方PDF中文版）":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
