@@ -180,6 +180,8 @@ h3(#design). 设计
 ** "xScope":http://xscopeapp.com/ - 设计工具，度量距离和角度标尺，精确垂直和水平辅助线等等
 ** "Rulers":https://itunes.apple.com/us/app/id415310758?mt=12 - 屏幕测量工具
 * *(#design-other)其他*
+** "Hex Color Picker":http://wafflesoftware.net/hexpicker/ - 屏幕取色器
+** "Developer Color Picker":http://www.panic.com/~wade/picker/ - 同上
 ** "Sip":https://itunes.apple.com/us/app/sip/id507257563?mt=12 - 小巧实用的屏幕取色工具
 ** "Color Picker Pro":http://fructivity.com/ - 免费实用的取色工具
 ** "Pochade":http://www.fuelcollective.com/pochade - 轻巧实用的取色软件
