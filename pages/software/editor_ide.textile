@@ -44,6 +44,7 @@ h3. Packages
 * "CSS格式化":https://gist.github.com/2863474
 * "Sublime CodeIntel":https://github.com/Kronuz/SublimeCodeIntel - 智能代码提示
 * "OmniMarkupPreviewer":https://github.com/timonwong/OmniMarkupPreviewer - Markdown 实时预览插件
+* "SideBarEnhancements":https://github.com/titoBouzout/SideBarEnhancements - 左边栏菜单增强插件
 
 h3. Articles
 * "Sublime Text 2 Tips and Tricks":http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
