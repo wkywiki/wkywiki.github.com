@@ -143,6 +143,7 @@ h3(#development). 开发
 ** "Reggy":http://reggyapp.com/ - 正则表达式测试工具
 ** "Charles":http://www.charlessoft.com/ - 一款软件提取工具，无需安装即可修改安装包的内容
 ** "DeltaWalker Oro Edition":http://www.deltopia.com/ - 一款强大的文件/文件夹对比工具
+** "Kaleidoscope":http://www.kaleidoscopeapp.com/ - 强大的文件比较工具
 ** "Echo":http://echoapp.net/ - 一款Http调试工具
 * "Hammer for Mac":http://hammerformac.com/ - 前端开发工具
 * "CodeKit for Mac":http://incident57.com/codekit/ - 同上
@@ -206,6 +207,7 @@ h3(#system). 系统工具
 * "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具
 * "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
 ** "iTerm2 Color Themes":https://github.com/baskerville/iTerm-2-Color-Themes
+* "Divvy":http://mizage.com/divvy/ - 一款窗口排列工具，可以将窗口按网格排列
 * "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
 * "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件

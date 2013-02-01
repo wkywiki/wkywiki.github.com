@@ -14,6 +14,7 @@ h3. CSS
 ** "Alice":http://aliceui.com - 支付宝前端样式解决方案
 ** "Simple Grid":http://thisisdallas.github.com/Simple-Grid/ - 轻量级的响应式 CSS 网格系统
 ** "NEC":http://nec.netease.com/ - 网易推出的CSS框架
+** "Puerh":https://github.com/baixing/Puerh - 百姓网开源的一套基于bootstrap的前端开发工具包
 
 * *Preprocessor*
 ** "DtCSS":http://code.google.com/p/dtcss/ - CSS预处理器
@@ -125,6 +126,9 @@ h3. Javascript
 ** "Sina App Engine公共资源库":http://sae.sina.com.cn/?m=devcenter&catId=147 - 采用CDN技术提供常用js/css库的引用支持
 *** "jQuery版本支持列表":http://lib.sinaapp.com/?path=jquery/
 ** "CDNJS":http://www.cdnjs.com/ - 同样采用CDN技术，提供几乎全部JS库的引用支持
+
+* *WebSite*
+** "JSter":http://jster.net/ - 各种框架和库的收集站
 
 * *Other*
 ** "EpicEditor":http://epiceditor.com/ - 一款很棒的Markdown在线编辑器
