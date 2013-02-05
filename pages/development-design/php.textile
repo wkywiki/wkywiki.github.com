@@ -53,6 +53,14 @@ h3. Other
 * "PHP-Parser":https://github.com/nikic/PHP-Parser - PHP解析器，可以将 PHP 源代码转换为用 PHP 数据结构描述的语法树。
 * "禅道":http://www.zentao.net/ - 一款国产的开源项目管理工具
 * "phpVirtualBox":http://code.google.com/p/phpvirtualbox/ - 用php实现的VirtualBox前端，可以在web端控制远端VirtualBox
+* "php markdown":https://github.com/michelf/php-markdown
+* "Doctrine2":http://www.doctrine-project.org/ - 功能全面的ORM
+* "RedBeanPHP":http://www.redbeanphp.com/ - 轻巧的ORM
+* "Imagine":http://imagine.readthedocs.org/en/latest/ - 图像处理
+* "Twig":http://twig.sensiolabs.org/ - 模板引擎
+* "Monolog":https://github.com/Seldaek/monolog - Log处理
+* "php-resque":https://github.com/chrisboulton/php-resque - 任务队列
+* "Aktive Merchant for PHP":https://github.com/akDeveloper/Aktive-Merchant - 支付网关
 
 h3. Tools
 * "phptemplate":https://github.com/lutaf/phptemplate - 小巧的php模版生成器

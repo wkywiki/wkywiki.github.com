@@ -13,6 +13,8 @@ h3. Libraries
 
 h3. Framework
 * "GoWeb":http://code.google.com/p/goweb/ - Lightweight RESTful web framework for Go
+* "revel":http://robfig.github.com/revel/ - A high-productivity web framework for the Go language, modeled on Play! Framework.
+* "Gorilla":http://www.gorillatoolkit.org/ - a web toolkit
 
 h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
