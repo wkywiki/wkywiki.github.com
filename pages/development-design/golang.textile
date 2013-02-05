@@ -30,3 +30,4 @@ h3. References
 * "GoByExample":https://gobyexample.com/
 * "Go指南":http://tour.golanger.com/
 * "qyuhen的学习笔记":https://github.com/qyuhen/book
+* "A golang ebook intro how to build a web with golang":https://github.com/astaxie/build-web-application-with-golang/blob/master/preface.md
