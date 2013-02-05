@@ -179,6 +179,7 @@ h3(#software). Software
 *** "FDT":http://www.fdt.powerflasher.com/
 *** "CodeDrive":http://www.codedrive.com/ - 基于 Visual Studio 2010 的AS3开发插件
 *** "UML4AS":http://www.uml4as.com/ - 可以将设计好的UML转换成AS代码
+*** "secureSWF":http://www.kindi.com/protect-swf.php - 保护SWF文件
 
 ** *(#useful_tools)Useful Tools*
 *** "DeMonsterDebugger":http://demonsterdebugger.com/ - Monster Debugger is an open source debugger for Adobe Flash, Flex and AIR.
