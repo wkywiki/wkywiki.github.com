@@ -19,7 +19,7 @@ new_list = []
 for each_item in old_list:
     new_list.append(handler(each_item))
 ```
-将上面的列表转换代码用列表推导来简化就是：
+将上面的列表转换代码用列表推导来简化就是：  
 ```python
 new_list = [handler(each_item) for each_item in old_list]
 ```
