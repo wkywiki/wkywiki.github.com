@@ -19,14 +19,20 @@ a:hover {
 	color: #000;
 }
 
-pre, pre code { 
-	display: block; 
+div#content > code, div#content li > code {
+	font:12px Consolas, Monaco, monospace; 
+	border: 1px solid #e7e7e7;
+	background: #f2f2f2;
+	padding: 2px 5px;
+}
+div.highlight pre {
 	font:12px Consolas, Monaco, monospace; 
 	line-height: 1.5em;
 	padding: 10px 20px; 
-	background: #e9e9e9; 
 	color: #444; 
 	word-wrap: break-word;
+	border: 1px solid #e7e7e7;
+	background: #f2f2f2;
 }
 pre { margin-left: 40px; }
 blockquote { margin-right: 0; }
