@@ -7,7 +7,7 @@ h1. Python
 
 <div id="charpter">
 h3. Contents
-* "IDE & Editor":#ide_editor
+* "Tools":#tools
 * "Web Framework":#web_framework
 * "App":#app
 * "Web App":#web_app
@@ -17,7 +17,7 @@ h3. Contents
 * "Books":#books
 </div>
 
-h3(#ide_editor). Tools
+h3(#tools). Tools
 * "PyCharm":http://www.jetbrains.com/pycharm/ - 来自JetBrains的强大的IDE
 * "Python Tools for Visual Studio":http://pytools.codeplex.com/
 * "Eclipse":http://www.eclipse.org/ + "pydev":http://pydev.org/
@@ -26,6 +26,7 @@ h3(#ide_editor). Tools
 * "Emacs":http://www.gnu.org/software/emacs/
 * "Sublime Text 2":/pages/software/editor_ide.html#sublime_text - 强大的代码编辑器，堪比MacOS下的textmate
 * "bpython":http://bpython-interpreter.org - 界面很友好功能很强大的python shell
+* "pybuild":https://github.com/goagent/pybuild - 基于 py2exe 的打包 "python 解释器" 脚本
 
 h3(#web_framework). Web Framework
 * "bobo":http://bobo.digicool.com/
