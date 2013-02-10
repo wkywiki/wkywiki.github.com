@@ -129,6 +129,7 @@ h3. Javascript
 
 * *WebSite*
 ** "JSter":http://jster.net/ - 各种框架和库的收集站
+** "JSDB":http://www.jsdb.io - 同上
 
 * *Other*
 ** "EpicEditor":http://epiceditor.com/ - 一款很棒的Markdown在线编辑器
