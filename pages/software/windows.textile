@@ -112,6 +112,7 @@ h3(#system). 系统
 * "MacType":http://getmactype.com/ - 实现 OSX 渲染效果的软件
 * "ConEmu":http://code.google.com/p/conemu-maximus5/ - 很强的终端模拟器
 * "Classic Shell":http://classicshell.sourceforge.net/ - 强大的开始菜单替代工具
+* "Linux Reader":http://www.diskinternals.com/linux-reader/ - linux系统文件读写工具
 
 h3(#other). 其他
 * "KidLogger":http://kidlogger.net/ - 用户行为监控软件，可以记录网页访问、键盘输入、运行程序等

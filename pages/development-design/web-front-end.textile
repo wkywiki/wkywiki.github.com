@@ -15,6 +15,7 @@ h3. CSS
 ** "Simple Grid":http://thisisdallas.github.com/Simple-Grid/ - 轻量级的响应式 CSS 网格系统
 ** "NEC":http://nec.netease.com/ - 网易推出的CSS框架
 ** "Puerh":https://github.com/baixing/Puerh - 百姓网开源的一套基于bootstrap的前端开发工具包
+** "Fight":http://twitter.github.com/flight/ - Twitter推出的新web开发框架
 
 * *Preprocessor*
 ** "DtCSS":http://code.google.com/p/dtcss/ - CSS预处理器
@@ -93,6 +94,7 @@ h3. Javascript
 ** "jScrollPane":http://www.kelvinluck.com/assets/jquery/jScrollPane/jScrollPane.html - 滚动条自定义插件
 ** "mCustomScrollbar":http://manos.malihu.gr/jquery-custom-content-scroller/ - 同上
 ** "liffect":http://ademilter.com/lab/liffect/ - 图片列表的缓动动画
+** "payment":https://github.com/stripe/jquery.payment - 支付表单构建插件
 ** **实现瀑布流的插件们**
 *** "waterfall":https://github.com/dio-el-claire/jquery.waterfall
 *** "Masonry":http://masonry.desandro.com/index.html
