@@ -6,7 +6,7 @@ title: Python 手记
 # {{ page.title }}
 
 ## Bullet Points
-- BIF是python的内置函数
+- BIF(built-in functions)是python的内置函数
 - 模块是一个包含python代码的文本文件。
 - with语句会自动处理所有已打开文件的关闭工作，即使出现异常也不例外，with语句也使用as关键字。
 - 方法串链(method chaining)可以将多个方法连接到一起生成所需的结果，比如：`str.strip().split(',')`。
