@@ -113,6 +113,7 @@ h3(#engine). Engine
 ** "Sandy3D":http://www.flashsandy.org/
 ** "Sophie3D":http://www.sophie3d.com
 ** "Yogurt3D":http://www.yogurt3d.com/
+** "Zest3D":http://www.zest3d.com/
 
 * *(#particle)Particle*
 ** "Partigen":http://desuade.com/partigen
