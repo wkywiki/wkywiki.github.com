@@ -119,6 +119,7 @@ h3(#network). 网络
 h3(#development). 开发
 
 * "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#osx
+* "Vagrant":http://www.vagrantup.com/ - 一款基于ruby的跨平台虚拟开发环境部署软件，非常实用
 
 * *(#version)版本管理*
 ** "SourceTree":http://www.sourcetreeapp.com/ - 同时支持Git、SVN、Mercurial的客户端
