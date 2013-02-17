@@ -172,6 +172,7 @@ h3(#design). 设计
 ** "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 ** "Zwopple":http://www.zwopple.com/zwoptex/ - 同上
 ** "OmniGraffle":http://www.omnigroup.com/products/omnigraffle/ - 经典的思维导图制作软件
+** "MindNode":http://mindnode.com - 一款简洁的思维导图制作软件
 ** "Curio":http://www.zengobi.com/products/curio/ - 同上
 ** "Skitch":http://skitch.com/ - 实用免费的图片编辑器
 ** "ImageBot":http://ftnew.com/ - 批量图片处理工具
