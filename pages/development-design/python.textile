@@ -77,10 +77,12 @@ h3(#web_app). Web App
 * *Blog*
 ** "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序
 ** "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
-** "logpress-tornado":https://github.com/dengmin/logpress-tornado - 使用tornado,jinja2,peewee开发的基于markdown写作的博客 
+** "logpress-tornado":https://github.com/dengmin/logpress-tornado - 使用tornado,jinja2,peewee开发的基于markdown写作的博客
+** "pypress-tornado":https://github.com/laoqiu/pypress-tornado - 基于tornado开发的团队博客系统
 ** "hyde":http://ringce.com/hyde - 一款静态博客系统，支持django模版标签和版本控制
 ** "Felix Felicis":http://lab.lepture.com/liquidluck/ - 又一款静态博客系统
-** "":https://github.com/posativ/acrylamid - 同上，static blog generator in python with incremental rendering
+** "acrylamid":https://github.com/posativ/acrylamid - 同上，static blog generator in python with incremental rendering
+** "Letterpress":https://github.com/an0/Letterpress - 基于python的极简博客系统
 
 * *Other*
 ** "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
