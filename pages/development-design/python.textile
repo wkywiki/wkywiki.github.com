@@ -91,6 +91,7 @@ h3(#web_app). Web App
 ** "PoweredSites":https://bitbucket.org/felinx/poweredsites
 ** "tornado-webtools":https://github.com/niwibe/tornado-webtools - Microframework for python 3 based on tornado, jinja2 and sqlalchemy.
 ** "thepast":https://github.com/laiwei/thepast - 使用flask写的一款web应用
+** "爱订餐":https://github.com/willerce/aidingcan - 使用flask实现的订餐系统
 
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统
