@@ -30,6 +30,7 @@ h3. Data Traffic
 h3. Deploy Tools
 * "Puppets":https://puppetlabs.com/
 * "Boxen":https://github.com/boxen/our-boxen - GitHub内部自用的Mac自动化部署工具
+* "SoloWizard":http://www.solowizard.com/ - 另一款自动化部署工具
 * "Cobbler":http://cobbler.github.com/
 * "chef":http://www.opscode.com/chef/
 * "Ansible":http://ansible.cc/
