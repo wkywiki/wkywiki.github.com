@@ -81,6 +81,7 @@ h3(#entertainment). 媒体
 ** "Screenium":http://www.syniumsoftware.com/screenium/ - 同上
 ** "MP4Tools":http://www.emmgunn.com/mp4tools/mp4toolshome.html - MP4视频转换/分割/合并工具
 ** "vidconvert":http://www.reggieashworth.com/vidconvert - 一款视频转换软件，支持多种视频格式
+** "Reflector.app":https://www.reflectorapp.com/ - 可以在电脑上显示ios设备内容
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
@@ -200,6 +201,7 @@ h3(#productivity). 效率
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
 * "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
+* "Screenhero":http://screenhero.com = 共享屏幕工具，可各自用键盘鼠标，结对编程利器
 
 h3(#system). 系统工具
 * "TotalTerminal":http://totalterminal.binaryage.com/ - 增强版的Terminal

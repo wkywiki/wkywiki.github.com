@@ -97,6 +97,7 @@ h3. Javascript
 ** "mCustomScrollbar":http://manos.malihu.gr/jquery-custom-content-scroller/ - 同上
 ** "liffect":http://ademilter.com/lab/liffect/ - 图片列表的缓动动画
 ** "payment":https://github.com/stripe/jquery.payment - 支付表单构建插件
+** "jquery-menu-aim":https://github.com/kamens/jQuery-menu-aim - 二级菜单插件
 ** **实现瀑布流的插件们**
 *** "waterfall":https://github.com/dio-el-claire/jquery.waterfall
 *** "Masonry":http://masonry.desandro.com/index.html
