@@ -72,15 +72,17 @@ h3(#web_app). Web App
 ** "lusernews":https://github.com/dengzhp/lusernews - 为似于Hacknews的社交新闻系统
 ** "post_bar":https://github.com/Rabbit52/post_bar - 使用 web.py 实现的仿 v2ex 社区网站
 ** "PBB":https://github.com/whtsky/PBB
-** "F2E.im":https://github.com/PaulGuo/F2E.im - F2E前端社区
+** "F2E.im":https://github.com/PaulGuo/F2E.im - F2E前端社区，使用tornado实现
 
 * *Blog*
 ** "DPress":https://github.com/vicalloy/DPress - 基于Django的一个简单博客程序
 ** "DevilNotes":https://github.com/Evlos/DevilNotes - 基于 Tornado, Pygments, PyRSS2Gen, Misaka, SQLAchemy 的开源博客程序
-** "logpress-tornado":https://github.com/dengmin/logpress-tornado - 使用tornado,jinja2,peewee开发的基于markdown写作的博客 
+** "logpress-tornado":https://github.com/dengmin/logpress-tornado - 使用tornado,jinja2,peewee开发的基于markdown写作的博客
+** "pypress-tornado":https://github.com/laoqiu/pypress-tornado - 基于tornado开发的团队博客系统
 ** "hyde":http://ringce.com/hyde - 一款静态博客系统，支持django模版标签和版本控制
 ** "Felix Felicis":http://lab.lepture.com/liquidluck/ - 又一款静态博客系统
-** "":https://github.com/posativ/acrylamid - 同上，static blog generator in python with incremental rendering
+** "acrylamid":https://github.com/posativ/acrylamid - 同上，static blog generator in python with incremental rendering
+** "Letterpress":https://github.com/an0/Letterpress - 基于python的极简博客系统
 
 * *Other*
 ** "Vulpix":https://github.com/fanzeyi/Vulpix - "Online Judge System":http://oj.fanhe.org/
@@ -89,6 +91,7 @@ h3(#web_app). Web App
 ** "PoweredSites":https://bitbucket.org/felinx/poweredsites
 ** "tornado-webtools":https://github.com/niwibe/tornado-webtools - Microframework for python 3 based on tornado, jinja2 and sqlalchemy.
 ** "thepast":https://github.com/laiwei/thepast - 使用flask写的一款web应用
+** "爱订餐":https://github.com/willerce/aidingcan - 使用flask实现的订餐系统
 
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/ ("sources":https://bitbucket.org/thomaswaldmann/moin-2.0) - 用Flask写的的开源wiki系统

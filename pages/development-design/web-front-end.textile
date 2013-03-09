@@ -9,6 +9,7 @@ h3. CSS
 
 * *Framework*
 ** "BootStrap":http://twitter.github.com/bootstrap/ - Twitter推出的前端开发工具包
+** "FlatUI":http://designmodo.github.com/Flat-UI/ - 基于BootStrap的UI工具包
 ** "Foundation":http://foundation.zurb.com/ - 前端框架新秀
 ** "Ninja":http://ninjaui.com - 前端用户界面工具包
 ** "Alice":http://aliceui.com - 支付宝前端样式解决方案
@@ -64,6 +65,7 @@ h3. Javascript
 ** "MetroJS":http://www.drewgreenwell.com/projects/metrojs - 实现Metro效果
 ** "sparky":http://prag.ma/code/sparky/ / "github":https://github.com/shawnbot/sparky - 用来制作走势图的JS库
 ** "Moment.js":http://momentjs.com/ - 一款小巧的时间库
+** "CasperJS":http://casperjs.org/ - 一款Web应用测试工具，可以实现点击，抓取网页等等功能
 
 * *Tools*
 ** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具
@@ -95,6 +97,7 @@ h3. Javascript
 ** "mCustomScrollbar":http://manos.malihu.gr/jquery-custom-content-scroller/ - 同上
 ** "liffect":http://ademilter.com/lab/liffect/ - 图片列表的缓动动画
 ** "payment":https://github.com/stripe/jquery.payment - 支付表单构建插件
+** "jquery-menu-aim":https://github.com/kamens/jQuery-menu-aim - 二级菜单插件
 ** **实现瀑布流的插件们**
 *** "waterfall":https://github.com/dio-el-claire/jquery.waterfall
 *** "Masonry":http://masonry.desandro.com/index.html

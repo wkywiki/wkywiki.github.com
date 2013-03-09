@@ -30,6 +30,7 @@ h3. Data Traffic
 h3. Deploy Tools
 * "Puppets":https://puppetlabs.com/
 * "Boxen":https://github.com/boxen/our-boxen - GitHub内部自用的Mac自动化部署工具
+* "SoloWizard":http://www.solowizard.com/ - 另一款自动化部署工具
 * "Cobbler":http://cobbler.github.com/
 * "chef":http://www.opscode.com/chef/
 * "Ansible":http://ansible.cc/
@@ -44,6 +45,14 @@ h3. Deploy Tools
 
 h3. Monitoring
 * "Scout":https://scoutapp.com/ - 一款服务器监控软件
+
+h3. 数据交互相关
+* "ProtocolBuffers":http://code.google.com/apis/protocolbuffers/ - Google公司开发的一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。
+** "Protocol Buffers Development Tools":http://code.google.com/p/protobuf-dt/ - 基于eclipse的ProtocolBuffers开发工具，需要Eclipse3.7及Xtext2.0
+* "MessagePack":http://msgpack.org - 官方宣称比ProtocolBuffers快4倍，比Json快10倍的序列化包
+* "thrift":http://thrift.apache.org/ - 一款跨语言部署框架，通过一个中间语言（IDL，接口定义语言）来定义RPC的接口和数据类型。
+* "Hessian":http://hessian.caucho.com/ - 采用二进制RPC协议的remoting onhttp工具
+
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
