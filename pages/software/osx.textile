@@ -41,6 +41,7 @@ h3(#commonly-used). 装机必备
 * "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
 * "AppZapper":http://appzapper.com/ - 应用清理卸载工具
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
+** "Alfred Tips":http://alfredtips.com/
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "Dash":http://kapeli.com/dash/ - 代码文档管理工具
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
@@ -177,6 +178,7 @@ h3(#design). 设计
 ** "Curio":http://www.zengobi.com/products/curio/ - 同上
 ** "Skitch":http://skitch.com/ - 实用免费的图片编辑器
 ** "ImageBot":http://ftnew.com/ - 批量图片处理工具
+** "PhotoBulk":http://mac.eltima.com/bulk-image-editor.html - 同上，支持缩放，水印
 ** "EasyBatchPhoto":http://yellowmug.com/easybatchphoto/ - 更简洁实用的批量图片处理
 ** "Layers":http://layersapp.com/index.html - 截图工具，支持将截取的图片分层保存
 ** "Snagit":http://www.techsmith.com/snagit.html - 截图标注工具
@@ -237,6 +239,11 @@ h3(#system). 系统工具
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Bartender":http://www.macbartender.com/ - 菜单栏管理工具
 * "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
+
+h3(#shell_tools). Shell工具
+* tree : brew install tree - 在Shell下以树的方式查看目录结构的工具
+* htop : brew install htop - 很强大的交互式processor viewer，可以查看CPU的使用情况，按照各种规则进行排序，过滤等
+* tig : brew install tig - 命令行下的很强大的git管理工具
 
 h3(#other). 其他
 * "Free":https://itunes.apple.com/cn/app/free/id486226904?mt=12 - 一款支持Markdown专注与写作的软件
