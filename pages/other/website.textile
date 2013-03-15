@@ -60,6 +60,7 @@ h3. 网络应用
 * "UserVoice":http://uservoice.com/ - 提供访客反馈信息托管
 * "ReadTheDocs":http://readthedocs.org - 文档托管平台
 * "random.org":https://www.random.org/passwords/?num=1&len=8&format=plain&rnd=new - 在线生成随机密码
+* "Mailgun":http://mailgun.com/ - 提供邮件的发送接收和追踪服务
 
 h3. 娱乐
 * *环境音效*
