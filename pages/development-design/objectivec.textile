@@ -49,6 +49,7 @@ h3. UI设计相关网站
 * "mokk":http://www.mokk.me/e - 在 Web 上 做出 ios UI 应用界面，并生成 URL 分享给他人
 * "DevRocket":http://devrocket.uiparade.com/ - 一款 Photoshop 插件，方便制作精美的 APP 原型
 * "Balsamiq Mockups":http://www.balsamiq.com/products/mockups - 手绘样式的 UI 设计图，用于生成原型草图
+* "UI-Transitions":http://www.ui-transitions.com - UI设计各种动画的使用
 * 手机 UI 相关
 ** "Pttrns":http://pttrns.com/
 ** "Patterns of Design":http://www.patternsofdesign.co.uk/

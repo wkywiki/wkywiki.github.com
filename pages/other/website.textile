@@ -62,9 +62,11 @@ h3. 网络应用
 * "random.org":https://www.random.org/passwords/?num=1&len=8&format=plain&rnd=new - 在线生成随机密码
 
 h3. 娱乐
-* *自然音效*
+* *环境音效*
 ** "NatureSound":http://naturesound.org/
 ** "RainyMood":http://www.rainymood.com/
 ** "NatureSoundsForMe":http://naturesoundsfor.me
 ** "Raining":http://raining.fm/
 ** "musicForProgramming":http://musicforprogramming.net/
+** "Coffitivity":http://www.coffitivity.com/ - 模拟咖啡馆音效
+** "calm":http://www.calm.com/

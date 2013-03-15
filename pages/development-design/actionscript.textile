@@ -195,6 +195,14 @@ h3(#software). Software
 *** "Swift-Tool":http://code.google.com/p/swift-tool/ - Swfit可以帮助你把图片、字体、声音、二进制数据等资源打包成一个swf文件
 *** "SWiX Free":http://www.swixkit.com/ - Easy to use XML-based editor for SWF debugging and updating
 
+** *(#encryption)Encryption*
+*** "Tokaos":http://www.tokaos.com/ 一款as混淆软件
+*** "Doswf":http://www.doswf.cn - 国产加密软件
+*** "Amayeta":http://www.amayeta.com/
+*** "kindi":http://www.kindi.com/
+*** "Flasm":http://flasm.sourceforge.net/
+*** "Swf Protector":http://www.dcomsoft.com/encrypt-swf.html
+
 h3(#references). References
 * "优化Flash平台性能（官方PDF中文版）":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
 * "ActionScript3参考手册":http://help.adobe.com/zh_CN/FlashPlatform/reference/actionscript/3/

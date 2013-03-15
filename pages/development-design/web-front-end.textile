@@ -189,6 +189,7 @@ h3. Design Material
 * "UIcons":http://uicons.co/
 * "Emoji Cheat Sheet":http://www.emoji-cheat-sheet.com/ - 一套很全的表情
 * "2500 Flag Icon":https://www.gosquared.com/resources/flag-icons - 2000多个国家旗帜图标
+* "simpleicons":http://simpleicons.org/
 
 h3. Image Placeholders
 * "Holder.js":http://imsky.github.com/holder/

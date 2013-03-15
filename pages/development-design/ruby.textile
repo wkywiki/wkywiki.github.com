@@ -145,6 +145,7 @@ h3(#webapps). Web Apps
 * "Jekyll Bootstrap":http://jekyllbootstrap.com/
 * "Ruhoh":http://ruhoh.com/
 * "Rabel":https://github.com/daqing/rabel - 仿v2ex的开源社区应用
+* "robbin_site":https://github.com/robbin/robbin_site - CSDN的CTO范凯的个人开源博客系统
 
 h3(#host). Web Host
 * "Engine Yard":http://www.engineyard.com
