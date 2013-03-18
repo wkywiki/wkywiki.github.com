@@ -175,6 +175,7 @@ h3(#references). References
 ** "Python编码风格指南":http://code.google.com/p/zhong-wiki/wiki/PEP8
 ** "张沈鹏的编码规范":http://zuroc.42qu.com/10922446
 ** "yinian1992的翻译项目":https://github.com/yinian1992
+** "The Hitchhiker’s Guide to Python!":http://docs.python-guide.org/en/latest/
 * *Django*
 ** "《The Django Book》":http://djangobook.py3k.cn/2.0/
 ** "Django 1.3 Docs":http://junnan.org/ebooks/django_docs_1.3/
