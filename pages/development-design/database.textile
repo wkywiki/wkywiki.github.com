@@ -16,9 +16,6 @@ h3. NoSQL Database
 
 * **Document Store**
 ** "MongoDB":http://www.mongodb.org/ - a scalable, high-performance, open source, document-oriented database. Written in C++.
-*** "RockMongo":http://code.google.com/p/rock-php/ - 基于PHP的MongoDB Web管理工具
-*** "MongoVUE":http://www.mongovue.com/ - 基于.Net的MongoDB windows管理工具
-*** "Genghis":http://genghisapp.com/ - 基于Ruby的Web管理工具
 ** "CouchDB":http://couchdb.apache.org/
 ** "Terrastore":http://code.google.com/p/terrastore/
 ** "ThruDB":http://code.google.com/p/thrudb/
@@ -39,8 +36,18 @@ h3. Tools
 * "adminer":http://www.adminer.org/ - 基于 PHP 的强大的单文件数据库管理工具，支持 MySQL, PostgreSQL, SQLite, MS SQL 和 Oracle
 * "phpmyadmin":http://www.phpmyadmin.net/ - 基于 PHP 的老牌 MySQL 管理工具
 * "Sequel Pro":http://www.sequelpro.com/ - Mac 平台下的 MySQL 管理应用
+* "MesaMySQL":http://www.desertsandsoftware.com/ - 同上
 * "dbv":http://dbv.vizuina.com/ - MySQL 的版本控制工具
-* "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin
+* "MesaSQLite":http://www.desertsandsoftware.com/ - OSX平台下的 SQLite 管理应用
+* *Redis*
+** "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin - php实现的redis管理工具
+* *MongoDB*
+** "RockMongo":http://code.google.com/p/rock-php/ - 基于PHP的MongoDB Web管理工具
+** "MongoVUE":http://www.mongovue.com/ - 基于.Net的MongoDB windows管理工具
+** "Genghis":http://genghisapp.com/ - 基于Ruby的Web管理工具
+
+h3. References
+* "Postgres指南":http://pgguide.lxneng.com/
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

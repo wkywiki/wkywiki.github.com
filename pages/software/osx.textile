@@ -43,13 +43,12 @@ h3(#commonly-used). 装机必备
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
 ** "Alfred Tips":http://alfredtips.com/
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
-* "Dash":http://kapeli.com/dash/ - 代码文档管理工具
+* "Cinch":http://www.irradiatedsoftware.com/cinch/ - 实现像win7一样的窗口拖动帖边排列功能
+* "SizeUp":http://www.irradiatedsoftware.com/sizeup/ - 同上，不过是用快捷键控制
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
-* "shiftit":https://github.com/fikovnik/ShiftIt - 用快捷键调整窗口大小，免费开源
-* "iSnap":https://itunes.apple.com/us/app/isnap/id420332190?mt=12 - 像Win7一样，贴近屏幕边缘调整窗口大小
 * "Sparrow":http://www.sparrowmailapp.com/ - 邮箱客户端，支持Gmail的Push提醒
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
-** "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
+* "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 * "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
 * "Mou":http://mouapp.com/ - Markdown编辑器
 
