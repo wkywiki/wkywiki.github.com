@@ -25,6 +25,7 @@ h3. Library
 * "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 * "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
 * "iOS Boilerplate":http://iosboilerplate.com/ - A base template for iOS apps
+* "iPhone wireframe UI kit":http://www.anthonyaubertin.com/wireframe/
 
 h3. Framewok
 * *Network*
@@ -50,17 +51,15 @@ h3. UI设计相关网站
 * "DevRocket":http://devrocket.uiparade.com/ - 一款 Photoshop 插件，方便制作精美的 APP 原型
 * "Balsamiq Mockups":http://www.balsamiq.com/products/mockups - 手绘样式的 UI 设计图，用于生成原型草图
 * "UI-Transitions":http://www.ui-transitions.com - UI设计各种动画的使用
-* 手机 UI 相关
+* *UI 相关*
 ** "Pttrns":http://pttrns.com/
 ** "Patterns of Design":http://www.patternsofdesign.co.uk/
 ** "Mobile UI Patterns":http://mobile-patterns.com/
-* iPhone UI 相关
 ** "TapFancy":http://tapfancy.com/
 ** "TappGala":http://www.tappgala.com/
 ** "Well-Placed Pixels":http://wellplacedpixels.com/
 ** "LovelyUI":http://www.lovelyui.com/
 ** "Building iPhone Apps":http://buildingiphoneapps.posterous.com/
-* iPad UI 相关
 ** "Landing Pad":http://landingpad.org/
 ** "Stylish iPad Apps":http://stylishipadapps.tumblr.com/
 ** "Stylapps":http://itunes.apple.com/us/app/stylapps/id444930066

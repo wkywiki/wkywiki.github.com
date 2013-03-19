@@ -43,6 +43,7 @@ h3(#commonly-used). 装机必备
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
 ** "Alfred Tips":http://alfredtips.com/
 ** "Github on Alfred":http://7h2o.com/index.php/posts/github-on-alfred
+** "Alfredv2-Extensions - lucifr":https://github.com/lucifr/Alfredv2-Extensions/ - lucifr写的三个扩展，包括豆瓣搜索、海盗船搜索、Google站点搜索
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "Cinch":http://www.irradiatedsoftware.com/cinch/ - 实现像win7一样的窗口拖动帖边排列功能
 * "SizeUp":http://www.irradiatedsoftware.com/sizeup/ - 同上，不过是用快捷键控制
