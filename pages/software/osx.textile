@@ -42,6 +42,7 @@ h3(#commonly-used). 装机必备
 * "AppZapper":http://appzapper.com/ - 应用清理卸载工具
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
 ** "Alfred Tips":http://alfredtips.com/
+** "Github on Alfred":http://7h2o.com/index.php/posts/github-on-alfred
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "Cinch":http://www.irradiatedsoftware.com/cinch/ - 实现像win7一样的窗口拖动帖边排列功能
 * "SizeUp":http://www.irradiatedsoftware.com/sizeup/ - 同上，不过是用快捷键控制
@@ -148,8 +149,9 @@ h3(#development). 开发
 ** "DeltaWalker Oro Edition":http://www.deltopia.com/ - 一款强大的文件/文件夹对比工具
 ** "Kaleidoscope":http://www.kaleidoscopeapp.com/ - 强大的文件比较工具
 ** "Echo":http://echoapp.net/ - 一款Http调试工具
-* "Hammer for Mac":http://hammerformac.com/ - 前端开发工具
-* "CodeKit for Mac":http://incident57.com/codekit/ - 同上
+** "Hammer for Mac":http://hammerformac.com/ - 前端开发工具
+*** "Rock-Hammer":http://malarkey.github.com/Rock-Hammer/
+** "CodeKit for Mac":http://incident57.com/codekit/ - 同上
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
