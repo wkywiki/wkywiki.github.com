@@ -14,6 +14,7 @@ h3(#plugins). Plugins
 * "stylish":https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe - css修改器
 ** "新浪微博userstyle脚本":http://userstyles.org/styles/58183/weibo-cleanup
 * "Proxy SwitchySharp":https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm
+* "HqBaiduMusic":https://github.com/ShadowGeeker/HqBaiduMusic - 百度高质量音乐下载插件
 
 h3(#scripts). Scripts
 * "Straight Google":https://userscripts.org/scripts/show/121261 - 一款去Google跳转链接的工具
