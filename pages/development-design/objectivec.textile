@@ -26,6 +26,7 @@ h3. Library
 * "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
 * "iOS Boilerplate":http://iosboilerplate.com/ - A base template for iOS apps
 * "iPhone wireframe UI kit":http://www.anthonyaubertin.com/wireframe/
+* "LTUpdate":https://github.com/lexrus/LTUpdate - 一个可以主动提供指定应用更新消息的库
 
 h3. Framewok
 * *Network*

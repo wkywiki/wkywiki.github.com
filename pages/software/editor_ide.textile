@@ -33,7 +33,6 @@ h3. Themes
 h3. Color Schemes
 * "Tomorrow":https://github.com/ChrisKempson/Tomorrow-Theme
 * "Railscasts":https://github.com/ryanb/textmate-themes
-* "Mongrl":https://github.com/czheng/sublime-resources
 * "Solarized":http://ethanschoonover.com/solarized
 * "DobDark":https://github.com/charlesroper/DobDark-Theme
 
@@ -45,6 +44,7 @@ h3. Packages
 * "Sublime CodeIntel":https://github.com/Kronuz/SublimeCodeIntel - 智能代码提示
 * "OmniMarkupPreviewer":https://github.com/timonwong/OmniMarkupPreviewer - Markdown 实时预览插件
 * "SideBarEnhancements":https://github.com/titoBouzout/SideBarEnhancements - 左边栏菜单增强插件
+* "SublimeWebInspector":http://sokolovstas.github.com/SublimeWebInspector/ - 前端调试插件
 
 h3. Articles
 * "Sublime Text 2 Tips and Tricks":http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
