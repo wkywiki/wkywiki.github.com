@@ -16,7 +16,8 @@ h3. Utility Tools
 * "CocoaPods":https://github.com/CocoaPods/CocoaPods - 库依赖关系管理器
 
 h3. Library
-* "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X
+* "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X（请求接口，加载图片，上传文件等）
+* "ASIHTTPRequest ":https://github.com/pokeb/asi-http-request - 适合开发一些复杂应用的网络库
 * "RegexKit Framework":http://regexkit.sourceforge.net/ - 正则表达式库
 * *iOS*
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
@@ -27,6 +28,12 @@ h3. Library
 * "iOS Boilerplate":http://iosboilerplate.com/ - A base template for iOS apps
 * "iPhone wireframe UI kit":http://www.anthonyaubertin.com/wireframe/
 * "LTUpdate":https://github.com/lexrus/LTUpdate - 一个可以主动提供指定应用更新消息的库
+* "MBProgressHUD":https://github.com/jdg/MBProgressHUD - 显示加载状态
+* "MTStatusBarOverlay":https://github.com/myell0w/MTStatusBarOverlay - 状态栏显示提示信息
+* "PSTCollectionView":https://github.com/steipete/PSTCollectionView - 可以支持到 iOS 4.3 的 UICollectionView
+* "DLCImagePickerController":https://github.com/gobackspaces/DLCImagePickerController - 给照片添加滤镜
+* "GPUImage":https://github.com/BradLarson/GPUImage - 上面的库需要这个库的支持
+* "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate。
 
 h3. Framewok
 * *Network*
@@ -37,6 +44,7 @@ h3. Framewok
 
 h3. WebSite
 * "Code4App":http://code4app.com/ - 移动平台代码库
+* "Cocoa Controls":http://www.cocoacontrols.com/ - 针对Cocoa的代码库
 * "Apple Sample Code":http://developer.apple.com/iphone/library/navigation/SampleCode.html - 官方示例代码库
 * "Cocoa-China代码例子区":http://www.cocoachina.com/bbs/thread.php?fid=19
 * "Github-Objective-C":https://github.com/search?language=Objective-C

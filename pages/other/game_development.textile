@@ -23,6 +23,7 @@ h3. Tools
 * "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
 * "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
 * "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
+* "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
 
 h3. Cross-Platform Mobile Game Development
 * "Gideros Mobile":http://www.giderosmobile.com/ - 小巧，小手快速，使用lua编写代码的手机游戏开发平台

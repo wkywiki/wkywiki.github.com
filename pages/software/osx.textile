@@ -51,6 +51,8 @@ h3(#commonly-used). 装机必备
 *** "Transmit favorites":https://github.com/BigLuck/alfred2-transmit - 快速打开Transmit收藏的服务器
 *** "Kill Process":https://github.com/nathangreenstein/alfred-process-killer - 快速结束进程
 *** "DNS Cache":http://www.alfredforum.com/topic/325-workflow-dns-cache/ - 快速清除系统DNS缓存
+** *workflows作者们的website*
+*** "hzlzh":https://github.com/hzlzh/Alfred-Workflows
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "Cinch":http://www.irradiatedsoftware.com/cinch/ - 实现像win7一样的窗口拖动帖边排列功能
 * "SizeUp":http://www.irradiatedsoftware.com/sizeup/ - 同上，不过是用快捷键控制
@@ -164,6 +166,7 @@ h3(#development). 开发
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
 ** "MNPP":http://getmnpp.org/ - Mac + Nginx + Percona + PHP or Python
+** "VirtualHostX":http://clickontyler.com/virtualhostx/ - 内置Apache ，MAMP,XAMPP,ZEND S CE四种环境的Web Server
 ** "Querious":http://www.araelium.com/querious/ - MySQL管理工具
 ** "Sequel Pro":http://www.sequelpro.com/ - 同上，免费
 ** "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB
