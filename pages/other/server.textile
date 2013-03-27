@@ -42,6 +42,7 @@ h3. Deploy Tools
 ** "for Cobbler, EC2, Nova":https://github.com/ansible/ansible-plugins
 ** "vagrant plugin":https://github.com/dsander/vagrant-ansible
 ** "SaltStack":http://saltstack.org/
+** "Naxsi":https://code.google.com/p/naxsi/ - 基于nginx的web app 防火墙，防止XSS，SQL注入等攻击
 
 h3. Monitoring
 * "Scout":https://scoutapp.com/ - 一款服务器监控软件

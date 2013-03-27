@@ -15,6 +15,8 @@ h3(#plugins). Plugins
 ** "新浪微博userstyle脚本":http://userstyles.org/styles/58183/weibo-cleanup
 * "Proxy SwitchySharp":https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm
 * "HqBaiduMusic":https://github.com/ShadowGeeker/HqBaiduMusic - 百度高质量音乐下载插件
+* *Development*
+* "Chrome DevTools Extensions For Web App":http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/ - 几款超强的前端调试工具，For: Ember, Backbone, AngularJS, Knockout & more
 
 h3(#scripts). Scripts
 * "Straight Google":https://userscripts.org/scripts/show/121261 - 一款去Google跳转链接的工具
