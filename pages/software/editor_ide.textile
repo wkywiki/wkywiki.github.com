@@ -29,6 +29,7 @@ h3. Themes
 * "pseudo-osx":https://github.com/raik/st2-pseudo-osx-theme
 * "refresh":https://github.com/BoundInCode/st2-refresh-theme
 * "nil":https://github.com/nilium/st2-nil-theme
+* "flatland":https://github.com/thinkpixellab/flatland
 
 h3. Color Schemes
 * "Tomorrow":https://github.com/ChrisKempson/Tomorrow-Theme
