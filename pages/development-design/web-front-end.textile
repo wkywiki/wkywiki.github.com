@@ -41,6 +41,7 @@ h3. CSS
 ** "Font awsome":http://fortawesome.github.com/Font-Awesome/
 ** "font屌":http://lextang.com/fontdiao/ - font awsome 的中文分支，由lextang发布，扩展了一些新的图标
 ** "entypo":http://www.entypo.com/
+** "RetinaJS":http://retinajs.com/ - Retina graphics for your website
 
 h3. Javascript
 
