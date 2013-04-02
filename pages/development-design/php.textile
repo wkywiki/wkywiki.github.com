@@ -22,6 +22,7 @@ h3. Frameworks
 * "Laravel":http://laravel.com/ - A Clean And Classy PHP Framework
 * "Slim":http://www.slimframework.com/ - a PHP 5 Micro Framework
 * "Symfony":http://symfony.com/ - 一款不错的框架，性能出众，像Django一样带通用后台管理功能
+* "Pagon":https://github.com/hfcorriez/pagon - Restful, Smart and Easy PHP framework，I18N中间件，DI支持，自动路由，Jade支持，Cookie Store，Yaml和Ini支持
 
 h3. Template Engine
 * "Twig":http://twig.sensiolabs.org/
