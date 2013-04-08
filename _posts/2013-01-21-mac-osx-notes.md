@@ -15,3 +15,13 @@ Custom Search 配置路径：`~/Library/Application Support/Alfred/customsites`�
 
 - **删掉迅雷对浏览器的劫持插件**  
 需要清除两个目录的插件: `~/Library/Internet Plug-Ins/` 和 `/Applications/Thunder.app/Contents/BrowserPlugins`
+
+- **清除OpenWith的重复项**  
+在终端中进入 `/Applications/Utilities/` 目录，执行
+```
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/\
+LaunchServices.framework/Versions/A/Support/\
+lsregister -kill -r -domain local -domain user
+killall Finder
+```
+如果执行完了没效果，可以删掉 `~/Library/Preferences/com.apple.LaunchServices.plist` 再试。

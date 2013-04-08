@@ -196,6 +196,7 @@ h3(#software). Software
 *** "Flash Tracer":http://code.google.com/p/flash-tracer/ - Flash调试工具，支持各种浏览器及IDE
 *** "Swift-Tool":http://code.google.com/p/swift-tool/ - Swfit可以帮助你把图片、字体、声音、二进制数据等资源打包成一个swf文件
 *** "SWiX Free":http://www.swixkit.com/ - Easy to use XML-based editor for SWF debugging and updating
+*** "CleanSWF":https://github.com/laomoi/cleanSWF - 移除swf中的时间戳小工具，可以避免编译器每次编译往SWF里加入时间戳导致生成的MD5每次都不一样的问题
 
 ** *(#encryption)Encryption*
 *** "Tokaos":http://www.tokaos.com/ 一款as混淆软件
