@@ -40,6 +40,7 @@ h3. Framewok
 ** "RestKit":http://restkit.org/ ("Github":https://github.com/RestKit/RestKit) - RESTful 工具包 RestKit for iOS and OS X
 * *Game*
 ** "Cocos2D":http://www.cocos2d-iphone.org/
+*** "CCTextField":https://github.com/iNinja/CCTextField - Cocos2D 下，文本输入框的第三方实现
 ** "Sparrow":http://gamua.com/sparrow/ - The Open Source Game Engine for iOS
 
 h3. WebSite
