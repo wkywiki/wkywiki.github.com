@@ -35,6 +35,7 @@ h3. CSS
 ** "ProCSSor":http://procssor.com/ - 优化CSS代码，使其轻量且易读
 ** "SpriterMapper":http://yostudios.github.com/Spritemapper/ - 基于python的一款多图片合并切片生成css工具
 ** "Yabo":https://github.com/damao/Yabo - 大猫写的前端压缩工具
+** "Styleneat":http://www.styleneat.com/ - 一款非常不错的CSS格式化工具，可以按层级缩进等
 
 * *Other*
 ** "Elusive Icons":http://aristath.github.com/elusive-iconfont/ - 适量字体图标
@@ -117,11 +118,13 @@ h3. Javascript
 ** "NAE":http://cnodejs.net/ - NodeJS应用开发与运行平台
 ** 开发工具
 *** "Sublime Text - Nodejs":https://github.com/tanepiper/SublimeText-Nodejs
+*** "nide":http://coreh.github.io/nide/ - 一款简洁实用的node.js编辑器
 ** *相关实现*
 *** "node-readability":https://github.com/arrix/node-readability - 像evernote的那个chrome插件那样，自动分析页面里的正文抓取
 *** "stylus":https://github.com/LearnBoost/stylus - Expressive, robust, feature-rich CSS language built for nodejs
 *** "roots":https://github.com/jenius/roots - a toolkit for rapid advanced front-end development
 *** "js2coffee":https://github.com/rstacruz/js2coffee
+*** "hoodie":http://hood.ie/ - 基于node.js和couchdb的web app开发框架
 
 ** *Web Apps*
 *** "Noderce":https://github.com/willerce/noderce - 开源Blog程序

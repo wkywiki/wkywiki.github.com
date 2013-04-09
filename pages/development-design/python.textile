@@ -103,6 +103,7 @@ h3(#web_app). Web App
 
 h3(#packages). Packages & Utility Class
 * "Github上大于500 followers的库":https://github.com/search?q=followers%3A%3E500&p=1&ref=searchbar&type=Repositories&l=Python
+
 * *Network*
 ** "lxml":http://lxml.de/ - 一款高性能Python XML库，支持XPath、XSLT，可对XML和HTML执行解析、序列化和转换等
 ** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.
@@ -149,6 +150,7 @@ h3(#packages). Packages & Utility Class
 ** "virtualenv":http://pypi.python.org/pypi/virtualenv - python虚拟环境
 ** "autopep8":https://github.com/hhatto/autopep8 - 按PEP8的风格，自动排版代码
 ** "Python Dialog":http://pythondialog.sourceforge.net/ - 一款对话框库
+** "Python RQ":http://python-rq.org/ - 一款处理队列服务库
 
 h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
