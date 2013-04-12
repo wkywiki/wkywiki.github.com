@@ -16,6 +16,7 @@ h3. Development
 * "Google Style Guide":https://code.google.com/p/google-styleguide/
 * "JSON风格手册中文版":http://ssv.sebug.net/JSONStyleGuide
 * "Learn Code The Hard Way":http://www.learncodethehardway.org/
+* "用LLVM开发新语言":http://liancheng.github.io/llvm-tutorial-cn/index.html
 
 h3. Other
 * "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/
