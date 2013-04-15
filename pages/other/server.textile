@@ -54,6 +54,9 @@ h3. 数据交互相关
 * "thrift":http://thrift.apache.org/ - 一款跨语言部署框架，通过一个中间语言（IDL，接口定义语言）来定义RPC的接口和数据类型。
 * "Hessian":http://hessian.caucho.com/ - 采用二进制RPC协议的remoting onhttp工具
 
+h3. Nginx
+* "nginx使用时的一些注意事项":http://wiki.nginx.org/Pitfalls
+
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />

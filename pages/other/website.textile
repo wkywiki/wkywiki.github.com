@@ -64,6 +64,7 @@ h3. 网络应用
 * "random.org":https://www.random.org/passwords/?num=1&len=8&format=plain&rnd=new - 在线生成随机密码
 * "Mailgun":http://mailgun.com/ - 提供邮件的发送接收和追踪服务
 * "Sendcloud":http://sendcloud.sohu.com/ - sohu推出的邮件发送服务
+* "WebServiceX":http://www.webservicex.net/ - 集合了很多查询的Web服务网站
 
 h3. 娱乐
 * *环境音效*
