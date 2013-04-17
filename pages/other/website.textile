@@ -49,6 +49,8 @@ h3. 设计
 * *Tools*
 ** "JpegMini":http://www.jpegmini.com - 在线压缩jpg图片，效果不错
 ** "Text to ASCII Art Generator (TAAG)":http://patorjk.com/software/taag/
+* *WebSite*
+** "resolution":http://resolution.im - 提供手机的各种信息和设计源文件下载
 
 h3. 网络应用
 * "Disqus":http://disqus.com/ - 提供支持社交媒体的评论功能托管
@@ -61,6 +63,8 @@ h3. 网络应用
 * "ReadTheDocs":http://readthedocs.org - 文档托管平台
 * "random.org":https://www.random.org/passwords/?num=1&len=8&format=plain&rnd=new - 在线生成随机密码
 * "Mailgun":http://mailgun.com/ - 提供邮件的发送接收和追踪服务
+* "Sendcloud":http://sendcloud.sohu.com/ - sohu推出的邮件发送服务
+* "WebServiceX":http://www.webservicex.net/ - 集合了很多查询的Web服务网站
 
 h3. 娱乐
 * *环境音效*

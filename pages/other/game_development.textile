@@ -23,14 +23,17 @@ h3. Tools
 * "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
 * "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
 * "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
+* "Cadet":http://unwrong.com/cadet - 同样是一款物理引擎编辑器，支持2D和3D，2D主要针对Box2D
 * "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
+* "shoebox":http://renderhjs.net/shoebox/ - 一款游戏开发资源整理工具，支持目前大多数主流游戏框架
 
-h3. Cross-Platform Mobile Game Development
+h3. Cross-Platform Game Development
 * "Gideros Mobile":http://www.giderosmobile.com/ - 小巧，小手快速，使用lua编写代码的手机游戏开发平台
 * "Moai":http://getmoai.com/ - 面向专业游戏开发者的开源手机游戏开发平台
 * "Flambe":https://github.com/aduros/flambe 
   Flambe is an engine and asset pipeline for cross-platform multiplayer games.
   Written in Haxe, games are compiled to Flash and HTML5, with support for mobile devices. Server-side logic compiles to JS and runs on Node.js, for games that require multiplayer.
+* "Dreemchest":http://dreemchest.com/
 
 h3. Server
 * "Pomelo":http://pomelo.netease.com/ - 快速、扩展性好、分布式游戏后端开发框架，网易出品

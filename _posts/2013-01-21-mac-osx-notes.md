@@ -24,3 +24,4 @@ LaunchServices.framework/Versions/A/Support/\
 lsregister -kill -r -domain local -domain user
 killall Finder
 ```
+如果执行完了没效果，可以删掉 `~/Library/Preferences/com.apple.LaunchServices.plist` 再试。

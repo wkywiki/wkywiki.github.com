@@ -11,7 +11,7 @@ h3. Utility Tools
 * "AppleDoc":http://gentlebytes.com/appledoc/ - API文档生成器
 * "ConciseKit":https://github.com/petejkim/ConciseKit - 用Macros简化ObjectiveC开发
 * "CocosBuilder":http://cocosbuilder.com/ - Cocos场景编辑器
-* "Injection for Xcode":http://injectionforxcode.com/ - 可以让Xcode调试时直接修发看结果，不用Build
+* "Injection for Xcode":http://injectionforxcode.com/ - 可以让Xcode调试时直接修改看结果，不用Build
 * "PonyDebugger":https://github.com/square/PonyDebugger - 使用 Google Chrome Developer Tools 设试 iOS app
 * "CocoaPods":https://github.com/CocoaPods/CocoaPods - 库依赖关系管理器
 
@@ -40,6 +40,7 @@ h3. Framewok
 ** "RestKit":http://restkit.org/ ("Github":https://github.com/RestKit/RestKit) - RESTful 工具包 RestKit for iOS and OS X
 * *Game*
 ** "Cocos2D":http://www.cocos2d-iphone.org/
+*** "CCTextField":https://github.com/iNinja/CCTextField - Cocos2D 下，文本输入框的第三方实现
 ** "Sparrow":http://gamua.com/sparrow/ - The Open Source Game Engine for iOS
 
 h3. WebSite
@@ -110,11 +111,12 @@ h3. References
 ** "iOS Design Weekly":http://iosdesign.co/
 ** "Introduction to Coding Guidelines for Cocoa":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
 
-* "XCode快捷键图示":/uploads/xcode.jpg
 * Learn to Create Successful Apps
 ** http://appdesignvault.s3.amazonaws.com/foody-tutorial/(001-010).mp4
 ** "XCode Sample Project":http://www.appdesignvault.com/downloads/FoodySampleProject.zip
 
 h3. Website
 * "Flurry":http://www.flurry.com/ - App数据分析服务平台
+* "App Viz":http://www.ideaswarm.com/AppViz2.html - App销售追踪统计软件
 * "iMZDL":http://imzdl.com/ - 苹果官方相关软件下载
+* "Cocoadocs":http://cocoadocs.org/ - 各种库的 API 查询站

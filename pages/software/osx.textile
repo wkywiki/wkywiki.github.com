@@ -44,6 +44,8 @@ h3(#commonly-used). 装机必备
 ** "Alfred Tips":http://alfredtips.com/
 ** *Workflows*
 *** "Github on Alfred":http://7h2o.com/index.php/posts/github-on-alfred
+*** "stackoverflow":http://7h2o.com/index.php/posts/stackoverflow-alfred-workflow - 直接搜索 stackoverflow
+*** "Dev Doctor":http://wemakeawesomesh.it/alfred-dev-doctor/ - 开发文档检索工具
 *** "Alfredv2-Extensions - lucifr":https://github.com/lucifr/Alfredv2-Extensions/ - lucifr写的三个扩展，包括豆瓣搜索、海盗船搜索、Google站点搜索
 *** "Schoeps's Alfred workflow":https://bitbucket.org/schoeps/alfred/downloads - 包括 VPN和SSH连接等实用workflows
 *** "Franzheidl's Alfred workflow":https://github.com/franzheidl/alfred-workflows - 包括在当前目录运行终端命令，用Sublime Text打开等workflows
@@ -162,6 +164,7 @@ h3(#development). 开发
 ** "Hammer for Mac":http://hammerformac.com/ - 前端开发工具
 *** "Rock-Hammer":http://malarkey.github.com/Rock-Hammer/
 ** "CodeKit for Mac":http://incident57.com/codekit/ - 同上
+** "Kickoff":http://kickoffapp.com/ - 一款简洁、体验超棒的团队协作工具
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
@@ -173,9 +176,6 @@ h3(#development). 开发
 
 * *(#game)游戏相关*
 ** "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
-
-* *App运营相关*
-** "App Viz":http://www.ideaswarm.com/AppViz2.html - App销售追踪统计软件
 
 h3(#design). 设计
 * *(#design-web)网页*
