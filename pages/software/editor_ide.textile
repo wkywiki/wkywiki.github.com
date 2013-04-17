@@ -9,6 +9,7 @@ h3. Contents
 * "Vim":#vim
 * "Eclipse":#eclipse
 * "JetBrains's IDE":#jetbrains
+* "Xcode":#xcode
 * "OS X Platform":#osx
 * "Windows Platform":#windows
 * "Code Fonts":#fonts
@@ -105,6 +106,14 @@ h3. Color Schemes
 
 h3. References
 * "大猫的前端开发指南":https://github.com/damao/Intellij-IDEA-F2E
+
+h1(#xcode). Xcode
+
+h3. Plugins
+* "KSImageNamed":https://github.com/ksuther/KSImageNamed-Xcode - 图片名自动提醒和预览
+
+h3. Other
+* "XCode快捷键图示":/uploads/xcode.jpg
 
 h1(#osx). OSX相关
 * "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
