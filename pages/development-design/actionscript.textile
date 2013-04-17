@@ -65,6 +65,7 @@ h3(#utility_class). Utility Class
 ** "Lua-Alchemy":http://code.google.com/p/lua-alchemy/ - Port of the Lua programming language for ActionScript using Alchemy
 ** "fzip":https://github.com/claus/fzip - 读取，修改，创建标准zip文件
 ** "SwfExplorer":http://code.google.com/p/swfexplorer/ - 分析SWF中的元件链接名
+** "AS3-LocaleManager":https://github.com/rekomat/AS3-LocaleManager - 语言管理器
 
 h3(#engine). Engine
 * *(#game)Game*
