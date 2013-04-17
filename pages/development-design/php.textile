@@ -39,6 +39,7 @@ h3. CMS
 * "ECShop":http://www.ecshop.com/ - 开源中文网店系统
 * "Shopilex":http://www.shopilex.com/ - 同上
 * "MiniCMS":https://github.com/bg5sbk/MiniCMS/ - 达达的一款小巧CMS，支持MarkDown，数据以文件存储
+* "Anchor":http://anchorcms.com/ - 一款极简的CMS系统，也可用做博客系统，支持Markdown
 
 h3. Forum System
 * "Discuz":http://www.discuz.net/
@@ -50,6 +51,7 @@ h3. Forum System
 * "IP.Board":http://www.invisionpower.com/products/board/
 * "Vanilla":http://vanillaforums.org/
 * "esoTalk":http://esotalk.org/ - perfect balance between simplicity, power, speed, and scalability.
+* "Roar":http://roar.im/ - 一款极简的论坛系统 "github":https://github.com/codin/roar
 
 h3. Other
 * "Phalanger":http://www.php-compiler.net - 用PHP语言写.net web程序
