@@ -80,6 +80,7 @@ h3(#engine). Engine
 ** "Flat2D":https://github.com/SyntheCypher/Flat2D - 一款集合Box2D、Starling、Signals的2D游戏引擎
 ** "StarlingPunk":http://www.andysaia.com/radicalpropositions/starlingpunk/ - 将 Starling 和 FlashPunk 整合的游戏框架
 ** "ffilmation":http://www.ffilmation.org - 强大的2.5D游戏引擎
+** "Gear":https://github.com/brightli/gear - 国人开发的一款游戏引擎
 ** "Citrus":http://citrusengine.com
 ** "ND2D":http://www.nulldesign.de/category/experiments/nd2d/
 ** "OpenSpace":http://www.openspace-engine.com
