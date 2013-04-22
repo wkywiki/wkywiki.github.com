@@ -205,6 +205,7 @@ h3(#software). Software
 *** "kindi":http://www.kindi.com/
 *** "Flasm":http://flasm.sourceforge.net/
 *** "Swf Protector":http://www.dcomsoft.com/encrypt-swf.html
+*** "Obfuscator":https://github.com/Sandremss/Actionscript-Source-Obfuscator - 一款用java写的简单的混淆工具
 
 h3(#references). References
 * "优化Flash平台性能（官方PDF中文版）":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
