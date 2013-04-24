@@ -35,6 +35,8 @@ h3. NoSQL Database
 h3. Tools
 * "adminer":http://www.adminer.org/ - 基于 PHP 的强大的单文件数据库管理工具，支持 MySQL, PostgreSQL, SQLite, MS SQL 和 Oracle
 * "phpmyadmin":http://www.phpmyadmin.net/ - 基于 PHP 的老牌 MySQL 管理工具
+* "MySQL Workbench":http://www.mysql.com/products/workbench/ - MySQL官方强大的跨平台管理工具
+* "Navicat Premium":http://www.navicat.com/en/products/navicat_premium/premium_overview.html - 第三方强大的跨平台数据库管理工具
 * "Sequel Pro":http://www.sequelpro.com/ - Mac 平台下的 MySQL 管理应用
 * "MesaMySQL":http://www.desertsandsoftware.com/ - 同上
 * "dbv":http://dbv.vizuina.com/ - MySQL 的版本控制工具

@@ -175,6 +175,7 @@ h3(#software). Software
 ** "Dragon Bones":https://github.com/DragonBones - 一款骨骼动画工具
 ** "Spriter":http://abeltoy.com/projects/spriterAS3/index.html - 一款跨平台的骨骼动画编辑器，支持Flixel、Starling等
 ** "Flump":http://threerings.github.com/flump/ - 可以将fla文件导出为 Starling, Sparrow和 Flambe 等框架可用的位图序列+XML(JSON)的工具
+** "Drawscript":http://drawscri.pt/ - Illustrator的扩展面板，可以生成图形绘制代码
 
 * *(#development)Development*
 ** *(#ide)IDE*
