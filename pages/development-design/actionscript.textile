@@ -36,6 +36,7 @@ h3(#utility_class). Utility Class
 * *(#audio)Audio*
 ** "as3soundeditorlib":http://code.google.com/p/as3soundeditorlib
 ** "ASAudio":http://code.google.com/p/asaudio/ - 小巧的声音处理库
+** "SoundAS":https://github.com/treefortress/SoundAS - 实用的声音管理库
 
 * *(#graphic)Graphic*
 ** "as3-bitmap-mosaic-class":http://juliankussman.com/blog/2008/10/01/as3-bitmap-mosaic-class
