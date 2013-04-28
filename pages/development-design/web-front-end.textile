@@ -27,6 +27,7 @@ h3. CSS
 ** "Stylus":http://learnboost.github.com/stylus/ - 基于node.js的CSS简化解释语言
 ** "Less":http://lesscss.org/ - 同样基于node.js的CSS简化解释语言，但没有Stylus简化
 *** "Crunch":http://crunchapp.net/ - 一款针对Less的编辑器
+*** "SimpLESS":http://wearekiss.com/simpless - 针对LESS的编译器
 
 * *Tools*
 ** "StyleBot":http://stylebot.me/ - Chrome下的可视化CSS编辑器，功能强大

@@ -253,6 +253,7 @@ h3(#system). 系统工具
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Bartender":http://www.macbartender.com/ - 菜单栏管理工具
 * "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
+* "omnidisksweeper":http://www.omnigroup.com/products/omnidisksweeper/ - 直观查看占用磁盘空间的文件夹
 
 h3(#shell_tools). Shell工具
 * tree : brew install tree - 在Shell下以树的方式查看目录结构的工具
