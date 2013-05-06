@@ -27,13 +27,14 @@ h3. Contents
 
 h1. Mac OS X
 
-h3(#commonly-used). 常用工具
+h3(#commonly-used). 常用软件
 * "QQ输入法":http://shurufa.qq.com/mac/
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 * "Archiver":http://archiverapp.com/ - 同上
 * "Homebrew":http://mxcl.github.com/homebrew/ - 软件包管理工具
 * "Renamer":http://renamer.com/ - 批量命名利器
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
+* "Name Mangler":http://manytricks.com/namemangler/ - 同上
 * "有道翻译":http://cidian.youdao.com/mac/
 * "Dropbox":http://www.dropbox.com - 文件同步工具
 * "XtraFinder":http://www.trankynam.com/xtrafinder/ - 文件管理器，免费的TotalFinder替代软件
