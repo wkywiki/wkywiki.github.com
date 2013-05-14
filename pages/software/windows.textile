@@ -12,9 +12,8 @@ h3. Contents
 * "开发":#develop
 ** "版本管理工具":#version
 * "设计":#design
-* "音视频处理":#media
+* "音视频":#media
 * "效率":#productivity
-* "娱乐":#entertainment
 * "系统":#system
 * "其他":#other
 </div>
@@ -83,7 +82,12 @@ h3(#design). 设计
 * "Bitmap Font Generator":http://www.angelcode.com/products/bmfont/ - 一款位图字体制作工具
 * "Collagelt Pro":http://www.collageitfree.com/ - 一款这用的图片拼接软件，有 OSX 和 iOS 平台版本
 
-h3(#media). 音视频处理
+h3(#media). 音视频
+* "Foobar2000":http://www.foobar2000.org - 免费简洁实用的音乐播放软件
+** "Columns UI":http://www.foobar2000.org/components/view/foo_ui_columns - 界面布局定制组件
+** "Monkey's Audio Decoder":http://www.foobar2000.org/components/view/foo_input_monkey - APE无损格式解码组件
+* "K-Lite Codec Pack":http://www.codecguide.com/klcp_update.htm - 一款免费全能音视频播放器
+* "射手影音(SPlayer)":http://www.splayer.org/ - 支持大部分视频格式的播放器
 * "Camtasia Studio":http://www.techsmith.com/camtasia.html - 强大的视频录制软件
 * "Bandicam":http://www.bandicam.com/ - 小巧实用的屏幕录制软件
 * "Fraps":http://www.fraps.com/ - 为游戏而生的屏幕录制软件
@@ -97,12 +101,6 @@ h3(#productivity). 效率
 * "Tudumo":http://www.tudumo.com - 免费小巧的GTD软件
 * "ToDoList":http://www.abstractspoon.com - 免费功能强大的GTD软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
-
-h3(#entertainment). 娱乐
-* "Foobar2000":http://www.foobar2000.org - 免费简洁实用的音乐播放软件
-** "Columns UI":http://www.foobar2000.org/components/view/foo_ui_columns - 界面布局定制组件
-** "Monkey's Audio Decoder":http://www.foobar2000.org/components/view/foo_input_monkey - APE无损格式解码组件
-* "射手影音(SPlayer)":http://www.splayer.org/ - 支持大部分视频格式的播放器
 
 h3(#system). 系统
 * "Console":http://sourceforge.net/projects/console/ - 命令行替换工具，支持多标签，字体设置等

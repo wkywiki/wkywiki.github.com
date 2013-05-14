@@ -60,6 +60,7 @@ h3(#web_framework). Web Framework
 
 h3(#apps). App
 * "youtube-dl":http://rg3.github.com/youtube-dl/index.html
+* "you-get":https://github.com/soimort/you-get
 
 h3(#web_app). Web App
 * *CMS*

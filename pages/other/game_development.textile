@@ -38,6 +38,9 @@ h3. Cross-Platform Game Development
 h3. Server
 * "Pomelo":http://pomelo.netease.com/ - 快速、扩展性好、分布式游戏后端开发框架，网易出品
 
+h3. Services
+* "flox":https://www.flox.cc - 游戏数据统计服务
+
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

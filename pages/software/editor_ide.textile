@@ -139,6 +139,7 @@ h1(#windows). Windows相关
 * "Intype":http://inotai.com/intype/ - Windows下的textmate替代软件
 * "SciTe":http://www.scintilla.org/
 * "EmEditor":http://www.emeditor.com/
+* "EverEdit":http://www.everedit.net/ - 一款国人开发的编辑器，有不少独到的实用功能
 * "Notepad2":http://www.flos-freeware.ch/notepad2.html - 简单轻便的最适合替代系统notepad的编辑器
 ** "Notepad2-Mod":http://code.google.com/p/notepad2-mod/ - 官方版本的分支，加强了代码支持
 ** 通过 "映像劫持":http://www.portablesoft.org/notepad2-replacement/ 实现Notepad2替换记事本
