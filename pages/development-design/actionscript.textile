@@ -68,6 +68,8 @@ h3(#utility_class). Utility Class
 ** "SwfExplorer":http://code.google.com/p/swfexplorer/ - 分析SWF中的元件链接名
 ** "AS3-LocaleManager":https://github.com/rekomat/AS3-LocaleManager - 语言管理器
 ** "AS3-VirtualKeyboard":https://github.com/nidin/as3-virtual-keyboard - as3实现的虚拟键盘
+** "baseoneaslib":https://code.google.com/p/baseoneaslib/ - 包含一套Astar寻路类的一套工具库
+* "flasheff":http://www.flasheff.com/ - flash特效库
 
 h3(#engine). Engine
 * *(#game)Game*

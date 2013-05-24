@@ -75,6 +75,8 @@ h3. Javascript
 ** "CasperJS":http://casperjs.org/ - 一款Web应用测试工具，可以实现点击，抓取网页等等功能
 ** "artTemplate":https://github.com/aui/artTemplate - 一款高性能的模版引擎
 ** "easy.js":http://easyjs.org/ - 一套简洁的js库，包括DOM操作和动画等
+** "textillate.js":http://jschr.github.io/textillate/ - 一款很棒的文字特效库
+** "gsap js":http://www.greensock.com/gsap-js/ - 强大的缓动特效库
 
 * *Tools*
 ** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具

@@ -20,10 +20,9 @@ h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
 * "gor":https://github.com/wendal/gor - Golang编写的静态博客引擎
 
-h3. Website
-
 
 h3. References
+* "Go Web 编程":https://github.com/astaxie/build-web-application-with-golang
 * "Introducing Go by Example":http://mmcgrana.github.com/2012/10/introducing-go-by-example.html
 * "Go语言半小时速成":http://www.aqee.net/go/a-tour-of-go
 * "Wonderfo的资料收集":https://github.com/wonderfo/wonderfogo/wiki

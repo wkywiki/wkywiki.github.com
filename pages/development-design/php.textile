@@ -51,7 +51,7 @@ h3. Forum System
 * "PHPwind":http://www.phpwind.net
 * "IP.Board":http://www.invisionpower.com/products/board/
 * "Vanilla":http://vanillaforums.org/
-* "esoTalk":http://esotalk.org/ - perfect balance between simplicity, power, speed, and scalability.
+* "esoTalk":http://esotalk.org/ / "中文版":http://esotalk.net/ - perfect balance between simplicity, power, speed, and scalability.
 * "Roar":http://roar.im/ - 一款极简的论坛系统 "github":https://github.com/codin/roar
 
 h3. Other

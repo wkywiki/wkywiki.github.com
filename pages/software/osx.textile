@@ -87,6 +87,7 @@ h3(#entertainment). 媒体
 ** "DynamicLyrics":http://martianz.cn/dynamiclyrics/ - 可以在桌面显示歌词的软件
 ** "X Lossless Decoder":http://tmkk.undo.jp/xld/index_e.html - 无损音频转码工具
 ** "iSonics":http://www.osxbytes.com/ - 音乐格式转换工具
+** "Fission":https://itunes.apple.com/cn/app/fission/id549251391?l=en&mt=12 - 音频剪辑软件
 * *视频相关*
 ** "MplayerX":http://mplayerx.org/ - 强大的视频播放器
 ** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
