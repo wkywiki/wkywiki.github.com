@@ -76,6 +76,7 @@ h3. References
 * "PHP之道":http://wulijun.github.com/php-the-right-way/
 
 h3. Software
+* "coreamp":https://code.google.com/p/coreamp/ - 支持Apache和Nginx的PHP环境套件
 * "PHPNow":http://phpnow.org/ - 绿色免费的 Apache + PHP + MySQL 环境套件包
 * "APMServ":http://apmserv.s135.com/ - 一键快速搭建Apache＋PHP＋MySQL＋Nginx＋Memcached＋ASP平台
 * "WNPM":http://code.google.com/p/wnpm/ - 一款基于Windows下的Nginx + PHP + MySQL + Zend绿色套件

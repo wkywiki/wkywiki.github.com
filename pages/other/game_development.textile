@@ -36,7 +36,11 @@ h3. Cross-Platform Game Development
 * "Dreemchest":http://dreemchest.com/
 
 h3. Server
-* "Pomelo":http://pomelo.netease.com/ - 快速、扩展性好、分布式游戏后端开发框架，网易出品
+* "Pomelo":http://pomelo.netease.com/ - 开源、快速、扩展性好、分布式游戏后端开发框架，网易出品
+* "Chilly":http://chillyframework.com/ - 开源，同样基于 node.js 的游戏服务端框架
+* "Photon":http://www.exitgames.com/ - 跨平台的多人在线游戏服务端框架
+* "ElectroTank(ElectroServer)":http://www.electrotank.com/ - 跨平台的手机社交游戏服务端框架
+* "SmartFox":http://www.smartfoxserver.com/ - 比较有名的获平台多人在线游戏服务端框架
 
 h3. Services
 * "flox":https://www.flox.cc - 游戏数据统计服务
