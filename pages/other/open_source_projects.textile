@@ -7,6 +7,8 @@ h1. {{ page.title }}
 
 h3. Network
 * "shadowsocks":http://shadowsocks.org/
+* "CFW":https://github.com/BB9z/CFW - 一份基于IP地址的白名单列表
+* "GFW_Whitelist":https://github.com/n0wa11/gfw_whitelist
 
 h3. Other
 * "FastDFS":http://code.google.com/p/fastdfs/ - 一款高性能分布式文件系统
