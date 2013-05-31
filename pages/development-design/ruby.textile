@@ -113,6 +113,7 @@ h3(#references). References
 ** "Codecademy的Ruby教程":http://www.codecademy.com/tracks/ruby
 ** "Try Ruby":http://tryruby.org
 * *(#references_rails)Rails*
+** "Ruby on Rails Tutorial 中文版":http://railstutorial-china.org/
 ** "如何从零开始学会 Ruby on Rails - 李华顺":http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails
 ** "如何从0开始学Ruby on Rails - 漫步":http://readful.com/post/12322300571/0-ruby-on-rails
 ** "Ruby on Rails Guides":http://guides.rubyonrails.org/ / "繁体版":http://guides.ruby.tw/rails3/getting_started.html

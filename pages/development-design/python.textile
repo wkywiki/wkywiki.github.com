@@ -152,6 +152,7 @@ h3(#packages). Packages & Utility Class
 ** "autopep8":https://github.com/hhatto/autopep8 - 按PEP8的风格，自动排版代码
 ** "Python Dialog":http://pythondialog.sourceforge.net/ - 一款对话框库
 ** "Python RQ":http://python-rq.org/ - 一款处理队列服务库
+*** "rq-dashboard":https://github.com/nvie/rq-dashboard
 
 h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
