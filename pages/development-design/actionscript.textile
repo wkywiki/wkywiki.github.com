@@ -50,6 +50,7 @@ h3(#utility_class). Utility Class
 ** "Razor Components":https://github.com/razorberry/razor - 一套支持皮肤的纯AS组件库
 ** "Libraui":http://code.google.com/p/libraui/ - 一款简易的flash UI组件
 ** "Span.as":http://crosspop.github.com/spin.as/ - 一个旋转loading样式组件
+** "as3-date-range-picker":https://github.com/nidin/as3-date-range-picker - 一款日期选择控件
 
 * *(#network)Network*
 ** "Actionscript-oauth2":http://charlesbihis.github.com/actionscript-oauth2/ - 一款针对OAuth2认证服务的支持库

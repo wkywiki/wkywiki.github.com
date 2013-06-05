@@ -116,6 +116,7 @@ h3. Plugins
 
 h3. Other
 * "XCode快捷键图示":/uploads/xcode.jpg
+* "xcode-themes":https://github.com/tursunovic/xcode-themes
 
 h1(#osx). OSX相关
 * "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
