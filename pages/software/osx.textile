@@ -5,7 +5,7 @@ title: OS X - Software
 
 <div id="charpter">
 h3. Contents
-* "个人装机必备":#commonly-used
+* "常用软件":#commonly-used
 * "媒体":#entertainment
 * "网络":#network
 * "开发":#development
@@ -99,6 +99,7 @@ h3(#entertainment). 媒体
 ** "MP4Tools":http://www.emmgunn.com/mp4tools/mp4toolshome.html - MP4视频转换/分割/合并工具
 ** "vidconvert":http://www.reggieashworth.com/vidconvert - 一款视频转换软件，支持多种视频格式
 ** "Reflector.app":https://www.reflectorapp.com/ - 可以在电脑上显示ios设备内容
+** "Youku-Bypass":https://github.com/CaledoniaProject/Youku-Bypass - 绕过Youku所有限制播放和下载，程序会自动选择最高清画质的视频
 * *其他*
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件

@@ -153,6 +153,7 @@ h3(#packages). Packages & Utility Class
 ** "Python Dialog":http://pythondialog.sourceforge.net/ - 一款对话框库
 ** "Python RQ":http://python-rq.org/ - 一款处理队列服务库
 *** "rq-dashboard":https://github.com/nvie/rq-dashboard
+** "Sentry":https://github.com/getsentry/sentry - 一款实时错误日志捕获平台
 
 h3(#other). Other
 * "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台

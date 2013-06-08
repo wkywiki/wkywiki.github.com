@@ -77,7 +77,8 @@ h3. Javascript
 ** "sparky":http://prag.ma/code/sparky/ / "github":https://github.com/shawnbot/sparky - 用来制作走势图的JS库
 ** "Moment.js":http://momentjs.com/ - 一款小巧的时间库
 ** "CasperJS":http://casperjs.org/ - 一款Web应用测试工具，可以实现点击，抓取网页等等功能
-** "artTemplate":https://github.com/aui/artTemplate - 一款高性能的模版引擎
+** "artTemplate":https://github.com/aui/artTemplate - 一款高性能的模版引擎，腾讯前端团队出品
+** "qatrix":http://qatrix.com/ - 同上，一款个人开发的模版引擎
 ** "easy.js":http://easyjs.org/ - 一套简洁的js库，包括DOM操作和动画等
 ** "textillate.js":http://jschr.github.io/textillate/ - 一款很棒的文字特效库
 ** "gsap js":http://www.greensock.com/gsap-js/ - 强大的缓动特效库

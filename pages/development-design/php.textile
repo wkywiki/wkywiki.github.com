@@ -70,6 +70,7 @@ h3. Other
 
 h3. Tools
 * "phptemplate":https://github.com/lutaf/phptemplate - 小巧的php模版生成器
+* "whoops":http://filp.github.io/whoops/ - 一款不错的调试工具
 
 h3. References
 * "General Style and Syntax":http://codeigniter.com/user_guide/general/styleguide.html
