@@ -108,6 +108,7 @@ h3. 视频电影
 h3. 其他
 * iMadeFace - 一款自定义头像应用
 * Recordium - 一款录音应用
+* Runtastic Heart Rate PRO - 心跳和脉搏监测仪软件专业版
 
 h3. for iPad
 * Paper by FiftyThree
