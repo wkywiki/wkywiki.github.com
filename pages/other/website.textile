@@ -37,6 +37,7 @@ h3. 开发
 
 h3. 设计
 * *Color Scheme*
+** "Colorco":http://colourco.de/ - 一款体验不错的颜色选择器
 ** "Kuler":http://kuler.adobe.com/#themes/rating?time=30
 ** "Color Scheme Designer":http://colorschemedesigner.com/
 ** "Color Jack":http://www.colorjack.com/sphere/
@@ -47,6 +48,7 @@ h3. 设计
 ** "Color Combos":http://www.colorcombos.com/
 ** "Dasplankton":http://www.dasplankton.de/ContrastA/
 * *Tools*
+** "TinyPNG":http://tinypng.org/ - 在线压缩PNG，效果很强
 ** "JpegMini":http://www.jpegmini.com - 在线压缩jpg图片，效果不错
 ** "Text to ASCII Art Generator (TAAG)":http://patorjk.com/software/taag/
 * *WebSite*

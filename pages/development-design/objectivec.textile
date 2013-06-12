@@ -16,6 +16,7 @@ h3. Utility Tools
 * "CocoaPods":https://github.com/CocoaPods/CocoaPods - 库依赖关系管理器
 * "Alcatraz":http://mneorr.github.io/Alcatraz/ - Xcode的包管理器
 * "Spark Inspector":http://sparkinspector.com/ - 实时调试iOS应用
+* "Reveal":http://revealapp.com/ - ios开发调试工具
 
 h3. Library
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X（请求接口，加载图片，上传文件等）
@@ -92,6 +93,9 @@ h3. UI设计相关网站
 ** "Touchscreen Hand Gestures":http://graffletopia.com/stencils/439 - 手势图
 ** "gesturecons":http://gesturecons.com/ - 同上
 ** "iOS5字体集合（包括iPhone和iPad）":http://iosfonts.com/
+
+h3. Tools
+* "Google Analytics for Mobile 统计解决方案":http://code.google.com/mobile/analytics/
 
 h3. Open Source Projects
 

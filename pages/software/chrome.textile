@@ -8,13 +8,12 @@ h1. Chrome
 h3(#plugins). Plugins
 * "JsonView":https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
 * "Edit This Cookie":https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg/related - 直接编辑当前网站的cookie
-* "OpenGG Clean Player":https://chrome.google.com/webstore/detail/openggcleanplayer/doleffkdbkfeokcanjaagploacdflcff - 去在线视频广告
+* "OpenGG Clean Player":http://userscripts.org/scripts/show/162286 - 去在线视频广告
 * "whatfont":https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm - 查看字体
 * "迅雷离线助手":https://chrome.google.com/webstore/detail/thunderlixianassistant/eehlmkfpnagoieibahhcghphdbjcdmen/related
 * "stylish":https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe - css修改器
 ** "新浪微博userstyle脚本":http://userstyles.org/styles/58183/weibo-cleanup
 * "Proxy SwitchySharp":https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm
-* "HqBaiduMusic":https://github.com/ShadowGeeker/HqBaiduMusic - 百度高质量音乐下载插件
 * *Development*
 * "Chrome DevTools Extensions For Web App":http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/ - 几款超强的前端调试工具，For: Ember, Backbone, AngularJS, Knockout & more
 * "Postman":https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm - REST client
