@@ -74,6 +74,7 @@ h3. Tools
 h3. References
 * "General Style and Syntax":http://codeigniter.com/user_guide/general/styleguide.html
 * "PHP之道":http://wulijun.github.com/php-the-right-way/
+* "PHP Best Practices":https://phpbestpractices.org/
 
 h3. Software
 * "coreamp":https://code.google.com/p/coreamp/ - 支持Apache和Nginx的PHP环境套件
