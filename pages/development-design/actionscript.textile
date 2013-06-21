@@ -78,7 +78,9 @@ h3(#engine). Engine
 ** "Ash":https://github.com/richardlord/Ash - an entity framework for Actionscript games
 ** "Ard2d":http://code.google.com/p/animation-render-engine/ - 国产支持Stage3D的位图动画渲染引擎
 ** "AXEL":http://axgl.org/ - 一款支持GPU加速的2D游戏库
-** "Genome2D":https://github.com/pshtif/Genome2D - 一款效果不错的支持stage3D的游戏引擎
+** "CadetEngine":https://github.com/CadetEditor/CadetEngine-as -  a component-based AS3 Scene Engine supporting 2D and 3D GPU accelerated rendering, physics, custom behaviours and 3rd party library integration.
+*** "CadetEditor":http://cadeteditor.github.io/ - A 2D & 3D scene editor, built on CadetEngine.
+** "Citrus":http://citrusengine.com
 ** "Flixel":http://http://www.flixel.org/
 *** "Flixel Power Tools":http://www.photonstorm.com/flixel-power-tools
 ** "FlashPunk":http://flashpunk.net/
@@ -86,7 +88,7 @@ h3(#engine). Engine
 ** "StarlingPunk":http://www.andysaia.com/radicalpropositions/starlingpunk/ - 将 Starling 和 FlashPunk 整合的游戏框架
 ** "ffilmation":http://www.ffilmation.org - 强大的2.5D游戏引擎
 ** "Gear":https://github.com/brightli/gear - 国人开发的一款游戏引擎
-** "Citrus":http://citrusengine.com
+** "Genome2D":https://github.com/pshtif/Genome2D - 一款效果不错的支持stage3D的游戏引擎
 ** "ND2D":http://www.nulldesign.de/category/experiments/nd2d/
 ** "OpenSpace":http://www.openspace-engine.com
 ** "Pixelblitz":http://code.google.com/p/pixelblitz/

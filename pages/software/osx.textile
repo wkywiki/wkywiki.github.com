@@ -113,6 +113,7 @@ h3(#network). 网络
 ** "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
 ** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 视频、音乐下载工具
 ** "TFTPServer":http://ww2.unime.it/flr/tftpserver/ - 图形化的TFTPServer
+** "ForkLift":http://www.binarynights.com/ - 一款强大的FTP/SFT工具
 * *代理相关*
 ** "SimpleSSHProxy":http://ivsays.appspot.com/2011/05/16/get-SimpleSSHProxy.html - 简洁实用的ssh代理软件
 ** "autossh":http://www.harding.motd.ca/autossh/ - 可用homebrew安装，支持开始运行及断线重连
