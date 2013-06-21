@@ -218,6 +218,8 @@ h3(#software). Software
 *** "Flasm":http://flasm.sourceforge.net/
 *** "Swf Protector":http://www.dcomsoft.com/encrypt-swf.html
 *** "Obfuscator":https://github.com/Sandremss/Actionscript-Source-Obfuscator - 一款用java写的简单的混淆工具
+*** "JPEXS Free Flash Decompiler (FFDec)":http://www.free-decompiler.com/flash/ - JPEXS Free Flash Decompiler
+*** "Flash Decompiler Trillix":http://www.flash-decompiler.com/ - 一款很强大的Flash反编译工具
 
 h3(#references). References
 * "优化Flash平台性能（官方PDF中文版）":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf

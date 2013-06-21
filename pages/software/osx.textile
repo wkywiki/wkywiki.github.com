@@ -223,6 +223,7 @@ h3(#productivity). 效率
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
 * "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
 * "Screenhero":http://screenhero.com = 共享屏幕工具，可各自用键盘鼠标，结对编程利器
+* "Apple Configurator":https://itunes.apple.com/us/app/id434433123?mt=12 - 一款苹果官方推出的方便批量部署ios设备的软件
 
 h3(#system). 系统工具
 * "TotalTerminal":http://totalterminal.binaryage.com/ - 增强版的Terminal

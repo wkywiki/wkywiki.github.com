@@ -9,6 +9,8 @@ h3. Network
 * "shadowsocks":http://shadowsocks.org/
 * "CFW":https://github.com/BB9z/CFW - 一份基于IP地址的白名单列表
 * "GFW_Whitelist":https://github.com/n0wa11/gfw_whitelist
+* "xunlei-lixian":https://github.com/iambus/xunlei-lixian - 一款迅雷离线下载脚本
+** "lixian-portal":https://github.com/layerssss/lixian-portal - 基于xunlei-lixian的一个UI实现
 
 h3. Other
 * "FastDFS":http://code.google.com/p/fastdfs/ - 一款高性能分布式文件系统
