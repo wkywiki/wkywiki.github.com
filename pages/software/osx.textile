@@ -15,7 +15,6 @@ h3. Contents
 *** "Mercurial":#hg
 ** "实用工具":#useful
 ** "服务器软件":#server
-** "游戏相关":#game
 * "设计相关":#design
 ** "网页":#design-web
 ** "图形":#design-img
@@ -180,8 +179,6 @@ h3(#development). 开发
 ** "Sequel Pro":http://www.sequelpro.com/ - 同上，免费
 ** "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB
 
-* *(#game)游戏相关*
-** "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 
 h3(#design). 设计
 * *(#design-web)网页*

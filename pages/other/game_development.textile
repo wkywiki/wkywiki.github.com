@@ -34,6 +34,7 @@ h3. Cross-Platform Game Development
   Flambe is an engine and asset pipeline for cross-platform multiplayer games.
   Written in Haxe, games are compiled to Flash and HTML5, with support for mobile devices. Server-side logic compiles to JS and runs on Node.js, for games that require multiplayer.
 * "Dreemchest":http://dreemchest.com/
+* "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 
 h3. Server
 * "Pomelo":http://pomelo.netease.com/ - 开源、快速、扩展性好、分布式游戏后端开发框架，网易出品
