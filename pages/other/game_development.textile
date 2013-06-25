@@ -24,6 +24,7 @@ h3. Tools
 * "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
 * "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
 * "Cadet":http://unwrong.com/cadet - 同样是一款物理引擎编辑器，支持2D和3D，2D主要针对Box2D
+* "Particle Designer":http://www.71squared.com/en/particledesigner - 一款粒子编辑器，支持 Cocos2d、Starling等框架
 * "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
 * "shoebox":http://renderhjs.net/shoebox/ - 一款游戏开发资源整理工具，支持目前大多数主流游戏框架
 
