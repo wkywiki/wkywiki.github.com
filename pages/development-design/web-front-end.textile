@@ -82,6 +82,7 @@ h3. Javascript
 ** "easy.js":http://easyjs.org/ - 一套简洁的js库，包括DOM操作和动画等
 ** "textillate.js":http://jschr.github.io/textillate/ - 一款很棒的文字特效库
 ** "gsap js":http://www.greensock.com/gsap-js/ - 强大的缓动特效库
+** "腾讯Web开源库":http://tencentopen.github.io/
 
 * *Tools*
 ** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具
