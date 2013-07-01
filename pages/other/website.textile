@@ -32,7 +32,8 @@ h3. 开发
 ** "compilr":http://compilr.com - 支持语言众多
 ** "CoderBuddy":http://coderbuddy1.appspot.com - 可以在线创建、编辑、发布google app engine应用的网站
 ** "Cloud9 IDE":https://c9.io/ - 在线云IDE支持 Github 和 BitBucket
-** "Nitrous.io":https://www.nitrous.io 
+** "Nitrous.io":https://www.nitrous.io
+** "COdenvy":https://codenvy.com/
 
 * *资料相关*
 ** "StackParts":http://stackparts.com/ - web开发技术百科

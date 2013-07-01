@@ -17,6 +17,13 @@ h3. VPS
 * "buyvm":http://buyvm.net/
 * "后路哥的VPS":http://houluge.com/taiwan-vps
 * "DigitalOcean":https://www.digitalocean.com/ - SSD硬盘云主机
+** 无限流量
+*** "Lowendbox":http://www.lowendbox.com/
+*** "OVH":http://www.ovh.com/
+
+h3. 虚拟主机
+* "Elinkhost":http://www.elinkhost.com
+* "HostMonster":http://www.hostmaster.com - 不限流量和空间的虚拟主机
 
 h3. Hosting Control System
 * "vpsmate":http://www.vpsmate.org/ - 一款国人开发的高质量vps在线管理系统
