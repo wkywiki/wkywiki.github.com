@@ -56,6 +56,7 @@ h3. CSS
 h3. Javascript
 
 * *Framework*
+** "alloyUI":http://alloyui.com/ - 基于YUI3的前端框架
 ** "Node.js":http://nodejs.org/ - 基于Javascript的Web服务端解决方案
 ** "Backbone.js":http://documentcloud.github.com/backbone/ - 一个前端MVC框架
 ** "SeaJS":http://seajs.com/ - SeaJS 是一个遵循CommonJS规范的模块加载框架，可用来轻松加载任意JavaScript模块
