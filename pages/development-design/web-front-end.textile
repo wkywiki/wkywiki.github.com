@@ -56,7 +56,6 @@ h3. CSS
 h3. Javascript
 
 * *Framework*
-** "Node.js":http://nodejs.org/ - 基于Javascript的Web服务端解决方案
 ** "Backbone.js":http://documentcloud.github.com/backbone/ - 一个前端MVC框架
 ** "SeaJS":http://seajs.com/ - SeaJS 是一个遵循CommonJS规范的模块加载框架，可用来轻松加载任意JavaScript模块
 ** "Arale":http://aralejs.org/ - 支付宝基于 SeaJS 的前端解决方案
@@ -79,6 +78,7 @@ h3. Javascript
 ** "CasperJS":http://casperjs.org/ - 一款Web应用测试工具，可以实现点击，抓取网页等等功能
 ** "artTemplate":https://github.com/aui/artTemplate - 一款高性能的模版引擎，腾讯前端团队出品
 ** "qatrix":http://qatrix.com/ - 同上，一款个人开发的模版引擎
+** "Handlebars":http://handlebarsjs.com/ - 一款前端模版引擎
 ** "easy.js":http://easyjs.org/ - 一套简洁的js库，包括DOM操作和动画等
 ** "textillate.js":http://jschr.github.io/textillate/ - 一款很棒的文字特效库
 ** "gsap js":http://www.greensock.com/gsap-js/ - 强大的缓动特效库
