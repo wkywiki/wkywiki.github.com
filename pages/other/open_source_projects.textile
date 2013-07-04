@@ -7,6 +7,8 @@ h1. {{ page.title }}
 
 h3. Network
 * "shadowsocks":http://shadowsocks.org/
+** "Shadowsocks-libev":https://github.com/madeye/shadowsocks-libev - shadowsocks 协议的轻量级实现
+** "shadowsocks-go":https://github.com/shadowsocks/shadowsocks-go - 用 Go 实现的 Shadowsocks 客户端，支持多平台
 * "CFW":https://github.com/BB9z/CFW - 一份基于IP地址的白名单列表
 * "GFW_Whitelist":https://github.com/n0wa11/gfw_whitelist
 * "xunlei-lixian":https://github.com/iambus/xunlei-lixian - 一款迅雷离线下载脚本
