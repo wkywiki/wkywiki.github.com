@@ -19,6 +19,7 @@ h3. 常用
 * Camera Roll - 一款可以将手机中的照片或视频通过无线传输到电脑上的应用
 * Hangouts - Google官方的实时通信应用
 * Vine - 一款可以看短视频的社交应用
+* Shadowsocks
 
 h3. 游戏
 * Clash of Clans

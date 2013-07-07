@@ -70,7 +70,9 @@ h3(#utility_class). Utility Class
 ** "AS3-LocaleManager":https://github.com/rekomat/AS3-LocaleManager - 语言管理器
 ** "AS3-VirtualKeyboard":https://github.com/nidin/as3-virtual-keyboard - as3实现的虚拟键盘
 ** "baseoneaslib":https://code.google.com/p/baseoneaslib/ - 包含一套Astar寻路类的一套工具库
-* "flasheff":http://www.flasheff.com/ - flash特效库
+** "flasheff":http://www.flasheff.com/ - flash特效库
+** "Flash Page Filp":http://www.flashpageflip.com/ - 一款翻页效果库
+** "PageFilp":http://pageflip.hu/ - 同上
 
 h3(#engine). Engine
 * *(#game)Game*
