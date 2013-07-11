@@ -20,6 +20,8 @@ h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
 * "gor":https://github.com/wendal/gor - Golang编写的静态博客引擎
 
+h3. WebSite
+* "Golang-China":http://golang-china.org
 
 h3. References
 * "Go Web 编程":https://github.com/astaxie/build-web-application-with-golang

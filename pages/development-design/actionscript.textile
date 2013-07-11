@@ -70,7 +70,9 @@ h3(#utility_class). Utility Class
 ** "AS3-LocaleManager":https://github.com/rekomat/AS3-LocaleManager - 语言管理器
 ** "AS3-VirtualKeyboard":https://github.com/nidin/as3-virtual-keyboard - as3实现的虚拟键盘
 ** "baseoneaslib":https://code.google.com/p/baseoneaslib/ - 包含一套Astar寻路类的一套工具库
-* "flasheff":http://www.flasheff.com/ - flash特效库
+** "flasheff":http://www.flasheff.com/ - flash特效库
+** "Flash Page Filp":http://www.flashpageflip.com/ - 一款翻页效果库
+** "PageFilp":http://pageflip.hu/ - 同上
 
 h3(#engine). Engine
 * *(#game)Game*
@@ -194,7 +196,6 @@ h3(#software). Software
 *** "FDT":http://www.fdt.powerflasher.com/
 *** "CodeDrive":http://www.codedrive.com/ - 基于 Visual Studio 2010 的AS3开发插件
 *** "UML4AS":http://www.uml4as.com/ - 可以将设计好的UML转换成AS代码
-*** "secureSWF":http://www.kindi.com/protect-swf.php - 保护SWF文件
 
 ** *(#useful_tools)Useful Tools*
 *** "DeMonsterDebugger":http://demonsterdebugger.com/ - Monster Debugger is an open source debugger for Adobe Flash, Flex and AIR.
@@ -220,6 +221,8 @@ h3(#software). Software
 *** "Obfuscator":https://github.com/Sandremss/Actionscript-Source-Obfuscator - 一款用java写的简单的混淆工具
 *** "JPEXS Free Flash Decompiler (FFDec)":http://www.free-decompiler.com/flash/ - JPEXS Free Flash Decompiler
 *** "Flash Decompiler Trillix":http://www.flash-decompiler.com/ - 一款很强大的Flash反编译工具
+*** "SWF ID":http://swfid.je1.ru/ - 一款小巧强大的SWF解密工具
+*** "secureSWF":http://www.kindi.com/protect-swf.php - 保护SWF文件
 
 h3(#references). References
 * "优化Flash平台性能（官方PDF中文版）":http://help.adobe.com/zh_CN/as3/mobile/flashplatform_optimizing_content.pdf
