@@ -124,5 +124,7 @@ h3. References
 h3. Website
 * "Flurry":http://www.flurry.com/ - App数据分析服务平台
 * "App Viz":http://www.ideaswarm.com/AppViz2.html - App销售追踪统计软件
+* "App Sales":https://github.com/omz/AppSales-Mobile - 开源的第三方的APP销售统计工具
+* "appFigures":http://appfigures.com/ - 报表释出时间统计服务
 * "iMZDL":http://imzdl.com/ - 苹果官方相关软件下载
 * "Cocoadocs":http://cocoadocs.org/ - 各种库的 API 查询站

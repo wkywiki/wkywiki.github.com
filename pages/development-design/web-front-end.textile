@@ -85,6 +85,7 @@ h3. Javascript
 ** "textillate.js":http://jschr.github.io/textillate/ - 一款很棒的文字特效库
 ** "gsap js":http://www.greensock.com/gsap-js/ - 强大的缓动特效库
 ** "腾讯Web开源库":http://tencentopen.github.io/
+** "Proton":http://www.a-jie.cn/proton/ - HTML5 粒子引擎
 
 * *Tools*
 ** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具

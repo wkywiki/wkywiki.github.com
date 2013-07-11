@@ -5,7 +5,7 @@ title: OS X - Software
 
 <div id="charpter">
 h3. Contents
-* "常用软件":#commonly-used
+* "常用":#commonly-used
 * "媒体":#entertainment
 * "网络":#network
 * "开发":#development
@@ -26,7 +26,8 @@ h3. Contents
 
 h1. Mac OS X
 
-h3(#commonly-used). 常用软件
+h3(#commonly-used). 常用
+* "常用快捷键":/assets/2013/07/shortcut_key.jpg
 * "QQ输入法":http://shurufa.qq.com/mac/
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 * "Archiver":http://archiverapp.com/ - 同上
