@@ -8,7 +8,7 @@ h1. Chrome
 h3(#plugins). Plugins
 * "JsonView":https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
 * "Edit This Cookie":https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg/related - 直接编辑当前网站的cookie
-* "OpenGG Clean Player":http://userscripts.org/scripts/show/162286 - 去在线视频广告
+* "OCP-Safari":https://github.com/Leask/OCP-Safari - 去在线视频广告
 * "whatfont":https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm - 查看字体
 * "迅雷离线助手":https://chrome.google.com/webstore/detail/thunderlixianassistant/eehlmkfpnagoieibahhcghphdbjcdmen/related
 * "stylish":https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe - css修改器
