@@ -21,11 +21,15 @@ h3. 桌面环境
 * "Xface":http://www.xfce.org/
 * "LXDE":http://lxde.org/
 
+h3. 窗口管理
+* "musca":http://aerosuidae.net/musca.html
+* "awesome":http://awesome.naquadah.org/
+* "tmux":http://tmux.sourceforge.net/
+
 h3(#misc). 常用
 * "NeverNote":http://nevernote.sourceforge.net/ - linux下的evernote客户端
 * "Audacity":http://audacity.sourceforge.net - 音频编辑软件
 * "Double Commander":http://doublecmd.sourceforge.net/ - 跨平台的文件管理器
-* "tmux":http://tmux.sourceforge.net/ - 一款分屏软件
 
 h3(#system). 系统
 * "ubuntu-tweak":http://ubuntu-tweak.com/
