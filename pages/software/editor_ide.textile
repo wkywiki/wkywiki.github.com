@@ -113,6 +113,7 @@ h1(#xcode). Xcode
 
 h3. Plugins
 * "KSImageNamed":https://github.com/ksuther/KSImageNamed-Xcode - 图片名自动提醒和预览
+* "WDocumenter":https://github.com/onevcat/VVDocumenter-Xcode - Javadoc Style 注释生成
 
 h3. Other
 * "XCode快捷键图示":/uploads/xcode.jpg
