@@ -73,6 +73,7 @@ h3(#utility_class). Utility Class
 ** "flasheff":http://www.flasheff.com/ - flash特效库
 ** "Flash Page Filp":http://www.flashpageflip.com/ - 一款翻页效果库
 ** "PageFilp":http://pageflip.hu/ - 同上
+** "As3Pathfinder":https://github.com/azakhary/As3Pathfinder - a non A* Grid Path finding algorythm
 
 h3(#engine). Engine
 * *(#game)Game*
