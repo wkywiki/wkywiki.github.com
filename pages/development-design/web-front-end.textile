@@ -52,6 +52,7 @@ h3. CSS
 
 * *Website*
 ** "CSSDB":http://cssdb.co/ - CSS Libraries
+** "Webkit CSS Library":http://ued.ctrip.com/blog/wp-content/webkitcss/
 
 h3. Javascript
 
@@ -214,6 +215,7 @@ h3. Design Material
 * "2500 Flag Icon":https://www.gosquared.com/resources/flag-icons - 2000多个国家旗帜图标
 * "simpleicons":http://simpleicons.org/
 * "TheyMakeIcons":http://theymakeicons.com/
+* "":http://www.glyphish.com/ - Great icons for beautiful apps.
 
 h3. Image Placeholders
 * "Holder.js":http://imsky.github.com/holder/

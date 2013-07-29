@@ -67,6 +67,7 @@ h3. Other
 * "Monolog":https://github.com/Seldaek/monolog - Log处理
 * "php-resque":https://github.com/chrisboulton/php-resque - 任务队列
 * "Aktive Merchant for PHP":https://github.com/akDeveloper/Aktive-Merchant - 支付网关
+* "DAUX.IO":http://daux.io/ - 一款文档生成工具
 
 h3. Tools
 * "phptemplate":https://github.com/lutaf/phptemplate - 小巧的php模版生成器
