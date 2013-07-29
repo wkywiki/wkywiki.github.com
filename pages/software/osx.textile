@@ -69,6 +69,7 @@ h3(#commonly-used). 常用
 
 h3(#entertainment). 媒体
 * *图片相关*
+** "Aperture":http://www.apple.com.cn/aperture/ - Apple 官方出品的照片处理软件
 ** "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
 ** "PhotoBulk":https://itunes.apple.com/us/app/photobulk-watermark-resize/id537211143?mt=12 - 一款支持水印，调整大小，调整品质的图片处理软件
 ** "ImageOptim":http://imageoptim.com/ - png优化工具
@@ -88,6 +89,7 @@ h3(#entertainment). 媒体
 ** "X Lossless Decoder":http://tmkk.undo.jp/xld/index_e.html - 无损音频转码工具
 ** "iSonics":http://www.osxbytes.com/ - 音乐格式转换工具
 ** "Fission":https://itunes.apple.com/cn/app/fission/id549251391?l=en&mt=12 - 音频剪辑软件
+** "QLab":http://figure53.com/qlab/ - 一款不错的音频编辑应用
 * *视频相关*
 ** "MplayerX":http://mplayerx.org/ - 强大的视频播放器
 ** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
@@ -180,11 +182,11 @@ h3(#development). 开发
 ** "Sequel Pro":http://www.sequelpro.com/ - 同上，免费
 ** "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB
 
-
 h3(#design). 设计
 * *(#design-web)网页*
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具
 * *(#design-img)图形*
+** "Pixelmator":http://www.pixelmator.com/ - 不想用 Photoshop 的第二选择
 ** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件 
 ** "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
 ** "ImageOptim":http://imageoptim.pornel.net/ - 无损图片压缩工具
