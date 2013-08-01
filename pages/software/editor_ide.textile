@@ -120,6 +120,7 @@ h3. Other
 * "xcode-themes":https://github.com/tursunovic/xcode-themes
 
 h1(#osx). OSX相关
+* "CodeRunner":http://soft.macx.cn/index.htm - 快速编译运行代码片段
 * "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
 * "MacVim":http://code.google.com/p/macvim/
 * "AppCode":http://www.jetbrains.com/objc/ - an Objective-C IDE That Makes a Defference
