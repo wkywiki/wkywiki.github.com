@@ -7,6 +7,7 @@ h1. Chrome
 
 h3(#plugins). Plugins
 * "JsonView":https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc
+* "Holmes":https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related - 书签搜索工具
 * "Edit This Cookie":https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg/related - 直接编辑当前网站的cookie
 * "OCP-Safari":https://github.com/Leask/OCP-Safari - 去在线视频广告
 * "whatfont":https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm - 查看字体

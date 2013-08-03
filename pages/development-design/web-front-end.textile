@@ -86,6 +86,7 @@ h3. Javascript
 ** "textillate.js":http://jschr.github.io/textillate/ - 一款很棒的文字特效库
 ** "gsap js":http://www.greensock.com/gsap-js/ - 强大的缓动特效库
 ** "腾讯Web开源库":http://tencentopen.github.io/
+** "Proton":http://www.a-jie.cn/proton/ - HTML5 粒子引擎
 
 * *Tools*
 ** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具
@@ -158,6 +159,7 @@ h3. Javascript
 * *WebSite*
 ** "JSter":http://jster.net/ - 各种框架和库的收集站
 ** "JSDB":http://www.jsdb.io - 同上
+** "MicroJS":http://microjs.com/ - 同上，专门收集各种休积小巧的JS库
 
 * *Other*
 ** "EpicEditor":http://epiceditor.com/ - 一款很棒的Markdown在线编辑器
