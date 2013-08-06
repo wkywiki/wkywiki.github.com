@@ -20,6 +20,9 @@ killall Finder
 ```
 如果执行完了没效果，可以删掉 `~/Library/Preferences/com.apple.LaunchServices.plist` 再试。
 
+- **清除DNS缓存**
+在终端中输入 `sudo killall -HUP mDNSResponder`
+
 ## 软件设置
 
 - **设置Sublime Text命令行**  
