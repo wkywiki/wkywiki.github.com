@@ -137,6 +137,7 @@ h3(#network). 网络
 ** "Notify":http://vibealicious.com/apps/notify/ - 邮件提醒，支持多帐号
 ** "Little Snitch":http://www.obdev.at/products/littlesnitch/index.html - 控制应用程序访问网络
 ** "Rubbernetr":http://rubbernetapp.com/ - 实时查看网络占用情况
+** "shuttle":http://fitztrev.github.io/shuttle/ - 一款ssh连接管理软件，可以快速连接到设定好的ssh连接
 
 h3(#development). 开发
 

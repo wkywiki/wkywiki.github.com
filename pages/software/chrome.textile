@@ -18,6 +18,7 @@ h3(#plugins). Plugins
 * *Development*
 * "Chrome DevTools Extensions For Web App":http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/ - 几款超强的前端调试工具，For: Ember, Backbone, AngularJS, Knockout & more
 * "Postman":https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm - REST client
+* "声海盗":https://chrome.google.com/webstore/detail/%E5%A3%B0%E6%B5%B7%E7%9B%97/idleenniidjlnmnjkjmmnocnkmjibadd/related - 各大音乐站在线音乐下载
 
 h3(#scripts). Scripts
 * "Straight Google":https://userscripts.org/scripts/show/121261 - 一款去Google跳转链接的工具
