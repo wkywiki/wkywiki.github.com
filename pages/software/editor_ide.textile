@@ -49,6 +49,7 @@ h3. Packages
 * "SublimeWebInspector":http://sokolovstas.github.com/SublimeWebInspector/ - 前端调试插件
 * "ST2Nginx":https://github.com/kvs/ST2Nginx - Nginx高亮包
 * "autoprefixer":https://github.com/sindresorhus/sublime-autoprefixer - 给CSS自动添加兼容前缀
+* "livestyle":http://www.dbpoo.com/sublime-emmet-livestyle/ - 实时刷新插件
 
 h3. References
 * "Sublime Text 手册（繁体版）":http://docs.sublimetext.tw/

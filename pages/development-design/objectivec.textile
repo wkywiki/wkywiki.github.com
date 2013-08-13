@@ -112,6 +112,7 @@ h3. API
 h3. References
 
 * "苹果官方Objective-C编码规范":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
+* "objc.io":http://www.objc.io/ - 一个精品Objective-C教程站
 
 * *iOS*
 ** "iOS 入门开发指南（官方中文版）":http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html

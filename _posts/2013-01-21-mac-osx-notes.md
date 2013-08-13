@@ -23,6 +23,10 @@ killall Finder
 - **清除DNS缓存**  
 在终端中输入 `sudo killall -HUP mDNSResponder`
 
+- **在Dock上显示最近使用的10个APP**  
+在终端中输入：
+`defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'`
+
 ## 软件设置
 
 - **设置Sublime Text命令行**  
