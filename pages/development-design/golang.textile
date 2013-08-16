@@ -10,6 +10,7 @@ h3. Website
 
 h3. Libraries
 * "Libraries Written in Go":http://go-lang.cat-v.org/pure-go-libs
+* "第三方库索引":https://code.google.com/p/go-wiki/wiki/Projects
 
 h3. Framework
 * "GoWeb":http://code.google.com/p/goweb/ - Lightweight RESTful web framework for Go
@@ -24,6 +25,7 @@ h3. WebSite
 * "Golang-China":http://golang-china.org
 
 h3. References
+* "Go语言程序设计":http://www.amazon.cn/dp/B00DWCL8MM / "源码":http://www.qtrac.eu/gobook.html
 * "Go Web 编程":https://github.com/astaxie/build-web-application-with-golang
 * "Introducing Go by Example":http://mmcgrana.github.com/2012/10/introducing-go-by-example.html
 * "Go语言半小时速成":http://www.aqee.net/go/a-tour-of-go

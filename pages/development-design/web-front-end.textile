@@ -78,6 +78,7 @@ h3. Javascript
 ** "MetroJS":http://www.drewgreenwell.com/projects/metrojs - 实现Metro效果
 ** "sparky":http://prag.ma/code/sparky/ / "github":https://github.com/shawnbot/sparky - 用来制作走势图的JS库
 ** "Moment.js":http://momentjs.com/ - 一款小巧的时间库
+** "Medium.js":http://jakiestfu.github.io/Medium.js/docs/ - 一款HTML5页面内容编辑器
 ** "CasperJS":http://casperjs.org/ - 一款Web应用测试工具，可以实现点击，抓取网页等等功能
 ** "artTemplate":https://github.com/aui/artTemplate - 一款高性能的模版引擎，腾讯前端团队出品
 ** "qatrix":http://qatrix.com/ - 同上，一款个人开发的模版引擎
