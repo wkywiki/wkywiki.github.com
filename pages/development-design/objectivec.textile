@@ -132,3 +132,17 @@ h3. Website
 * "appFigures":http://appfigures.com/ - 报表释出时间统计服务
 * "iMZDL":http://imzdl.com/ - 苹果官方相关软件下载
 * "Cocoadocs":http://cocoadocs.org/ - 各种库的 API 查询站
+* "MacCocoa":http://maccocoa.com/ - OSX 开发社区
+
+h4. Github
+
+| "Applidium":http://applidium.github.io/ | "Ciechan":https://github.com/Ciechan |
+| "Ali Karagoz":https://github.com/alikaragoz | "Jesse Andersen":https://github.com/gotosleep |
+
+h4. Blog
+
+| "唐巧":http://blog.devtang.com/ | "破船之家":http://beyondvincent.com/ | "Dingtianran":http://dingtianran.com/ |
+| "Xcode Dev":http://xcodev.com/ | "OneV":http://onevcat.com/ | "Allen":http://www.imallen.com/ |
+| "Ted":http://wufawei.com/ | "Esoft":http://esoftmobile.com/ | "Lianxu":http://lianxu.me/ |
+| "晨钰Lancy":http://gracelancy.com/ | | |
+| "RayWenderlich(英文)":http://www.raywenderlich.com/ | "Matt Galloway(英文)":http://www.galloway.me.uk/ | "Cocoanetics(英文)":http://www.cocoanetics.com/blog/ |
