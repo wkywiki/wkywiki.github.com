@@ -145,4 +145,4 @@ h4. Blog
 | "Xcode Dev":http://xcodev.com/ | "OneV":http://onevcat.com/ | "Allen":http://www.imallen.com/ |
 | "Ted":http://wufawei.com/ | "Esoft":http://esoftmobile.com/ | "Lianxu":http://lianxu.me/ |
 | "晨钰Lancy":http://gracelancy.com/ | | |
-| "RayWenderlich(英文)":http://www.raywenderlich.com/ | "Matt Galloway(英文)":http://www.galloway.me.uk/ | "Cocoanetics(英文)":http://www.cocoanetics.com/blog/ |
+| "RayWenderlich":http://www.raywenderlich.com/ | "Matt Galloway":http://www.galloway.me.uk/ | "Cocoanetics":http://www.cocoanetics.com/blog/ |
