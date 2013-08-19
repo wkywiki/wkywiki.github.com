@@ -127,6 +127,10 @@ h3. 常用快捷键
 * *Shift + Command + J* : 在项目导航中定位当前文件
 * *Command + B* : 编译但不运行
 * *Command + R* : 编译并运行
+* *F6" : Step Over
+* *F7* : Step Into
+* *F8* : Step Out
+* *Control + Command + Y* : 继续运行
 
 h3. Other
 * "XCode快捷键图示":/uploads/xcode.jpg
