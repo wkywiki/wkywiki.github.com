@@ -38,10 +38,11 @@ h3. Cross-Platform Game Development
 * "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 
 h3. Server
-* "Pomelo":http://pomelo.netease.com/ - 开源、快速、扩展性好、分布式游戏后端开发框架，网易出品
 * "Chilly":http://chillyframework.com/ - 开源，同样基于 node.js 的游戏服务端框架
-* "Photon":http://www.exitgames.com/ - 跨平台的多人在线游戏服务端框架
 * "ElectroTank(ElectroServer)":http://www.electrotank.com/ - 跨平台的手机社交游戏服务端框架
+* "Firefly":http://firefly.9miao.com/ - 免费、开源、稳定、快速扩展、能 “热更新”的分布式游戏服务器端框架，采用Python编写，基于Twisted框架开发
+* "Photon":http://www.exitgames.com/ - 跨平台的多人在线游戏服务端框架
+* "Pomelo":http://pomelo.netease.com/ - 开源、快速、扩展性好、分布式游戏后端开发框架，网易出品
 * "SmartFox":http://www.smartfoxserver.com/ - 比较有名的获平台多人在线游戏服务端框架
 
 h3. Services

@@ -228,6 +228,8 @@ h3(#productivity). 效率
 * "Time out free":https://itunes.apple.com/us/app/time-out-free/id402592703?mt=12 - 一款提醒定时休息的应用
 
 h3(#system). 系统工具
+* Termainal
+** "Flat Terminal 配色":https://github.com/ahmetsulek/flat-terminal
 * "TotalTerminal":http://totalterminal.binaryage.com/ - 增强版的Terminal
 * "TabLauncher":http://tablauncher.com/ - 标签化Dock
 * "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器

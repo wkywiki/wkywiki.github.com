@@ -12,6 +12,7 @@ h1(#mac). Mac周边
 
 h3. 键盘
 * "Laptop Pro":http://matias.ca/laptoppro/mac/
+* "CODE Keyboard":http://codekeyboards.com/ - Stack Overflow创始人Jeff Atwood设计的机械键盘
 
 h3. 底座
 * "mStand":http://www.raindesigninc.com/mstand_features.html
