@@ -41,6 +41,7 @@ h3. Tools
 * "MesaMySQL":http://www.desertsandsoftware.com/ - 同上
 * "dbv":http://dbv.vizuina.com/ - MySQL 的版本控制工具
 * "MesaSQLite":http://www.desertsandsoftware.com/ - OSX平台下的 SQLite 管理应用
+* "Induction":http://inductionapp.com/ - A Polyglot Database Client for Mac OS X
 * *Redis*
 ** "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin - php实现的redis管理工具
 * *MongoDB*
