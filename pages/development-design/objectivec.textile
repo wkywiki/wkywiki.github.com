@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ObjectiveC
+title: Objective-C
 ---
 
-h1. ObjectiveC
+h1. Objective-C
 
 h3. Utility Tools
 * "Objective-C Runtime Bowser":https://github.com/nst/RuntimeBrowser
