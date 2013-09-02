@@ -47,6 +47,7 @@ h3. CSS
 ** "Elusive Icons":http://aristath.github.com/elusive-iconfont/ - 适量字体图标
 ** "entypo":http://www.entypo.com/
 ** "Font awsome":http://fortawesome.github.com/Font-Awesome/
+** "Fonts.css":https://github.com/zenozeng/fonts.css - 跨平台中文字体解决方案
 ** "font屌":http://lextang.com/fontdiao/ - font awsome 的中文分支，由lextang发布，扩展了一些新的图标
 ** "RetinaJS":http://retinajs.com/ - Retina graphics for your website
 
@@ -88,6 +89,7 @@ h3. Javascript
 ** "textillate.js":http://jschr.github.io/textillate/ - 一款很棒的文字特效库
 ** "tinycon":https://github.com/tommoor/tinycon - 通过chrome的favicon来动态显示数字信息，比如未读消息
 ** "腾讯Web开源库":http://tencentopen.github.io/
+** "Javascript":https://github.com/jakesgordon/javascript-state-machine - 基于Javascript的有限状态机实现("阮一峰的介绍文章":http://www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html)
 
 * *Tools*
 ** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具

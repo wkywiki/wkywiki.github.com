@@ -48,6 +48,12 @@ h3. Server
 h3. Services
 * "flox":https://www.flox.cc - 游戏数据统计服务
 
+h3. Game Websites
+* "Armorgames":http://armorgames.com/
+* "Kongregate":http://www.kongregate.com/
+* "Miniclip":http://www.miniclip.com/
+* "9Leap":http://9leap.net/
+
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />

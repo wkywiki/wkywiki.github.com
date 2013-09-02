@@ -54,6 +54,7 @@ h3(#utility_class). Utility Class
 
 * *(#network)Network*
 ** "Actionscript-oauth2":http://charlesbihis.github.com/actionscript-oauth2/ - 一款针对OAuth2认证服务的支持库
+** "as3_oauth2":https://bitbucket.org/jamesrobb/as3_oauth2/ - 另一款针对OAuth2认证服务的支持库
 ** "Quiero":https://github.com/idreyn/quiero - URLRequests made awesome in AS3
 
 * *(#other)Other*
