@@ -23,6 +23,7 @@ h3. Library
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X（请求接口，加载图片，上传文件等）
 * "ASIHTTPRequest":https://github.com/pokeb/asi-http-request - 适合开发一些复杂应用的网络库
 * "RegexKit Framework":http://regexkit.sourceforge.net/ - 正则表达式库
+* "NSAttributedStringMarkdownParser":https://github.com/jverkoey/NSAttributedStringMarkdownParser - MarkDown解析库
 * *iOS*
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
 * "QuickDialog":https://github.com/escoz/QuickDialog - 简单易用的TableViews类

@@ -175,6 +175,8 @@ h3(#development). 开发
 ** "CodeKit for Mac":http://incident57.com/codekit/ - 同上
 ** "Kickoff":http://kickoffapp.com/ - 一款简洁、体验超棒的团队协作工具
 ** "1keyboard":http://www.eyalw.com/1keyboard - 可以将 Macbook 变成蓝牙键盘
+** "Cocoa Json Editor":http://www.cocoajsoneditor.com/ - Json 编辑器
+** "Power JSON Editor":http://tickplant.com/powerjsoneditor/ - 同上
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
