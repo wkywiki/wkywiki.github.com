@@ -37,7 +37,8 @@ h3. Library
 * "PSTCollectionView":https://github.com/steipete/PSTCollectionView - 可以支持到 iOS 4.3 的 UICollectionView
 * "DLCImagePickerController":https://github.com/gobackspaces/DLCImagePickerController - 给照片添加滤镜
 * "GPUImage":https://github.com/BradLarson/GPUImage - 上面的库需要这个库的支持
-* "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate。
+* "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate
+* "Mantle":https://github.com/github/Mantle - Model framework for Cocoa and Cocoa Touch, JSON dictionary 和 model class 互转
 
 h3. Framewok
 * *Network*
