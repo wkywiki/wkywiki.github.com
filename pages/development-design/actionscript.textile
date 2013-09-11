@@ -68,6 +68,7 @@ h3(#utility_class). Utility Class
 ** "AS3-Signals":https://github.com/robertpenner/as3-signals - 代替AS3原生事件的新实现库
 ** "Lua-Alchemy":http://code.google.com/p/lua-alchemy/ - Port of the Lua programming language for ActionScript using Alchemy
 ** "fzip":https://github.com/claus/fzip - 读取，修改，创建标准zip文件
+** "gzip":https://code.google.com/p/ascompress/ - ActionScript library for file and data compression formats (initially GZIP)
 ** "SwfExplorer":http://code.google.com/p/swfexplorer/ - 分析SWF中的元件链接名
 ** "AS3-LocaleManager":https://github.com/rekomat/AS3-LocaleManager - 语言管理器
 ** "AS3-VirtualKeyboard":https://github.com/nidin/as3-virtual-keyboard - as3实现的虚拟键盘
