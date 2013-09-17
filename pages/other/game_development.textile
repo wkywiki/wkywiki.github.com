@@ -20,6 +20,7 @@ h3. Music & SFX
 * "Flash Kit Sounds Loops":http://www.flashkit.com/loops/
 
 h3. Tools
+* "Spine":http://esotericsoftware.com/ - 强大的跨平台骨骼动画编辑器
 * "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
 * "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
 * "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
