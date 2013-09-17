@@ -151,8 +151,8 @@ h4. Blog
 | "萧宸宇":http://iiiyu.com/ | "陶丰平":http://www.taofengping.com/ | "乔学士":http://joeyio.com/ |
 | "陈咏聪":http://vinqon.com/ | "骆仕恺":http://luosky.com/ | "王轲":http://www.iwangke.me/ |
 | "高嘉峻":http://jiajun.org/ | "webfrogs":http://webfrogs.me/ | "余书懿":http://blog.csdn.net/ysy441088327/ |
+| "卢克":http://geeklu.com/ | | |
 | "RayWenderlich":http://www.raywenderlich.com/ | "Matt Galloway":http://www.galloway.me.uk/ | "Cocoanetics":http://www.cocoanetics.com/blog/ |
-
 h4. Mac App 开发者网站
 
 | "TANHAO":http://www.tanhao.org/ | "beyondcow":http://beyondcow.com/ |
