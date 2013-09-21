@@ -66,6 +66,7 @@ h3(#commonly-used). 常用
 * "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 * "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
 * "Mou":http://mouapp.com/ - Markdown编辑器
+* "haroopad":http://pad.haroopress.com/ - 跨平台的markdown编辑器
 
 h3(#entertainment). 媒体
 * *图片相关*
