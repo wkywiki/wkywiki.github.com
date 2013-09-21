@@ -145,7 +145,7 @@ h4. Github
 h4. Blog
 
 | "唐巧":http://blog.devtang.com/ | "破船之家":http://beyondvincent.com/ | "Dingtianran":http://dingtianran.com/ |
-| "Xcode Dev":http://xcodev.com/ | "王巍":http://onevcat.com/ | "许小帅":http://www.imallen.com/ |
+| "Xcode Dev":http://xcodev.com/ | "王巍onevcat":http://onevcat.com/ | "许小帅":http://www.imallen.com/ |
 | "Ted":http://wufawei.com/ | "Esoft":http://esoftmobile.com/ | "耿健桓":http://dlog.dismory.com/ |
 | "蓝晨钰":http://gracelancy.com/ | "连栩":http://lianxu.me/ | "许小帅":http://imallen.com/ |
 | "萧宸宇":http://iiiyu.com/ | "陶丰平":http://www.taofengping.com/ | "乔学士":http://joeyio.com/ |
