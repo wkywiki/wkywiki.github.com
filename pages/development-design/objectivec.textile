@@ -138,6 +138,7 @@ h3. Website
 * "iMZDL":http://imzdl.com/ - 苹果官方相关软件下载
 * "Cocoadocs":http://cocoadocs.org/ - 各种库的 API 查询站
 * "MacCocoa":http://maccocoa.com/ - OSX 开发社区
+* "Avatars":http://avatars.io/ - App图标生成网站
 
 h4. Github
 
