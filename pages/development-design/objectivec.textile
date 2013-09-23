@@ -18,6 +18,7 @@ h3. Utility Tools
 * "Spark Inspector":http://sparkinspector.com/ - 实时调试 iOS 应用
 * "Reveal":http://revealapp.com/ - ios开发调试工具
 * "json_to_model":https://github.com/clowwindy/json_to_model - 将 JSON 转化为 Model 类
+* "NSLogger":https://github.com/fpillet/NSLogger - 一款强大、免费、必备的Log输出工具
 
 h3. Library
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X（请求接口，加载图片，上传文件等）
@@ -123,6 +124,7 @@ h3. References
 ** "iOS Dev Weekly":http://iosdevweekly.com/
 ** "iOS Design Weekly":http://iosdesign.co/
 ** "Introduction to Coding Guidelines for Cocoa":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
+* "iOS项目的目录结构和开发流程 - 无网不剩":http://blog.leezhong.com/ios/2013/09/23/build-ios-application.html
 
 * Learn to Create Successful Apps
 ** http://appdesignvault.s3.amazonaws.com/foody-tutorial/(001-010).mp4
@@ -141,6 +143,7 @@ h4. Github
 
 | "Applidium":http://applidium.github.io/ | "Ciechan":https://github.com/Ciechan |
 | "Ali Karagoz":https://github.com/alikaragoz | "Jesse Andersen":https://github.com/gotosleep |
+| "Florent Pillet":https://github.com/fpillet | |
 
 h4. Blog
 
@@ -151,7 +154,7 @@ h4. Blog
 | "萧宸宇":http://iiiyu.com/ | "陶丰平":http://www.taofengping.com/ | "乔学士":http://joeyio.com/ |
 | "陈咏聪":http://vinqon.com/ | "骆仕恺":http://luosky.com/ | "王轲":http://www.iwangke.me/ |
 | "高嘉峻":http://jiajun.org/ | "webfrogs":http://webfrogs.me/ | "余书懿":http://blog.csdn.net/ysy441088327/ |
-| "卢克":http://geeklu.com/ | | |
+| "卢克":http://geeklu.com/ | "无网不剩":http://blog.leezhong.com/ | |
 | "RayWenderlich":http://www.raywenderlich.com/ | "Matt Galloway":http://www.galloway.me.uk/ | "Cocoanetics":http://www.cocoanetics.com/blog/ |
 h4. Mac App 开发者网站
 
