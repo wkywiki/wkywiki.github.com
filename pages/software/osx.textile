@@ -66,6 +66,7 @@ h3(#commonly-used). 常用
 * "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 * "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
 * "Mou":http://mouapp.com/ - Markdown编辑器
+* "haroopad":http://pad.haroopress.com/ - 跨平台的markdown编辑器
 
 h3(#entertainment). 媒体
 * *图片相关*
@@ -191,7 +192,8 @@ h3(#design). 设计
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具
 * *(#design-img)图形*
 ** "Pixelmator":http://www.pixelmator.com/ - 不想用 Photoshop 的第二选择
-** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件 
+** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件
+** "SketchBook Express":https://itunes.apple.com/cn/app/sketchbook-express/id404243625 - Autodesk出品的免费小巧的画图软件
 ** "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
 ** "ImageOptim":http://imageoptim.pornel.net/ - 无损图片压缩工具
 ** "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件

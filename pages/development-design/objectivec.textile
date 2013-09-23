@@ -148,7 +148,7 @@ h4. Github
 h4. Blog
 
 | "唐巧":http://blog.devtang.com/ | "破船之家":http://beyondvincent.com/ | "Dingtianran":http://dingtianran.com/ |
-| "Xcode Dev":http://xcodev.com/ | "王巍":http://onevcat.com/ | "许小帅":http://www.imallen.com/ |
+| "Xcode Dev":http://xcodev.com/ | "王巍onevcat":http://onevcat.com/ | "许小帅":http://www.imallen.com/ |
 | "Ted":http://wufawei.com/ | "Esoft":http://esoftmobile.com/ | "耿健桓":http://dlog.dismory.com/ |
 | "蓝晨钰":http://gracelancy.com/ | "连栩":http://lianxu.me/ | "许小帅":http://imallen.com/ |
 | "萧宸宇":http://iiiyu.com/ | "陶丰平":http://www.taofengping.com/ | "乔学士":http://joeyio.com/ |
@@ -156,6 +156,7 @@ h4. Blog
 | "高嘉峻":http://jiajun.org/ | "webfrogs":http://webfrogs.me/ | "余书懿":http://blog.csdn.net/ysy441088327/ |
 | "卢克":http://geeklu.com/ | "无网不剩":http://blog.leezhong.com/ | |
 | "RayWenderlich":http://www.raywenderlich.com/ | "Matt Galloway":http://www.galloway.me.uk/ | "Cocoanetics":http://www.cocoanetics.com/blog/ |
+
 h4. Mac App 开发者网站
 
 | "TANHAO":http://www.tanhao.org/ | "beyondcow":http://beyondcow.com/ |
