@@ -108,6 +108,7 @@ h3. Open Source Projects
 
 * *iOS*
 ** "Tiny Wings":https://github.com/haqu/tiny-wings
+** "iOS7-Sampler":https://github.com/shu223/iOS7-Sampler - ios7最新特征实例代码
 
 h3. API
 * "Google Reader API":http://code.google.com/p/r2-release/wiki/GoogleReaderApi
@@ -151,7 +152,7 @@ h4. Blog
 | "萧宸宇":http://iiiyu.com/ | "陶丰平":http://www.taofengping.com/ | "乔学士":http://joeyio.com/ |
 | "陈咏聪":http://vinqon.com/ | "骆仕恺":http://luosky.com/ | "王轲":http://www.iwangke.me/ |
 | "高嘉峻":http://jiajun.org/ | "webfrogs":http://webfrogs.me/ | "余书懿":http://blog.csdn.net/ysy441088327/ |
-| "卢克":http://geeklu.com/ | | |
+| "卢克":http://geeklu.com/ | "i沙漏":http://ishalou.com/ | |
 | "RayWenderlich":http://www.raywenderlich.com/ | "Matt Galloway":http://www.galloway.me.uk/ | "Cocoanetics":http://www.cocoanetics.com/blog/ |
 
 h4. Mac App 开发者网站
