@@ -135,10 +135,12 @@ h3. Website
 * "App Viz":http://www.ideaswarm.com/AppViz2.html - App销售追踪统计软件
 * "App Sales":https://github.com/omz/AppSales-Mobile - 开源的第三方的APP销售统计工具
 * "appFigures":http://appfigures.com/ - 报表释出时间统计服务
+* "Crashlytics":https://www.crashlytics.com/ - 优雅方便的崩溃报告工具
 * "iMZDL":http://imzdl.com/ - 苹果官方相关软件下载
 * "Cocoadocs":http://cocoadocs.org/ - 各种库的 API 查询站
 * "MacCocoa":http://maccocoa.com/ - OSX 开发社区
 * "Avatars":http://avatars.io/ - App图标生成网站
+* "TestFight":https://testflightapp.com/ - 好用的应用测试平台
 
 h4. Github
 
