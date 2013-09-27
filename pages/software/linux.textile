@@ -66,3 +66,4 @@ h3(#website). 相关网站
 * "commandlinefu":http://www.commandlinefu.com - linux命令大全
 * "ubuntusoft":http://www.ubuntusoft.com/ - Ubuntu资讯站
 * "LinuxCast":http://linuxcast.net/ - 一个linux学习平台
+* "explainshell":http://explainshell.com/ - 解析显示shell 命令参数的帮助信息
