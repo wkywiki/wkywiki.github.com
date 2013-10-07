@@ -11,6 +11,7 @@ h3. CSS
 ** "Alice":http://aliceui.com - 支付宝前端样式解决方案
 ** "Almost Flat UI":https://github.com/websymphony/almost-flat-ui - 同上也是一款扁平UI工具包
 ** "BootStrap":http://twitter.github.com/bootstrap/ - Twitter推出的前端开发工具包
+** "semantic-ui":http://semantic-ui.com/ - 语法比 BootStrap 更简洁的扁平风格工具包
 ** "Fight":http://twitter.github.com/flight/ - Twitter推出的新web开发框架
 ** "FlatUI":http://designmodo.github.com/Flat-UI/ - 基于BootStrap的UI工具包
 ** "Foundation":http://foundation.zurb.com/ - 前端框架新秀

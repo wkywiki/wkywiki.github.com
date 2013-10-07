@@ -110,6 +110,7 @@ h3(#packages). Packages & Utility Class
 ** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.
 ** "Logmon":https://github.com/maxcountryman/logmon - Logmon is a realtime log reader written with Flask and Juggernaut.
 ** "Gevent":http://www.gevent.org/ - 非常好的用来写 Socket Server 的框架
+*** "Gevent中文指南":http://xlambda.com/gevent-tutorial
 ** "Twisted":http://twistedmatrix.com/trac/ - 同上
 ** "msgpack":http://msgpack.org/ - 一个据说速度很快的序列化库
 ** "zerorpc":https://github.com/dotcloud/zerorpc-python - dotcloud 基于 msgpack 和 zeromq 的 rpc
