@@ -49,6 +49,7 @@ h3. Framewok
 ** "Cocos2D":http://www.cocos2d-iphone.org/
 *** "CCTextField":https://github.com/iNinja/CCTextField - Cocos2D 下，文本输入框的第三方实现
 ** "Sparrow":http://gamua.com/sparrow/ - The Open Source Game Engine for iOS
+** "KoboldKit":http://koboldkit.com/ - 基于 SpriteKit 的开源多平台游戏引擎
 
 h3. WebSite
 * "Code4App":http://code4app.com/ - 移动平台代码库
@@ -110,6 +111,7 @@ h3. Open Source Projects
 * *iOS*
 ** "Tiny Wings":https://github.com/haqu/tiny-wings
 ** "iOS7-Sampler":https://github.com/shu223/iOS7-Sampler - ios7最新特征实例代码
+** "美剧英语每日一句":https://github.com/imtiger/HappyEnglish
 
 h3. API
 * "Google Reader API":http://code.google.com/p/r2-release/wiki/GoogleReaderApi
