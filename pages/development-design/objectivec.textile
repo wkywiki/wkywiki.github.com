@@ -16,7 +16,8 @@ h3. Utility Tools
 * "CocoaPods":https://github.com/CocoaPods/CocoaPods - 库依赖关系管理器
 * "Alcatraz":http://mneorr.github.io/Alcatraz/ - Xcode的包管理器
 * "Spark Inspector":http://sparkinspector.com/ - 实时调试 iOS 应用
-* "Reveal":http://revealapp.com/ - ios开发调试工具
+* "Reveal":http://revealapp.com/ - ios开发UI调试工具
+* "The Missing UI Debugger":http://hierarchydetective.com/ - 同上，开源实现
 * "json_to_model":https://github.com/clowwindy/json_to_model - 将 JSON 转化为 Model 类
 * "NSLogger":https://github.com/fpillet/NSLogger - 一款强大、免费、必备的Log输出工具
 
