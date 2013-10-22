@@ -5,6 +5,8 @@ title: Open Source Projects
 
 h1. {{ page.title }}
 
+* "shadowsocks":/assets/2013/10/license.jpg
+
 h3. Network
 * "shadowsocks":http://shadowsocks.org/
 ** "Shadowsocks-libev":https://github.com/madeye/shadowsocks-libev - shadowsocks 协议的轻量级实现

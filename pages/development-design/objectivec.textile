@@ -26,6 +26,7 @@ h3. Library
 * "RegexKit Framework":http://regexkit.sourceforge.net/ - 正则表达式库
 * "NSAttributedStringMarkdownParser":https://github.com/jverkoey/NSAttributedStringMarkdownParser - MarkDown解析库
 * *iOS*
+* "ibireme整理的开源库":http://github.ibireme.com/github/list/ios/
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
 * "QuickDialog":https://github.com/escoz/QuickDialog - 简单易用的TableViews类
 * "Core Plot":http://code.google.com/p/core-plot/ - 图表库
