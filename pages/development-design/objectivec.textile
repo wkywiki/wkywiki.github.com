@@ -26,6 +26,7 @@ h3. Library
 * "ASIHTTPRequest":https://github.com/pokeb/asi-http-request - 适合开发一些复杂应用的网络库
 * "RegexKit Framework":http://regexkit.sourceforge.net/ - 正则表达式库
 * "NSAttributedStringMarkdownParser":https://github.com/jverkoey/NSAttributedStringMarkdownParser - MarkDown解析库
+* "UIImageView-BetterFace":https://github.com/croath/UIImageView-BetterFace - 智能人物缩略图生成工具，可以让人脸保持在合适的位置
 * *iOS*
 * "ibireme整理的开源库":http://github.ibireme.com/github/list/ios/
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
