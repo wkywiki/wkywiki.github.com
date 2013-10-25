@@ -105,6 +105,7 @@ h3. UI设计相关网站
 
 h3. Tools
 * "Google Analytics for Mobile 统计解决方案":http://code.google.com/mobile/analytics/
+* "Project Statistics for Xcode":https://itunes.apple.com/cn/app/project-statistics-for-xcode/id650764572 - xcode 项目分析软件，统计项目详细信息
 
 h3. Open Source Projects
 
