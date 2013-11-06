@@ -31,6 +31,10 @@ h3. NoSQL Database
 ** "MemcacheDB":http://memcachedb.org/
 ** "Couchbase":http://www.couchbase.org/ 一款被Draw Something游戏使用的NoSQL数据库
 ** "Cassandra":http://cassandra.apache.org/
+** "Tokyo Cabinet":http://fallabs.com/tokyocabinet/
+** "BerkeleyDB":http://www.oracle.com/technetwork/products/berkeleydb/downloads/index.html
+** "Samba's TDB":http://tdb.samba.org/
+** "cdb":http://cr.yp.to/cdb.html
 
 h3. Tools
 * "adminer":http://www.adminer.org/ - 基于 PHP 的强大的单文件数据库管理工具，支持 MySQL, PostgreSQL, SQLite, MS SQL 和 Oracle
