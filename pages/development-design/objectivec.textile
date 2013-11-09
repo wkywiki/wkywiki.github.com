@@ -44,6 +44,7 @@ h3. Library
 * "GPUImage":https://github.com/BradLarson/GPUImage - 上面的库需要这个库的支持
 * "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate
 * "Mantle":https://github.com/github/Mantle - Model framework for Cocoa and Cocoa Touch, JSON dictionary 和 model class 互转
+* "iOS-Cards":https://github.com/finiteloop/ios-cards - 一款渲染扑克牌的库
 
 h3. Framewok
 * *Network*
