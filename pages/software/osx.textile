@@ -58,7 +58,8 @@ h3(#commonly-used). 常用
 ** *workflows作者们的website*
 *** "hzlzh":https://github.com/hzlzh/Alfred-Workflows
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
-* "Cinch":http://www.irradiatedsoftware.com/cinch/ - 实现像win7一样的窗口拖动帖边排列功能
+* "Cinch":http://www.irradiatedsoftware.com/cinch/ - 实现像 win7 一样的窗口拖动帖边排列功能
+* "Window Magnet":http://magnet.crowdcafe.com/ - 同上，支持 OSX10.9
 * "SizeUp":http://www.irradiatedsoftware.com/sizeup/ - 同上，不过是用快捷键控制
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
 * "Sparrow":http://www.sparrowmailapp.com/ - 邮箱客户端，支持Gmail的Push提醒
