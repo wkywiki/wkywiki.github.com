@@ -52,6 +52,7 @@ h3. Framewok
 * *Game*
 ** "Cocos2D":http://www.cocos2d-iphone.org/
 *** "CCTextField":https://github.com/iNinja/CCTextField - Cocos2D 下，文本输入框的第三方实现
+*** "ApporTable SDK":http://www.apportable.com/ - 可以将 Cocos2D-iPhone 移植到 Android 平台的 SDK
 ** "Sparrow":http://gamua.com/sparrow/ - The Open Source Game Engine for iOS
 ** "KoboldKit":http://koboldkit.com/ - 基于 SpriteKit 的开源多平台游戏引擎
 
