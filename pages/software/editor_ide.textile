@@ -119,6 +119,7 @@ h3. Plugins
 * "KSImageNamed":https://github.com/ksuther/KSImageNamed-Xcode - 图片名自动提醒和预览
 * "WDocumenter":https://github.com/onevcat/VVDocumenter-Xcode - Javadoc Style 注释生成
 * "XMate":https://github.com/PrideChung/XMate - TextMate and Emacs goodies for Xcode.
+* "Alcatraz":http://mneorr.github.io/Alcatraz/ - Xcode 包管理器
 
 h3. 常用快捷键
 * *Control + I* : 对选中文字重新格式化
