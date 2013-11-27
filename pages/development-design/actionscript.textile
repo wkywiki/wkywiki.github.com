@@ -77,6 +77,7 @@ h3(#utility_class). Utility Class
 ** "Flash Page Filp":http://www.flashpageflip.com/ - 一款翻页效果库
 ** "PageFilp":http://pageflip.hu/ - 同上
 ** "As3Pathfinder":https://github.com/azakhary/As3Pathfinder - a non A* Grid Path finding algorythm
+** "MicroPather":https://github.com/tconkling/micropather-as3/ - 移植自 Lee Thomason’s C++ A* solver 的 A* 寻路库
 
 h3(#engine). Engine
 * *(#game)Game*
@@ -89,6 +90,7 @@ h3(#engine). Engine
 *** "CadetEditor":http://cadeteditor.github.io/ - A 2D & 3D scene editor, built on CadetEngine.
 ** "Citrus":http://citrusengine.com
 ** "Flixel":http://http://www.flixel.org/
+*** "FlixelCommunity":https://github.com/FlixelCommunity/flixel/ - Flixel 的 fork 版本，扩展了更多实用的功能
 *** "Flixel Power Tools":http://www.photonstorm.com/flixel-power-tools
 ** "FlashPunk":http://flashpunk.net/
 ** "Flat2D":https://github.com/SyntheCypher/Flat2D - 一款集合Box2D、Starling、Signals的2D游戏引擎
