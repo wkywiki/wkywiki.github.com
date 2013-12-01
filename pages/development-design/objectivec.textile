@@ -28,23 +28,24 @@ h3. Library
 * "NSAttributedStringMarkdownParser":https://github.com/jverkoey/NSAttributedStringMarkdownParser - MarkDown解析库
 * "UIImageView-BetterFace":https://github.com/croath/UIImageView-BetterFace - 智能人物缩略图生成工具，可以让人脸保持在合适的位置
 * *iOS*
-* "ibireme整理的开源库":http://github.ibireme.com/github/list/ios/
-* "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
-* "QuickDialog":https://github.com/escoz/QuickDialog - 简单易用的TableViews类
-* "Core Plot":http://code.google.com/p/core-plot/ - 图表库
-* "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 * "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
+* "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate
+* "Core Plot":http://code.google.com/p/core-plot/ - 图表库
+* "DLCImagePickerController":https://github.com/gobackspaces/DLCImagePickerController - 给照片添加滤镜
+* "GPUImage":https://github.com/BradLarson/GPUImage - DLCImagePickerController 需要这个库的支持
+* "ibireme整理的开源库":http://github.ibireme.com/github/list/ios/
 * "iOS Boilerplate":http://iosboilerplate.com/ - A base template for iOS apps
+* "iOS-Cards":https://github.com/finiteloop/ios-cards - 一款渲染扑克牌的库
 * "iPhone wireframe UI kit":http://www.anthonyaubertin.com/wireframe/
 * "LTUpdate":https://github.com/lexrus/LTUpdate - 一个可以主动提供指定应用更新消息的库
+* "Mantle":https://github.com/github/Mantle - Model framework for Cocoa and Cocoa Touch, JSON dictionary 和 model class 互转
 * "MBProgressHUD":https://github.com/jdg/MBProgressHUD - 显示加载状态
 * "MTStatusBarOverlay":https://github.com/myell0w/MTStatusBarOverlay - 状态栏显示提示信息
+* "PNChart":https://github.com/kevinzhow/PNChart - A simple and beautiful chart lib used in Piner for iOS
 * "PSTCollectionView":https://github.com/steipete/PSTCollectionView - 可以支持到 iOS 4.3 的 UICollectionView
-* "DLCImagePickerController":https://github.com/gobackspaces/DLCImagePickerController - 给照片添加滤镜
-* "GPUImage":https://github.com/BradLarson/GPUImage - 上面的库需要这个库的支持
-* "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate
-* "Mantle":https://github.com/github/Mantle - Model framework for Cocoa and Cocoa Touch, JSON dictionary 和 model class 互转
-* "iOS-Cards":https://github.com/finiteloop/ios-cards - 一款渲染扑克牌的库
+* "QuickDialog":https://github.com/escoz/QuickDialog - 简单易用的TableViews类
+* "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
+* "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 
 h3. Framewok
 * *Network*
