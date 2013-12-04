@@ -136,6 +136,7 @@ h3(#network). 网络
 ** "Sparrow":http://www.sparrowmailapp.com/ - 同上
 ** "Charles":http://www.charlesproxy.com/ - 类似于Windows下fiddler的http调试工具
 ** "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
+** "Debookee":http://www.iwaxx.com/debookee/ - 一款网络数据抓包和分析工具
 ** "TeamViewer":http://www.teamviewer.com - 远程控制工具
 ** "Notify":http://vibealicious.com/apps/notify/ - 邮件提醒，支持多帐号
 ** "Little Snitch":http://www.obdev.at/products/littlesnitch/index.html - 控制应用程序访问网络
