@@ -181,6 +181,7 @@ h3(#development). 开发
 ** "1keyboard":http://www.eyalw.com/1keyboard - 可以将 Macbook 变成蓝牙键盘
 ** "Cocoa Json Editor":http://www.cocoajsoneditor.com/ - Json 编辑器
 ** "Power JSON Editor":http://tickplant.com/powerjsoneditor/ - 同上
+** "Anvil":http://anvilformac.com/ - 可以在本地建立网页服务器供局域网内终端访问
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
