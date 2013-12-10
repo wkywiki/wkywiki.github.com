@@ -194,6 +194,7 @@ h3(#development). 开发
 h3(#design). 设计
 * *(#design-web)网页*
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具
+** "Espresso":http://macrabbit.com/espresso/ - Web编程利器
 * *(#design-img)图形*
 ** "Pixelmator":http://www.pixelmator.com/ - 不想用 Photoshop 的第二选择
 ** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件
@@ -225,8 +226,7 @@ h3(#design). 设计
 ** "AnteType":http://antetype.com/ - UI设计软件
 ** "FontExplorer X Pro":http://www.fontexplorerx.com/pro/ - 字体管理工具
 ** "Extensis Suitcase Fusion":http://www.extensis.com/suitcase-fusion-4/ - 字体管理工具
-** "Glyphs":http://glyphsapp.com/ - 字体修改工具
-
+** "Glyphs":http://glyphsapp.com/ - 目前最好用的字体修改工具
 
 h3(#productivity). 效率
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
