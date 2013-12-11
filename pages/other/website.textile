@@ -40,16 +40,17 @@ h3. 开发
 
 h3. 设计
 * *Color Scheme*
-** "Colorco":http://colourco.de/ - 一款体验不错的颜色选择器
-** "Kuler":http://kuler.adobe.com/#themes/rating?time=30
-** "Color Scheme Designer":http://colorschemedesigner.com/
-** "Color Jack":http://www.colorjack.com/sphere/
-** "Color Hunter":http://www.colorhunter.com/
-** "Hex Color":http://www.2createawebsite.com/build/hex-color-scheme-generator.html
-** "Slayer Office":http://slayeroffice.com/tools/color_palette/
-** "Color Spire":http://www.colorspire.com/
 ** "Color Combos":http://www.colorcombos.com/
+** "Color Hunter":http://www.colorhunter.com/
+** "Color Jack":http://www.colorjack.com/sphere/
+** "Color Scheme Designer":http://colorschemedesigner.com/
+** "Color Spire":http://www.colorspire.com/
+** "Colorco":http://colourco.de/ - 一款体验不错的颜色选择器
 ** "Dasplankton":http://www.dasplankton.de/ContrastA/
+** "Hex Color":http://www.2createawebsite.com/build/hex-color-scheme-generator.html
+** "Kuler":http://kuler.adobe.com/#themes/rating?time=30
+** "Pantone":http://www.labelpartners.com/pantone_coated_table.html
+** "Slayer Office":http://slayeroffice.com/tools/color_palette/
 * *Tools*
 ** "TinyPNG":http://tinypng.org/ - 在线压缩PNG，效果很强
 ** "JpegMini":http://www.jpegmini.com - 在线压缩jpg图片，效果不错
@@ -74,6 +75,7 @@ h3. 网络应用
 ** "WebServiceX":http://www.webservicex.net/ - 集合了很多查询的Web服务网站
 * *工具类*
 ** "Online Audio Cutter":http://cut-mp3.com/ - 在线分割mp3
+** "httpbin":http://httpbin.org/ - 提供简单的 API，来根据 URL 返回相关信息
 
 h3. 娱乐
 * *环境音效*
