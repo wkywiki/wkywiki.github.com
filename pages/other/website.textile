@@ -37,6 +37,7 @@ h3. 开发
 
 * *资料相关*
 ** "StackParts":http://stackparts.com/ - web开发技术百科
+** "Sourcegraph":https://sourcegraph.com - 强大的代码搜索网站
 
 h3. 设计
 * *Color Scheme*
