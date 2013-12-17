@@ -92,6 +92,7 @@ h3(#entertainment). 媒体
 ** "iSonics":http://www.osxbytes.com/ - 音乐格式转换工具
 ** "Fission":https://itunes.apple.com/cn/app/fission/id549251391?l=en&mt=12 - 简洁实用的音频剪辑软件
 ** "QLab":http://figure53.com/qlab/ - 一款不错的音频编辑应用
+** "Triumph":http://www.audiofile-engineering.com/triumph/ - 使用一种称之为 Layers 的创新技术来编辑音频
 * *视频相关*
 ** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
 ** "iFFMpeg":http://www.iffmpeg.com/ - 视频转换工具
