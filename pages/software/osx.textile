@@ -92,6 +92,7 @@ h3(#entertainment). 媒体
 ** "iSonics":http://www.osxbytes.com/ - 音乐格式转换工具
 ** "Fission":https://itunes.apple.com/cn/app/fission/id549251391?l=en&mt=12 - 简洁实用的音频剪辑软件
 ** "QLab":http://figure53.com/qlab/ - 一款不错的音频编辑应用
+** "Triumph":http://www.audiofile-engineering.com/triumph/ - 使用一种称之为 Layers 的创新技术来编辑音频
 * *视频相关*
 ** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
 ** "iFFMpeg":http://www.iffmpeg.com/ - 视频转换工具
@@ -195,6 +196,7 @@ h3(#development). 开发
 h3(#design). 设计
 * *(#design-web)网页*
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具
+** "Espresso":http://macrabbit.com/espresso/ - Web编程利器
 * *(#design-img)图形*
 ** "Pixelmator":http://www.pixelmator.com/ - 不想用 Photoshop 的第二选择
 ** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件
@@ -226,8 +228,7 @@ h3(#design). 设计
 ** "AnteType":http://antetype.com/ - UI设计软件
 ** "FontExplorer X Pro":http://www.fontexplorerx.com/pro/ - 字体管理工具
 ** "Extensis Suitcase Fusion":http://www.extensis.com/suitcase-fusion-4/ - 字体管理工具
-** "Glyphs":http://glyphsapp.com/ - 字体修改工具
-
+** "Glyphs":http://glyphsapp.com/ - 目前最好用的字体修改工具
 
 h3(#productivity). 效率
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件

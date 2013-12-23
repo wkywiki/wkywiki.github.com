@@ -23,6 +23,7 @@ h3. Other
 * "Phabricator":http://phabricator.org/ - Facebook 推荐出的基于web的项目管理系统，包含Code Review、工作流管理、漏洞追踪等功能
 * "Gerrit":http://code.google.com/p/gerrit/ - Google的基于Web的项目Code Review系统
 * "codeswarm":https://code.google.com/p/codeswarm/ - 以图形动画形式显示版本管理工具的提交过程
+* "QR Code Generator":http://d-project.googlecode.com/svn/trunk/misc/qrcode/index.html - 二维码生成类库，支持众多语言
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
