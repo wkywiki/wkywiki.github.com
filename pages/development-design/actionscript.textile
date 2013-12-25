@@ -217,6 +217,7 @@ h3(#software). Software
 *** "SWiX Free":http://www.swixkit.com/ - Easy to use XML-based editor for SWF debugging and updating
 *** "CleanSWF":https://github.com/laomoi/cleanSWF - 移除swf中的时间戳小工具，可以避免编译器每次编译往SWF里加入时间戳导致生成的MD5每次都不一样的问题
 *** "SWFScoutEnabler":https://github.com/renaun/ActionScriptExamples/tree/master/SWFScoutEnabler - 开启SWF的Scout调试功能
+*** "GAF":http://gafmedia.com/converter/ - 可以将2D Flash动画转换到目前流行的各个游戏开发平台Cocos2d, Cocos2d-x, Unity3D (including NGUI)等平台
 
 ** *(#encryption)Encryption*
 *** "Tokaos":http://www.tokaos.com/ 一款as混淆软件
