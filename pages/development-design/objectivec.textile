@@ -27,6 +27,7 @@ h3. Library
 * "RegexKit Framework":http://regexkit.sourceforge.net/ - 正则表达式库
 * "NSAttributedStringMarkdownParser":https://github.com/jverkoey/NSAttributedStringMarkdownParser - MarkDown解析库
 * "UIImageView-BetterFace":https://github.com/croath/UIImageView-BetterFace - 智能人物缩略图生成工具，可以让人脸保持在合适的位置
+* "RegEx-Categories":https://github.com/bendytree/Objective-C-RegEx-Categories - Categories on NSRegularExpression that make regular expressions more concise in Objective-C
 * *iOS*
 * "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
 * "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate
@@ -56,6 +57,8 @@ h3. Framewok
 *** "ApporTable SDK":http://www.apportable.com/ - 可以将 Cocos2D-iPhone 移植到 Android 平台的 SDK
 ** "Sparrow":http://gamua.com/sparrow/ - The Open Source Game Engine for iOS
 ** "KoboldKit":http://koboldkit.com/ - 基于 SpriteKit 的开源多平台游戏引擎
+* *Other*
+** "Bee-Framework":http://www.Bee-Framework.com - 使用 html 和 css 来对 iOS 程序进行原生排版辅助的框架
 
 h3. WebSite
 * "Code4App":http://code4app.com/ - 移动平台代码库
