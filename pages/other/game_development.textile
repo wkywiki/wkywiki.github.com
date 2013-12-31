@@ -6,36 +6,36 @@ title: Game Development
 h1. {{ page.title }}
 
 h3. Music & SFX
-* "FreeSound":http://www.freesound.org/
-* "CuePop":http://www.cuepop.com/
-* "Royalty Free Music":http://www.danosongs.com/
-* "Royalty Free Music II":http://incompetech.com/music/royalty-free/
 * "as3sfxr":http://www.superflashbros.net/as3sfxr/
-* "soundsnap":http://www.soundsnap.com
-* "MagnaTune":https://magnatune.com/
-* "SoundRangers":http://www.soundrangers.com/
-* "フリー音楽素材":http://shw.in/sozai/
-* "Soundbible":http://soundbible.com/
-* "NewGrounds Audio":http://www.newgrounds.com/audio/
+* "CuePop":http://www.cuepop.com/
 * "Flash Kit Sounds Loops":http://www.flashkit.com/loops/
+* "FreeSound":http://www.freesound.org/
+* "MagnaTune":https://magnatune.com/
+* "NewGrounds Audio":http://www.newgrounds.com/audio/
+* "Royalty Free Music II":http://incompetech.com/music/royalty-free/
+* "Royalty Free Music":http://www.danosongs.com/
+* "Soundbible":http://soundbible.com/
+* "SoundRangers":http://www.soundrangers.com/
+* "soundsnap":http://www.soundsnap.com
+* "フリー音楽素材":http://shw.in/sozai/
 
 h3. Tools
-* "Spine":http://esotericsoftware.com/ - 强大的跨平台骨骼动画编辑器
-* "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
-* "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
-* "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
 * "Cadet":http://unwrong.com/cadet - 同样是一款物理引擎编辑器，支持2D和3D，2D主要针对Box2D
-* "Particle Designer":http://www.71squared.com/en/particledesigner - 一款粒子编辑器，支持 Cocos2d、Starling等框架
 * "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
+* "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
+* "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
+* "Particle Designer":http://www.71squared.com/en/particledesigner - 一款粒子编辑器，支持 Cocos2d、Starling等框架
+* "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
 * "shoebox":http://renderhjs.net/shoebox/ - 一款游戏开发资源整理工具，支持目前大多数主流游戏框架
+* "Spine":http://esotericsoftware.com/ - 强大的跨平台骨骼动画编辑器
 
 h3. Cross-Platform Game Development
+* "Cocos2d-X":http://www.cocos2d-x.org/ - 移植 Cocos2d 的一款跨平台 2D 游戏引擎
+* "Dreemchest":http://dreemchest.com/
+* "ejoy2d":https://github.com/cloudwu/ejoy2d - 由云风开发的跨平台 2D 游戏渲染引擎
+* "Flambe":https://github.com/aduros/flambe - Flambe is an engine and asset pipeline for cross-platform multiplayer games.
 * "Gideros Mobile":http://www.giderosmobile.com/ - 小巧，小手快速，使用lua编写代码的手机游戏开发平台
 * "Moai":http://getmoai.com/ - 面向专业游戏开发者的开源手机游戏开发平台
-* "Flambe":https://github.com/aduros/flambe 
-  Flambe is an engine and asset pipeline for cross-platform multiplayer games.
-  Written in Haxe, games are compiled to Flash and HTML5, with support for mobile devices. Server-side logic compiles to JS and runs on Node.js, for games that require multiplayer.
-* "Dreemchest":http://dreemchest.com/
 * "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 
 h3. Server
@@ -50,10 +50,10 @@ h3. Services
 * "flox":https://www.flox.cc - 游戏数据统计服务
 
 h3. Game Websites
+* "9Leap":http://9leap.net/
 * "Armorgames":http://armorgames.com/
 * "Kongregate":http://www.kongregate.com/
 * "Miniclip":http://www.miniclip.com/
-* "9Leap":http://9leap.net/
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
