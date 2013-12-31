@@ -54,6 +54,7 @@ h3. Tools
 * *Redis*
 ** "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin - php实现的redis管理工具
 * *MongoDB*
+** "Robomango":http://robomongo.org/ - 跨平台的 MongoDB 管理工具
 ** "RockMongo":http://code.google.com/p/rock-php/ - 基于PHP的MongoDB Web管理工具
 ** "MongoVUE":http://www.mongovue.com/ - 基于.Net的MongoDB windows管理工具
 ** "Genghis":http://genghisapp.com/ - 基于Ruby的Web管理工具
