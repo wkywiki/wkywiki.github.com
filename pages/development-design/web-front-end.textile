@@ -147,6 +147,9 @@ h3. Javascript
 *** "js2coffee":https://github.com/rstacruz/js2coffee
 *** "hoodie":http://hood.ie/ - 基于node.js和couchdb的web app开发框架
 
+** *Framework*
+*** "koa":http://koajs.com/ - next generation web framework for node.js
+
 ** *Web Apps*
 *** "Noderce":https://github.com/willerce/noderce - 开源Blog程序
 *** "hexo":https://github.com/tommy351/hexo - 不错的Octopress替换博客程序，生成速度很快，也引入了很多Octopress的插件
