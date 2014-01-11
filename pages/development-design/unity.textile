@@ -16,3 +16,6 @@ h3. Website
 
 h3. References
 * "Unity官方手册翻译":http://game.ceeger.com/Manual/
+
+h3. Games
+* "Max & the Magic Marker":http://maxandthemagicmarker.com/
