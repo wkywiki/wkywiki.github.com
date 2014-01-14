@@ -18,6 +18,9 @@ h3. Framework
 * "Gorilla":http://www.gorillatoolkit.org/ - a web toolkit
 * "Web.go":http://webgo.io/ - The easiest way to create web applications with Go
 
+h3. Tools
+* "goimports":https://github.com/bradfitz/goimports - Tool to fix (add, remove) your Go imports automatically.
+
 h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
 * "gor":https://github.com/wendal/gor - Golang编写的静态博客引擎

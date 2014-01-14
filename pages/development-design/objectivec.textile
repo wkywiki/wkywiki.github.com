@@ -64,6 +64,7 @@ h3. Framewok
 
 h3. WebSite
 * "Code4App":http://code4app.com/ - 移动平台代码库
+* "iOS-WIKI":http://www.ios-wiki.com/
 * "Cocoa Controls":http://www.cocoacontrols.com/ - 针对Cocoa的代码库
 * "Apple Sample Code":http://developer.apple.com/iphone/library/navigation/SampleCode.html - 官方示例代码库
 * "Cocoa-China代码例子区":http://www.cocoachina.com/bbs/thread.php?fid=19
@@ -132,6 +133,7 @@ h3. References
 
 * "苹果官方Objective-C编码规范":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
 * "objc.io":http://www.objc.io/ - 一个精品Objective-C教程站
+* "iOS7 Design Cheat Sheet":http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/
 
 * *iOS*
 ** "iOS 入门开发指南（官方中文版）":http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html
