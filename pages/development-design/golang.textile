@@ -24,6 +24,7 @@ h3. Web Apps
 
 h3. WebSite
 * "Golang-China":http://golang-china.org
+* "gocasts":https://gocasts.io/ - Go 视频教程
 
 h3. References
 * "Go语言程序设计":http://www.amazon.cn/dp/B00DWCL8MM / "源码":http://www.qtrac.eu/gobook.html

@@ -122,6 +122,7 @@ h3. Plugins
 * "XMate":https://github.com/PrideChung/XMate - TextMate and Emacs goodies for Xcode.
 * "Alcatraz":http://mneorr.github.io/Alcatraz/ - Xcode 包管理器
 * "FuzzyAutocompletePlugin":https://github.com/chendo/FuzzyAutocompletePlugin - 增强的自动完成插件
+* "KFCocoaPodsPlugin":https://github.com/ricobeck/KFCocoaPodsPlugin - XcodePlugin for CocoaPods with pod commands/console output, user notifications & code completion.
 
 h3. 常用快捷键
 * *Control + I* : 对选中文字重新格式化

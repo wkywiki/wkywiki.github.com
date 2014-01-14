@@ -21,6 +21,7 @@ h3. Contents
 h3(#misc). 实用工具
 * "QQ五笔":http://wubi.qq.com/ - 从极点中文转过来后一直使用到现在
 * "7zip":http://www.7-zip.org/ - 开源免费的压缩软件
+* "Bandzip":http://www.bandisoft.com/bandizip/ - 基于7zip的压缩软件，加入了实用功能
 * "有道词典":http://cidian.youdao.com/ - 支持全文翻译
 * "Foxit Reader":http://www.foxitsoftware.com/Secure_PDF_Reader/ - 小巧的PDF阅读器
 * "SumatraPDF":http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html - 免费开源的PDF阅读器
