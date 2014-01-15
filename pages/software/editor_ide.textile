@@ -123,6 +123,7 @@ h3. Plugins
 * "Alcatraz":http://mneorr.github.io/Alcatraz/ - Xcode 包管理器
 * "FuzzyAutocompletePlugin":https://github.com/chendo/FuzzyAutocompletePlugin - 增强的自动完成插件
 * "KFCocoaPodsPlugin":https://github.com/ricobeck/KFCocoaPodsPlugin - XcodePlugin for CocoaPods with pod commands/console output, user notifications & code completion.
+* "CodePilot":https://github.com/macoscope/CodePilot - Quick Open 的增强插件
 
 h3. 常用快捷键
 * *Control + I* : 对选中文字重新格式化

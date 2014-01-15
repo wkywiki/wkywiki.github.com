@@ -13,6 +13,7 @@ h3. CSS
 ** "BootStrap":http://twitter.github.com/bootstrap/ - Twitter推出的前端开发工具包
 ** "semantic-ui":http://semantic-ui.com/ - 语法比 BootStrap 更简洁的扁平风格工具包
 ** "Fight":http://twitter.github.com/flight/ - Twitter推出的新web开发框架
+** "F.I.S":http://fis.baidu.com/ - 百度前端团队出品的前端集成解决方案
 ** "FlatUI":http://designmodo.github.com/Flat-UI/ - 基于BootStrap的UI工具包
 ** "Foundation":http://foundation.zurb.com/ - 前端框架新秀
 ** "Ink":https://github.com/sapo/Ink - 一套和BattStrap一样好用的UI工具包
