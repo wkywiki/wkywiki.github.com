@@ -75,9 +75,11 @@ h3. 网络应用
 ** "Mandrill":http://www.mandrill.com/ - 提供邮件的发送接收和追踪服务
 ** "Sendcloud":http://sendcloud.sohu.com/ - sohu推出的邮件发送服务
 ** "WebServiceX":http://www.webservicex.net/ - 集合了很多查询的Web服务网站
+** "腾讯服务器时间查询":http://cgi.im.qq.com/cgi-bin/cgi_svrtime
 * *工具类*
 ** "Online Audio Cutter":http://cut-mp3.com/ - 在线分割mp3
 ** "httpbin":http://httpbin.org/ - 提供简单的 API，来根据 URL 返回相关信息
+** "RunScope":https://www.runscope.com/ - 调试和测试API
 
 h3. 娱乐
 * *环境音效*

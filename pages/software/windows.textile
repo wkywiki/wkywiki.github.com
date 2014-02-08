@@ -34,7 +34,6 @@ h3(#misc). 实用工具
 h3(#network). 网络
 * "Google Chrome":https://www.google.com/chrome/eula.html?system=true&standalone=1
 * "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
-* "QQ旋风":http://xf.qq.com/ - 免费简洁的下载工具
 * "Privoxy":http://www.privoxy.org/ - 带过滤功能的代理服务器软件
 * "Tunnelier":http://www.bitvise.com/tunnelier - 实用的SSH客户端软件，支持端口转发
 * "Putty":http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html - 小巧绿色实用的ssh客户端工具
@@ -49,9 +48,11 @@ h3(#network). 网络
 * "wireshark":http://www.wireshark.org/ - 强大的抓包软件
 * "sokit":https://code.google.com/p/sokit/ - 一个TCP、UDP socket调试辅助工具，基于QT框架
 * "TCPView":http://technet.microsoft.com/en-us/sysinternals/bb897437.aspx - 查看TCP、UDP连接状态，来自于微软的 "Sysinternals":http://technet.microsoft.com/en-us/sysinternals/bb545027 工具套装
+* "PortTunnel":http://www.steelbytes.com/?mid=18 - 端口转发工具
 
 h3(#develop). 开发
 * "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#windows
+* "exe32pack":http://www.steelbytes.com/?mid=26
 
 * *(#version)版本控制*
 ** "TortoiseGit":http://code.google.com/p/tortoisegit/ - 实用的Git客户端
