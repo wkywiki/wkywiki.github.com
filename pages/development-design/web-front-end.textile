@@ -226,8 +226,9 @@ h3. Design Material
 * "2500 Flag Icon":https://www.gosquared.com/resources/flag-icons - 2000多个国家旗帜图标
 * "simpleicons":http://simpleicons.org/
 * "TheyMakeIcons":http://theymakeicons.com/
-* "GLYPHOSH":http://www.glyphish.com/ - Great icons for beautiful apps.
+* "GLYPHOSH":http://www.glyphish.com/ - Great icons for beautiful apps
 * "ICONFONT":http://www.iconfont.cn/ - 阿里巴巴出品的矢量图库
+* "flaticon":http://www.flaticon.com/ - 免费的响应式扁平化图标库，带 Photoshop 插件
 
 h3. Image Placeholders
 * "Holder.js":http://imsky.github.com/holder/
