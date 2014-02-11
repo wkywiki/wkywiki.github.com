@@ -52,6 +52,17 @@ h3. 设计
 ** "Kuler":http://kuler.adobe.com/#themes/rating?time=30
 ** "Pantone":http://www.labelpartners.com/pantone_coated_table.html
 ** "Slayer Office":http://slayeroffice.com/tools/color_palette/
+* *免费照片库*
+** "Little Visuals":http://littlevisuals.co/
+** "Unsplash":http://unsplash.com/
+** "Death to the Stock Photo":http://join.deathtothestockphoto.com/
+** "New Old Stock":http://nos.twnsnd.co/
+** "Superfamous (requires attribution)":http://superfamous.com/
+** "Picjumbo":http://picjumbo.com/
+** "The Pattern Library":http://thepatternlibrary.com/
+** "Gratisography":http://www.gratisography.com/
+** "Getrefe":http://getrefe.tumblr.com/
+** "IM Free (requires attribution)":http://imcreator.com/free
 * *Tools*
 ** "TinyPNG":http://tinypng.org/ - 在线压缩PNG，效果很强
 ** "JpegMini":http://www.jpegmini.com - 在线压缩jpg图片，效果不错

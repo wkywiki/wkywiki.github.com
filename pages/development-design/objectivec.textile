@@ -51,6 +51,7 @@ h3. Library
 * "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 
 h3. Framewok
+* "ReactiveCocoa":https://github.com/ReactiveCocoa/ReactiveCocoa - 由 Github 开源的应用于 iOS 和 OS X 开发的框架具有函数式和响应式编程的特性
 * *Network*
 ** "RestKit":http://restkit.org/ ("Github":https://github.com/RestKit/RestKit) - RESTful 工具包 RestKit for iOS and OS X
 * *Game*
