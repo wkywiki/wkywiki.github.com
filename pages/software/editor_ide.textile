@@ -51,6 +51,7 @@ h3. Packages
 * "ST2Nginx":https://github.com/kvs/ST2Nginx - Nginx高亮包
 * "autoprefixer":https://github.com/sindresorhus/sublime-autoprefixer - 给CSS自动添加兼容前缀
 * "livestyle":http://www.dbpoo.com/sublime-emmet-livestyle/ - 实时刷新插件
+* "FTPSync":https://github.com/NoxArt/SublimeText2-FTPSync - FTP同步工具
 
 h3. References
 * "Sublime Text 手册（繁体版）":http://docs.sublimetext.tw/

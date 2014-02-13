@@ -52,6 +52,12 @@ h3. 设计
 ** "Kuler":http://kuler.adobe.com/#themes/rating?time=30
 ** "Pantone":http://www.labelpartners.com/pantone_coated_table.html
 ** "Slayer Office":http://slayeroffice.com/tools/color_palette/
+* *Tools*
+** "TinyPNG":http://tinypng.org/ - 在线压缩PNG，效果很强
+** "JpegMini":http://www.jpegmini.com - 在线压缩jpg图片，效果不错
+** "Text to ASCII Art Generator (TAAG)":http://patorjk.com/software/taag/
+* *WebSite*
+** "resolution":http://resolution.im - 提供手机的各种信息和设计源文件下载
 * *免费照片库*
 ** "Little Visuals":http://littlevisuals.co/
 ** "Unsplash":http://unsplash.com/
@@ -63,12 +69,6 @@ h3. 设计
 ** "Gratisography":http://www.gratisography.com/
 ** "Getrefe":http://getrefe.tumblr.com/
 ** "IM Free (requires attribution)":http://imcreator.com/free
-* *Tools*
-** "TinyPNG":http://tinypng.org/ - 在线压缩PNG，效果很强
-** "JpegMini":http://www.jpegmini.com - 在线压缩jpg图片，效果不错
-** "Text to ASCII Art Generator (TAAG)":http://patorjk.com/software/taag/
-* *WebSite*
-** "resolution":http://resolution.im - 提供手机的各种信息和设计源文件下载
 
 h3. 网络应用
 * *服务类*

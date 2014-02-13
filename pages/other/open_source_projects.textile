@@ -12,6 +12,7 @@ h3. Network
 ** "Shadowsocks-libev":https://github.com/madeye/shadowsocks-libev - shadowsocks 协议的轻量级实现
 ** "shadowsocks-go":https://github.com/shadowsocks/shadowsocks-go - 用 Go 实现的 Shadowsocks 客户端，支持多平台
 ** "shadowsocks-go-local":https://code.google.com/p/shadowsocks-go/downloads/list - 编译好的 shadowsocks-go 客户端
+* "cow":https://github.com/cyfdecyf/cow - 一款 http 代理工具，支持 socks5 和 shadowsocks 做为二级代理
 * "CFW":https://github.com/BB9z/CFW - 一份基于IP地址的白名单列表
 * "GFW_Whitelist":https://github.com/n0wa11/gfw_whitelist
 * "Flora_Pac":https://github.com/Leask/Flora_Pac - 一个以国内IP为白名单的PAC列表，"介绍文章":http://www.leaskh.com/blog/2013/10/30/%E6%B5%8B%E8%AF%95%E4%B8%BA-flora_pac-%E6%8F%90%E4%BE%9B-http-host/
