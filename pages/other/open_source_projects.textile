@@ -7,6 +7,12 @@ h1. {{ page.title }}
 
 * "开源协议图示":/assets/2013/10/license.jpg
 
+h3. RPC
+* "hprose":https://github.com/andot/hprose
+* "Apache Thrift":http://thrift.apache.org/
+* "ZeroRPC":http://zerorpc.dotcloud.com/
+* "MessagePack":http://msgpack.org/
+
 h3. Network
 * "shadowsocks":http://shadowsocks.org/
 ** "Shadowsocks-libev":https://github.com/madeye/shadowsocks-libev - shadowsocks 协议的轻量级实现
