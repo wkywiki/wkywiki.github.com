@@ -29,6 +29,7 @@ h3. Library
 * "UIImageView-BetterFace":https://github.com/croath/UIImageView-BetterFace - 智能人物缩略图生成工具，可以让人脸保持在合适的位置
 * "RegEx-Categories":https://github.com/bendytree/Objective-C-RegEx-Categories - Categories on NSRegularExpression that make regular expressions more concise in Objective-C
 * "EZAudio":http://syedharisali.com/projects/EZAudio/getting-started - 一个 iOS 和 OSX 上简单易用的音频框架
+* "MASShortcut":https://github.com/shpakovski/MASShortcut - 快捷方式控件
 * *iOS*
 * "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
 * "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate

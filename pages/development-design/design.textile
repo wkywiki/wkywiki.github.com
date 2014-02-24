@@ -1,0 +1,12 @@
+---
+layout: default
+title: Design
+---
+
+h1. Design
+
+h3. Photoshop
+* *Plguins*
+* "Cut&Slice me":http://www.cutandslice.me/ - 批量裁切插件
+* "PNGExpress":http://www.pngexpress.com/ - 同上
+* "Enigma64":http://getenigma64.com/ - 同上
