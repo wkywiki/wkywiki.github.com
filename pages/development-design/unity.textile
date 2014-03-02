@@ -15,6 +15,7 @@ h3. Website
 * "Unity圣典":http://game.ceeger.com/
 
 h3. References
+* "官方中文手册":http://edu.china.unity3d.com/learning_document
 * "Unity官方手册翻译":http://game.ceeger.com/Manual/
 
 h3. Games

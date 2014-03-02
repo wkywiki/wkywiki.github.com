@@ -12,6 +12,7 @@ h3. RPC
 * "Apache Thrift":http://thrift.apache.org/
 * "ZeroRPC":http://zerorpc.dotcloud.com/
 * "MessagePack":http://msgpack.org/
+* "json5":http://json5.org/
 
 h3. Network
 * "shadowsocks":http://shadowsocks.org/
