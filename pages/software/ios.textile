@@ -101,7 +101,7 @@ h3. 摄影摄像
 * ProCollage - 一款拼图应用
 
 h3. 视频电影
-* QQ影音
+* Vidon Player
 * Air Video
 * 优酷
 * 豆瓣电影
