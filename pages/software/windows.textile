@@ -30,6 +30,7 @@ h3(#misc). 实用工具
 * "FolderMenu":http://foldermenu.sourceforge.net/ - 在我的电脑、打开/保存对话框命令提示符中实现文件夹的快速切换
 * "Toucan":http://portableapps.com/apps/utilities/toucan - 一款同步工具
 * "executor":http://www.executor.dk/ - 一款实用的启动工具，类似Mac下的Alfred
+* "Universal Extractor":http://legroom.net/software/uniextract - 比较实用的解包工具，能解大部分的安装包或压缩包
 
 h3(#network). 网络
 * "Google Chrome":https://www.google.com/chrome/eula.html?system=true&standalone=1

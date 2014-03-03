@@ -18,6 +18,7 @@ h3. Utility Class
 
 h3. Libraries
 * "FluorineFx":http://www.fluorinefx.com/ - 一款针对AMF0/AMF3的支持库，用于和AS3进行数据通讯
+* "EntityFramework.Extended":https://github.com/loresoft/EntityFramework.Extended - 扩展了Entiry Framework 的功能
 
 h3. CMS
 * "Orchard":http://www.orchardproject.net/
