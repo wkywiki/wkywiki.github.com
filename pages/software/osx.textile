@@ -161,7 +161,8 @@ h3(#development). 开发
 ** *(#git)Git*
 *** "Github":http://mac.github.com - 免费的github官方客户端
 *** "Gitifier":http://psionides.github.com/gitifier/Github - 代码库监控器
-*** "Gitbox":http://www.gitboxapp.com/
+*** "Gitbox":http://www.gitboxapp.com/ - 代码片段收集工具
+*** "CodeRunner":http://krillapps.com/coderunner/ - 代码片段测试工具
 *** "Tower":http://www.git-tower.com/
 *** "GitX==(L)==":http://gitx.laullon.com/
 *** "Gity":http://gityapp.com/

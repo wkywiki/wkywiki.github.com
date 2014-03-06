@@ -20,6 +20,8 @@ h3. Utility Tools
 * "The Missing UI Debugger":http://hierarchydetective.com/ - 同上，开源实现
 * "json_to_model":https://github.com/clowwindy/json_to_model - 将 JSON 转化为 Model 类
 * "NSLogger":https://github.com/fpillet/NSLogger - 一款强大、免费、必备的Log输出工具
+* "CoreDataPro":https://github.com/yepher/CoreDataUtility
+* "AGi18n":https://github.com/angelolloqui/AGi18n - 自动生成多语言翻译内容
 
 h3. Library
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X（请求接口，加载图片，上传文件等）
@@ -50,6 +52,7 @@ h3. Library
 * "QuickDialog":https://github.com/escoz/QuickDialog - 简单易用的TableViews类
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
 * "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
+* "Shimmer":https://github.com/facebook/Shimmer - 实现 shimmering 效果
 
 h3. Framewok
 * "ReactiveCocoa":https://github.com/ReactiveCocoa/ReactiveCocoa - 由 Github 开源的应用于 iOS 和 OS X 开发的框架具有函数式和响应式编程的特性
