@@ -100,7 +100,7 @@ h3(#engine). Engine
 ** "Gear":https://github.com/brightli/gear - 国人开发的一款游戏引擎
 ** "Genome2D":https://github.com/pshtif/Genome2D - 一款效果不错的支持stage3D的游戏引擎
 ** "ND2D":http://www.nulldesign.de/category/experiments/nd2d/
-** "OpenSpace":http://www.openspace-engine.com
+** "OpenSpace":http://www.openspace-engine.com - 多人在线游戏引擎
 ** "Pixelblitz":http://code.google.com/p/pixelblitz/
 ** "PushButton":http://pushbuttonengine.com
 *** "Platform Starter Kit":http://hanclinto.com/site/
