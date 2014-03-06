@@ -122,7 +122,7 @@ h3. Plugins
 * "KSImageNamed":https://github.com/ksuther/KSImageNamed-Xcode - 图片名自动提醒和预览
 * "WDocumenter":https://github.com/onevcat/VVDocumenter-Xcode - Javadoc Style 注释生成
 * "XMate":https://github.com/PrideChung/XMate - TextMate and Emacs goodies for Xcode.
-* "Alcatraz":http://mneorr.github.io/Alcatraz/ ("使用教程":http://blog.devtang.com/blog/2014/03/05/use-alcatraz-to-manage-xcode-plugins/) - Xcode 包管理器 
+* "Alcatraz":http://mneorr.github.io/Alcatraz/ ("使用教程":http://blog.devtang.com/blog/2014/03/05/use-alcatraz-to-manage-xcode-plugins/) - Xcode 插件管理器 
 * "FuzzyAutocompletePlugin":https://github.com/chendo/FuzzyAutocompletePlugin - 增强的自动完成插件
 * "KFCocoaPodsPlugin":https://github.com/ricobeck/KFCocoaPodsPlugin - XcodePlugin for CocoaPods with pod commands/console output, user notifications & code completion.
 * "CodePilot":https://github.com/macoscope/CodePilot - Quick Open 的增强插件
