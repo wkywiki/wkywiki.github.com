@@ -39,3 +39,12 @@ h3. References
 * "Go指南":http://tour.golanger.com/
 * "qyuhen的学习笔记":https://github.com/qyuhen/book
 * "A golang ebook intro how to build a web with golang":https://github.com/astaxie/build-web-application-with-golang/blob/master/preface.md
+
+h3. GoSublime 常用快捷键
+* Ctrl + 9 / Ctrl + b : 打开命令行
+* Ctrl + dot, Ctrl + t : 打开测试面板
+* Ctrl + dot, Ctrl + dot : 调出 GoSublime的所有功能
+* Ctrl + dot, Ctrl + p : 调出所有已导入或未导入的 package，并可以删除已导入的 package
+* Ctrl + dot, Ctrl + h : 查看当前内容定义和说明
+* Ctrl + dot, Ctrl + d : 查看当前代码大纲
+* Ctrl + dot, Ctrl + e : 语法检查

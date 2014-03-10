@@ -19,15 +19,15 @@ h3. Contents
 h1. {{ page.title }}
 
 h3(#engine). Engine
-* "Unity3D":http://unity3d.com/ - 跨平台综合型游戏开发引擎
-* "godot":https://github.com/okamstudio/godot/ - 开源的跨平台游戏引擎
 * "Cocos2d-X":http://www.cocos2d-x.org/ - 移植 Cocos2d 的一款跨平台 2D 游戏引擎
 * "Dreemchest":http://dreemchest.com/
 * "ejoy2d":https://github.com/cloudwu/ejoy2d - 由云风开发的跨平台 2D 游戏渲染引擎
 * "Flambe":https://github.com/aduros/flambe - Flambe is an engine and asset pipeline for cross-platform multiplayer games.
 * "Gideros Mobile":http://www.giderosmobile.com/ - 小巧，小手快速，使用lua编写代码的手机游戏开发平台
+* "godot":https://github.com/okamstudio/godot/ - 开源的跨平台游戏引擎
 * "Moai":http://getmoai.com/ - 面向专业游戏开发者的开源手机游戏开发平台
 * "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
+* "Unity3D":http://unity3d.com/ - 跨平台综合型游戏开发引擎
 
 h3(#stuff). Stuff
 
@@ -61,7 +61,7 @@ h3(#tools). Tools
 h3(#server). Server
 * "Chilly":http://chillyframework.com/ - 开源，同样基于 node.js 的游戏服务端框架
 * "ElectroTank(ElectroServer)":http://www.electrotank.com/ - 跨平台的手机社交游戏服务端框架
-* "Firefly":http://firefly.9miao.com/ - 免费、开源、稳定、快速扩展、能 “热更新”的分布式游戏服务器端框架，采用Python编写，基于Twisted框架开发
+* "Firefly":http://firefly.9miao.com/ - 免费、开源、稳定、快速扩展、能“热更新”的分布式游戏服务器端框架，采用Python编写，基于Twisted框架开发
 * "Photon":http://www.exitgames.com/ - 跨平台的多人在线游戏服务端框架
 * "Pomelo":http://pomelo.netease.com/ - 开源、快速、扩展性好、分布式游戏后端开发框架，网易出品
 * "SmartFox":http://www.smartfoxserver.com/ - 比较有名的获平台多人在线游戏服务端框架

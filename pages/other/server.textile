@@ -6,17 +6,17 @@ title: Server
 h1. {{ page.title }}
 
 h3. VPS
-* "Linode":http://www.linode.com/
+* "budgetvm":http://www.budgetvm.com/
+* "buyvm":http://buyvm.net/
 * "Chicago VPS":https://www.chicagovps.net/
+* "DigitalOcean":https://www.digitalocean.com/ - SSD硬盘云主机
 * "Homezz":http://homezz.com
 * "Hostigation":https://hostigation.com/
+* "Linode":http://www.linode.com/
 * "prgmr":http://prgmr.com
 * "Ramhost":http://www.ramhost.us/?page=vps/linux-openvz-atlanta-east
 * "ServInt":http://www.servint.net/
-* "budgetvm":http://www.budgetvm.com/
-* "buyvm":http://buyvm.net/
 * "后路哥的VPS":http://houluge.com/taiwan-vps
-* "DigitalOcean":https://www.digitalocean.com/ - SSD硬盘云主机
 * 无限流量
 ** "Lowendbox":http://www.lowendbox.com/
 ** "OVH":http://www.ovh.com/
