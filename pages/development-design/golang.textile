@@ -17,6 +17,7 @@ h3. Framework
 * "revel":http://robfig.github.com/revel/ - A high-productivity web framework for the Go language, modeled on Play! Framework.
 * "Gorilla":http://www.gorillatoolkit.org/ - a web toolkit
 * "Web.go":http://webgo.io/ - The easiest way to create web applications with Go
+* "gonet":https://github.com/xtaci/gonet - 一款游戏服务器端框架
 
 h3. Tools
 * "goimports":https://github.com/bradfitz/goimports - Tool to fix (add, remove) your Go imports automatically.
@@ -28,6 +29,7 @@ h3. Web Apps
 h3. WebSite
 * "Golang-China":http://golang-china.org
 * "gocasts":https://gocasts.io/ - Go 视频教程
+* "Study Golang 中文社区":http://studygolang.com/
 
 h3. References
 * "Go语言程序设计":http://www.amazon.cn/dp/B00DWCL8MM / "源码":http://www.qtrac.eu/gobook.html
@@ -39,6 +41,7 @@ h3. References
 * "Go指南":http://tour.golanger.com/
 * "qyuhen的学习笔记":https://github.com/qyuhen/book
 * "A golang ebook intro how to build a web with golang":https://github.com/astaxie/build-web-application-with-golang/blob/master/preface.md
+* "《Go语言标准库》The Golang Standard Library by Example":https://github.com/polaris1119/The-Golang-Standard-Library-by-Example
 
 h3. GoSublime 常用快捷键
 * Ctrl + 9 / Ctrl + b : 打开命令行

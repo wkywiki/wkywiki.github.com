@@ -58,6 +58,10 @@ h3. Forum System
 * "esoTalk":http://esotalk.org/ / "中文版":http://esotalk.net/ - perfect balance between simplicity, power, speed, and scalability.
 * "Roar":http://roar.im/ - 一款极简的论坛系统 "github":https://github.com/codin/roar
 
+h3. Shopping Cart System
+* "OpenCart":http://www.opencart.com/
+* "Magento":http://magento.com/
+
 h3. Other
 * "Phalanger":http://www.php-compiler.net - 用PHP语言写.net web程序
 * "PHP-Parser":https://github.com/nikic/PHP-Parser - PHP解析器，可以将 PHP 源代码转换为用 PHP 数据结构描述的语法树。
