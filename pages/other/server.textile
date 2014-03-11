@@ -26,7 +26,7 @@ h3. 虚拟主机
 * "HostMonster":http://www.hostmaster.com - 不限流量和空间的虚拟主机
 
 h3. CDN
-* "CloudFlare":https://www.cloudflare.com/ - 流量免费的CDN
+* "CloudFlare":https://www.cloudflare.com/ - 流量免费的CDN，还有防火墙、统计等功能
 
 h3. Hosting Control System
 * "vpsmate":http://www.vpsmate.org/ - 一款国人开发的高质量vps在线管理系统
@@ -35,6 +35,9 @@ h3. Hosting Control System
 * "WHMCS":http://www.whmcs.com/
 * "commando.io":https://commando.io/ - Manage servers easily online.
 * "Sealion":https://sealion.com/ - 免费的服务器监控工具
+
+h3. 网络代理类
+* "云梯":https://www.yunti.me
 
 h3. Data Traffic
 * "deployd":http://deployd.com - a toolkit for building realtime APIs

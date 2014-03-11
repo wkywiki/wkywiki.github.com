@@ -28,11 +28,6 @@ h3. 开发
 ** "Google App Engine":https://appengine.google.com/
 ** "Heroku":http://www.heroku.com/ - 类似Google App Engine的网络应用托管平台，支持Ruby和Python
 
-* *网站服务相关*
-** "加速乐":http://jiasule.baidu.com/
-** "安全宝":http://www.anquanbao.com/
-** "cloudflare":http://www.cloudflare.com/
-
 * *在线IDE*
 ** "compilr":http://compilr.com - 支持语言众多
 ** "CoderBuddy":http://coderbuddy1.appspot.com - 可以在线创建、编辑、发布google app engine应用的网站
@@ -97,6 +92,10 @@ h3. 网络应用
 ** "Online Audio Cutter":http://cut-mp3.com/ - 在线分割mp3
 ** "httpbin":http://httpbin.org/ - 提供简单的 API，来根据 URL 返回相关信息
 ** "RunScope":https://www.runscope.com/ - 调试和测试API
+* *网站服务相关*
+** "加速乐":http://jiasule.baidu.com/
+** "安全宝":http://www.anquanbao.com/
+** "cloudflare":http://www.cloudflare.com/
 
 h3. 娱乐
 * *环境音效*
