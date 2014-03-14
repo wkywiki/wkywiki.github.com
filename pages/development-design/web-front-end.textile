@@ -165,6 +165,7 @@ h3. Javascript
 *** "jQuery版本支持列表":http://lib.sinaapp.com/?path=jquery/
 ** "CDNJS":http://www.cdnjs.com/ - 同样采用CDN技术，提供几乎全部JS库的引用支持
 ** "百度CDN公用库":http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs
+** "开放静态文件CDN":http://www.staticfile.org/ - 七牛提供的服务
 
 * *WebSite*
 ** "JSter":http://jster.net/ - 各种框架和库的收集站
