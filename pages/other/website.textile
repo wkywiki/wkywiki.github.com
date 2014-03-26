@@ -99,6 +99,9 @@ h3. 网络应用
 ** "加速乐":http://jiasule.baidu.com/
 ** "安全宝":http://www.anquanbao.com/
 ** "cloudflare":http://www.cloudflare.com/
+* *移动服务*
+** "信鸽":http://xg.qq.com/ - 腾讯推出的推送服务
+** "百度云推送":http://developer.baidu.com/push
 
 h3. 娱乐
 * *环境音效*
