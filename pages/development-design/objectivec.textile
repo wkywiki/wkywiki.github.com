@@ -173,15 +173,52 @@ h4. Github
 
 h4. Blog
 
-| "唐巧":http://blog.devtang.com/ | "破船之家":http://beyondvincent.com/ | "Dingtianran":http://dingtianran.com/ |
-| "Xcode Dev":http://xcodev.com/ | "王巍onevcat":http://onevcat.com/ | "许小帅":http://www.imallen.com/ |
-| "Ted":http://wufawei.com/ | "Esoft":http://esoftmobile.com/ | "耿健桓":http://dlog.dismory.com/ |
-| "蓝晨钰":http://gracelancy.com/ | "连栩":http://lianxu.me/ | "许小帅":http://imallen.com/ |
-| "萧宸宇":http://iiiyu.com/ | "陶丰平":http://www.taofengping.com/ | "乔学士":http://joeyio.com/ |
-| "陈咏聪":http://vinqon.com/ | "骆仕恺":http://luosky.com/ | "王轲":http://www.iwangke.me/ |
-| "高嘉峻":http://jiajun.org/ | "webfrogs":http://webfrogs.me/ | "余书懿":http://blog.csdn.net/ysy441088327/ |
-| "卢克":http://geeklu.com/ | "无网不剩":http://blog.leezhong.com/ | "i沙漏":http://ishalou.com/ |
-| "RayWenderlich":http://www.raywenderlich.com/ | "Matt Galloway":http://www.galloway.me.uk/ | "Cocoanetics":http://www.cocoanetics.com/blog/ |
+"Allen":http://www.imallen.com
+"Cocoabit":http://blog.cocoabit.com
+"Cocoanetics":http://www.cocoanetics.com/blog/
+"Dingtianran":http://dingtianran.com/
+"Esoft":http://esoftmobile.com/
+"i沙漏":http://ishalou.com/
+"KEVIN BLOG":http://imkevin.me
+"Lancy":http://gracelancy.com
+"Lex":http://ios.lextang.com
+"Matt Galloway":http://www.galloway.me.uk/
+"Nico":http://www.taofengping.com
+"nixzhu on scriptogr.am":http://nixzhu.me
+"NSHipster":http://nshipster.cn
+"RayWenderlich":http://www.raywenderlich.com/
+"Ted":http://wufawei.com/
+"Travis":http://imi.im/
+"TualatriX":http://imtx.me
+"txx":http://blog.t-xx.me
+"vclwei":http://vclwei.com
+"webfrogs":http://webfrogs.me
+"Wonderffee":http://wonderffee.github.io
+"Xcode Dev":http://xcodev.com/
+"乔学士":http://joeyio.com/
+"代码手工艺人":http://joeyio.com
+"余书懿":http://blog.csdn.net/ysy441088327/
+"卢克":http://geeklu.com/
+"唐巧":http://blog.devtang.com/
+"念茜":http://blog.csdn.net/yiyaaixuexi/rss/list
+"摇滚诗人":http://cnblogs.com/biosli|
+"无网不剩":http://blog.leezhong.com/
+"无网不剩Limboy":http://blog.leezhong.com/
+"王巍onevcat":http://onevcat.com/
+"王轲":http://www.iwangke.me/
+"破船之家":http://beyondvincent.com/
+"耿健桓":http://dlog.dismory.com/
+"萧宸宇":http://iiiyu.com/
+"蓝晨钰":http://gracelancy.com/
+"言无不尽":http://tang3w.com
+"许小帅":http://imallen.com/
+"连栩":http://lianxu.me/
+"阿峰":http://hufeng825.github.io
+"阿毛":http://xiangwangfeng.com
+"陈咏聪":http://vinqon.com/
+"陶丰平":http://www.taofengping.com/
+"骆仕恺":http://luosky.com/
+"高嘉峻":http://jiajun.org/
 
 h4. Mac App 开发者网站
 
