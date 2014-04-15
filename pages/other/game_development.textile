@@ -49,14 +49,47 @@ h4(#website). Website
 * "爱给网游戏素材":http://www.2gei.com/
 
 h3(#tools). Tools
-* "Cadet":http://unwrong.com/cadet - 同样是一款物理引擎编辑器，支持2D和3D，2D主要针对Box2D
-* "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
-* "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
-* "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
-* "Particle Designer":http://www.71squared.com/en/particledesigner - 一款粒子编辑器，支持 Cocos2d、Starling等框架
-* "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
-* "shoebox":http://renderhjs.net/shoebox/ - 一款游戏开发资源整理工具，支持目前大多数主流游戏框架
-* "Spine":http://esotericsoftware.com/ - 强大的跨平台骨骼动画编辑器
+* **字体**
+** "BMFont":http://www.angelcode.com/products/bmfont
+** "FontEditor":https://code.google.com/p/fonteditor/
+** "Glyph Designer":http://71squared.com/glyphdesigner
+** "Hiero":https://code.google.com/p/libgdx/wiki/Hiero
+** "LabelAtlasCreator":http://www.cocos2d-iphone.org/forums/topic/labelatlascreator-label-atlas-tool-for-mac-os-x/
+* **粒子**
+** "ParticleCreator":https://itunes.apple.com/us/app/particlecreator/id426735435?mt=12
+** "Particle Designer":http://71squared.com/particledesigner
+* **物理**
+** "Mekanimo":http://mekanimo.net/
+** "PhysicsBench":https://github.com/tato123/PhysicsBench
+** "PhysicsEditor":http://www.physicseditor.de/
+** "VertexHelper":https://github.com/jfahrenkrug/VertexHelper
+** "Cadet":http://unwrong.com/cadet - 同样是一款物理引擎编辑器，支持2D和3D，2D主要针对Box2D
+** "RUBE":https://www.iforce2d.net/rube/ - 一款 Box2D 编辑器，可以生成JSON格式数据
+* **场景**
+** "CocosBuilder":http://cocosbuilder.com/
+** "Cocoshop":https://github.com/andrew0/cocoshop
+** "LevelHelper":http://www.levelhelper.org/
+** "Gleed2D":http://gleed2d.codeplex.com/ - 一款通用2D关卡编辑器
+* **瓦片地图编辑**
+** "iTileMaps":http://www.klemix.com/
+** "Tiled":http://www.mapeditor.org/
+** "OgmoEditor":http://www.ogmoeditor.com/ - 基于 Adobe Air 的关卡编辑器
+* **纹理图集**
+** "DarkFunction Editor":http://darkfunction.com/
+** "SpriteHelper":http://www.gamedevhelper.com/
+** "TexturePacker":http://www.texturepacker.com/
+** "Zwoptex":http://zwoptexapp.com/
+** "Spine":http://esotericsoftware.com/ - 强大的跨平台骨骼动画编辑器
+* **声音特效编辑**
+** "cfxr":http://thirdcog.eu/apps/cfxr/
+** "bfxr":http://www.bfxr.net/
+** "as3sfxr":http://www.superflashbros.net/as3sfxr/
+* **背景音乐编辑**
+** "GarageBand":http://itunes.apple.com/cn/app/garageband/id408980954?l=en&mt=12/
+* **其他**
+** "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
+** "shoebox":http://renderhjs.net/shoebox/ - 一款游戏开发资源整理工具，支持目前大多数主流游戏框架
+** "Ulead GIF Animator":http://www.corel.com/corel/
 
 h3(#server). Server
 * "Chilly":http://chillyframework.com/ - 开源，同样基于 node.js 的游戏服务端框架
