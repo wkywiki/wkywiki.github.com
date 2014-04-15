@@ -13,6 +13,7 @@ h3. Assets
 * "EasyTouch":http://www.blitz3dfr.com/store/ - 为基于触摸屏、鼠标和摇杆的游戏开发提供便利
 * "FX Maker":http://u3d.as/content/igsoft/fx-maker - 一款制作特效的工具，它专为移动操作系统做了优化。FX Maker包括300种Prefab特效，300种纹理结构、100种网格、100种曲线效果
 * "iTween":http://itween.pixelplacement.com/ - iTween是一个动画库,用它可以轻松实现各种动画,晃动,旋转,移动,褪色,上色,控制音频等等
+* "hotween":http://hotween.demigiant.com/ - a fast, type-safe object-oriented tween engine
 * "NGUI":http://www.tasharen.com/ - NGUI是严格遵循KISS原则并用C#编写的(适用于专业版和免费版)插件，提供强大的UI系统和事件通知框架
 * "Sprite Manager 2":http://www.anbsoft.com/middleware/sm2/ - 高级 2D 动画插件
 * "Tile Based Map and Nav":http://u3d.as/content/pl-young/tile-based-map-and-nav/2uF - 策略与棋盘类游戏插件
