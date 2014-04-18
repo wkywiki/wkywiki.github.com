@@ -31,6 +31,15 @@ h3. Frameworks
 ** "中文站":http://www.yiichina.org/
 * "Zend":http://framework.zend.com/
 
+h3. 开放平台
+* **微信相关**
+** "dodgepudding-wechat-php-sdk":https://github.com/dodgepudding/wechat-php-sdk - 微信公众平台php开发包,细化各项接口操作,支持链式调用
+** "netputer-wechat-php-sdk":http://github.com/netputer/wechat-php-sdk - 简单的微信公众平台 PHP SDK ，通过调用相应的接口，使你可以轻松地开发微信 App
+** "ligboy-Wechat-php":http://github.com/ligboy/Wechat-php - 本微信sdk实现了被动响应的官方api已经主动发送消息给订阅用户，主动批量发送消息给订阅用户
+** "微擎":http://www.we7.cc/ - 微信公众平台自助开源引擎
+** "微笑":http://www.sylai.com/
+** "weiphp":http://www.weiphp.cn/
+
 h3. Template Engine
 * "Twig":http://twig.sensiolabs.org/
 * "Smarty":http://www.smarty.net/

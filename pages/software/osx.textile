@@ -202,6 +202,7 @@ h3(#design). 设计
 ** "Espresso":http://macrabbit.com/espresso/ - Web编程利器
 * *(#design-img)图形*
 ** "Pixelmator":http://www.pixelmator.com/ - 不想用 Photoshop 的第二选择
+** "Sketch":http://bohemiancoding.com/sketch/ - 一款适量设计工具，用来设计图标和用户界面
 ** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件
 ** "SketchBook Express":https://itunes.apple.com/cn/app/sketchbook-express/id404243625 - Autodesk出品的免费小巧的画图软件
 ** "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
