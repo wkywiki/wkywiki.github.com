@@ -135,7 +135,8 @@ h3. API
 h3. References
 
 * "苹果官方Objective-C编码规范":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
-* "objc.io":http://www.objc.io/ - 一个精品Objective-C教程站
+* "objc.io":http://www.objc.io/ - 一个精品 Objective-C 教程站
+* "objccn.io":http://objccn.io/ - objc.io 的中文站
 * "iOS7 Design Cheat Sheet":http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/
 
 * *iOS*
