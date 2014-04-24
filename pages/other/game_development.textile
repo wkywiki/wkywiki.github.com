@@ -113,3 +113,6 @@ h3(#develop_website). Development Websites
 
 h3(#source_code). Source Code
 * "口袋仙侠":http://git.oschina.net/9maio/KouDaiXianXia - 基于 Cocos2d-x 的横版 RTS 游戏源码
+
+h3(#references). References
+* "Game Programming Patterns":http://gameprogrammingpatterns.com/introduction.html - EA 游戏编程师八年经验总结
