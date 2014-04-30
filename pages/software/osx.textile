@@ -34,6 +34,7 @@ h3(#commonly-used). 常用
 * "Archiver":http://archiverapp.com/ - 同上
 * "Homebrew":http://brew.sh/ - 软件包管理工具
 ** "homebrew-cask":https://github.com/phinze/homebrew-cask - 使用命令行方式安装软件
+** "Cakebrew":http://www.cakebrew.com/ - 带 UI 管理的Mac App
 * "Renamer":http://renamer.com/ - 批量命名利器
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
 * "Name Mangler":http://manytricks.com/namemangler/ - 同上
