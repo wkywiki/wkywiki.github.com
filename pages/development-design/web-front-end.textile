@@ -126,6 +126,8 @@ h3. Javascript
 ** "UItoTop":http://lab.mattvarone.com/projects/jquery/totop/ - 回到页面顶部插件
 ** "Validation":http://bassistance.de/jquery-plugins/jquery-plugin-validation/ - 表单验证插件
 ** "Waypoints":http://imakewebthings.github.com/jquery-waypoints/ - 触发页面滚动事件的小插件，很实用
+** **幻灯片插件**
+*** "Layer Slider":http://kreaturamedia.com/layerslider-responsive-jquery-slider-plugin/ - 一款强大的视觉幻灯片插件
 ** **实现瀑布流的插件们**
 *** "iMuFeng Waterfall":http://github.com/iMuFeng/Waterfall
 *** "Isotope":http://isotope.metafizzy.co/demos/layout-modes.html
