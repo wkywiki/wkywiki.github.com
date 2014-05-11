@@ -171,7 +171,7 @@ h3(#other). Other
 h3(#website). Website
 * "Python Weekly":http://www.pythonweekly.com/
 * "Pycoder's Weekly":http://pycoders.com/
-* "V2EX Pythtn":http://www.v2ex.com/go/python
+* "V2EX Python":http://www.v2ex.com/go/python
 * "Codecademy":http://www.codecademy.com - 交互式python学习站
 * "Python For Beginners":http://www.pythonforbeginners.com/
 
