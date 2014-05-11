@@ -46,6 +46,10 @@ h3. References
 * "A golang ebook intro how to build a web with golang":https://github.com/astaxie/build-web-application-with-golang/blob/master/preface.md
 * "《Go语言标准库》The Golang Standard Library by Example":https://github.com/polaris1119/The-Golang-Standard-Library-by-Example
 
+h3. Video Turorial
+* "Go编程基础":https://github.com/Unknwon/go-fundamental-programming
+* "Go名库讲解":https://github.com/Unknwon/go-rock-libraries-showcases
+
 h3. GoSublime 常用快捷键
 * Ctrl + 9 / Ctrl + b : 打开命令行
 * Ctrl + dot, Ctrl + t : 打开测试面板
