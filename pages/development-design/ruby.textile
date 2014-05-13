@@ -100,6 +100,7 @@ h3(#gems). Gems
 ** exception_notification_rails3: "Github":https://github.com/railsware/exception_notification
 ** airbrake: "Official Website":http://airbrake.io / "Github":https://github.com/airbrake/airbrake
 ** errbit: "Github":https://github.com/errbit/errbit
+* "EventMachine":http://rubyeventmachine.com/ - 一款快速、简单的事件处理库
 
 h3(#references). References
 * *(#references_ruby)Ruby*

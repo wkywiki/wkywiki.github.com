@@ -114,6 +114,7 @@ h3(#develop_website). Development Websites
 h3(#source_code). Source Code
 * "口袋仙侠":http://git.oschina.net/9maio/KouDaiXianXia - 基于 Cocos2d-x 的横版 RTS 游戏源码
 * "暗黑世界":http://git.oschina.net/9maio/diabloworld - 基于 Cocos2d-x 的卡牌手游
+* "烽烟OL":http://git.oschina.net/9maio/fengyanOL - 基于 AS3 的 RPG 网页游戏
 
 h3(#references). References
 * "Game Programming Patterns":http://gameprogrammingpatterns.com/introduction.html - 游戏开发设计模式，EA 游戏编程师八年经验总结

@@ -30,6 +30,7 @@ h3. Frameworks
 * "Yii":http://www.yiiframework.com/
 ** "中文站":http://www.yiichina.org/
 * "Zend":http://framework.zend.com/
+* "Workerman":http://www.workerman.net/ - 一款高性能的 Socket 服务器框架
 
 h3. 开放平台
 * **微信相关**

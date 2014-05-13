@@ -38,6 +38,7 @@ h3. Color Schemes
 * "Railscasts":https://github.com/ryanb/textmate-themes
 * "Solarized":http://ethanschoonover.com/solarized
 * "DobDark":https://github.com/charlesroper/DobDark-Theme
+* "afterglow":https://github.com/YabataDesign/afterglow-theme
 
 h3. Packages
 * "Sublime Package Control":http://wbond.net/sublime_packages/package_control - Sublime Text包管理器
