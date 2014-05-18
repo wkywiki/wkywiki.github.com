@@ -55,6 +55,7 @@ h3. CMS
 * "Shopilex":http://www.shopilex.com/ - 同上
 * "MiniCMS":https://github.com/bg5sbk/MiniCMS/ - 达达的一款小巧CMS，支持MarkDown，数据以文件存储
 * "Anchor":http://anchorcms.com/ - 一款极简的CMS系统，也可用做博客系统，支持Markdown
+* "Easy-Admin":https://github.com/happen-zhang/easy-admin - 通用后台信息管理系统
 
 h3. Forum System
 * "Discuz":http://www.discuz.net/
