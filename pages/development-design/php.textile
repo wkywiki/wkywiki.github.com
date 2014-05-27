@@ -33,7 +33,6 @@ h3. Frameworks
 * "Zend":http://framework.zend.com/
 * "Workerman":http://www.workerman.net/ - 一款高性能的 Socket 服务器框架
 * "PHPass":http://www.openwall.com/phpass/ - 一款 PHP 密码加盐框架
-* "Gearman":http://gearman.org/ - 一款任务队列框架
 
 h3. 开放平台
 * **微信相关**
@@ -87,6 +86,7 @@ h3. Other
 * "Imagine":http://imagine.readthedocs.org/en/latest/ - 图像处理
 * "Twig":http://twig.sensiolabs.org/ - 模板引擎
 * "Monolog":https://github.com/Seldaek/monolog - Log处理
+* "Gearman":http://gearman.org/ - 一款任务队列框架
 * "php-resque":https://github.com/chrisboulton/php-resque - 任务队列
 * "Aktive Merchant for PHP":https://github.com/akDeveloper/Aktive-Merchant - 支付网关
 * "DAUX.IO":http://daux.io/ - 一款文档生成工具
