@@ -33,6 +33,7 @@ h3. Frameworks
 * "Zend":http://framework.zend.com/
 * "Workerman":http://www.workerman.net/ - 一款高性能的 Socket 服务器框架
 * "PHPass":http://www.openwall.com/phpass/ - 一款 PHP 密码加盐框架
+* "Gearman":http://gearman.org/ - 一款任务队列框架
 
 h3. 开放平台
 * **微信相关**
