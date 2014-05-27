@@ -16,6 +16,7 @@ h3. Frameworks
 ** "Laravel 4.1 Quick Start 中文":https://github.com/5-say/laravel-4.1-quick-start-cn
 ** "Laravel学习资料":https://github.com/huanghua581/notes/tree/master/PHP/laravel
 ** "Laravel中文站":http://www.golaravel.com/
+** "Laravel视频教程站":https://laracasts.com/
 ** "Laravel4 Bootstrap Starter Site":https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site
 * "MicroMVC":http://micromvc.com/
 * "nanoserv":http://nanoserv.si.kz/ - 同上
@@ -31,6 +32,7 @@ h3. Frameworks
 ** "中文站":http://www.yiichina.org/
 * "Zend":http://framework.zend.com/
 * "Workerman":http://www.workerman.net/ - 一款高性能的 Socket 服务器框架
+* "PHPass":http://www.openwall.com/phpass/ - 一款 PHP 密码加盐框架
 
 h3. 开放平台
 * **微信相关**
