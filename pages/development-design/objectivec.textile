@@ -54,6 +54,7 @@ h3. Library
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
 * "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 * "Shimmer":https://github.com/facebook/Shimmer - 实现 shimmering 效果
+* "popping":https://github.com/schneiderandre/popping - A collection of animation examples
 
 h3. Framewok
 * "ReactiveCocoa":https://github.com/ReactiveCocoa/ReactiveCocoa - 由 Github 开源的应用于 iOS 和 OS X 开发的框架具有函数式和响应式编程的特性

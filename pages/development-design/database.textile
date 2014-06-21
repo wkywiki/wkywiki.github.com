@@ -8,6 +8,7 @@ h3. Relational Database
 * "MySQL":http://www.mysql.com/
 ** "TokuDB":http://www.tokutek.com/products/tokudb-for-mysql/ - MySQL 数据引擎，性能比 InnoDB 还要好
 ** "WebScaleSQL":http://webscalesql.org/
+** "MySQL Utilities":http://dev.mysql.com/doc/mysql-utilities/1.3/en/index.html - MySQL 官方工具集，包括 MySQL diff
 * "PostgreSQL":http://www.postgresql.org/
 * "SQLite":http://sqlite.org/
 * "SQL Server":http://www.microsoft.com/sqlserver/
