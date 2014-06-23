@@ -10,3 +10,4 @@ h3. Photoshop
 * "Cut&Slice me":http://www.cutandslice.me/ - 批量裁切插件
 * "PNGExpress":http://www.pngexpress.com/ - 同上
 * "Enigma64":http://getenigma64.com/ - 同上
+* "Assistor PS":http://iconmoon.com/blog2/assistor-ps/ - 切图工具

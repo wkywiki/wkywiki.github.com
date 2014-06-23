@@ -47,6 +47,7 @@ h3. CSS
 ** "Procssor":http://procssor.com/process - CSS代码整理工具
 
 * *Other*
+** "Github官方图标字体":http://octicons.github.com/
 ** "Elusive Icons":http://aristath.github.com/elusive-iconfont/ - 适量字体图标
 ** "entypo":http://www.entypo.com/
 ** "Font awsome":http://fortawesome.github.com/Font-Awesome/
