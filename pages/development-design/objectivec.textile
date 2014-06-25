@@ -37,7 +37,7 @@ h3. Library
 * "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
 * "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate
 * "Core Plot":http://code.google.com/p/core-plot/ - 图表库
-* "":https://github.com/Jawbone/JBChartView - 另一个图表库，代码风格、文件结构都值得学习
+* "JBChartView":https://github.com/Jawbone/JBChartView - 另一个图表库，代码风格、文件结构都值得学习
 * "DLCImagePickerController":https://github.com/gobackspaces/DLCImagePickerController - 给照片添加滤镜
 * "GPUImage":https://github.com/BradLarson/GPUImage - DLCImagePickerController 需要这个库的支持
 * "ibireme整理的开源库":http://github.ibireme.com/github/list/ios/
@@ -54,11 +54,8 @@ h3. Library
 * "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
 * "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
 * "Shimmer":https://github.com/facebook/Shimmer - 实现 shimmering 效果
-<<<<<<< .mine
 * "Stalker":https://github.com/BendingSpoons/Stalker - developer friendly KVO and NSNotification​ interface
-=======
 * "popping":https://github.com/schneiderandre/popping - A collection of animation examples
->>>>>>> .theirs
 
 h3. Framewok
 * "ReactiveCocoa":https://github.com/ReactiveCocoa/ReactiveCocoa - 由 Github 开源的应用于 iOS 和 OS X 开发的框架具有函数式和响应式编程的特性
