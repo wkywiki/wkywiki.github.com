@@ -57,6 +57,7 @@ h3(#develop). 开发
 h3(#server). 服务器
 * "LNMP":http://lnmp.org/ - centos/redhat、debian/ubuntu下(Nginx、MySQL、PHP、phpMyAdmin)生产环境部署脚本
 * "Submin":http://supermind.nl/submin/index.html - 一款 SVN Web 管理工具
+* "Supervisor":http://supervisord.org/ - 用于 Unix 系统的进程监控工具
 
 h3(#other). 其他
 * "virtualbox":http://download.virtualbox.org/virtualbox - 虚拟机

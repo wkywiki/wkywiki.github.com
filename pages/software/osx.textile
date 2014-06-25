@@ -37,6 +37,7 @@ h3(#commonly-used). 常用
 ** "Cakebrew":http://www.cakebrew.com/ - 带 UI 管理的Mac App
 * "Renamer":http://renamer.com/ - 批量命名利器
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
+* "A Better Finder Attributes":http://www.publicspace.net/ABetterFinderAttributes/ - 一款文件属性修改软件
 * "Name Mangler":http://manytricks.com/namemangler/ - 同上
 * "有道翻译":http://cidian.youdao.com/mac/
 * "Dropbox":http://www.dropbox.com - 文件同步工具
