@@ -20,6 +20,7 @@ h3. NoSQL Database
 
 * **Document Store**
 ** "MongoDB":http://www.mongodb.org/ - a scalable, high-performance, open source, document-oriented database. Written in C++.
+*** "nuxeo":http://www.nuxeo.com/ - MongoDB for enterprises.
 ** "CouchDB":http://couchdb.apache.org/
 ** "Terrastore":http://code.google.com/p/terrastore/
 ** "ThruDB":http://code.google.com/p/thrudb/
