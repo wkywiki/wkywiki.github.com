@@ -39,12 +39,12 @@ h3(#commonly-used). 常用
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
 * "A Better Finder Attributes":http://www.publicspace.net/ABetterFinderAttributes/ - 一款文件属性修改软件
 * "Name Mangler":http://manytricks.com/namemangler/ - 同上
-* "有道翻译":http://cidian.youdao.com/mac/
 * "Dropbox":http://www.dropbox.com - 文件同步工具
 * "XtraFinder":http://www.trankynam.com/xtrafinder/ - 文件管理器，免费的TotalFinder替代软件
 * "oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh - zsh的安装配置文件， "安装方法":http://www.yangzhiping.com/tech/zsh-oh-my-zsh.html
 ** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
 ** "相关用法和插件介绍":http://foocoder.com/blog/wo-zai-yong-de-macruan-jian-2.html/
+* "Prezto":https://github.com/sorin-ionescu/prezto - oh-my-zsh 的简化衍生版本
 * "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
 * "AppZapper":http://appzapper.com/ - 应用清理卸载工具
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
