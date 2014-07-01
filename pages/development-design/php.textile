@@ -27,7 +27,8 @@ h3. Frameworks
 * "Swoole":https://code.google.com/p/swoole/ - 以Socket方式运行的框架
 * "ThinkPHP":http://thinkphp.cn/
 * "Typecho Framework":https://github.com/typecho/framework
-* "Yaf":http://www.laruence.com/yaf/ - 国人开发的PHP扩展形式的框架，速度快，提供了Bootstrap, 路由, 分发, 视图, 插件, 是个一个全功能的PHP框架。
+* "Phalcon":http://phalconphp.com/ - 用 C 实现的 PHP 扩展框架
+* "Yaf":http://www.laruence.com/yaf/ - 国人开发的PHP扩展形式的框架，速度快，提供了Bootstrap, 路由, 分发, 视图, 插件, 是个一个全功能的 PHP 框架。
 * "Yii":http://www.yiiframework.com/
 ** "中文站":http://www.yiichina.org/
 * "Zend":http://framework.zend.com/
