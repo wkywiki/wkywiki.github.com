@@ -29,6 +29,9 @@ h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
 * "gor":https://github.com/wendal/gor - Golang编写的静态博客引擎
 
+h3. Web Dev
+* "pongo2":http://www.florian-schlachter.de/post/pongo2/ - 一款类 Django 的模版引擎
+
 h3. WebSite
 * "Golang-China":http://golang-china.org
 * "gocasts":https://gocasts.io/ - Go 视频教程
