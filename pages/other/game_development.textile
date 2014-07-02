@@ -49,6 +49,9 @@ h4(#website). Website
 * "爱给网游戏素材":http://www.2gei.com/
 
 h3(#tools). Tools
+* **像素画软件**
+** "aseprite":http://www.aseprite.org/
+** "pixen":http://pixenapp.com/
 * **字体**
 ** "BMFont":http://www.angelcode.com/products/bmfont
 ** "FontEditor":https://code.google.com/p/fonteditor/
