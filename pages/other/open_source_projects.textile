@@ -7,14 +7,19 @@ h1. {{ page.title }}
 
 * "开源协议图示":/assets/2013/10/license.jpg
 
-h3. RPC
+h3. 项目相关
+* "gitignore.io":http://www.gitignore.io/ - .gitignore 文件模版
+* "gitignore":https://github.com/github/gitignore - 多种语言的gitignore文件
+* "dotfiles":http://dotfiles.github.com/ - dotfiles集合
+
+h3. 通讯相关
 * "hprose":https://github.com/andot/hprose
 * "Apache Thrift":http://thrift.apache.org/
 * "ZeroRPC":http://zerorpc.dotcloud.com/
 * "MessagePack":http://msgpack.org/
 * "json5":http://json5.org/
 
-h3. Network
+h3. 网络相关
 * "shadowsocks":http://shadowsocks.org/
 ** "Shadowsocks-libev":https://github.com/madeye/shadowsocks-libev - shadowsocks 协议的轻量级实现
 ** "shadowsocks-go":https://github.com/shadowsocks/shadowsocks-go - 用 Go 实现的 Shadowsocks 客户端，支持多平台
@@ -26,16 +31,9 @@ h3. Network
 * "xunlei-lixian":https://github.com/iambus/xunlei-lixian - 一款迅雷离线下载脚本
 ** "lixian-portal":https://github.com/layerssss/lixian-portal - 基于xunlei-lixian的一个UI实现
 
-h3. Other
+h3. 其他
 * "FastDFS":http://code.google.com/p/fastdfs/ - 一款高性能分布式文件系统
 * "Phabricator":http://phabricator.org/ - Facebook 推荐出的基于web的项目管理系统，包含Code Review、工作流管理、漏洞追踪等功能
 * "Gerrit":http://code.google.com/p/gerrit/ - Google的基于Web的项目Code Review系统
 * "codeswarm":https://code.google.com/p/codeswarm/ - 以图形动画形式显示版本管理工具的提交过程
 * "QR Code Generator":http://d-project.googlecode.com/svn/trunk/misc/qrcode/index.html - 二维码生成类库，支持众多语言
-
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />

@@ -15,8 +15,6 @@ h3. 开发
 * *代码托管*
 ** "Google Code":http://code.google.com/hosting/ - 支持SVN、Hg
 ** "Github":http://github.com - Online project hosting using Git.
-*** "gitignore":https://github.com/github/gitignore - 多种语言的gitignore文件
-*** "dotfiles":http://dotfiles.github.com/ - dotfiles集合
 ** "Sourceforge":http://sourceforge.net/ - 支持CVS、SVN
 ** "Gitorious":http://gitorious.org - Offers a project hosting solution and an open source graphical interface for git repositories.
 ** "CodePlex":http://www.codeplex.com/ - 微软的开源项目托管网站，支持Git
