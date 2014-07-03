@@ -40,6 +40,7 @@ h3(#system). 系统
 h3(#network). 网络
 * "multiget":http://sourceforge.net/projects/multiget/ - 简洁的多线程下载工具
 * "gStm":http://sourceforge.net/projects/gstm - ssh端口转发工具
+* "lrzsz":https://ohse.de/uwe/software/lrzsz.html - 一款网络工具包，支持 X/Y/ZMODEM 文件传输协议，可使用 Xshell 实现文件传输
 
 h3(#entertainment). 娱乐
 * "RhythmCat":http://code.google.com/p/rhythmcat/ - 一款中文不乱码、支持歌词显示、支持卡啦OK模式、支持编辑歌词、支持音频格式转换的音乐播放器。
