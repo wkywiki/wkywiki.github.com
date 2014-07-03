@@ -117,6 +117,7 @@ h3. Javascript
 ** "PikaChoose":http://www.pikachoose.com/ - 轮播式图片展示
 ** "Raty":http://www.wbotelhos.com/raty/ - 评分插件
 ** "tablesorter":http://tablesorter.com - 表格排序插件
+** "jplist":http://jplist.com/ - 实现灵活排序、过滤和分页的插件
 ** "three.js":https://github.com/mrdoob/three.js/ - 粒子特效
 ** "Tokeninput":http://loopj.com/jquery-tokeninput/ - 文本框即时搜索列表
 ** "tooltip":http://tutorialzine.com/2010/07/colortips-jquery-tooltip-plugin/ - tooltip插件
