@@ -96,7 +96,7 @@ h3. 网络应用
 ** "httpbin":http://httpbin.org/ - 提供简单的 API，来根据 URL 返回相关信息
 ** "RunScope":https://www.runscope.com/ - 调试和测试API
 * *网站服务相关*
-** "加速乐":http://jiasule.baidu.com/
+** "百度云加速":http://yunjiasu.baidu.com/
 ** "安全宝":http://www.anquanbao.com/
 ** "cloudflare":http://www.cloudflare.com/
 * *移动服务*
