@@ -131,6 +131,7 @@ h3. Plugins
 * "XMate":https://github.com/PrideChung/XMate - TextMate and Emacs goodies for Xcode.
 * "fui":https://github.com/dblock/fui - Find unused Objective-C imports.
 ** "xcfui":https://github.com/jcavar/xcfui
+* "lin":https://github.com/questbeat/Lin-Xcode5 - 多语言管理插件
 
 h3. 常用快捷键
 * *Control + I* : 对选中文字重新格式化
