@@ -35,6 +35,7 @@ h3. Web Dev
 
 h3. ORM
 * "XORM":http://xorm.io/
+* "gorm":https://github.com/jinzhu/gorm
 
 h3. WebSite
 * "Golang-China":http://golang-china.org
