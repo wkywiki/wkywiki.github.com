@@ -8,10 +8,11 @@ h1. Go Lang
 h3. Website
 * "Official Website":http://golang.org/
 
-h3. Libraries
+h3. Packages
 * "Libraries Written in Go":http://go-lang.cat-v.org/pure-go-libs
 * "awesome-go":https://github.com/avelino/awesome-go - 另一个 Go 相关索引
 * "第三方库索引":https://code.google.com/p/go-wiki/wiki/Projects
+* "gom":https://github.com/mattn/gom - 包管理
 
 h3. Framework
 * "beego":http://beego.me/ - 除了基础的 MVC 结构外，还带有Cache，ORM，Session等多个库的支持

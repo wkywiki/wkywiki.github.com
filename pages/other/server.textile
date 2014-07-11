@@ -62,6 +62,7 @@ h3. Deploy Tools
 
 h3. Monitoring
 * "Scout":https://scoutapp.com/ - 一款服务器监控软件
+* "DataDog":https://www.datadoghq.com/ - 服务器监控服务
 
 h3. 数据交互相关
 * "ProtocolBuffers":http://code.google.com/apis/protocolbuffers/ - Google公司开发的一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。
@@ -75,13 +76,11 @@ h3. 数据交互相关
 h3. Nginx
 * "nginx使用时的一些注意事项":http://wiki.nginx.org/Pitfalls
 
+h3. References
+* "SysAdminCasts":http://sysadmincasts.com/ - 面向系统管理员的简短教学视频
+
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+

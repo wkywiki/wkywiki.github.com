@@ -189,6 +189,7 @@ h1(#fonts). Code Fonts
 * "Meslo":https://github.com/andreberg/Meslo-Font - 在不支持调整行高的编辑器下用这款字体很合适
 * "Adobe Source Code Pro":http://sourceforge.net/projects/sourcecodepro.adobe/ - adobe 推出的代码字体
 * "Source Sans Pro":http://sourceforge.net/projects/sourcesans.adobe/ - 同上
+* "M+ Fonts":http://mplus-fonts.sourceforge.jp/
 
 h1(#website). Website
 * "Base16":http://chriskempson.github.io/base16/ - 一些优秀的配色
