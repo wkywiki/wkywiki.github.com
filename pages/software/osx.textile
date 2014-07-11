@@ -298,6 +298,7 @@ h3(#other). 其他
 * "Byword":https://itunes.apple.com/cn/app/byword/id420212497?mt=12 - 同上
 * "iA Writer":https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12 - 同上
 * "Prices Drop Monitor for Amazon":http://itunes.apple.com/cn/app/prices-drop-monitor-for-amazon/id473939551
+* "hydra":https://github.com/sdegutis/hydra - 一款轻量级的窗口管理器，可用脚本实现更多功能
 
 h3(#website). 相关网站
 * "defaults-write":http://www.defaults-write.com/ - 查询各种 default write 命令的网站
