@@ -38,6 +38,9 @@ h3. 开发
 ** "Sourcegraph":https://sourcegraph.com - 强大的代码搜索网站
 ** "Devdocs":http://devdocs.io/ - 各种语言的 API 在线查阅
 
+* *其他工具*
+** "regexr":http://www.regexr.com/ - 正则表达式在线测试工具
+
 * *其他*
 ** "gitignore.io":http://www.gitignore.io/ - 生成 gitignore 文件
 
