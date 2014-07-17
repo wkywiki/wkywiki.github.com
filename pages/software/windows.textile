@@ -92,7 +92,6 @@ h3(#media). 音视频
 ** "Columns UI":http://www.foobar2000.org/components/view/foo_ui_columns - 界面布局定制组件
 ** "Monkey's Audio Decoder":http://www.foobar2000.org/components/view/foo_input_monkey - APE无损格式解码组件
 * "K-Lite Codec Pack":http://www.codecguide.com/klcp_update.htm - 一款免费全能音视频播放器
-* "射手影音(SPlayer)":http://www.splayer.org/ - 支持大部分视频格式的播放器
 * "Camtasia Studio":http://www.techsmith.com/camtasia.html - 强大的视频录制软件
 * "Bandicam":http://www.bandicam.com/ - 小巧实用的屏幕录制软件
 * "Fraps":http://www.fraps.com/ - 为游戏而生的屏幕录制软件

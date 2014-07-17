@@ -13,14 +13,15 @@ h3. 开发
 ** "Asana":http://asana.com - 体验很棒的任务管理工具，支持iOS
 
 * *代码托管*
-** "Google Code":http://code.google.com/hosting/ - 支持SVN、Hg
+** "Google Code":http://code.google.com/hosting/ - 支持 SVN、Hg
 ** "Github":http://github.com - Online project hosting using Git.
-** "Sourceforge":http://sourceforge.net/ - 支持CVS、SVN
+** "Sourceforge":http://sourceforge.net/ - 支持 CVS、SVN
 ** "Gitorious":http://gitorious.org - Offers a project hosting solution and an open source graphical interface for git repositories.
-** "CodePlex":http://www.codeplex.com/ - 微软的开源项目托管网站，支持Git
-** "bitbucket":https://bitbucket.org/ - 支持Git/Hg
-** "Project Kenai":http://kenai.com/ - 支持Hg/Git
-** "unfuddle":http://unfuddle.com/ - 支持SVN/Git
+** "CodePlex":http://www.codeplex.com/ - 微软的开源项目托管网站，支持 Git
+** "bitbucket":https://bitbucket.org/ - 支持 Git/Hg
+** "Project Kenai":http://kenai.com/ - 支持 Hg/Git
+** "unfuddle":http://unfuddle.com/ - 支持 SVN/Git
+** "Coding":https://coding.net - 附带轻量项目管理的代码托管平台，支持 Git
 
 * *网络应用托管*
 ** "Google App Engine":https://appengine.google.com/
