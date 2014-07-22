@@ -74,7 +74,9 @@ h3. Forum System
 
 h3. Shopping Cart System
 * "OpenCart":http://www.opencart.com/
-* "Magento":http://magento.com/
+* "Magento":http://magento.com/ - 一套专业的电子商务系统
+** "Magento 中文社区":http://www.magentochina.org/
+** "Magento 模版":http://themeforest.net/category/ecommerce/magento
 
 h3. Other
 * "Phalanger":http://www.php-compiler.net - 用PHP语言写.net web程序
