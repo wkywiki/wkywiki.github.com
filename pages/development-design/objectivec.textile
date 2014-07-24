@@ -153,6 +153,11 @@ h3. References
 * "iOS项目的目录结构和开发流程 - 无网不剩":http://blog.leezhong.com/ios/2013/09/23/build-ios-application.html
 * "NSScreencast":http://nsscreencast.com/ - iOS 开发视频教程站
 
+* *Swift*
+** "Swift Coder Weekly":http://swift-coder.info/
+** "Swift Dev Weekly":http://swiftdev.tips/
+** "Swift Development newsletter":http://swiftweekly.com/
+
 * Learn to Create Successful Apps
 ** http://appdesignvault.s3.amazonaws.com/foody-tutorial/(001-010).mp4
 ** "XCode Sample Project":http://www.appdesignvault.com/downloads/FoodySampleProject.zip
