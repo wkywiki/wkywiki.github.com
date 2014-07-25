@@ -108,7 +108,7 @@ h3. 网络应用
 ** "百度云推送":http://developer.baidu.com/push
 
 h3. 娱乐
-* *环境音效*
+* *环境音效及白噪音*
 ** "NatureSound":http://naturesound.org/
 ** "RainyMood":http://www.rainymood.com/
 ** "NatureSoundsForMe":http://naturesoundsfor.me
@@ -118,3 +118,6 @@ h3. 娱乐
 ** "calm":http://www.calm.com/
 ** "GetRelaxed":http://www.getrelaxed.com/
 ** "Mood.pw":http://mood.pw/
+** "GET WORK DONE MUSIC":http://www.getworkdonemusic.com/
+** "jamiroquai-radenko":https://soundcloud.com/radenko-zec/sets/jamiroquai-radenko
+** "MusicForConcentration":http://www.reddit.com/r/MusicForConcentration/
