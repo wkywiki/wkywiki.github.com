@@ -171,6 +171,9 @@ h3. Javascript
 ** "百度CDN公用库":http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs
 ** "开放静态文件CDN":http://www.staticfile.org/ - 七牛提供的服务
 
+* *References*
+** "JavaScript 标准参考教程":http://javascript.ruanyifeng.com/
+
 * *WebSite*
 ** "JSter":http://jster.net/ - 各种框架和库的收集站
 ** "JSDB":http://www.jsdb.io - 同上
