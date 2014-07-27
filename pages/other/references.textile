@@ -18,6 +18,11 @@ h3. Development
 * "Learn Code The Hard Way":http://www.learncodethehardway.org/
 * "用LLVM开发新语言":http://liancheng.github.io/llvm-tutorial-cn/index.html
 
+h3. API 撰写支持
+* "Sphinx":http://sphinx-doc.org/
+* "apiblueprint":http://apiblueprint.org/
+* "apiary":http://apiary.io/
+
 h3. Other
 * "Markdown语法说明-简体中文版":http://wowubuntu.com/markdown/
 * "程序员能力矩阵":http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm

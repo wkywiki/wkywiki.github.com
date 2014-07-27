@@ -19,5 +19,8 @@ h3. Framework
 * "Wakanda":http://wakanda.org
 * "Yahoo! Mojito":http://developer.yahoo.com/cocktails/mojito/‎
 
+h3. Tools
+* "LivePool":https://github.com/rehorn/livepool - 一个基于 NodeJS，类似 Fiddler 支持抓包和本地替换的 Web 开发调试工具
+
 h3. References
 * "7天学会NodeJS":http://nqdeng.github.io/7-days-nodejs/
