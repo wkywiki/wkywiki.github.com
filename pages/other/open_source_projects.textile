@@ -29,6 +29,7 @@ h3. 网络相关
 ** "Shadowsocks-libev":https://github.com/madeye/shadowsocks-libev - shadowsocks 协议的轻量级实现
 ** "shadowsocks-go":https://github.com/shadowsocks/shadowsocks-go - 用 Go 实现的 Shadowsocks 客户端，支持多平台
 ** "shadowsocks-go-local":https://code.google.com/p/shadowsocks-go/downloads/list - 编译好的 shadowsocks-go 客户端
+* "FreeRouter":https://github.com/lifetyper/FreeRouter_V2 - 一个适用于 OpenWRT 的全平台代理方案
 * "cow":https://github.com/cyfdecyf/cow - 一款 http 代理工具，支持 socks5 和 shadowsocks 做为二级代理
 * "CFW":https://github.com/BB9z/CFW - 一份基于IP地址的白名单列表
 * "GFW_Whitelist":https://github.com/n0wa11/gfw_whitelist
