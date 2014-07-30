@@ -19,8 +19,7 @@ h3. 通讯相关
 * "hprose":https://github.com/andot/hprose
 * "json5":http://json5.org/
 * "MessagePack":http://msgpack.org - 官方宣称比ProtocolBuffers快4倍，比Json快10倍的序列化包
-* "ProtocolBuffers":http://code.google.com/apis/protocolbuffers/ - Google公司开发的一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。
-** "Protocol Buffers Development Tools":http://code.google.com/p/protobuf-dt/ - 基于eclipse的ProtocolBuffers开发工具，需要Eclipse3.7及Xtext2.0
+* "ProtocolBuffers":http://code.google.com/apis/protocolbuffers/ - Google公司开发的一种数据描述语言，类似于 XML 和 JSON 能够将结构化数据序列化
 * "sofa-pbrpc":https://github.com/BaiduPS/sofa-pbrpc - 百度出品的 RPC 库
 * "Thrift":http://thrift.apache.org/ - 一款跨语言部署框架，通过一个中间语言（IDL，接口定义语言）来定义RPC的接口和数据类型。
 * "ZeroRPC":http://zerorpc.dotcloud.com/
