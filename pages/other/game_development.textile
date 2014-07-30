@@ -114,7 +114,12 @@ h3(#game_website). Game Website
 * "Miniclip":http://www.miniclip.com/
 
 h3(#game_studio). Game Studio
+* "2D Boy":http://2dboy.com/
 * "ustwo":http://ustwo.com/
+* "Ironhide":http://www.ironhidegames.com/
+* "HalfBrick":http://halfbrick.com/
+* "SuperCell":http://www.supercell.net/
+* "Klei Entertainment":http://www.kleientertainment.com/
 
 h3(#develop_website). Development Website
 * "gamedev":http://www.gamedev.net/

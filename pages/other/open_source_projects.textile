@@ -6,6 +6,7 @@ title: Open Source Projects
 h1. {{ page.title }}
 
 * "开源协议图示":/assets/2013/10/license.jpg
+* "awesome-awesomeness":https://github.com/bayandin/awesome-awesomeness - A curated list of awesome awesomeness
 
 h3. 项目相关
 * "gitignore.io":http://www.gitignore.io/ - .gitignore 文件模版
