@@ -38,6 +38,7 @@ h3. Hosting Control System
 
 h3. 网络代理类
 * "云梯":https://www.yunti.me
+* "VPN Deploy Playbook":https://github.com/ftao/vpn-deploy-playbook - 一个自动部署各种代理服务的工具，包括用户管理等功能。 
 
 h3. Data Traffic
 * "deployd":http://deployd.com - a toolkit for building realtime APIs
