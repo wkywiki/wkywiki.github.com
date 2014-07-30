@@ -39,6 +39,9 @@ bc. $ whereis nginx
 
 bc. $ ps -ef | grep httpd | wc -l
 
+* 统计最常用命令
+bc. history | awk '{CMD[$2]++;count++;} END { for (a in CMD )print CMD[ a ]" " CMD[ a ]/count*100 "% " a }' | grep -v "./" | column -c3 -s " " -t |sort -nr | nl | head -n10
+
 *  文件和目录批量操作
 
 bc.. # 文件设置权限

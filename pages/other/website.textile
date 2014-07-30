@@ -46,6 +46,7 @@ h3. 开发
 ** "gitignore.io":http://www.gitignore.io/ - 生成 gitignore 文件
 
 h3. 设计
+* "DesignersList":http://www.designerslist.info/ - 设计类资源导航站
 * *Color Scheme*
 ** "Color Combos":http://www.colorcombos.com/
 ** "Color Hunter":http://www.colorhunter.com/
@@ -75,6 +76,21 @@ h3. 设计
 ** "Gratisography":http://www.gratisography.com/
 ** "Getrefe":http://getrefe.tumblr.com/
 ** "IM Free (requires attribution)":http://imcreator.com/free
+* *UI*
+** "365PSD":http://365psd.com/
+** "dribbble":http://dribbble.com
+** "UI Pattern":http://ui-patterns.com/
+** "Pattern Tap":http://patterntap.com/
+** "AWWWARDS":http://www.awwwards.com/
+* *APP UI*
+** "pttrns (iOS UI Patterns)":http://pttrns.com/ 
+** "模式库（APP界面设计模式库）":http://www.moshiku.com
+** "Inspired UI":http://inspired-ui.com
+** "Mobile UI Patterns":http://mobile-patterns.com/ 
+** "Mobile Patterns":http://www.mobilepatterns.com
+** "Patterns of design":http://www.patternsofdesign.co.uk/
+** "App网站设计":http://www.appsites.com/
+
 
 h3. 网络应用
 * *服务类*

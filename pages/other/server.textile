@@ -65,15 +65,6 @@ h3. Monitoring
 * "DataDog":https://www.datadoghq.com/ - 服务器监控服务
 * "Sentry":https://github.com/getsentry/sentry - 一款实时错误日志捕获平台，支持大多语言环境
 
-h3. 数据交互相关
-* "ProtocolBuffers":http://code.google.com/apis/protocolbuffers/ - Google公司开发的一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。
-** "Protocol Buffers Development Tools":http://code.google.com/p/protobuf-dt/ - 基于eclipse的ProtocolBuffers开发工具，需要Eclipse3.7及Xtext2.0
-* "MessagePack":http://msgpack.org - 官方宣称比ProtocolBuffers快4倍，比Json快10倍的序列化包
-* "capnproto":http://kentonv.github.io/capnproto/ - 又一款序列化库
-* "sofa-pbrpc":https://github.com/BaiduPS/sofa-pbrpc - 百度出品的 RPC 库
-* "thrift":http://thrift.apache.org/ - 一款跨语言部署框架，通过一个中间语言（IDL，接口定义语言）来定义RPC的接口和数据类型。
-* "Hessian":http://hessian.caucho.com/ - 采用二进制RPC协议的remoting onhttp工具
-
 h3. Nginx
 * "nginx使用时的一些注意事项":http://wiki.nginx.org/Pitfalls
 
