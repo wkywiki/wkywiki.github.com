@@ -24,6 +24,9 @@ h3. CMS
 * "Orchard":http://www.orchardproject.net/
 * "Umbraco":http://umbraco.com/
 
+h3. Tools
+* "de4dot":https://github.com/0xd4d/de4dot - 一款反混淆和解包工具
+
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
