@@ -147,13 +147,14 @@ h3(#packages). Packages & Utility Class
 ** "psutil":http://code.google.com/p/psutil/ - 用来查看系统的各种状态
 
 * *Other*
+** "pyenv":https://github.com/yyuu/pyenv - python版本管理器
+** "virtualenv":http://pypi.python.org/pypi/virtualenv - python虚拟环境
 ** "odict":http://dev.pocoo.org/hg/sandbox/raw-file/tip/odict.py - 可以保证元素顺序的Dict
 ** "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
 ** "APScheduler":http://packages.python.org/APScheduler/ - APScheduler is a light but powerful in-process task scheduler that lets you schedule functions (or any other python callables) to be executed at times of your choosing.
 ** "Arrow":https://github.com/crsmithdev/arrow - 时间和日期的处理库
 ** "simplejson":http://pypi.python.org/pypi/simplejson
 ** "imaging(PIL)":http://www.pythonware.com/products/pil/
-** "virtualenv":http://pypi.python.org/pypi/virtualenv - python虚拟环境
 ** "autopep8":https://github.com/hhatto/autopep8 - 按PEP8的风格，自动排版代码
 ** "Python Dialog":http://pythondialog.sourceforge.net/ - 一款对话框库
 ** "Python RQ":http://python-rq.org/ - 一款处理队列服务库
