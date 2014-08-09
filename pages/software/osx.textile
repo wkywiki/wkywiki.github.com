@@ -109,6 +109,7 @@ h3(#entertainment). 媒体
 ** "ScreenFlow":http://itunes.apple.com/us/app/screenflow/id422025166?mt=12 - 强大的屏幕录像工具
 ** "Screenium":http://www.syniumsoftware.com/screenium/ - 同上
 ** "StreamToMe":http://projectswithlove.com/streamtome/ - 同上
+** "LICEcap":http://www.cockos.com/licecap/ - 一款屏幕录像工具，录制成 gif 格式
 ** "vidconvert":http://www.reggieashworth.com/vidconvert - 一款视频转换软件，支持多种视频格式
 ** "Youku-Bypass":https://github.com/CaledoniaProject/Youku-Bypass - 绕过Youku所有限制播放和下载，程序会自动选择最高清画质的视频
 * *其他*
