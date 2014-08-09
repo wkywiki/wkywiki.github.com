@@ -29,7 +29,9 @@ h3(#engine). Engine
 * "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 * "Unity3D":http://unity3d.com/ - 跨平台综合型游戏开发引擎
 
-h3(#stuff). Stuff
+h3(#assets). Assets
+
+* "Art Assets for Game Developers":http://letsmakegames.org/resources/art-assets-for-game-developers/
 
 h4(#music_sfx). Music & SFX
 * "audiojungle":http://audiojungle.net/
@@ -112,6 +114,7 @@ h3(#game_website). Game Website
 * "Armorgames":http://armorgames.com/
 * "Kongregate":http://www.kongregate.com/
 * "Miniclip":http://www.miniclip.com/
+* "Nitrome":http://www.nitrome.com/
 
 h3(#game_studio). Game Studio
 * "2D Boy":http://2dboy.com/

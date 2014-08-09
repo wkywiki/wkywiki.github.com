@@ -24,7 +24,7 @@ h3. Frameworks
 * "QeePHP":http://qeephp.com/
 * "Slim":http://www.slimframework.com/ - a PHP 5 Micro Framework
 * "Symfony":http://symfony.com/ - 一款不错的框架，性能出众，像Django一样带通用后台管理功能
-* "Swoole":https://code.google.com/p/swoole/ - 以Socket方式运行的框架
+* "Swoole":http://www.swoole.com/ - 高性能网络通信框架，提供了PHP语言的异步多线程服务器等
 * "ThinkPHP":http://thinkphp.cn/
 * "Typecho Framework":https://github.com/typecho/framework
 * "Phalcon":http://phalconphp.com/ - 用 C 实现的 PHP 扩展框架
