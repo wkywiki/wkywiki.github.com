@@ -5,6 +5,12 @@ title: Server
 
 h1. {{ page.title }}
 
+h3. Web Server
+* "Apache":http://httpd.apache.org/
+* "Nginx":http://nginx.org/cn/ - 一个HTTP和反向代理服务器
+* "OpenResty":http://openresty.org/cn - 一个通过扩展 Nginx 实现的强大的 web 应用服务器
+* "Lighttpd":http://www.lighttpd.net/
+
 h3. VPS
 * "budgetvm":http://www.budgetvm.com/
 * "buyvm":http://buyvm.net/
