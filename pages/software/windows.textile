@@ -75,7 +75,6 @@ h3(#design). 设计
 * "Pencil":http://pencil.evolus.vn/ - 跨平台产品原型图设计软件
 * "Balsamiq":http://www.balsamiq.com/ - 同上
 * "FreeMind":http://freemind.sourceforge.net - 免费的思维导图软件
-* "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 * "AndreaMosaic":http://www.andreaplanet.com/andreamosaic/ - 蒙太奇马赛克拼图制作软件
 * "GraphicsGale":http://www.humanbalance.net/gale/us/ - 强大的像素图制作软件
 * "FastStone Photo Resizer":http://www.faststone.org/FSResizerDetail.htm - 图片批量缩放、加水印、重命名一应俱全
