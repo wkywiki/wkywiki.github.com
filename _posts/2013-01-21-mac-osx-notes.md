@@ -27,6 +27,13 @@ killall Finder
 在终端中输入：
 `defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'`
 
+- ** 删除未下载完的App图标 **
+
+```
+defaults write com.apple.dock ResetLaunchPad -bool true
+killall Dock
+```
+
 ## 软件设置
 
 - **设置Sublime Text命令行**  
