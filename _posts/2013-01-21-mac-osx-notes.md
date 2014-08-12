@@ -12,12 +12,12 @@ title: OSX 使用手记
 
 - **清除OpenWith的重复项**  
 在终端中进入 `/Applications/Utilities/` 目录，执行
-```
+{% highlight %}
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/\
 LaunchServices.framework/Versions/A/Support/\
 lsregister -kill -r -domain local -domain user
 killall Finder
-```
+{% endhighlight %}
 如果执行完了没效果，可以删掉 `~/Library/Preferences/com.apple.LaunchServices.plist` 再试。
 
 - **清除DNS缓存**  
@@ -28,17 +28,15 @@ killall Finder
 `defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'`
 
 - **删除未下载完的App图标**  
-```
+{% highlight %}
 defaults write com.apple.dock ResetLaunchPad -bool true
 killall Dock
-```
+{% endhighlight %}
 
 ## 软件设置
 
 - **设置Sublime Text命令行**  
-```
-sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
-```
+`sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl`
 
 - **删掉迅雷对浏览器的劫持插件**  
 需要清除两个目录的插件: `~/Library/Internet Plug-Ins/` 和 `/Applications/Thunder.app/Contents/BrowserPlugins`
