@@ -9,7 +9,7 @@ title: OSX 使用手记
 
 - **清除OpenWith的重复项**  
 在终端中进入 `/Applications/Utilities/` 目录，执行  
-```
+```shell
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/\
 LaunchServices.framework/Versions/A/Support/\
 lsregister -kill -r -domain local -domain user
@@ -25,7 +25,7 @@ killall Finder
 `defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'`
 
 - **删除未下载完的App图标**  
-```
+```shell
 defaults write com.apple.dock ResetLaunchPad -bool true
 killall Dock
 ```
