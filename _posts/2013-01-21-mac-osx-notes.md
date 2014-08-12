@@ -11,7 +11,7 @@ title: OSX 使用手记
 在Finder中打开一个新窗口，切换到“图标”视图（按cmd+1）。然后按下cmd+j打开“显示选项”面板（或者在空白处点右键，选择“查看显示选项”），只要把“显示图标预览”前面的方框中不要有√就可以了。另外你可也以按一下下面的“用作默认”按钮来让这个设定成为默认选项。
 
 - **清除OpenWith的重复项**  
-在终端中进入 `/Applications/Utilities/` 目录，执行
+在终端中进入 `/Applications/Utilities/` 目录，执行  
 ```
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/\
 LaunchServices.framework/Versions/A/Support/\
@@ -28,10 +28,10 @@ killall Finder
 `defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'`
 
 - **删除未下载完的App图标**  
-{% highlight %}
+```
 defaults write com.apple.dock ResetLaunchPad -bool true
 killall Dock
-{% endhighlight %}
+```
 
 ## 软件设置
 
