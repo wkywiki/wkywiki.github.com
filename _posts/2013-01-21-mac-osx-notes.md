@@ -12,12 +12,12 @@ title: OSX 使用手记
 
 - **清除OpenWith的重复项**  
 在终端中进入 `/Applications/Utilities/` 目录，执行
-{% highlight %}
+```
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/\
 LaunchServices.framework/Versions/A/Support/\
 lsregister -kill -r -domain local -domain user
 killall Finder
-{% endhighlight %}
+```
 如果执行完了没效果，可以删掉 `~/Library/Preferences/com.apple.LaunchServices.plist` 再试。
 
 - **清除DNS缓存**  
