@@ -77,6 +77,7 @@ h3(#utility_class). Utility Class
 ** "Flash Page Filp":http://www.flashpageflip.com/ - 一款翻页效果库
 ** "PageFilp":http://pageflip.hu/ - 同上
 ** "As3Pathfinder":https://github.com/azakhary/As3Pathfinder - a non A* Grid Path finding algorythm
+** "as3AStarWithGreenThread":https://github.com/yangboz/as3AStarWithGreenThread - AStar example at 『AdvanceEDActionScriptAnimation』 with Green Thread mechanism optimization.
 ** "MicroPather":https://github.com/tconkling/micropather-as3/ - 移植自 Lee Thomason’s C++ A* solver 的 A* 寻路库
 ** "silin":http://silin.su/ - 有不少不错的工具类
 
