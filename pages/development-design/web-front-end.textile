@@ -52,8 +52,9 @@ h3. CSS
 ** "entypo":http://www.entypo.com/
 ** "Font awsome":http://fortawesome.github.com/Font-Awesome/
 ** "Fonts.css":https://github.com/zenozeng/fonts.css - 跨平台中文字体解决方案
-** "font屌":http://lextang.com/fontdiao/ - font awsome 的中文分支，由lextang发布，扩展了一些新的图标
+** "font屌":http://lexrus.github.io/fontdiao/ - font awsome 的中文分支，由lextang发布，扩展了一些新的图标
 ** "RetinaJS":http://retinajs.com/ - Retina graphics for your website
+* "ICONFONT":http://www.iconfont.cn/ - 阿里巴巴出品的矢量图库
 
 * *Website*
 ** "CSSDB":http://cssdb.co/ - CSS Libraries
@@ -235,7 +236,6 @@ h3. Design Material
 * "simpleicons":http://simpleicons.org/
 * "TheyMakeIcons":http://theymakeicons.com/
 * "GLYPHOSH":http://www.glyphish.com/ - Great icons for beautiful apps
-* "ICONFONT":http://www.iconfont.cn/ - 阿里巴巴出品的矢量图库
 * "flaticon":http://www.flaticon.com/ - 免费的响应式扁平化图标库，带 Photoshop 插件
 
 h3. Image Placeholders
