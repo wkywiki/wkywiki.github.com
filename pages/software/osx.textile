@@ -29,12 +29,9 @@ h1. Mac OS X
 
 h3(#commonly-used). 常用
 * "常用快捷键":/assets/2013/07/shortcut_key.jpg
-* "QQ输入法":http://shurufa.qq.com/mac/
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
-* "Archiver":http://archiverapp.com/ - 同上
+* "Archiver":http://archiverapp.com/ - 压缩解压缩软件
 * "Homebrew":http://brew.sh/ - 软件包管理工具
-** "homebrew-cask":https://github.com/phinze/homebrew-cask - 使用命令行方式安装软件
-** "Cakebrew":http://www.cakebrew.com/ - 带 UI 管理的Mac App
 * "Renamer":http://renamer.com/ - 批量命名利器
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
 * "A Better Finder Attributes":http://www.publicspace.net/ABetterFinderAttributes/ - 一款文件属性修改软件
@@ -45,34 +42,14 @@ h3(#commonly-used). 常用
 ** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
 ** "相关用法和插件介绍":http://foocoder.com/blog/wo-zai-yong-de-macruan-jian-2.html/
 * "Prezto":https://github.com/sorin-ionescu/prezto - oh-my-zsh 的简化衍生版本
-* "Paragon NTFS for Mac":http://www.paragon-software.com/home/ntfs-mac/ - 进行NTFS分区读写，支持lion
 * "AppZapper":http://appzapper.com/ - 应用清理卸载工具
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
-** "Alfred Tips":http://alfredtips.com/
-** *Workflows*
-*** "Github on Alfred":http://7h2o.com/index.php/posts/github-on-alfred
-*** "stackoverflow":http://7h2o.com/index.php/posts/stackoverflow-alfred-workflow - 直接搜索 stackoverflow
-*** "Dev Doctor":http://wemakeawesomesh.it/alfred-dev-doctor/ - 开发文档检索工具
-*** "Alfredv2-Extensions - lucifr":https://github.com/lucifr/Alfredv2-Extensions/ - lucifr写的三个扩展，包括豆瓣搜索、海盗船搜索、Google站点搜索
-*** "Schoeps's Alfred workflow":https://bitbucket.org/schoeps/alfred/downloads - 包括 VPN和SSH连接等实用workflows
-*** "Franzheidl's Alfred workflow":https://github.com/franzheidl/alfred-workflows - 包括在当前目录运行终端命令，用Sublime Text打开等workflows
-*** "New Text File in front folder":http://www.alfredforum.com/topic/1083-new-text-file-in-front-folder/ - 在当前目录建文本文件的workflow
-*** "Transmit favorites":https://github.com/BigLuck/alfred2-transmit - 快速打开Transmit收藏的服务器
-*** "Kill Process":https://github.com/nathangreenstein/alfred-process-killer - 快速结束进程
-*** "DNS Cache":http://www.alfredforum.com/topic/325-workflow-dns-cache/ - 快速清除系统DNS缓存
-** *workflows作者们的website*
-*** "hzlzh":https://github.com/hzlzh/Alfred-Workflows
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
-* "Cinch":http://www.irradiatedsoftware.com/cinch/ - 实现像 win7 一样的窗口拖动帖边排列功能
 * "Window Magnet":http://magnet.crowdcafe.com/ - 同上，支持 OSX10.9
 * "SizeUp":http://www.irradiatedsoftware.com/sizeup/ - 同上，不过是用快捷键控制
-* "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
-* "Sparrow":http://www.sparrowmailapp.com/ - 邮箱客户端，支持Gmail的Push提醒
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 * "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 * "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
-* "Mou":http://mouapp.com/ - Markdown编辑器
-* "haroopad":http://pad.haroopress.com/ - 跨平台的markdown编辑器
 
 h3(#entertainment). 媒体
 * *图片相关*
@@ -99,11 +76,9 @@ h3(#entertainment). 媒体
 ** "QLab":http://figure53.com/qlab/ - 一款不错的音频编辑应用
 ** "Triumph":http://www.audiofile-engineering.com/triumph/ - 使用一种称之为 Layers 的创新技术来编辑音频
 * *视频相关*
-** "Air Video":http://www.inmethod.com/air-video/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
 ** "iFFMpeg":http://www.iffmpeg.com/ - 视频转换工具
 ** "MP4Tools":http://www.emmgunn.com/mp4tools/mp4toolshome.html - MP4视频转换/分割/合并工具
 ** "MplayerX":http://mplayerx.org/ - 强大的视频播放器
-** "Perian":http://perian.org/ - 可以让quicktime支持更多格式
 ** "Reflector.app":https://www.reflectorapp.com/ - 可以在电脑上显示ios设备内容
 ** "ScreenFlick":http://www.araelium.com/screenflick/ - 同上
 ** "ScreenFlow":http://itunes.apple.com/us/app/screenflow/id422025166?mt=12 - 强大的屏幕录像工具
@@ -111,9 +86,8 @@ h3(#entertainment). 媒体
 ** "StreamToMe":http://projectswithlove.com/streamtome/ - 同上
 ** "LICEcap":http://www.cockos.com/licecap/ - 一款屏幕录像工具，录制成 gif 格式
 ** "vidconvert":http://www.reggieashworth.com/vidconvert - 一款视频转换软件，支持多种视频格式
-** "Youku-Bypass":https://github.com/CaledoniaProject/Youku-Bypass - 绕过Youku所有限制播放和下载，程序会自动选择最高清画质的视频
+** "Handbrake":https://handbrake.fr/ - 一款开源免费跨平骒的视频转换软件
 * *其他*
-** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 网站音频和视频下载工具
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
 ** "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 ** "Twins Mini":http://www.rockysandstudio.com/apps/twinsmini - 查找系统中重复的文件及照片
