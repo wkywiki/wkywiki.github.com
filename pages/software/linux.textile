@@ -8,6 +8,7 @@ h1. {{ page.title }}
 h3. 发行版
 * "Arch Linux":http://archlinux.org
 * "CentOS":http://centos.org
+* "CoreOS":https://coreos.com/
 * "Debian":http://www.debian.org
 * "Fedora":http://fedoraproject.org
 * "Gentoo Linux":http://www.gentoo.org
