@@ -99,9 +99,11 @@ h3(#tools). Tools
 ** "Ulead GIF Animator":http://www.corel.com/corel/
 
 h3(#server). Server
+* "BigWorld":http://bigworldtech.com/ - BigWorld为大型多人在线游戏 (MMOG) 开发商提供成熟的中间件平台，这一中间件平台正迅速成为行业标准。
 * "Chilly":http://chillyframework.com/ - 开源，同样基于 node.js 的游戏服务端框架
 * "ElectroTank(ElectroServer)":http://www.electrotank.com/ - 跨平台的手机社交游戏服务端框架
 * "Firefly":http://firefly.9miao.com/ - 免费、开源、稳定、快速扩展、能“热更新”的分布式游戏服务器端框架，采用Python编写，基于Twisted框架开发
+* "KBEngine":http://www.kbengine.org/ - 一款开源的支持多人同时在线实时游戏的服务端引擎，使用简单的约定协议就能够使客户端与服务端进行交互，使用KBEngine插件能够快速与(Unity3D、OGRE、Cocos2d、HTML5,等等)技术结合形成一个完整的客户端。
 * "Photon":http://www.exitgames.com/ - 跨平台的多人在线游戏服务端框架
 * "Pomelo":http://pomelo.netease.com/ - 开源、快速、扩展性好、分布式游戏后端开发框架，网易出品
 * "SmartFox":http://www.smartfoxserver.com/ - 比较有名的获平台多人在线游戏服务端框架
