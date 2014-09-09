@@ -22,6 +22,22 @@ h3. Utility Tools
 * "NSLogger":https://github.com/fpillet/NSLogger - 一款强大、免费、必备的Log输出工具
 * "CoreDataPro":https://github.com/yepher/CoreDataUtility
 * "AGi18n":https://github.com/angelolloqui/AGi18n - 自动生成多语言翻译内容
+* 逆向常用工具
+** "Reveal":http://blog.csdn.net/yiyaaixuexi/article/details/18220875
+** "Cycript":http://blog.csdn.net/yiyaaixuexi/article/details/18317819
+** "Class-dump":http://blog.csdn.net/yiyaaixuexi/article/details/18353423
+** "Keychain-Dumper":http://blog.csdn.net/yiyaaixuexi/article/details/18404343
+** "gdb":http://blog.csdn.net/yiyaaixuexi/article/details/18520053
+** "iNalyzer":http://blog.csdn.net/yiyaaixuexi/article/details/18968125
+** "introspy":http://blog.csdn.net/yiyaaixuexi/article/details/18985131
+** "Fishhook":http://blog.csdn.net/yiyaaixuexi/article/details/19094765
+** "removePIE":http://blog.csdn.net/yiyaaixuexi/article/details/20391001
+** "IDA pro":https://www.hex-rays.com/index.shtml
+** "Hopper":http://www.hopperapp.com/
+** "snoop-it":https://code.google.com/p/snoop-it/
+** "iDB":https://github.com/dmayer/idb
+** "Charles":http://www.charlesproxy.com/
+** "SSL Kill Switch":https://github.com/iSECPartners/ios-ssl-kill-switch
 
 h3. Library
 * "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X（请求接口，加载图片，上传文件等）
