@@ -95,6 +95,7 @@ h3. Javascript
 ** "tinycon":https://github.com/tommoor/tinycon - 通过chrome的favicon来动态显示数字信息，比如未读消息
 ** "腾讯Web开源库":http://tencentopen.github.io/
 ** "Javascript":https://github.com/jakesgordon/javascript-state-machine - 基于Javascript的有限状态机实现("阮一峰的介绍文章":http://www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html)
+** "tracking.js":http://trackingjs.com/ - 一款面部识别库
 
 * *Tools*
 ** "closure":https://developers.google.com/closure/ - Google推出的一套javascript开发工具
