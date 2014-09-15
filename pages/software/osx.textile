@@ -30,6 +30,7 @@ h1. Mac OS X
 h3(#commonly-used). 常用
 * "常用快捷键":/assets/2013/07/shortcut_key.jpg
 * "Archiver":http://archiverapp.com/ - 压缩解压缩软件
+* "Entropy":http://www.eigenlogik.com/entropy/ - 压缩解压缩软件
 * "Homebrew":http://brew.sh/ - 软件包管理工具
 * "Dropbox":http://www.dropbox.com - 文件同步工具
 * "XtraFinder":http://www.trankynam.com/xtrafinder/ - 文件管理器，免费的TotalFinder替代软件
