@@ -106,6 +106,7 @@ h3(#server). Server
 * "KBEngine":http://www.kbengine.org/ - 一款开源的支持多人同时在线实时游戏的服务端引擎，使用简单的约定协议就能够使客户端与服务端进行交互，使用KBEngine插件能够快速与(Unity3D、OGRE、Cocos2d、HTML5,等等)技术结合形成一个完整的客户端。
 * "Photon":http://www.exitgames.com/ - 跨平台的多人在线游戏服务端框架
 * "Pomelo":http://pomelo.netease.com/ - 开源、快速、扩展性好、分布式游戏后端开发框架，网易出品
+* "Scut":https://github.com/ScutGame/Scut
 * "SmartFox":http://www.smartfoxserver.com/ - 比较有名的获平台多人在线游戏服务端框架
 
 h3(#services). Services
