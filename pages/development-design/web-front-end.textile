@@ -70,7 +70,6 @@ h3. Javascript
 ** "Ember.js":http://emberjs.com/ - 一款空前高效的前端框架
 ** "Kissy":http://kissyui.com/ - 由淘宝前端团队发布的一款开源JS类库
 ** "NEJ":http://nej.netease.com/ - 简洁，美观，真正的跨平台web前端开发框架，网易出品
-** "Node.js":http://nodejs.org/ - 基于Javascript的Web服务端解决方案
 ** "SeaJS":http://seajs.com/ - SeaJS 是一个遵循CommonJS规范的模块加载框架，可用来轻松加载任意JavaScript模块
 ** "SproutCore":http://www.sproutcore.com/ - iCloud 和 MobileMe 的JS Framework
 *** "Ember.js中文站":http://emberjs.torriacg.org/
@@ -138,21 +137,6 @@ h3. Javascript
 *** "Masonry":http://masonry.desandro.com/index.html
 *** "waterfall":https://github.com/dio-el-claire/jquery.waterfall
 *** "WookMark":http://www.wookmark.com/jquery-plugin
-
-* *Node.js*
-** "官网":http://nodejs.org/
-** "源码(Github)":https://github.com/joyent/node
-** "CNode - 中文社区":http://club.cnodejs.org/
-** "NAE":http://cnodejs.net/ - NodeJS应用开发与运行平台
-** 开发工具
-*** "Sublime Text - Nodejs":https://github.com/tanepiper/SublimeText-Nodejs
-*** "nide":http://coreh.github.io/nide/ - 一款简洁实用的node.js编辑器
-** *相关实现*
-*** "node-readability":https://github.com/arrix/node-readability - 像evernote的那个chrome插件那样，自动分析页面里的正文抓取
-*** "stylus":https://github.com/LearnBoost/stylus - Expressive, robust, feature-rich CSS language built for nodejs
-*** "roots":https://github.com/jenius/roots - a toolkit for rapid advanced front-end development
-*** "js2coffee":https://github.com/rstacruz/js2coffee
-*** "hoodie":http://hood.ie/ - 基于node.js和couchdb的web app开发框架
 
 ** *Framework*
 *** "koa":http://koajs.com/ - next generation web framework for node.js
