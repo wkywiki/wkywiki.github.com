@@ -24,6 +24,7 @@ h3. Assets
 * "PoolManager":http://poolmanager.path-o-logical.com/ - 对象池管理
 * "Rain":http://rivaltheory.com/rain/ - 行为树插件[wiki](http://rivaltheory.com/wiki/doku.php?id=gettingstarted:start)
 * "FCC - Free Character Controller":http://ruhrnuklear.de/fcc/ 一套免费的人物和镜头控制类，类似 WOW 
+* "M2H":
 
 h3. RPG Kit
 * "ZERANO RPG KIT":http://zerano-unity3d.com/RPGKit/rpg-kit-2-0/
@@ -39,6 +40,9 @@ h3. Website
 * "Unity圣典":http://game.ceeger.com/
 * "3DAssetShop":http://mr-necturus.com/shop/
 * "ZeranoShop":http://zerano-unity3d.com/
+
+h3. Video Lessons
+* "Quill18's Unity 3d & Blender Game Programming Tutorials":http://quill18.com/unity_tutorials/
 
 h3. References
 * "官方中文手册":http://edu.china.unity3d.com/learning_document
