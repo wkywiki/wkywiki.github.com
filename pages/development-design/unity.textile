@@ -29,6 +29,7 @@ h3. RPG Kit
 * "ZERANO RPG KIT":http://zerano-unity3d.com/RPGKit/rpg-kit-2-0/
 * "ORK Okashi RPG Kit":http://rpg-kit.com/
 * "Top-Down RPG Starter Kit":https://www.assetstore.unity3d.com/en/#!/content/15552
+* "Atavism":http://www.atavismonline.com/ - MMORPG 解决方案
 
 h3. Tools
 * "disunity":https://github.com/ata4/disunity/ - An experimental toolset for Unity asset and asset bundle files.
@@ -38,6 +39,9 @@ h3. Website
 * "Unity圣典":http://game.ceeger.com/
 * "3DAssetShop":http://mr-necturus.com/shop/
 * "ZeranoShop":http://zerano-unity3d.com/
+
+h3. Video Lessons
+* "Quill18's Unity 3d & Blender Game Programming Tutorials":http://quill18.com/unity_tutorials/
 
 h3. References
 * "官方中文手册":http://edu.china.unity3d.com/learning_document
