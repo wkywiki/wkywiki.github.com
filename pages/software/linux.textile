@@ -65,6 +65,9 @@ h3(#other). 其他
 * "virtualbox":http://download.virtualbox.org/virtualbox - 虚拟机
 * nautilus-open-terminal: 在右键菜单中加入在当前路径打开终端菜单项，使用apt-get安装即可
 
+h3(#references). 参考
+* "美丽新世界：linux 下的惬意生活":https://github.com/yangyangwithgnu/the_new_world_linux
+
 h3(#website). 相关网站
 * "commandlinefu":http://www.commandlinefu.com - linux命令大全
 * "ubuntusoft":http://www.ubuntusoft.com/ - Ubuntu资讯站

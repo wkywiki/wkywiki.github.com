@@ -127,7 +127,7 @@ h3(#development). 开发
 * "Vagrant":http://www.vagrantup.com/ - 一款基于ruby的跨平台虚拟开发环境部署软件，非常实用
 
 * *(#version)版本管理*
-** "SourceTree":http://www.sourcetreeapp.com/ - 同时支持Git、SVN、Mercurial的客户端
+** "SourceTree":http://www.sourcetreeapp.com/ - 同时支持Git、Mercurial的客户端
 ** *(#svn)SVN*
 *** "Versions":http://versionsapp.com/ - SVN客户端
 *** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
@@ -135,11 +135,7 @@ h3(#development). 开发
 *** "Github":http://mac.github.com - 免费的github官方客户端
 *** "Gitifier":http://psionides.github.com/gitifier/Github - 代码库监控器
 *** "Gitbox":http://www.gitboxapp.com/ - 代码片段收集工具
-*** "CodeRunner":http://krillapps.com/coderunner/ - 代码片段测试工具
 *** "Tower":http://www.git-tower.com/
-*** "GitX==(L)==":http://gitx.laullon.com/
-*** "Gity":http://gityapp.com/
-*** "Gitti":http://www.gittiapp.com/
 ** *(#hg)Mercurial*
 *** "MacHg":http://jasonfharris.com/machg/
 
@@ -162,6 +158,7 @@ h3(#development). 开发
 ** "Anvil":http://anvilformac.com/ - 可以在本地建立网页服务器供局域网内终端访问
 ** "Visual Paradigm":http://www.visual-paradigm.com/ - 划平台的 UML 建模和 CASE 工具
 ** "ArgoUML":http://argouml.tigris.org/
+** "CodeRunner":http://krillapps.com/coderunner/ - 代码片段测试工具
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
