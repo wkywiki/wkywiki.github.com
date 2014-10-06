@@ -222,26 +222,14 @@ h3(#system). 系统工具
 * Termainal
 ** "Flat Terminal 配色":https://github.com/ahmetsulek/flat-terminal
 ** "Smyck":http://color.smyck.org/
-* "TotalTerminal":http://totalterminal.binaryage.com/ - 增强版的Terminal
-* "TabLauncher":http://tablauncher.com/ - 标签化Dock
-* "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
-* "PathFinder":http://cocoatech.com/ - 同上
-* "HyperDock":http://hyperdock.bahoom.com/ - 让Dock程序显示预览窗口
 * "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
-* "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具
 * "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
 ** "iTerm2 Color Themes":https://github.com/baskerville/iTerm-2-Color-Themes
 ** "iTerm2新手应知特色功能":http://www.yangzhiping.com/tech/iterm2.html
 * "Divvy":http://mizage.com/divvy/ - 一款窗口排列工具，可以将窗口按网格排列
-* "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
-* "Kext Helper":http://cheetha.net/ - kext安装工具
-* "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
 * "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 同上
-* "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
 * "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
-* "Go2Shell":http://itunes.apple.com/us/app/go2shell/id445770608 - 在当前选定文件夹的位置打开终端
-* "Cdto":https://code.google.com/p/cdto/ - 可以在Finder右上角加个Terminal图标，方便在当前路径打开控制台
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
 * "Gas Mask":http://code.google.com/p/gmask/ - 方便实用的hosts文件管理工具
 * "Day-O":http://www.shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
