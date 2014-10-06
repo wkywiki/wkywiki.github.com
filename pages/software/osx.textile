@@ -28,6 +28,7 @@ h3. Contents
 h1. Mac OS X
 
 h3(#commonly-used). 常用
+
 * "常用快捷键":/assets/2013/07/shortcut_key.jpg
 * "Archiver":http://archiverapp.com/ - 压缩解压缩软件
 * "Entropy":http://www.eigenlogik.com/entropy/ - 压缩解压缩软件
@@ -47,6 +48,7 @@ h3(#commonly-used). 常用
 * "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
 
 h3(#entertainment). 媒体
+
 * *图片相关*
 ** "Aperture":http://www.apple.com.cn/aperture/ - Apple 官方出品的照片处理软件
 ** "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
@@ -89,6 +91,7 @@ h3(#entertainment). 媒体
 ** "texts":http://www.texts.io/  - 将markdown文件转换为pdf、epub等格式
 
 h3(#network). 网络
+
 * *下载上传*
 ** "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具
 ** "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
@@ -169,6 +172,7 @@ h3(#development). 开发
 ** "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB
 
 h3(#design). 设计
+
 * *(#design-web)网页*
 ** "SpriteRight":http://itunes.apple.com/us/app/spriteright/id488584662?mt=12 - CSS必备工具
 ** "Espresso":http://macrabbit.com/espresso/ - Web编程利器
@@ -204,6 +208,7 @@ h3(#design). 设计
 ** "Glyphs":http://glyphsapp.com/ - 目前最好用的字体修改工具
 
 h3(#productivity). 效率
+
 * "OmniFocus":https://www.omnigroup.com/omnifocus - 强大的 GTD 软件
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
@@ -213,8 +218,10 @@ h3(#productivity). 效率
 * "Time out free":https://itunes.apple.com/us/app/time-out-free/id402592703?mt=12 - 一款提醒定时休息的应用
 
 h3(#system). 系统工具
+
 * Termainal
 ** "Flat Terminal 配色":https://github.com/ahmetsulek/flat-terminal
+** "Smyck":http://color.smyck.org/
 * "TotalTerminal":http://totalterminal.binaryage.com/ - 增强版的Terminal
 * "TabLauncher":http://tablauncher.com/ - 标签化Dock
 * "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
@@ -252,14 +259,13 @@ h3(#system). 系统工具
 * "omnidisksweeper":http://www.omnigroup.com/products/omnidisksweeper/ - 直观查看占用磁盘空间的文件夹
 
 h3(#shell_tools). Shell工具
+
 * tree : brew install tree - 在Shell下以树的方式查看目录结构的工具
 * htop : brew install htop - 很强大的交互式processor viewer，可以查看CPU的使用情况，按照各种规则进行排序，过滤等
 * tig : brew install tig - 命令行下的很强大的git管理工具
 
-h3(#game). 游戏
-* "OpenEmu":http://openemu.org/ - 开源的游戏模拟器
-
 h3(#other). 其他
+
 * "Free":https://itunes.apple.com/cn/app/free/id486226904?mt=12 - 一款支持Markdown专注与写作的软件
 * "Byword":https://itunes.apple.com/cn/app/byword/id420212497?mt=12 - 同上
 * "iA Writer":https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12 - 同上
@@ -272,5 +278,6 @@ h3(#other). 其他
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 
 h3(#website). 相关网站
+
 * "defaults-write":http://www.defaults-write.com/ - 查询各种 default write 命令的网站
 * "Secrets":http://secrets.blacktree.com/ - 查询各种隐藏设置的网站，包括各种 default write
