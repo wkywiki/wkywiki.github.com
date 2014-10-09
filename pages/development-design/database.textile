@@ -66,3 +66,4 @@ h3. Tools
 
 h3. References
 * "Postgres指南":http://pgguide.lxneng.com/
+* "Making MySQL Better at GitHub":https://github.com/blog/1880-making-mysql-better-at-github
