@@ -78,12 +78,9 @@ h3(#design). 设计
 * "AndreaMosaic":http://www.andreaplanet.com/andreamosaic/ - 蒙太奇马赛克拼图制作软件
 * "GraphicsGale":http://www.humanbalance.net/gale/us/ - 强大的像素图制作软件
 * "FastStone Photo Resizer":http://www.faststone.org/FSResizerDetail.htm - 图片批量缩放、加水印、重命名一应俱全
-* "Converseen":http://converseen.sourceforge.net/ - 跨平台图片处理工具
-* "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
 * "SuperGIF":http://www.boxtopsoft.com/supergif.html - gif优化工具
 * "PNGGauntlet":http://pnggauntlet.com/ - PNG优化工具
 * "PNGQuant":http://pngquant.org/ - 将24/32-bit的PNG图片转为8-bit而不破坏透明度的小工具
-* "Bitmap Font Generator":http://www.angelcode.com/products/bmfont/ - 一款位图字体制作工具
 * "Collagelt Pro":http://www.collageitfree.com/ - 一款这用的图片拼接软件，有 OSX 和 iOS 平台版本
 
 h3(#media). 音视频
@@ -93,31 +90,26 @@ h3(#media). 音视频
 * "K-Lite Codec Pack":http://www.codecguide.com/klcp_update.htm - 一款免费全能音视频播放器
 * "Camtasia Studio":http://www.techsmith.com/camtasia.html - 强大的视频录制软件
 * "Bandicam":http://www.bandicam.com/ - 小巧实用的屏幕录制软件
-* "Fraps":http://www.fraps.com/ - 为游戏而生的屏幕录制软件
 * "Audition":http://www.adobe.com/products/audition.html - Adobe公司的音频处理软件，前身是CoolEdit
 * "NUENDO":http://www.nuendo.com - 德国STEINBERG公司开发的音乐制作软件
 * "Debut Video Capture Software":http://www.nchsoftware.com/capture/index.html - 摄像头和桌面视频录制
-* "Quintessential Media Player":http://www.quinnware.com/index.php - 一款音乐播放器，同时也是一款强大的 MP3 信息更发工具
 * "mkvtoolnix":http://www.bunkus.org/videotools/mkvtoolnix/ - MKV 无损切割、合并、封装工具
 
 h3(#productivity). 效率
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "Tudumo":http://www.tudumo.com - 免费小巧的GTD软件
 * "ToDoList":http://www.abstractspoon.com - 免费功能强大的GTD软件
-* "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
 
 h3(#system). 系统
-* "Console":http://sourceforge.net/projects/console/ - 命令行替换工具，支持多标签，字体设置等
 * "XueTr":http://www.xuetr.com/ - 内核级系统维护工具
 * "PowerTool":http://code.google.com/p/powertool-google/ - 内核级系统维护工具
 * "SREng":http://www.kztechs.com/sreng/ - 同上，能在win7 64位下正常运行
 * "FolderMonitor":http://www.nodesoft.com/foldermonitor - 文件夹监控工具
 * "Listary":http://www.listary.com/ - Windows 文件浏览增强工具，为Windows 资源管理器增加智能命令、最近文档以及收藏功能
-* "MacType":http://getmactype.com/ - 实现 OSX 渲染效果的软件
-* "ConEmu":http://code.google.com/p/conemu-maximus5/ - 很强的终端模拟器
-* "Classic Shell":http://classicshell.sourceforge.net/ - 强大的开始菜单替代工具
+* "StartIsBack":http://startisback.com/ - Windows8下开始菜单替代工具
 * "Linux Reader":http://www.diskinternals.com/linux-reader/ - linux系统文件读写工具
 * "Ext2explore":http://sourceforge.net/projects/ext2read/files/ - 查看linux文件的小工具
+* "Rufus":http://rufus.akeo.ie/ - Create bootable USB drives the easy way
 
 h3(#other). 其他
 * "KidLogger":http://kidlogger.net/ - 用户行为监控软件，可以记录网页访问、键盘输入、运行程序等
