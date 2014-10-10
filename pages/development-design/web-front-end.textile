@@ -190,9 +190,11 @@ h3. HTML
 ** "HTML5手册":http://www.w3school.com.cn/html5/index.asp
 
 h3. Development Tools
+
 * "Viewport resizer":http://lab.maltewassermann.com/viewport-resizer/ - 实用的前端开发辅助工具，可以让当前网页以各种不同的分辨率展示
 
 h3. Analyze Performance
+
 * "阿里测":http://alibench.com/
 * "GTMetrix":http://gtmetrix.com/
 * "Loadimpact":http://loadimpact.com/
@@ -200,6 +202,7 @@ h3. Analyze Performance
 * "Yahoo YSlow":http://developer.yahoo.com/yslow/
 
 h3. Web Site
+
 * "W3C Tech":http://w3ctech.com/
 * "F2E":http://f2e.im/ - 前端技术社区
 * "CSS weekly":http://css-weekly.com
@@ -209,8 +212,10 @@ h3. Web Site
 * "HTML5 Weekly":http://html5weekly.com
 * "Responsive Web Design Weekly":http://responsivedesignweekly.com
 * "前端可视化工具集合":http://selection.datavisualization.ch/
+* "Codrops":http://tympanus.net/codrops/ - 前端资源分享站
 
 h3. Design Material
+
 * "站酷-ZCool":http://www.zcool.com.cn
 * "GlypFish":http://www.glyphish.com
 * "Icons4Coffee":http://www.icons4coffee.com
@@ -224,8 +229,10 @@ h3. Design Material
 * "flaticon":http://www.flaticon.com/ - 免费的响应式扁平化图标库，带 Photoshop 插件
 
 h3. Image Placeholders
+
 * "Holder.js":http://imsky.github.com/holder/
 * "placekitten":http://placekitten.com/
 
 h3. Github Pages Themes
+
 * "modernist":https://github.com/orderedlist/modernist/
