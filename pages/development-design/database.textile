@@ -58,6 +58,9 @@ h3. Tools
 * "dbv":http://dbv.vizuina.com/ - MySQL 的版本控制工具
 * "MesaSQLite":http://www.desertsandsoftware.com/ - OSX平台下的 SQLite 管理应用
 * "Induction":http://inductionapp.com/ - A Polyglot Database Client for Mac OS X
+* "Querious":http://www.araelium.com/querious/ - MySQL管理工具 for Mac OS X
+* "Sequel Pro":http://www.sequelpro.com/ - 免费MySQL管理工具 for Mac OS X
+* "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB for Mac OS X
 * *Redis*
 ** "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin - php实现的redis管理工具
 * *MongoDB*
