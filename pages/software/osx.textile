@@ -5,7 +5,6 @@ title: OS X - Software
 
 <div id="charpter">
 h3. Contents
-* "常用":#commonly-used
 * "媒体":#entertainment
 * "网络":#network
 * "开发":#development
@@ -27,24 +26,12 @@ h3. Contents
 
 h1. Mac OS X
 
-h3(#commonly-used). 常用
-
-* "常用快捷键":/assets/2013/07/shortcut_key.jpg
-* "Entropy":http://www.eigenlogik.com/entropy/ - 压缩解压缩软件
-
-
-* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
-* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
-* "Window Magnet":http://magnet.crowdcafe.com/ - 窗口管理应用，支持像 Win7 一样拖放窗口
-
 h3(#entertainment). 媒体
 
 * *图片相关*
-** "Aperture":http://www.apple.com.cn/aperture/ - Apple 官方出品的照片处理软件
 ** "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
 ** "PhotoBulk":https://itunes.apple.com/us/app/photobulk-watermark-resize/id537211143?mt=12 - 一款支持水印，调整大小，调整品质的图片处理软件
 ** "ImageOptim":http://imageoptim.com/ - png优化工具
-** "HDRtist Pro":http://itunes.apple.com/cn/app/hdrtist-pro/id436335293?mt=12 - 一款HDR图像合成软件，可以将三张同时拍摄不同曝光的照片合成一张HDR图像
 ** "Voila":http://www.globaldelight.com/voila - 一款强大的截图软件
 ** "SwordSoft Screenink":https://itunes.apple.com/us/app/swordsoft-screenink/id556304449?ls=1&mt=12 - 同上
 ** "Flare":http://flareapp.com/ - 好用的照片后期处理软件
@@ -60,7 +47,6 @@ h3(#entertainment). 媒体
 ** "X Lossless Decoder":http://tmkk.undo.jp/xld/index_e.html - 无损音频转码工具
 ** "iSonics":http://www.osxbytes.com/ - 音乐格式转换工具
 ** "Fission":https://itunes.apple.com/cn/app/fission/id549251391?l=en&mt=12 - 简洁实用的音频剪辑软件
-** "QLab":http://figure53.com/qlab/ - 一款不错的音频编辑应用
 ** "Triumph":http://www.audiofile-engineering.com/triumph/ - 使用一种称之为 Layers 的创新技术来编辑音频
 * *视频相关*
 ** "iFFMpeg":http://www.iffmpeg.com/ - 视频转换工具
@@ -183,6 +169,7 @@ h3(#design). 设计
 
 h3(#productivity). 效率
 
+* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "OmniFocus":https://www.omnigroup.com/omnifocus - 强大的 GTD 软件
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
@@ -204,12 +191,12 @@ h3(#system). 系统工具
 * Termainal
 ** "Flat Terminal 配色":https://github.com/ahmetsulek/flat-terminal
 ** "Smyck":http://color.smyck.org/
-* "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
 * "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
 ** "iTerm2 Color Themes":https://github.com/baskerville/iTerm-2-Color-Themes
 ** "iTerm2新手应知特色功能":http://www.yangzhiping.com/tech/iterm2.html
 * "Divvy":http://mizage.com/divvy/ - 一款窗口排列工具，可以将窗口按网格排列
-* "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 同上
+* "Window Magnet":http://magnet.crowdcafe.com/ - 窗口管理应用，支持像 Win7 一样拖放窗口
+* "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - NTFS 分区读写工具
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
 * "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
@@ -218,34 +205,21 @@ h3(#system). 系统工具
 * "CharlesSoft":http://www.charlessoft.com/ - 提取安装包中的文件
 * "ControlPlane":http://www.controlplaneapp.com/ - 根据不同环境使用不同配置（比如：更改默认浏览器，关闭WIFI使用有线等）
 * "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
-* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
-* "Fink":http://www.finkproject.org/ - 同上
-* "BetterZip":http://macitbetter.com/ - 功能强大的压缩软件
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
-* "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
-* "Bartender":http://www.macbartender.com/ - 菜单栏管理工具
 * "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
 * "omnidisksweeper":http://www.omnigroup.com/products/omnidisksweeper/ - 直观查看占用磁盘空间的文件夹
 
-h3(#shell_tools). Shell工具
-
-* tree : brew install tree - 在Shell下以树的方式查看目录结构的工具
-* htop : brew install htop - 很强大的交互式processor viewer，可以查看CPU的使用情况，按照各种规则进行排序，过滤等
-* tig : brew install tig - 命令行下的很强大的git管理工具
-
 h3(#other). 其他
 
-* "Free":https://itunes.apple.com/cn/app/free/id486226904?mt=12 - 一款支持Markdown专注与写作的软件
-* "Byword":https://itunes.apple.com/cn/app/byword/id420212497?mt=12 - 同上
-* "iA Writer":https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12 - 同上
-* "Prices Drop Monitor for Amazon":http://itunes.apple.com/cn/app/prices-drop-monitor-for-amazon/id473939551
-* "hydra":https://github.com/sdegutis/hydra - 一款轻量级的窗口管理器，可用脚本实现更多功能
+* "常用快捷键":/assets/2013/07/shortcut_key.jpg
+* "Entropy":http://www.eigenlogik.com/entropy/ - 压缩解压缩软件
 * "Renamer":http://renamer.com/ - 批量命名利器
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
 * "A Better Finder Attributes":http://www.publicspace.net/ABetterFinderAttributes/ - 一款文件属性修改软件
 * "Name Mangler":http://manytricks.com/namemangler/ - 同上
-* "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
+* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
+* "hydra":https://github.com/sdegutis/hydra - 一款轻量级的窗口管理器，可用脚本实现更多功能
 
 h3(#website). 相关网站
 
