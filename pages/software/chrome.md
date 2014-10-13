@@ -3,16 +3,18 @@ layout: default
 title: Chrome - Software
 ---
 
+# Chrome
+
 <!-- MarkdownTOC -->
 
 - [Plugins][plugins]
-- [Development][develop]
+- [Development][development]
 - [Scripts][scripts]
-- [Documents][docs]
+- [Documents][documents]
 
 <!-- /MarkdownTOC -->
 
-## Plugins {#plugins}
+## [Plugins](#plugins)
 
 -   [JsonView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 -   [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related) - 书签搜索工具
@@ -23,19 +25,19 @@ title: Chrome - Software
 -   [stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe) - css修改器
 -   [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm)
 
-## Development {#develop}
+## [Development](#develop)
 
 -   [Chrome DevTools Extensions For Web App](http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/) - 几款超强的前端调试工具
 -   [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - REST client
 -   [声海盗](https://chrome.google.com/webstore/detail/%E5%A3%B0%E6%B5%B7%E7%9B%97/idleenniidjlnmnjkjmmnocnkmjibadd/related) - 各大音乐站在线音乐下载
 -   [Crack Url Wait Code Login](http://userscripts.org/scripts/show/153190)
 
-## Scripts {#scripts}
+## [Scripts](#scripts)
 
 -   [Straight Google](https://userscripts.org/scripts/show/121261) - 一款去Google跳转链接的工具
 -   [Google Real Link](http://userscripts.org/scripts/show/125473) - 同上
 
-## Documents {#docs}
+## [Documents](#docs)
 
 -   [开发工具调试技巧](http://ued.taobao.com/blog/2012/06/03/debug-with-chrome-dev-tool/)
 
