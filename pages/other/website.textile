@@ -111,6 +111,9 @@ h3. 网络应用
 ** "腾讯服务器时间查询":http://cgi.im.qq.com/cgi-bin/cgi_svrtime
 ** "聚合数据":http://www.juhe.cn/ - 一款聚合众多查询接口与一身的服务
 ** "Parse":https://parse.com/ - 提供应用数据存储和帐户管理的服务
+** "Survey Monkey":https://www.surveymonkey.com/ - 在线自定义网络调查服务
+** "麦客":http://www.mikecrm.com/ - 自定义信息收集平台
+** "问卷网":http://www.wenjuan.com/ - 自建表单信息收集平台
 * *工具类*
 ** "Online Audio Cutter":http://cut-mp3.com/ - 在线分割mp3
 ** "httpbin":http://httpbin.org/ - 提供简单的 API，来根据 URL 返回相关信息

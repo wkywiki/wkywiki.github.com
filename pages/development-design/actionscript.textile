@@ -80,6 +80,7 @@ h3(#utility_class). Utility Class
 ** "as3AStarWithGreenThread":https://github.com/yangboz/as3AStarWithGreenThread - AStar example at 『AdvanceEDActionScriptAnimation』 with Green Thread mechanism optimization.
 ** "MicroPather":https://github.com/tconkling/micropather-as3/ - 移植自 Lee Thomason’s C++ A* solver 的 A* 寻路库
 ** "silin":http://silin.su/ - 有不少不错的工具类
+** "vec2":https://github.com/azrafe7/vec2 - 2D vector class for AS3
 
 h3(#engine). Engine
 * *(#game)Game*
