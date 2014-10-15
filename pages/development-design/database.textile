@@ -5,6 +5,7 @@ title: Database
 h1. Database
 
 h3. Relational Database
+
 * "MySQL":http://www.mysql.com/
 ** "TokuDB":http://www.tokutek.com/products/tokudb-for-mysql/ - MySQL 数据引擎，性能比 InnoDB 还要好
 ** "WebScaleSQL":http://webscalesql.org/
@@ -43,9 +44,11 @@ h3. NoSQL Database
 ** "cdb":http://cr.yp.to/cdb.html
 
 h3. Other
+
 * "Twemproxy":https://github.com/twitter/twemproxy - 针对 MemCached 与 Redis 的代理服务器，可以通过它减少Memcached或Redis服务器所打开的连接数
 
 h3. Tools
+
 * "adminer":http://www.adminer.org/ - 基于 PHP 的强大的单文件数据库管理工具，支持 MySQL, PostgreSQL, SQLite, MS SQL 和 Oracle
 * "phpmyadmin":http://www.phpmyadmin.net/ - 基于 PHP 的老牌 MySQL 管理工具
 * "MySQL Workbench":http://www.mysql.com/products/workbench/ - MySQL官方强大的跨平台管理工具
@@ -55,6 +58,9 @@ h3. Tools
 * "dbv":http://dbv.vizuina.com/ - MySQL 的版本控制工具
 * "MesaSQLite":http://www.desertsandsoftware.com/ - OSX平台下的 SQLite 管理应用
 * "Induction":http://inductionapp.com/ - A Polyglot Database Client for Mac OS X
+* "Querious":http://www.araelium.com/querious/ - MySQL管理工具 for Mac OS X
+* "Sequel Pro":http://www.sequelpro.com/ - 免费MySQL管理工具 for Mac OS X
+* "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB for Mac OS X
 * *Redis*
 ** "phpRedisAdmin":https://github.com/ErikDubbelboer/phpRedisAdmin - php实现的redis管理工具
 * *MongoDB*
@@ -65,4 +71,6 @@ h3. Tools
 ** "RozorSQL":http://www.razorsql.com/ - 一款划平台的数据库管理工具，支持众多数据库
 
 h3. References
+
 * "Postgres指南":http://pgguide.lxneng.com/
+* "Making MySQL Better at GitHub":https://github.com/blog/1880-making-mysql-better-at-github

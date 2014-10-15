@@ -5,7 +5,6 @@ title: OS X - Software
 
 <div id="charpter">
 h3. Contents
-* "常用":#commonly-used
 * "媒体":#entertainment
 * "网络":#network
 * "开发":#development
@@ -27,34 +26,12 @@ h3. Contents
 
 h1. Mac OS X
 
-h3(#commonly-used). 常用
-
-* "常用快捷键":/assets/2013/07/shortcut_key.jpg
-* "Archiver":http://archiverapp.com/ - 压缩解压缩软件
-* "Entropy":http://www.eigenlogik.com/entropy/ - 压缩解压缩软件
-* "Homebrew":http://brew.sh/ - 软件包管理工具
-* "Dropbox":http://www.dropbox.com - 文件同步工具
-* "XtraFinder":http://www.trankynam.com/xtrafinder/ - 文件管理器，免费的TotalFinder替代软件
-* "oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh - zsh的安装配置文件， "安装方法":http://www.yangzhiping.com/tech/zsh-oh-my-zsh.html
-** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
-** "相关用法和插件介绍":http://foocoder.com/blog/wo-zai-yong-de-macruan-jian-2.html/
-* "Prezto":https://github.com/sorin-ionescu/prezto - oh-my-zsh 的简化衍生版本
-* "AppZapper":http://appzapper.com/ - 应用清理卸载工具
-* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
-* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
-* "Window Magnet":http://magnet.crowdcafe.com/ - 窗口管理应用，支持像 Win7 一样拖放窗口
-* "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
-* "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
-* "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
-
 h3(#entertainment). 媒体
 
 * *图片相关*
-** "Aperture":http://www.apple.com.cn/aperture/ - Apple 官方出品的照片处理软件
 ** "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
 ** "PhotoBulk":https://itunes.apple.com/us/app/photobulk-watermark-resize/id537211143?mt=12 - 一款支持水印，调整大小，调整品质的图片处理软件
 ** "ImageOptim":http://imageoptim.com/ - png优化工具
-** "HDRtist Pro":http://itunes.apple.com/cn/app/hdrtist-pro/id436335293?mt=12 - 一款HDR图像合成软件，可以将三张同时拍摄不同曝光的照片合成一张HDR图像
 ** "Voila":http://www.globaldelight.com/voila - 一款强大的截图软件
 ** "SwordSoft Screenink":https://itunes.apple.com/us/app/swordsoft-screenink/id556304449?ls=1&mt=12 - 同上
 ** "Flare":http://flareapp.com/ - 好用的照片后期处理软件
@@ -70,7 +47,6 @@ h3(#entertainment). 媒体
 ** "X Lossless Decoder":http://tmkk.undo.jp/xld/index_e.html - 无损音频转码工具
 ** "iSonics":http://www.osxbytes.com/ - 音乐格式转换工具
 ** "Fission":https://itunes.apple.com/cn/app/fission/id549251391?l=en&mt=12 - 简洁实用的音频剪辑软件
-** "QLab":http://figure53.com/qlab/ - 一款不错的音频编辑应用
 ** "Triumph":http://www.audiofile-engineering.com/triumph/ - 使用一种称之为 Layers 的创新技术来编辑音频
 * *视频相关*
 ** "iFFMpeg":http://www.iffmpeg.com/ - 视频转换工具
@@ -93,34 +69,23 @@ h3(#entertainment). 媒体
 h3(#network). 网络
 
 * *下载上传*
+** "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
+** "Dropbox":http://www.dropbox.com - 文件同步工具
 ** "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具
-** "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
-** "Jaksta":http://www.jaksta.com/download-video-for-mac/ - 视频、音乐下载工具
 ** "TFTPServer":http://ww2.unime.it/flr/tftpserver/ - 图形化的TFTPServer
-** "ForkLift":http://www.binarynights.com/ - 一款强大的FTP/SFT工具
+** "AeroFS":https://www.aerofs.com/ - 基于点对点的文件同步工具
 * *代理相关*
-** "SimpleSSHProxy":http://ivsays.appspot.com/2011/05/16/get-SimpleSSHProxy.html - 简洁实用的ssh代理软件
-** "autossh":http://www.harding.motd.ca/autossh/ - 可用homebrew安装，支持开始运行及断线重连
 ** "GoAgentX":https://github.com/ohdarling/GoAgentX - goagent的图形化版
-** "Proxychains Formula":https://github.com/lxneng/homebrew/commit/25da1bef5a9631315e078a5124c91ec785ff5efe - 可以使终端命令用上代理，可以用Homebrew安装(brew install proxychains)，感谢 "lxneng":http://lxneng.com 
-** "SSH Tunnel Manager":http://itunes.apple.com/us/app/ssh-tunnel-manager/id424470626?l=fr&mt=12 - Shimo无法创建SSH连接时要先安装这个
-** "iSSH":http://macserve.org.uk/projects/issh/ - 将ssh转换为sock使用
-** "iSSH-improved":http://code.google.com/p/issh-improved/ - iSSH的第三方发进版本
-** "Secret Socks":http://nihilex.com/secret-socks - 功能和iSSH类似
 ** "ProxyCap":http://www.proxycap.com/ - 可以让不支持代理的程序支持代理
 ** "Proxifier":http://www.proxifier.com/mac_download.htm - 同上
-** "breakwall":http://code.google.com/p/breakwall/
 * *其他*
-** "Postbox":http://www.postbox-inc.com/ - 一款不错的邮件客户端
-** "Sparrow":http://www.sparrowmailapp.com/ - 同上
+** "Egis":https://itunes.apple.com/ca/app/egis/id499170250?mt=12 - 小巧的网络监控软件
 ** "Charles":http://www.charlesproxy.com/ - 类似于Windows下fiddler的http调试工具
 ** "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
 ** "Debookee":http://www.iwaxx.com/debookee/ - 一款网络数据抓包和分析工具
 ** "TeamViewer":http://www.teamviewer.com - 远程控制工具
-** "Notify":http://vibealicious.com/apps/notify/ - 邮件提醒，支持多帐号
 ** "Little Snitch":http://www.obdev.at/products/littlesnitch/index.html - 控制应用程序访问网络
 ** "Rubbernetr":http://rubbernetapp.com/ - 实时查看网络占用情况
-** "shuttle":http://fitztrev.github.io/shuttle/ - 一款ssh连接管理软件，可以快速连接到设定好的ssh连接
 ** "Network Link Condirioner":http://nshipster.com/network-link-conditioner/ - 网络限速软件
 ** "speedlimit":http://mschrag.github.io/ - 网络限速软件
 
@@ -135,22 +100,20 @@ h3(#development). 开发
 *** "Versions":http://versionsapp.com/ - SVN客户端
 *** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
 ** *(#git)Git*
+*** "Tower":http://www.git-tower.com/
 *** "Github":http://mac.github.com - 免费的github官方客户端
 *** "Gitifier":http://psionides.github.com/gitifier/Github - 代码库监控器
-*** "Gitbox":http://www.gitboxapp.com/ - 代码片段收集工具
-*** "Tower":http://www.git-tower.com/
+*** "Gitbox":http://www.gitboxapp.com/
 ** *(#hg)Mercurial*
 *** "MacHg":http://jasonfharris.com/machg/
 
 * *(#useful)实用工具*
 ** "OSX GCC Installer":https://github.com/kennethreitz/osx-gcc-installer - 不用为了安装GCC而安装Xcode
 ** "Codebox":http://www.codeboxapp.com/ - 代码管理工具，可以高亮显示，按语言分类
-** "JSTalk Editor":http://jstalk.org/ - 基于JS脚本的系统自动化工具
 ** "Reggy":http://reggyapp.com/ - 正则表达式测试工具
 ** "Charles":http://www.charlessoft.com/ - 一款软件提取工具，无需安装即可修改安装包的内容
 ** "DeltaWalker Oro Edition":http://www.deltopia.com/ - 一款强大的文件/文件夹对比工具
 ** "Kaleidoscope":http://www.kaleidoscopeapp.com/ - 强大的文件比较工具
-** "Echo":http://echoapp.net/ - 一款Http调试工具
 ** "Hammer for Mac":http://hammerformac.com/ - 前端开发工具
 *** "Rock-Hammer":http://malarkey.github.com/Rock-Hammer/
 ** "CodeKit for Mac":http://incident57.com/codekit/ - 同上
@@ -167,9 +130,6 @@ h3(#development). 开发
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
 ** "MNPP":http://getmnpp.org/ - Mac + Nginx + Percona + PHP or Python
 ** "VirtualHostX":http://clickontyler.com/virtualhostx/ - 内置Apache ，MAMP,XAMPP,ZEND S CE四种环境的Web Server
-** "Querious":http://www.araelium.com/querious/ - MySQL管理工具
-** "Sequel Pro":http://www.sequelpro.com/ - 同上，免费
-** "Induction":http://inductionapp.com/ - 数据库管理工具，支持PostgreSQL、MySQL、Redis、MongoDB
 
 h3(#design). 设计
 
@@ -209,6 +169,7 @@ h3(#design). 设计
 
 h3(#productivity). 效率
 
+* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
 * "OmniFocus":https://www.omnigroup.com/omnifocus - 强大的 GTD 软件
 * "BusyCal":http://www.busymac.com/ - 强大的日程管理软件
 * "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
@@ -219,15 +180,23 @@ h3(#productivity). 效率
 
 h3(#system). 系统工具
 
+* "ForkLift":http://www.binarynights.com/forklift/ - 强大的文件管理器
+* "XtraFinder":http://www.trankynam.com/xtrafinder/ - 文件管理器，免费的TotalFinder替代软件
+* "Homebrew":http://brew.sh/ - 软件包管理工具
+* "oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh - zsh的安装配置文件， "安装方法":http://www.yangzhiping.com/tech/zsh-oh-my-zsh.html
+** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
+** "相关用法和插件介绍":http://foocoder.com/blog/wo-zai-yong-de-macruan-jian-2.html/
+* "Prezto":https://github.com/sorin-ionescu/prezto - oh-my-zsh 的简化衍生版本
+* "AppZapper":http://appzapper.com/ - 应用清理卸载工具
 * Termainal
 ** "Flat Terminal 配色":https://github.com/ahmetsulek/flat-terminal
 ** "Smyck":http://color.smyck.org/
-* "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
 * "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
 ** "iTerm2 Color Themes":https://github.com/baskerville/iTerm-2-Color-Themes
 ** "iTerm2新手应知特色功能":http://www.yangzhiping.com/tech/iterm2.html
 * "Divvy":http://mizage.com/divvy/ - 一款窗口排列工具，可以将窗口按网格排列
-* "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - 同上
+* "Window Magnet":http://magnet.crowdcafe.com/ - 窗口管理应用，支持像 Win7 一样拖放窗口
+* "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - NTFS 分区读写工具
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
 * "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
@@ -236,34 +205,21 @@ h3(#system). 系统工具
 * "CharlesSoft":http://www.charlessoft.com/ - 提取安装包中的文件
 * "ControlPlane":http://www.controlplaneapp.com/ - 根据不同环境使用不同配置（比如：更改默认浏览器，关闭WIFI使用有线等）
 * "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
-* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
-* "Fink":http://www.finkproject.org/ - 同上
-* "BetterZip":http://macitbetter.com/ - 功能强大的压缩软件
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
-* "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
-* "Bartender":http://www.macbartender.com/ - 菜单栏管理工具
 * "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
 * "omnidisksweeper":http://www.omnigroup.com/products/omnidisksweeper/ - 直观查看占用磁盘空间的文件夹
 
-h3(#shell_tools). Shell工具
-
-* tree : brew install tree - 在Shell下以树的方式查看目录结构的工具
-* htop : brew install htop - 很强大的交互式processor viewer，可以查看CPU的使用情况，按照各种规则进行排序，过滤等
-* tig : brew install tig - 命令行下的很强大的git管理工具
-
 h3(#other). 其他
 
-* "Free":https://itunes.apple.com/cn/app/free/id486226904?mt=12 - 一款支持Markdown专注与写作的软件
-* "Byword":https://itunes.apple.com/cn/app/byword/id420212497?mt=12 - 同上
-* "iA Writer":https://itunes.apple.com/cn/app/ia-writer/id439623248?mt=12 - 同上
-* "Prices Drop Monitor for Amazon":http://itunes.apple.com/cn/app/prices-drop-monitor-for-amazon/id473939551
-* "hydra":https://github.com/sdegutis/hydra - 一款轻量级的窗口管理器，可用脚本实现更多功能
+* "常用快捷键":/assets/2013/07/shortcut_key.jpg
+* "Entropy":http://www.eigenlogik.com/entropy/ - 压缩解压缩软件
 * "Renamer":http://renamer.com/ - 批量命名利器
 * "A Better Finder Rename":http://www.publicspace.net/ABetterFinderRename/ - 同上
 * "A Better Finder Attributes":http://www.publicspace.net/ABetterFinderAttributes/ - 一款文件属性修改软件
 * "Name Mangler":http://manytricks.com/namemangler/ - 同上
-* "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
+* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
+* "hydra":https://github.com/sdegutis/hydra - 一款轻量级的窗口管理器，可用脚本实现更多功能
 
 h3(#website). 相关网站
 
