@@ -173,4 +173,7 @@ li { padding: 5px 0; line-height: 1.5em; }
 	display:none;
 }
 
-.sticky #menu-nav {	position:fixed; overflow-y: auto; }
+.sticky #menu-nav {	
+	/** position:fixed; */
+	overflow-y: auto; 
+}
