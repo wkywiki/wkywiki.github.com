@@ -5,6 +5,15 @@ title: Chrome - Software
 
 # Chrome
 
+<!-- MarkdownTOC -->
+
+- [Plugins][plugins]
+- [Development][development]
+- [Documents][documents]
+
+<!-- /MarkdownTOC -->
+
+
 ## Plugins
 
 - [JsonView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)

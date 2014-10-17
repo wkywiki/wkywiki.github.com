@@ -117,6 +117,7 @@ h3(#system). 系统
 * "Linux Reader":http://www.diskinternals.com/linux-reader/ - linux系统文件读写工具
 * "Ext2explore":http://sourceforge.net/projects/ext2read/files/ - 查看linux文件的小工具
 * "Rufus":http://rufus.akeo.ie/ - Create bootable USB drives the easy way
+* "chocolatey":http://chocolatey.org/ - Windows 下的包管理工具
 
 h3(#other). 其他
 
