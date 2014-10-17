@@ -192,6 +192,7 @@ h3. HTML
 h3. Development Tools
 
 * "Viewport resizer":http://lab.maltewassermann.com/viewport-resizer/ - 实用的前端开发辅助工具，可以让当前网页以各种不同的分辨率展示
+* "Phonegap":http://phonegap.com/ - 使用前端技术开发划平台的手机应用
 
 h3. Analyze Performance
 

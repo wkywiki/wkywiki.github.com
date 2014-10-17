@@ -188,6 +188,7 @@ h3(#system). 系统工具
 ** "相关用法和插件介绍":http://foocoder.com/blog/wo-zai-yong-de-macruan-jian-2.html/
 * "Prezto":https://github.com/sorin-ionescu/prezto - oh-my-zsh 的简化衍生版本
 * "AppZapper":http://appzapper.com/ - 应用清理卸载工具
+* "CleanApp":http://www.syniumsoftware.com/cleanapp/ - 应用清理卸载工具
 * Termainal
 ** "Flat Terminal 配色":https://github.com/ahmetsulek/flat-terminal
 ** "Smyck":http://color.smyck.org/
