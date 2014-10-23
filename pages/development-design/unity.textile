@@ -46,6 +46,7 @@ h3. Video Lessons
 h3. References
 * "官方中文手册":http://edu.china.unity3d.com/learning_document
 * "Unity官方手册翻译":http://game.ceeger.com/Manual/
+* "MonoBehaviour的执行流程图":/assets/2014/10/monobehaviour_flowchart.svg
 
 h3. Games
 * "Max & the Magic Marker":http://maxandthemagicmarker.com/
