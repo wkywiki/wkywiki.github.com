@@ -35,7 +35,7 @@ h3(#entertainment). 媒体
 ** "Voila":http://www.globaldelight.com/voila - 一款强大的截图软件
 ** "SwordSoft Screenink":https://itunes.apple.com/us/app/swordsoft-screenink/id556304449?ls=1&mt=12 - 同上
 ** "Flare":http://flareapp.com/ - 好用的照片后期处理软件
-** "Image Smith":http://www.koingosw.com/products/imagesmith.php - 图片批量处理工具
+** "Image Smith":http://www.koingosw.com/products/discontinued/imagesmith.php - 图片批量处理工具
 ** "sips":https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/sips.1.html - Mac下的命令行图片处理工具
 * *音频相关*
 ** "Enqueue":http://www.enqueueapp.com/
