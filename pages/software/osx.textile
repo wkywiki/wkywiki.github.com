@@ -166,6 +166,9 @@ h3(#design). 设计
 ** "FontExplorer X Pro":http://www.fontexplorerx.com/pro/ - 字体管理工具
 ** "Extensis Suitcase Fusion":http://www.extensis.com/suitcase-fusion-4/ - 字体管理工具
 ** "Glyphs":http://glyphsapp.com/ - 目前最好用的字体修改工具
+* *Flat App Icons for OSX*
+** "flat.icns":http://flaticns.com/
+** "app.icns":http://appicns.com/
 
 h3(#productivity). 效率
 
