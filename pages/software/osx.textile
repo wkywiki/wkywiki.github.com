@@ -214,7 +214,7 @@ h3(#system). 系统工具
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
 * "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
 * "omnidisksweeper":http://www.omnigroup.com/products/omnidisksweeper/ - 直观查看占用磁盘空间的文件夹
-* "DiskMakerX":http://liondiskmaker.com/ - 制作 OSX 安装盘的 GUI 工具
+* "DiskMakerX":http://diskmakerx.com/ - 制作 OSX 安装盘的 GUI 工具
 
 h3(#other). 其他
 

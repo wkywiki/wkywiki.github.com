@@ -188,6 +188,7 @@ h3. HTML
 
 * *References*
 ** "HTML5手册":http://www.w3school.com.cn/html5/index.asp
+** "前端代码规范及最佳实践":http://coderlmn.github.io/code-standards/
 
 h3. Development Tools
 
