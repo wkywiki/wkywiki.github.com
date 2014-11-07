@@ -36,6 +36,7 @@ h3. Color Schemes
 * "Solarized":http://ethanschoonover.com/solarized
 * "DobDark":https://github.com/charlesroper/DobDark-Theme
 * "afterglow":https://github.com/YabataDesign/afterglow-theme
+* "cobalt2":https://github.com/wesbos/cobalt2
 
 h3. Packages
 
