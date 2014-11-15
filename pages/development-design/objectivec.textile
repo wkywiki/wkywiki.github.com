@@ -75,6 +75,8 @@ h3. Library
 * "Shimmer":https://github.com/facebook/Shimmer - 实现 shimmering 效果
 * "Stalker":https://github.com/BendingSpoons/Stalker - developer friendly KVO and NSNotification​ interface
 * "popping":https://github.com/schneiderandre/popping - A collection of animation examples
+* "CBStoreHouseRefreshControl":https://github.com/coolbeet/CBStoreHouseRefreshControl - 自定义图形的酷炫下拉刷新库
+* "ZLSwipeableView":https://github.com/zhxnlai/ZLSwipeableView - 一款卡片效果库，支持各种卡片滑动效果
 
 h3. Framewok
 
@@ -154,6 +156,13 @@ h3. Open Source Projects
 ** "GoAgentX":https://github.com/ohdarling/GoAgentX
 
 * *iOS*
+** "RSSRead":https://github.com/ming1016/RSSRead
+** "HackerNews客户端":https://github.com/Xuzz/newsyc
+** "Ruby-China官方客户端":https://github.com/ruby-china/ruby-china-for-ios
+** "WhiteHouse":https://github.com/WhiteHouse/wh-app-ios
+** "FFCalendar":https://github.com/fggeraissate/FFCalendar
+** "egmentFault客户端":https://github.com/gaosboy/iOSSF
+** "OSChina客户端":http://git.oschina.net/oschina/iphone-app
 ** "Tiny Wings":https://github.com/haqu/tiny-wings
 ** "iOS7-Sampler":https://github.com/shu223/iOS7-Sampler - ios7最新特征实例代码
 ** "美剧英语每日一句":https://github.com/imtiger/HappyEnglish
