@@ -108,6 +108,7 @@ h3(#productivity). 效率
 
 h3(#system). 系统
 
+* "7 Taskbar Tweker":http://rammichael.com/7-taskbar-tweaker - 任务栏定制工具
 * "XueTr":http://www.xuetr.com/ - 内核级系统维护工具
 * "PowerTool":http://code.google.com/p/powertool-google/ - 内核级系统维护工具
 * "SREng":http://www.kztechs.com/sreng/ - 同上，能在win7 64位下正常运行
