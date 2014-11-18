@@ -191,8 +191,8 @@ h3(#system). 系统工具
 ** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
 ** "相关用法和插件介绍":http://foocoder.com/blog/wo-zai-yong-de-macruan-jian-2.html/
 * "Prezto":https://github.com/sorin-ionescu/prezto - oh-my-zsh 的简化衍生版本
-* "AppZapper":http://appzapper.com/ - 应用清理卸载工具
-* "CleanApp":http://www.syniumsoftware.com/cleanapp/ - 应用清理卸载工具
+* "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
+* "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
 * Termainal
 ** "Flat Terminal 配色":https://github.com/ahmetsulek/flat-terminal
 ** "Smyck":http://color.smyck.org/
@@ -203,16 +203,11 @@ h3(#system). 系统工具
 * "Window Magnet":http://magnet.crowdcafe.com/ - 窗口管理应用，支持像 Win7 一样拖放窗口
 * "Tuxera NTFS":http://www.tuxera.com/products/tuxera-ntfs-for-mac/ - NTFS 分区读写工具
 * "iStat Menus":http://bjango.com/mac/istatmenus/ - 在托盘栏显示系统硬件信息的工具
-* "AppCleaner":http://www.freemacsoft.net/ - 应用卸载清理工具
-* "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
-* "Gas Mask":http://code.google.com/p/gmask/ - 方便实用的hosts文件管理工具
-* "Day-O":http://www.shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
 * "CharlesSoft":http://www.charlessoft.com/ - 提取安装包中的文件
 * "ControlPlane":http://www.controlplaneapp.com/ - 根据不同环境使用不同配置（比如：更改默认浏览器，关闭WIFI使用有线等）
 * "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
 * "Changes":http://connectedflow.com/ - 文件、目录对比工具
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
-* "Shuttie":https://itunes.apple.com/us/app/shuttie/id415184888 - 自动化任务工具，包括定时关机重启等功能
 * "omnidisksweeper":http://www.omnigroup.com/products/omnidisksweeper/ - 直观查看占用磁盘空间的文件夹
 * "DiskMakerX":http://diskmakerx.com/ - 制作 OSX 安装盘的 GUI 工具
 
