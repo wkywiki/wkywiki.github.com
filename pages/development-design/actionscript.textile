@@ -44,6 +44,7 @@ h3(#utility_class). Utility Class
 ** "Volumetrics":https://github.com/yonatan/volumetrics - 一款实时光照效果库
 
 * *(#component)Component*
+** "Aspire UI":http://www.ghostwire.com/aspireui/ - 一款强大的商业 UI 组件
 ** "Minimalcomps":http://www.minimalcomps.com - 小巧的纯AS组件库
 *** "Skinnable Minimal Components":https://github.com/dgrigg/SkinnableMinimalComponents/ - 第三方让MinimalComps支持皮肤的实现
 ** "AS3-Bloom":https://github.com/impaler/As3-Bloom - 轻量级用户界面
