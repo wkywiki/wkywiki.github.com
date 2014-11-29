@@ -35,6 +35,11 @@ h3. 虚拟主机
 * "Elinkhost":http://www.elinkhost.com
 * "HostMonster":http://www.hostmaster.com - 不限流量和空间的虚拟主机
 
+h3. 虚拟化技术
+* "Docker":https://www.docker.com/
+** "Docker技术问答@segmentfault":http://segmentfault.com/docker
+** "Docker从入门到实践":http://yeasy.gitbooks.io/docker_practice/
+
 h3. CDN
 
 * "CloudFlare":https://www.cloudflare.com/ - 流量免费的CDN，还有防火墙、统计等功能
