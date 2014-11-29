@@ -139,6 +139,7 @@ h3(#design). 设计
 * *(#design-img)图形*
 ** "Pixelmator":http://www.pixelmator.com/ - 不想用 Photoshop 的第二选择
 ** "Sketch":http://bohemiancoding.com/sketch/ - 一款适量设计工具，用来设计图标和用户界面
+*** "Export to icns":https://github.com/solicomo/export-to-icns - Sketch 插件，用于导出 icns 图标
 ** "Acorn":http://www.flyingmeat.com/acorn/ - 替代photoshop的小巧的图像处理软件
 ** "SketchBook Express":https://itunes.apple.com/cn/app/sketchbook-express/id404243625 - Autodesk出品的免费小巧的画图软件
 ** "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
@@ -169,6 +170,7 @@ h3(#design). 设计
 * *Flat App Icons for OSX*
 ** "flat.icns":http://flaticns.com/
 ** "app.icns":http://appicns.com/
+** "yoios":https://github.com/mmarfil/yoios
 
 h3(#productivity). 效率
 
@@ -210,6 +212,7 @@ h3(#system). 系统工具
 * "Folder Tidy":http://itunes.apple.com/us/app/folder-tidy/id486626129?mt=12 - 文件夹整理工具
 * "omnidisksweeper":http://www.omnigroup.com/products/omnidisksweeper/ - 直观查看占用磁盘空间的文件夹
 * "DiskMakerX":http://diskmakerx.com/ - 制作 OSX 安装盘的 GUI 工具
+* "Liteicon":http://www.freemacsoft.net/liteicon/ - 安全的替换图标
 
 h3(#other). 其他
 
