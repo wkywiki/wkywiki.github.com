@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Objective-C
+title: iDev
 ---
 
-h1. Objective-C
+h1. iDev
 
 h3. Utility Tools
 
@@ -52,8 +52,7 @@ h3. Library
 * "EZAudio":http://syedharisali.com/projects/EZAudio/getting-started - 一个 iOS 和 OSX 上简单易用的音频框架
 * "MASShortcut":https://github.com/shpakovski/MASShortcut - 快捷方式控件
 * "CocoaAsyncSocket":https://github.com/robbiehanson/CocoaAsyncSocket - Asynchronous socket networking library for Mac and iOS
-* *iOS*
-* "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
+* "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of iOS class to make your life easier.
 * "BlockAlertsAnd-ActionSheets":https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets - UIAlertView和UIActionSheet，基于Blocks可以方便在代码中应用，而不用写delegate
 * "Core Plot":http://code.google.com/p/core-plot/ - 图表库
 * "JBChartView":https://github.com/Jawbone/JBChartView - 另一个图表库，代码风格、文件结构都值得学习
@@ -77,6 +76,13 @@ h3. Library
 * "popping":https://github.com/schneiderandre/popping - A collection of animation examples
 * "CBStoreHouseRefreshControl":https://github.com/coolbeet/CBStoreHouseRefreshControl - 自定义图形的酷炫下拉刷新库
 * "ZLSwipeableView":https://github.com/zhxnlai/ZLSwipeableView - 一款卡片效果库，支持各种卡片滑动效果
+* "MMDrawerController":https://github.com/mutualmobile/MMDrawerController - 一款抽屉侧滑库
+* "Masonry":https://github.com/Masonry/Masonry - 自动布局库，支持 iOS 和 OSX
+* "PureLayout":https://github.com/smileyborg/PureLayout - 简单强大的 AutoLayout API，支持 iOS 和 OSX，并兼容 Objective-c 和 Swift
+* "MKNetworkKit":https://github.com/MugunthKumar/MKNetworkKit - 简单高效的网络库
+* "SDWebImage":https://github.com/rs/SDWebImage - 图片缓存库
+* "KoaPullToRefresh":https://github.com/sergigracia/KoaPullToRefresh - 下拉刷新库
+* "Alamofire":https://github.com/Alamofire/Alamofire - an HTTP networking library written in Swift
 
 h3. Framewok
 
@@ -174,8 +180,10 @@ h3. API
 h3. References
 
 * "苹果官方Objective-C编码规范":http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
-* "objc.io":http://www.objc.io/ - 一个精品 Objective-C 教程站
-* "objccn.io":http://objccn.io/ - objc.io 的中文站
+* "objc.io":http://www.objc.io/
+* "objccn.io":http://objccn.io/
+* "NSHipster":http://nshipster.com/
+* "NSHipster中文站":http://nshipster.cn/
 * "iOS7 Design Cheat Sheet":http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/
 
 * *iOS*
@@ -191,6 +199,9 @@ h3. References
 ** "Swift Coder Weekly":http://swift-coder.info/
 ** "Swift Dev Weekly":http://swiftdev.tips/
 ** "Swift Development newsletter":http://swiftweekly.com/
+** "Swift官方电子书":https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11&ign-mpt=uo%3D8
+** "官方Swift翻译版":http://numbbbbb.gitbooks.io/-the-swift-programming-language-/
+** "CocoaChina的Swift教程资源":http://www.cocoachina.com/special/swift/
 
 * Learn to Create Successful Apps
 ** http://appdesignvault.s3.amazonaws.com/foody-tutorial/(001-010).mp4

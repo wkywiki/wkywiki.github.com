@@ -172,10 +172,3 @@ li { padding: 5px 0; line-height: 1.5em; }
 .top.hidden {
 	display:none;
 }
-
-.sticky #menu-nav {	
-	position:fixed;
-	height: 100%;
-	min-height: 500px;
-	overflow-y: auto; 
-}
