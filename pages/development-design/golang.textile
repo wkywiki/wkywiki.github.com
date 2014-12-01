@@ -49,6 +49,7 @@ h3. References
 * "Go语言程序设计":http://www.amazon.cn/dp/B00DWCL8MM / "源码":http://www.qtrac.eu/gobook.html
 * "Go Web 编程":https://github.com/astaxie/build-web-application-with-golang
 * "Introducing Go by Example":http://mmcgrana.github.com/2012/10/introducing-go-by-example.html
+* "Go实战开发":https://github.com/astaxie/Go-in-Action
 * "Go语言半小时速成":http://www.aqee.net/go/a-tour-of-go
 * "Wonderfo的资料收集":https://github.com/wonderfo/wonderfogo/wiki
 * "GoByExample":https://gobyexample.com/
