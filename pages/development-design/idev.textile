@@ -184,7 +184,7 @@ h3. References
 * "objccn.io":http://objccn.io/
 * "NSHipster":http://nshipster.com/
 * "NSHipster中文站":http://nshipster.cn/
-* "iOS7 Design Cheat Sheet":http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/
+* "iOS Developer Tips":http://iosdevelopertips.com/
 
 * *iOS*
 ** "iOS 入门开发指南（官方中文版）":http://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html
