@@ -26,6 +26,7 @@ h3. Framework
 
 h3. Tools
 * "goimports":https://github.com/bradfitz/goimports - Tool to fix (add, remove) your Go imports automatically.
+* "Godef":https://github.com/buaazp/Godef - 如果使用了GoSublime，可以用此插件实现跳转到定义
 
 h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
