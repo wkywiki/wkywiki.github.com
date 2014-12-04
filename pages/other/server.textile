@@ -79,7 +79,7 @@ h3. Monitoring
 * "Sentry":https://github.com/getsentry/sentry - 一款实时错误日志捕获平台，支持大多语言环境
 
 h3. Test Tools
-* "gatling":http://gatling.io/ - 压力测试服务
+* "gatling":http://gatling.io/ - 压力测试工具
 
 h3. References
 * "SysAdminCasts":http://sysadmincasts.com/ - 面向系统管理员的简短教学视频

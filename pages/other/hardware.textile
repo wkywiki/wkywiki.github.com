@@ -17,6 +17,8 @@ h3. 键盘
 * **厂商**
 ** "MaxKeyboard":http://www.maxkeyboard.com/
 ** "Matias":http://matias.ca/
+** "wasdkeyboards":http://www.wasdkeyboards.com/
+** "codekeyboards":http://codekeyboards.com/
 
 h3. 底座
 * "mStand":http://www.raindesigninc.com/mstand_features.html
