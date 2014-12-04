@@ -16,16 +16,17 @@ h3. Packages
 
 h3. Framework
 * "beego":http://beego.me/ - 除了基础的 MVC 结构外，还带有Cache，ORM，Session等多个库的支持
+* "goji":https://goji.io/ - A web microframework for Golang
+* "gonet":https://github.com/xtaci/gonet - 一款游戏服务器端框架
 * "Gorilla":http://www.gorillatoolkit.org/ - a web toolkit
 * "GoWeb":http://code.google.com/p/goweb/ - Lightweight RESTful web framework for Go
 * "Martini":http://martini.codegangsta.io/ - Classy web development in Go. Surprisingly simple. Incredibly productive.
 * "revel":http://robfig.github.com/revel/ - 借鉴的 java 和 scala 语言的 play 框架，推出较早
 * "Web.go":http://webgo.io/ - The easiest way to create web applications with Go
-* "gonet":https://github.com/xtaci/gonet - 一款游戏服务器端框架
-* "goji":https://goji.io/ - A web microframework for Golang
 
 h3. Tools
 * "goimports":https://github.com/bradfitz/goimports - Tool to fix (add, remove) your Go imports automatically.
+* "Godef":https://github.com/buaazp/Godef - 如果使用了GoSublime，可以用此插件实现跳转到定义
 
 h3. Web Apps
 * "Tattoo":https://github.com/shellex/tattoo - A simple blog system
@@ -36,19 +37,24 @@ h3. Web Dev
 * "pongo2":http://www.florian-schlachter.de/post/pongo2/ - 一款类 Django 的模版引擎
 
 h3. ORM
-* "XORM":http://xorm.io/
+* "beedb":https://github.com/astaxie/beedb
 * "gorm":https://github.com/jinzhu/gorm
+* "gorp":https://github.com/coopernurse/gorp
+* "hood":https://github.com/eaigner/hood
+* "qbs":https://github.com/coocood/qbs
+* "upper/db":https://upper.io/db
+* "XORM":http://xorm.io/
 
 h3. WebSite
-* "Golang-China":http://golang-china.org
+* "Golang中国":http://www.golangtc.com/
 * "gocasts":https://gocasts.io/ - Go 视频教程
-* "Study Golang 中文社区":http://studygolang.com/
 * "Go友团":http://golanghome.com/
 
 h3. References
 * "Go语言程序设计":http://www.amazon.cn/dp/B00DWCL8MM / "源码":http://www.qtrac.eu/gobook.html
 * "Go Web 编程":https://github.com/astaxie/build-web-application-with-golang
 * "Introducing Go by Example":http://mmcgrana.github.com/2012/10/introducing-go-by-example.html
+* "Go实战开发":https://github.com/astaxie/Go-in-Action
 * "Go语言半小时速成":http://www.aqee.net/go/a-tour-of-go
 * "Wonderfo的资料收集":https://github.com/wonderfo/wonderfogo/wiki
 * "GoByExample":https://gobyexample.com/
