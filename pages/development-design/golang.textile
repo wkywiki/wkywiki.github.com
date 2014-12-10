@@ -21,7 +21,7 @@ h3. Framework
 * "Gorilla":http://www.gorillatoolkit.org/ - a web toolkit
 * "GoWeb":http://code.google.com/p/goweb/ - Lightweight RESTful web framework for Go
 * "Macaron":https://github.com/Unknwon/macaron - Martini-style, but faster and cheaper
-* "Martini":http://martini.codegangsta.io/ - Classy web development in Go. Surprisingly simple. Incredibly productive.
+* "Martini":http://martini.codegangsta.io/ - Classy web development in Go. Surprisingly simple. Incredibly 
 * "revel":http://robfig.github.com/revel/ - 借鉴的 java 和 scala 语言的 play 框架，推出较早
 * "Web.go":http://webgo.io/ - The easiest way to create web applications with Go
 
