@@ -38,6 +38,10 @@ h3. 网络相关
 h3. 数据相关
 * "elasticsearch":http://www.elasticsearch.org/ - 一款实时搜索和统计引擎
 
+h3. 媒体相关
+* "Mozilla JPEG encoder":https://github.com/mozilla/mozjpeg
+* "pngquant":http://pngquant.org/
+
 h3. 其他
 * "FastDFS":http://code.google.com/p/fastdfs/ - 一款高性能分布式文件系统
 * "Phabricator":http://phabricator.org/ - Facebook 推荐出的基于web的项目管理系统，包含Code Review、工作流管理、漏洞追踪等功能
