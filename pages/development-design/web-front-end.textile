@@ -24,6 +24,7 @@ h3. CSS
 ** "Pure":http://purecss.io/ - 一款小巧的CSS模块实现
 ** "semantic-ui":http://semantic-ui.com/ - 语法比 BootStrap 更简洁的扁平风格工具包
 ** "Simple Grid":http://thisisdallas.github.com/Simple-Grid/ - 轻量级的响应式 CSS 网格系统
+** "Polymer":https://www.polymer-project.org/ - Google 出品的 Web UI 库
 
 * *Preprocessor*
 ** "Animate.css":http://daneden.me/animate/ - 整合了一些简单动画效果的css，支持自定制
@@ -165,6 +166,7 @@ h3. Javascript
 ** "JSter":http://jster.net/ - 各种框架和库的收集站
 ** "JSDB":http://www.jsdb.io - 同上
 ** "MicroJS":http://microjs.com/ - 同上，专门收集各种休积小巧的JS库
+** "CustomElements":http://customelements.io/ - Web 控件收集站
 
 * *Other*
 ** "EpicEditor":http://epiceditor.com/ - 一款很棒的Markdown在线编辑器
