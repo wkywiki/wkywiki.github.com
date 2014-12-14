@@ -59,7 +59,8 @@ h3(#entertainment). 媒体
 ** "StreamToMe":http://projectswithlove.com/streamtome/ - 同上
 ** "LICEcap":http://www.cockos.com/licecap/ - 一款屏幕录像工具，录制成 gif 格式
 ** "vidconvert":http://www.reggieashworth.com/vidconvert - 一款视频转换软件，支持多种视频格式
-** "Handbrake":https://handbrake.fr/ - 一款开源免费跨平骒的视频转换软件
+** "Handbrake":https://handbrake.fr/ - 开源免费跨平骒的视频转换软件
+** "Quickcast":http://quickcast.io/ - 快速制作并共享 Screencasts 的工具
 * *其他*
 ** "Daemon Tools":http://www.daemon-tools.cc/eng/products/dtMacLite - Windows下很有名的虚拟光驱软件
 ** "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
@@ -93,6 +94,8 @@ h3(#development). 开发
 
 * "Editor/IDE":http://wiki.junnan.org/pages/software/editor_ide.html#osx
 * "Vagrant":http://www.vagrantup.com/ - 一款基于ruby的跨平台虚拟开发环境部署软件，非常实用
+
+* "Hypernap":http://gethypernap.com/ - 网站 API 测试工具
 
 * *(#version)版本管理*
 ** "SourceTree":http://www.sourcetreeapp.com/ - 同时支持Git、Mercurial的客户端
