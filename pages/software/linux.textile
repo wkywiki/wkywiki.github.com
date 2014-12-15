@@ -68,7 +68,7 @@ h3(#other). 其他
 * nautilus-open-terminal: 在右键菜单中加入在当前路径打开终端菜单项，使用apt-get安装即可
 
 h3(#references). 参考
-* "Linux手记":https://gist.github.com/bindiry/5805b1a31d25b89180dc
+* "Linux手记":https://github.com/bindiry/notes/blob/master/linux_note.md
 * "美丽新世界：linux 下的惬意生活":https://github.com/yangyangwithgnu/the_new_world_linux
 
 h3(#website). 相关网站
