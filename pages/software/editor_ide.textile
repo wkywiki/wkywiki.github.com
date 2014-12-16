@@ -92,6 +92,9 @@ h3. Config Files
 h3. Install Script
 
 * "janus":https://github.com/carlhuda/janus
+* "vimx":https://github.com/guoqiao/vimx
+* "vimified":https://github.com/ayang/vimified
+* "k-vim":https://github.com/wklken/k-vim
 
 h3. Other
 
