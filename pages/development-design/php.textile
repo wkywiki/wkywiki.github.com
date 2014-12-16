@@ -62,16 +62,17 @@ h3. CMS
 * "OneThink":http://www.onethink.cn/
 
 h3. Forum System
-* "Discuz":http://www.discuz.net/
-* "phpbb":http://www.phpbb.com/
-* "Fluxbb":http://fluxbb.org/
-* "Simple Machines":http://www.simplemachines.org/
 * "bbPress":http://bbpress.org/
-* "PHPwind":http://www.phpwind.net
-* "IP.Board":http://www.invisionpower.com/products/board/
-* "Vanilla":http://vanillaforums.org/
+* "Discuz":http://www.discuz.net/
 * "esoTalk":http://esotalk.org/ / "中文版":http://esotalk.net/ - perfect balance between simplicity, power, speed, and scalability.
+* "Fluxbb":http://fluxbb.org/
+* "IP.Board":http://www.invisionpower.com/products/board/
+* "phpbb":http://www.phpbb.com/
+* "PHPwind":http://www.phpwind.net
 * "Roar":http://roar.im/ - 一款极简的论坛系统 "github":https://github.com/codin/roar
+* "Simple Machines":http://www.simplemachines.org/
+* "Vanilla":http://vanillaforums.org/
+* "Xiuno":http://www.xiuno.com/ - 国人开发的高负载安全论坛系统
 
 h3. Shopping Cart System
 * "OpenCart":http://www.opencart.com/
