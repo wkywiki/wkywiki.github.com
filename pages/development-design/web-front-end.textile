@@ -24,7 +24,7 @@ h3. CSS
 ** "Pure":http://purecss.io/ - 一款小巧的CSS模块实现
 ** "semantic-ui":http://semantic-ui.com/ - 语法比 BootStrap 更简洁的扁平风格工具包
 ** "Simple Grid":http://thisisdallas.github.com/Simple-Grid/ - 轻量级的响应式 CSS 网格系统
-** "Polymer":https://www.polymer-project.org/ - Google 出品的 Web UI 库
+** "Polymer":https://www.polymer-project.org/ - Google 出品的 Web UI 框架
 
 * *Preprocessor*
 ** "Animate.css":http://daneden.me/animate/ - 整合了一些简单动画效果的css，支持自定制
