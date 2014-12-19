@@ -24,7 +24,7 @@ h3(#engine). Engine
 * "ejoy2d":https://github.com/cloudwu/ejoy2d - 由云风开发的跨平台 2D 游戏渲染引擎
 * "Flambe":https://github.com/aduros/flambe - Flambe is an engine and asset pipeline for cross-platform multiplayer games.
 * "Gideros Mobile":http://www.giderosmobile.com/ - 小巧，小手快速，使用lua编写代码的手机游戏开发平台
-* "godot":https://github.com/okamstudio/godot/ - 开源的跨平台游戏引擎
+* "godot":http://www.godotengine.org/ - 开源的跨平台游戏引擎，支持2D 和 3D
 * "Moai":http://getmoai.com/ - 面向专业游戏开发者的开源手机游戏开发平台
 * "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 * "Unity3D":http://unity3d.com/ - 跨平台综合型游戏开发引擎
