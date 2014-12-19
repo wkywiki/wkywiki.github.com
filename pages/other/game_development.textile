@@ -91,8 +91,9 @@ h3(#tools). Tools
 ** "cfxr":http://thirdcog.eu/apps/cfxr/
 ** "bfxr":http://www.bfxr.net/
 ** "as3sfxr":http://www.superflashbros.net/as3sfxr/
-* **背景音乐编辑**
+* **音乐编辑**
 ** "GarageBand":http://itunes.apple.com/cn/app/garageband/id408980954?l=en&mt=12/
+** "Steinberg Nuendo":http://lorenzofox3.github.io/smart-table-website/
 * **其他**
 ** "DrawScript":http://drawscri.pt/ - 根据矢量图生成各语言代码
 ** "shoebox":http://renderhjs.net/shoebox/ - 一款游戏开发资源整理工具，支持目前大多数主流游戏框架
