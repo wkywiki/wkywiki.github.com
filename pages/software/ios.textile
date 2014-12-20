@@ -21,6 +21,11 @@ h3. 常用
 * Vine - 一款可以看短视频的社交应用
 * 掌阅听书 - 看书、听书
 
+h3. 儿童游戏厂商
+* Sago Sago
+* Toca Boca AB
+* TribePlay
+
 h3. 游戏
 * Clash of Clans
 * Hay Day
