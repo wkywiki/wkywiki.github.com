@@ -7,6 +7,15 @@ h1. {{ page.title }}
 
 工作在 Bash shell 中，熟记以下快捷键，将极大的提高你的命令行操作效率。
 
+h3. OSX Terminal 常用快捷键
+
+* Ctrl + A -> 跳到行首
+* Ctrl + E -> 跳到行尾
+* Opt + Left/Right -> 左/右移动一个单词位
+* Opt + Delete -> 删除一个单词
+* Cmd + Delete -> 删除到行首
+* Ctrl + K -> 删除到行尾
+
 h3. 编辑命令
 
 * Ctrl + a ：移到命令行首
