@@ -93,7 +93,7 @@ h3. Install Script
 * "vimx":https://github.com/guoqiao/vimx
 * "vimified":https://github.com/ayang/vimified
 * "k-vim":https://github.com/wklken/k-vim
-* "chunleiyang/dot-vimrc":https://github.com/chunleiyang/dot-vimrc
+* "humiaozuzu/dot-vimrc":https://github.com/humiaozuzu/dot-vimrc
 
 h3. Other
 
