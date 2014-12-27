@@ -6,9 +6,18 @@ title: Read First
 <div id="charpter">
 h3. Contents
 * "前言":#ReadFirst
+* "概述":#Introduction
 </div>
 
 h1(#ReadFirst). 前言
-* 本目录的内容，主题为数据分析，目前主要集中在web端的数据，暂时不涉及App。
+* 本目录的内容，主题为基本的数据分析，目前主要集中在web端的数据，暂时不涉及App。
 * 将会分别介绍Omniture和BIEE的使用。
 * 以期达到自我复习记录的作用，也可以使新人快速熟悉。
+
+h1(#Introduction). 概述
+
+h3. 常用名词解释
+* PV：Page View，一次打开页面。
+* UV：Unique Visitor，一个访客
+* visit: 一次访问行为（通常以关闭浏览器为结束）
+* Bounce Rate: 跳出率，记录到达该页面后没有任何行为就关闭页面的比例。
