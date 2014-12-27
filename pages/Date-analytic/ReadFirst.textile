@@ -1,0 +1,14 @@
+---
+layout: default
+title: Read First
+---
+
+<div id="charpter">
+h3. Contents
+* "前言":#ReadFirst
+</div>
+
+h1(#ReadFirst). 前言
+* 本目录的内容，主题为数据分析，目前主要集中在web端的数据，暂时不涉及App。
+* 将会分别介绍Omniture和BIEE的使用。
+* 以期达到自我复习记录的作用，也可以使新人快速熟悉。
