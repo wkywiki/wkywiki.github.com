@@ -11,4 +11,4 @@ BIEE是。。。。
 
 h3(#basic). 基本操作
 登陆之后的首屏
-!/image/dashboard.png
+!/image/dashboard.png!
