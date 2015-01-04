@@ -11,44 +11,44 @@ BIEE是。。。。
 
 h3(#basic). 基本操作
 
-h5.登陆之后的首屏
-!{width: 600px}/image/dashboard.png!
+h5. 登陆之后的首屏
+!{width: 600px}/image/dashboard.jpg!
 这个页面叫Dashboard，也可以称为仪表盘，用于展示你收藏的一些报表，这样每次一登陆BIEE，你就能看到你最常用的几个报表。
 
-h5.制作报表（1）
+h5. 制作报表（1）
 从dashboard的页面，点击右上角的Answer(答复),就能进入域选择的界面，如下图：
-!{width: 600px}/image/answers.png!
+!{width: 600px}/image/answers.jpg!
 右侧的一列就是不同的主题域，每个主题域能查看到的数据都略有些不同，比如查看酒店订单相关的数据就是我们比较常用的Hotel order base这个域。
 左侧是一些保存下来的报表和筛选器。在此先不展开。
 
-h5.制作报表（2）
+h5. 制作报表（2）
 当选择了Hotel order base这个域之后，我们就进入了这个域的报表制作界面。如下图：
-!{width: 600px}/image/hotel-order-base.png!
+!{width: 600px}/image/hotel-order-base.jpg!
 左侧的Columns为这个域提供的所有信息，每个域是不同的，此图为最常用的Hotel Order Base域，所有要查看的信息都从这里选取。
 右边的一片是你的操作，Columns是你所查的数据的表结构，比如你要看某几天的订单量变化，则表头应该是一列日期、一列订单量；要看某几天的总订单量，则表头应该就是一列订单量；如果要看某几天不同渠道的总订单量，则表头应该是一列渠道、一列订单量。
 Filters是你所要查看的信息的筛选，当你只选了订单，则包括这个域的全部订单，在这个域中，会包括所有渠道、PC和Mobile、国际和国内的所有订单，这可能与你的需求相悖，所以我们需要筛选。
 
-h5.筛选器
+h5. 筛选器
 筛选的选择是要先选择表头，再在表头中点击，详见下图：
-!{width: 600px}/image/filter.png!
+!{width: 600px}/image/filter.jpg!
 然后就是可以自由选择“等于”、“介于...之间”、“大于”、“不等于”等等条件。
 在筛选的界面中，右侧有一个“All Choices”，可以列出所有的可选内容。
 
-h5.表头介绍
+h5. 表头介绍
 常用的表头如下：
-!{width: 600px}/image/columns.png!
+!{width: 600px}/image/columns.jpg!
 Time分为下单日期、到店日期、离店日期，每组日期之中都可以继续选择年月日或其他格式。
 Member是与会员相关的信息，比如注册日期，第一次下单，会员生日等等。
 SalesOrder From是与公司渠道相关的内容，比如常见的FinanceLevel2中会分Brand\Sem\Seo等，还有OrderFromID等信息。
-!{width: 600px}/image/hotel-info.png!
+!{width: 600px}/image/hotel-info.jpg!
 Hotel info是与这个酒店相关的字段，包括酒店名、城市、集团、星级等。
 Hotel Order Profile是与订单相关的字段，比如订单号、预订类型、Booking Window、订单状态等等。
 
-h5.查看结果
+h5. 查看结果
 当选择好所有表头和筛选之后，别忘了加上你需要查看的结果，往往是一个Facts组中的内容。比如这样：
-!{width: 600px}/image/facts.png!
+!{width: 600px}/image/facts.jpg!
 然后点击页面上方的results，就可以看到你想要的结果了，不过有的时候运算时间会比较长，请耐心等候。
-!{width: 600px}/image/results.png!
+!{width: 600px}/image/results.jpg!
 
 
 
