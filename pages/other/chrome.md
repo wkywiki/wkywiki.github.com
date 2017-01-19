@@ -6,7 +6,7 @@ title: Chrome - Software
 # Chrome
 
 <!-- MarkdownTOC -->
-<div id="charpter">
+
 
 ## 目录
 
@@ -14,7 +14,6 @@ title: Chrome - Software
 - [Development](#2)
 - [Documents](#3)
 
-</div>
 <!-- /MarkdownTOC -->
 
 
