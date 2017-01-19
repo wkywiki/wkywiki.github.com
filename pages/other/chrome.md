@@ -9,15 +9,15 @@ title: Chrome - Software
 <div id="charpter">
 
 ## 目录
-- [Plugins](#plugins)
-- [Development](#development)
-- [Documents](#documents)
+* [Plugins](#1)
+* [Development](#2)
+* [Documents](#3)
 
 </div>
 <!-- /MarkdownTOC -->
 
 
-<h2 id="plugins"> Plugins</h2>>
+<h2 id="1"> Plugins</h2>
 
 - [JsonView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related) - 书签搜索工具
@@ -28,13 +28,13 @@ title: Chrome - Software
 - [stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe) - css修改器
 - [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm)
 
-## Development
+<h2 id="2">Development</h2>
 
 - [Chrome DevTools Extensions For Web App](http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/) - 几款超强的前端调试工具
 - [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - REST client
 - [Crack Url Wait Code Login](http://userscripts.org/scripts/show/153190)
 
-## Documents
+<h2 id="3">Documents</h2>
 
 - [开发工具调试技巧](http://ued.taobao.com/blog/2012/06/03/debug-with-chrome-dev-tool/)
 
