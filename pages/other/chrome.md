@@ -7,13 +7,13 @@ title: Chrome - Software
 
 <!-- MarkdownTOC -->
 
-
-## 目录
+<span id="charpter">
 
 - [Plugins](#1)
 - [Development](#2)
 - [Documents](#3)
 
+</span>
 <!-- /MarkdownTOC -->
 
 
