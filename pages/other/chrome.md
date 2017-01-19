@@ -7,17 +7,18 @@ title: Chrome - Software
 
 <!-- MarkdownTOC -->
 <div id="charpter">
+
 ## 目录
 - [Plugins](#plugins)
-- [Development][development]
-- [Documents][documents]
+- [Development](#development)
+- [Documents](#documents)
 
 </div>
 <!-- /MarkdownTOC -->
 
 
-## Plugins
-<span id="plugins"> </span>
+<h2 id="plugins"> Plugins</h2>>
+
 - [JsonView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related) - 书签搜索工具
 - [Edit This Cookie](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg/related) - 直接编辑当前网站的cookie
