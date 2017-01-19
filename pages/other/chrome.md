@@ -8,7 +8,7 @@ title: Chrome - Software
 <!-- MarkdownTOC -->
 <div id="charpter">
 ## 目录
-- [Plugins][plugins]
+- [Plugins](#plugins)
 - [Development][development]
 - [Documents][documents]
 
@@ -16,7 +16,7 @@ title: Chrome - Software
 <!-- /MarkdownTOC -->
 
 
-## Plugins
+## Plugins<span id="plugins"> </span>
 
 - [JsonView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related) - 书签搜索工具
