@@ -1,0 +1,27 @@
+---
+layout: default
+title: ladder
+---
+
+<div id="charpter">
+	h3. 目录
+	* "准备工作":#tool
+	* "Linode":#linode
+</div>>
+
+
+
+
+h1. 爬梯子
+
+事先声明，只是为了学习技术，与利益无关、与政治无关
+
+h3(#tool). 准备工作
+* **简单的介绍**
+** "a":http://
+* **shadowsocks**
+** "b":http://
+* **server**
+** "c":http://
+
+h3(#linode). Linode
