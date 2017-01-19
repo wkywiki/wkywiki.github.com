@@ -6,11 +6,11 @@ title: Chrome - Software
 # Chrome
 
 <!-- MarkdownTOC -->
-
+<div id="charpter">
 - [Plugins][plugins]
 - [Development][development]
 - [Documents][documents]
-
+</div>>
 <!-- /MarkdownTOC -->
 
 
