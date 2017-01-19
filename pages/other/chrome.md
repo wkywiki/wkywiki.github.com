@@ -16,8 +16,8 @@ title: Chrome - Software
 <!-- /MarkdownTOC -->
 
 
-## Plugins<span id="plugins"> </span>
-
+## Plugins
+<span id="plugins"> </span>
 - [JsonView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn/related) - 书签搜索工具
 - [Edit This Cookie](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg/related) - 直接编辑当前网站的cookie
