@@ -9,9 +9,10 @@ title: Chrome - Software
 <div id="charpter">
 
 ## 目录
-* [Plugins](#1)
-* [Development](#2)
-* [Documents](#3)
+
+- [Plugins](#1)
+- [Development](#2)
+- [Documents](#3)
 
 </div>
 <!-- /MarkdownTOC -->
